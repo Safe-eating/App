@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063016880",
+  "name": "50 50",
+  "brand": "Britannia",
+  "quantity": "76",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), REFINED (PALMOLEIN\u0026PALM) OIL, SUGAR (18%), RAISING AGENTS (503) 500(ii) \u0026 341 (i)], IODISED SALT (0.8%), INVERT SUGAR SYRUP, YEAST, ACIDITY REGULATORS (270 \u0026 330), EMULSIFIER (472e), NATURE IDENTICAL AND ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES, DOUGH CONDITIONER (223) AND IMPROVERS [1101(i), 1101 (ii), 1100(i)\u0026 XYLANASE] (Numbers in brackets as per International Numbering System) _ WHEAT, SULPHITE_",
+  "per_100g": {
+    "energy_kcal": 487,
+    "fat": 19,
+    "saturated_fat": 9,
+    "carbohydrates": 72,
+    "sugars": 19.5,
+    "fiber": 0,
+    "protein": 7,
+    "salt": 0.8,
+    "sodium": 0.32
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-28T01:18:43Z",
+  "fetched_at": "2026-08-19T00:28:36Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063033399",
+  "name": "Treat Vanilla Creme",
+  "brand": "Britannia",
+  "quantity": "60 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Cream sandwich biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INTERESTERIFIED VEGETABLE FAT, INVERT SUGAR SYRUP, COCOA SOLIDS, MILK SOLIDS, EDIBLE MAIZE STARCH, DEXTROSE, RAISING AGENT (500(ii) \u0026 503(ii)], IODISED SALT, EMULSIFIER [322(i)], ARTIFICIAL (CARAMEL, MILKY COCOA \u0026 VANILLA) \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES AND COLOUR (150d, 124 \u0026 133). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK \u0026 SOYA",
+  "per_100g": {
+    "energy_kcal": 497.5,
+    "fat": 21.1,
+    "saturated_fat": 10.2,
+    "carbohydrates": 71.7,
+    "sugars": 38.4,
+    "fiber": null,
+    "protein": 5.2,
+    "salt": 1.01,
+    "sodium": 0.404
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-11T05:58:52Z",
+  "fetched_at": "2026-08-19T00:30:15Z"
+}

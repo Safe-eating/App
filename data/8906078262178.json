@@ -1,0 +1,32 @@
+{
+  "barcode": "8906078262178",
+  "name": "Bourbo",
+  "brand": "Mrs. Bector's Cremica",
+  "quantity": "500 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:filled-biscuits",
+    "en:sandwich-biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR (30%), EDIBLE VEGETABLE OIL (PALM), COCOA SOLDS (1.8%). MILK SOLIDS. MAIZE STARCH, RAISING AGENTS [INS 503 (ii), INS 500 (ii)], EMULSIFIER (INS 322), IODISED SAL NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES (CHOCOLATE, VANILLA), NATURAL COLOUR (INS 150a, INS 150d). CONTAINS WHEAT, MILK, SOY. MAY CONTAINS SULPHITE \u0026 NUTS.",
+  "per_100g": {
+    "energy_kcal": 480,
+    "fat": 20,
+    "saturated_fat": 10,
+    "carbohydrates": 70,
+    "sugars": 36,
+    "fiber": 1.7,
+    "protein": 5,
+    "salt": 0.19,
+    "sodium": 0.076
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T23:58:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

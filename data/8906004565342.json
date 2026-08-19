@@ -1,0 +1,30 @@
+{
+  "barcode": "8906004565342",
+  "name": "Spicy Korean Chips",
+  "brand": "Diamond",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 533.43,
+    "fat": 31.35,
+    "saturated_fat": 12.36,
+    "carbohydrates": 55.44,
+    "sugars": 3.8,
+    "fiber": null,
+    "protein": 7.38,
+    "salt": 2.259275,
+    "sodium": 0.90371
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-18T06:52:19Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

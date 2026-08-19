@@ -1,0 +1,27 @@
+{
+  "barcode": "8906065458232",
+  "name": "choco stick jumbo pack",
+  "brand": "choco stick",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks"
+  ],
+  "ingredients": "SUGAR, REFINED WHEAT FLOUR (MAIDA), EDIBLE VEGETABLE OIL (REFINED PALMOLEIN), COCOA SOLIDS (8%), EDIBLE VEGETABLE FAT (HYDROGENATED OILS), DEXTROSE MONOHYDRATE, MILK POWDER, WHEY POWDER, STARCH, VEGETABLE EMULSIFIER SOYA LECITHIN (E 322), EDIBLE COMMON SALT. CONTAINS PERMITTED NATURAL FOOD COLOURS (CARAMEL(E 150c \u0026 E 150d)) AND ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES - ETHYL VANILLIN).",
+  "per_100g": {
+    "energy_kcal": 492,
+    "fat": 21,
+    "saturated_fat": 11,
+    "carbohydrates": 68,
+    "sugars": 48,
+    "fiber": null,
+    "protein": 8,
+    "salt": 0.67,
+    "sodium": 0.268
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-26T18:23:23Z",
+  "fetched_at": "2026-08-19T12:40:03Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8901576001199",
+  "name": "Potato Mixture",
+  "brand": "Modern Kitchens",
+  "quantity": "150g",
+  "categories": [
+    "en:Potato crisps with dry fruits"
+  ],
+  "ingredients": "Potato, Sugar, Peanuts, Almonds, Cashewnuts, Raisins, Curry Leaves, Refined Palm Oil, Black Salt \u0026 Salt.",
+  "per_100g": {
+    "energy_kcal": 640,
+    "fat": 44,
+    "saturated_fat": 16,
+    "carbohydrates": 46,
+    "sugars": 4,
+    "fiber": 1.2,
+    "protein": 0,
+    "salt": 0.8,
+    "sodium": 0.32
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-05-16T17:02:19Z",
+  "fetched_at": "2026-08-19T00:56:36Z"
+}

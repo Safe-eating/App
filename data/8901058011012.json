@@ -1,0 +1,26 @@
+{
+  "barcode": "8901058011012",
+  "name": "KitKat Minis",
+  "brand": "Nestle",
+  "quantity": "133.2 g (18 UNITS x 7.4 g)",
+  "categories": [
+    "en:chocolate-snacks"
+  ],
+  "ingredients": "Sugar, Milk solids (15.6%), Fractionated vegetable fat, Hydrogenated vegetable fats, Refined Wheat flour, Cocoa solids (4.4%), Emulsifier (Soya lecithin), Yeast, Raising agent (500(ii)), Iodised salt, Artificial flavouring substance, Flour treatment agent (516) and Nature-Identical flavouring substance. Note: Contains Wheat, Milk, Sesame and Soy",
+  "per_100g": {
+    "energy_kcal": 444.1,
+    "fat": 25.3,
+    "saturated_fat": 24.2,
+    "carbohydrates": 47.5,
+    "sugars": 37.8,
+    "fiber": null,
+    "protein": 6.6,
+    "salt": 197,
+    "sodium": 78.8
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-04T02:37:19Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

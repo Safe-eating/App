@@ -1,0 +1,30 @@
+{
+  "barcode": "8906162360629",
+  "name": "Home Style Coconut Chutney",
+  "brand": "Chutnefy.",
+  "quantity": "75G",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:chutneys"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 166,
+    "fat": 5,
+    "saturated_fat": 3,
+    "carbohydrates": 22,
+    "sugars": 2,
+    "fiber": 0,
+    "protein": 7,
+    "salt": 1.6075,
+    "sodium": 0.643
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-17T04:04:58Z",
+  "fetched_at": "2026-08-19T13:01:41Z"
+}

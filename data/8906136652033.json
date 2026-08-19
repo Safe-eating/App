@@ -1,0 +1,32 @@
+{
+  "barcode": "8906136652033",
+  "name": "Pintola High Protein Oats Dark Chocolate",
+  "brand": "Pintola",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 372.5,
+    "fat": 8.25,
+    "saturated_fat": 3.25,
+    "carbohydrates": 58.5,
+    "sugars": 14.5,
+    "fiber": 9.5,
+    "protein": 22,
+    "salt": 0.3325,
+    "sodium": 0.133
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-31T13:46:30Z",
+  "fetched_at": "2026-08-19T12:57:37Z"
+}

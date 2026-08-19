@@ -1,0 +1,36 @@
+{
+  "barcode": "8901262020541",
+  "name": "Amul diced cheese blend (mozzarella and cheddar cheese blend)",
+  "brand": "Amul",
+  "quantity": "1000g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:cow-cheeses",
+    "en:cheeses-from-the-united-kingdom",
+    "en:italian-cheeses",
+    "en:stretched-curd-cheeses",
+    "en:cheeses-from-england",
+    "en:mozzarella",
+    "en:cheddar-cheese"
+  ],
+  "ingredients": "Mozzarella cheese (milk solids, iodized salt, microbial rennet, active cultures), cheddar cheese (milk solids, iodized salt, microbial rennet, active cultures). \nAllergen Information: Contains milk",
+  "per_100g": {
+    "energy_kcal": 289,
+    "fat": 21,
+    "saturated_fat": 13,
+    "carbohydrates": 2,
+    "sugars": 2,
+    "fiber": 0,
+    "protein": 23,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-01T03:40:57Z",
+  "fetched_at": "2026-08-19T00:41:57Z"
+}

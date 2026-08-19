@@ -1,0 +1,26 @@
+{
+  "barcode": "8908018651295",
+  "name": "milkmix",
+  "brand": "troovy",
+  "quantity": "200g",
+  "categories": [
+    "en:milkmix"
+  ],
+  "ingredients": "Protein blend (Corn, Pea protein, Barley malt extract, Milk solids, Ragi, Jowar, Amaranth, Flax seeds, Barley, Oats, Quinoa, Moong dal, Brown rice), Jaggery (34%), Cocoa Powder, Almonds and Walnuts, Natural Caramel (1) Colour, Natural flavors Contains added 23 Vitamins \u0026 Minerals Contains natural colour and flavour Allergens: Contains milk, nuts, barley, and oats For nutrition tips and healthy recipes! 981 022 8072 O@troovyfoods Vitamin B3 (mg) Chromium (mcg) Molybdenum (mcg) Inositol (mg) IMMUNITY Vitamin D2 (mcg) Zinc (mg) Vitamin A (mcg) Vitamin E (mg) Selenium (mcg) Copper (mg) Folic Acid (mcg) BRAIN DEVELO Choline (mg) lodine (mcg) Vitamin B12 (mcg) Biotin (mg) Omega 3 (mg) Linoleic acid (mg)",
+  "per_100g": {
+    "energy_kcal": 306.666666666667,
+    "fat": 2.33333333333333,
+    "saturated_fat": 1.33333333333333,
+    "carbohydrates": 53.3333333333333,
+    "sugars": 36.6666666666667,
+    "fiber": 3.33333333333333,
+    "protein": 16.6666666666667,
+    "salt": 0.483333333333333,
+    "sodium": 0.193333333333333
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-27T08:23:32Z",
+  "fetched_at": "2026-08-19T13:18:51Z"
+}

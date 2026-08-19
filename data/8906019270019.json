@@ -1,0 +1,39 @@
+{
+  "barcode": "8906019270019",
+  "name": "Yakult",
+  "brand": "Yakult",
+  "quantity": "65ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:dairy-drinks",
+    "en:fermented-dairy-desserts",
+    "en:fermented-drinks",
+    "en:yogurts",
+    "en:fermented-milk-drinks",
+    "en:drinkable-yogurts",
+    "en:fermented-milk-drinks-with-sugar"
+  ],
+  "ingredients": "Ingredients Water, Sugar, Skimmed Milk Powder, Glucose, Probiotic-Lactobacillus case strain Shirota (LcS), CONTAINS ADDED NATURAL \u0026 NATURAL IDENTICAL FLAVOURS ALLERGEN INFORMATION: CONTAINS MILK",
+  "per_100g": {
+    "energy_kcal": 50,
+    "fat": 0.1,
+    "saturated_fat": 0,
+    "carbohydrates": 11.5,
+    "sugars": 10.5,
+    "fiber": null,
+    "protein": 0.8,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:44:25Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

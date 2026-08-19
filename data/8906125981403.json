@@ -1,0 +1,29 @@
+{
+  "barcode": "8906125981403",
+  "name": "4700BC Popcorn",
+  "brand": "4700BC",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:popcorn",
+    "en:popcorn-with-caramel"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 575,
+    "fat": 39.2857142857143,
+    "saturated_fat": 21.4285714285714,
+    "carbohydrates": 50,
+    "sugars": 3.57142857142857,
+    "fiber": 17.8571428571429,
+    "protein": 7.14285714285714,
+    "salt": 0.973214285714286,
+    "sodium": 0.389285714285714
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-22T11:57:59Z",
+  "fetched_at": "2026-08-19T12:55:07Z"
+}

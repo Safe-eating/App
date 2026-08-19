@@ -1,0 +1,32 @@
+{
+  "barcode": "8901248270212",
+  "name": "Emami Healthy \u0026 Tasty Refined Sunflower Oil",
+  "brand": "Emami",
+  "quantity": "900g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fats",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:sunflower-seeds-and-their-products",
+    "en:sunflower-oils"
+  ],
+  "ingredients": "Refined Sunflower Oil, Antioxidants (INS 319 \u0026 330), Antifoaming agent (INS 900a), Vitamin A, E \u0026 D",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 16,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-22T06:05:13Z",
+  "fetched_at": "2026-08-19T00:40:58Z"
+}

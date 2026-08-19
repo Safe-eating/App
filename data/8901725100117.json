@@ -1,0 +1,32 @@
+{
+  "barcode": "8901725100117",
+  "name": "B Natural Guava Juice 1ltr",
+  "brand": "",
+  "quantity": "1L",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars",
+    "en:fruit-juices"
+  ],
+  "ingredients": "water , guava pulp , sugar , acidity regulators ( ins 330, ins 296 ), plydextrose , colour ( ins 150d, ins 124)",
+  "per_100g": {
+    "energy_kcal": 52,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 13.2,
+    "sugars": 10.6,
+    "fiber": null,
+    "protein": 0.1,
+    "salt": 5,
+    "sodium": 2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-03T23:00:50Z",
+  "fetched_at": "2026-08-19T01:05:52Z"
+}

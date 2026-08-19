@@ -1,0 +1,26 @@
+{
+  "barcode": "8901262301862",
+  "name": "Protein Kulfi",
+  "brand": "Amul",
+  "quantity": "240g",
+  "categories": [
+    "en:Kulfi"
+  ],
+  "ingredients": "Water, milk solids, fructo-oligosaccharide, polydextrose, enzyme (beta-galactosidase), emulsifiers (471, 491), stabilizers (407, 410, 412, 415), acidity regulator (330), artificial flavouring substances (mango), colours (102, 110), sweetener (960), probiotic strains (Lactobacillus acidophilus, Bifidobacterium animalis minimum 107 CFU* per mL). *Colony Forming Unit. Allergen Information: Contains milk.",
+  "per_100g": {
+    "energy_kcal": 95,
+    "fat": 1,
+    "saturated_fat": 0.67,
+    "carbohydrates": 1.5,
+    "sugars": 3,
+    "fiber": null,
+    "protein": 16.67,
+    "salt": 1.25e-10,
+    "sodium": 5e-11
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-20T18:51:37Z",
+  "fetched_at": "2026-08-19T00:47:17Z"
+}

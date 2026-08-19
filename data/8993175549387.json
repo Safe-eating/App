@@ -1,0 +1,31 @@
+{
+  "barcode": "8993175549387",
+  "name": "Nextar Soft Brownies",
+  "brand": "Nabati",
+  "quantity": "36 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "Cookies (77.8%) (Refined Wheat Flour (Maida), Glucose Syrup, Edible Vegetable Fat ((Hydrogenated Palm Olein) (contains Antioxidant (INS 319))), Sugar, Cocoa Powder (4.50% ), Edible Vegetable Oil ((Palm Olein) (contains Antioxidant (INS 319))), Humectant (INS 422), Palm Sugar, Emulsifier (INS 322(i)), Leavening Agent (INS 500(ii)), Edible Common Salt, Artificial Vanilla Flavour, Preservative (INS 202), Antioxidant (INS 307a), Acidity Regulator (INS 330)). Cocoa Cream Filling (22.2%) (Sugar, Edible Vegetable Fat ((Hydrogenated Palm Olein) (contains Antioxidant (INS 319))), Cocoa Powder (1.89%), Maltodextrin, Emulsifier (INS 322(i)), Edible Common Salt).",
+  "per_100g": {
+    "energy_kcal": 471,
+    "fat": 20,
+    "saturated_fat": 9,
+    "carbohydrates": 68,
+    "sugars": 25,
+    "fiber": 0,
+    "protein": 5,
+    "salt": 0.605,
+    "sodium": 0.242
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-07-14T13:15:16Z",
+  "fetched_at": "2026-08-19T13:25:41Z"
+}

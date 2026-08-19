@@ -1,0 +1,27 @@
+{
+  "barcode": "8906021125130",
+  "name": "Chaat Masala",
+  "brand": "Aachi",
+  "quantity": "",
+  "categories": [
+    "en:condiments",
+    "en:mixtures-of-herbs-and-spices"
+  ],
+  "ingredients": "50% (Mango Flakes, Cumin, Pomegranate Seeds, Green Chilli Powder, Ajowan, Mint Leaves, Black Pepper, Dry Ginger powder, Compounded Asafoetida, Nutmeg), Acidity Regulator (INS 330) and Salt 46.5%",
+  "per_100g": {
+    "energy_kcal": 234.2,
+    "fat": 6.2,
+    "saturated_fat": 0.6,
+    "carbohydrates": 40.2,
+    "sugars": 2.7,
+    "fiber": null,
+    "protein": 4.4,
+    "salt": 37.19025,
+    "sodium": 14.8761
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-14T09:35:20Z",
+  "fetched_at": "2026-08-19T02:08:55Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8906081127211",
+  "name": "6 in 1 Super Seeds And Nuts Mix",
+  "brand": "Happilo",
+  "quantity": "250g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:mixed-nuts",
+    "en:mixed-nuts-and-dried-fruits",
+    "en:nut-and-seed-mixes"
+  ],
+  "ingredients": "Dried Cranberries, Soybean, Pumpkin Seeds, Melon Seeds, Flax Seeds, Chia Seeds \u0026 Salt",
+  "per_100g": {
+    "energy_kcal": 486.666666666667,
+    "fat": 29.3333333333333,
+    "saturated_fat": 4.66666666666667,
+    "carbohydrates": 36.6666666666667,
+    "sugars": 18,
+    "fiber": 9.33333333333333,
+    "protein": 22.6666666666667,
+    "salt": 0.075,
+    "sodium": 0.03
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-28T14:00:03Z",
+  "fetched_at": "2026-08-19T12:46:47Z"
+}

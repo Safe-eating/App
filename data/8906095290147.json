@@ -1,0 +1,30 @@
+{
+  "barcode": "8906095290147",
+  "name": "Instant Rava Idly Mix",
+  "brand": "Sankethi Adukale",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:idly-batter-mixes"
+  ],
+  "ingredients": "Rava (81%), Refined Palm Oil, Benagal Gram Dal, Mustard, Green Chillis, Ginger, Lemon Powder, Salt, Acidity Regulator (E500), Cashew, Curry Leaves. Allergen Advice: Made in a facility that also processes Peanuts_Almonds_Cashew_Sesame Seed_Milk powder_Soya_Mustard Seed_Gluten.",
+  "per_100g": {
+    "energy_kcal": 374,
+    "fat": 9,
+    "saturated_fat": 3,
+    "carbohydrates": 64,
+    "sugars": 0.24,
+    "fiber": 1,
+    "protein": 10,
+    "salt": 3.0075,
+    "sodium": 1.203
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-08T07:44:48Z",
+  "fetched_at": "2026-08-19T12:49:49Z"
+}

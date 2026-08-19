@@ -1,0 +1,34 @@
+{
+  "barcode": "8906108305295",
+  "name": "Pitted Prunes",
+  "brand": "Popular Fit-Eats",
+  "quantity": "150g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:dried-products",
+    "en:fruits-based-foods",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits",
+    "en:dried-prunes",
+    "en:pitted-prunes"
+  ],
+  "ingredients": "Pitted Prunes, Pottasium Sorbate (0.01%)",
+  "per_100g": {
+    "energy_kcal": 240,
+    "fat": 0.38,
+    "saturated_fat": 0.08,
+    "carbohydrates": 63.88,
+    "sugars": 38.13,
+    "fiber": 7.1,
+    "protein": 2.18,
+    "salt": 0.005,
+    "sodium": 0.002
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-17T03:15:50Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

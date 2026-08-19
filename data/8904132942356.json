@@ -1,0 +1,32 @@
+{
+  "barcode": "8904132942356",
+  "name": "Good Life Lokwan Wheat 10 KG Bag",
+  "brand": "Good Life",
+  "quantity": "10kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:wheats"
+  ],
+  "ingredients": "Wheat",
+  "per_100g": {
+    "energy_kcal": 340,
+    "fat": 1.5,
+    "saturated_fat": 0.27,
+    "carbohydrates": 68.6,
+    "sugars": 1.6,
+    "fiber": 6.8,
+    "protein": 9.61,
+    "salt": 0.063,
+    "sodium": 0.0025
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-12T23:55:29Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

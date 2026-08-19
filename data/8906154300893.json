@@ -1,0 +1,26 @@
+{
+  "barcode": "8906154300893",
+  "name": "Malai Sev",
+  "brand": "Patanjali",
+  "quantity": "200g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Moth bean flour, Edible vegetable Refined cottonseed oil, Refined palm oil), Bengal gram flour, lodized salt, Milk solids, Mixed spices",
+  "per_100g": {
+    "energy_kcal": 607.3,
+    "fat": 45.98,
+    "saturated_fat": 6.11,
+    "carbohydrates": 36.15,
+    "sugars": 4.98,
+    "fiber": null,
+    "protein": 12.22,
+    "salt": 2.1395,
+    "sodium": 0.8558
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-17T03:19:58Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

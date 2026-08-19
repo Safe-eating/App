@@ -1,0 +1,34 @@
+{
+  "barcode": "8901207050725",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars",
+    "en:fruit-nectars",
+    "en:peach-nectars"
+  ],
+  "ingredients": "Water, Sugar, Peach Juice (15.6%) (Reconstituted from Peach Puree Concentrate \u0026 Peach Dices), Apple Juice (3.5%) (Reconstituted from Apple Juice Concentrate), Stabilizer (466), Acidity Regulators (INS 330, INS 296 \u0026 INS 331), Flavours (Natural \u0026 Nature Identical Flavouring Substances) \u0026 Colour (INS 110)",
+  "per_100g": {
+    "energy_kcal": 59.8,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 14.7,
+    "sugars": 14.5,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T15:24:35Z",
+  "fetched_at": "2026-08-19T00:39:27Z"
+}

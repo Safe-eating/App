@@ -1,0 +1,31 @@
+{
+  "barcode": "8905950000686",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:crackers-appetizers",
+    "en:plain-salty-snacks"
+  ],
+  "ingredients": "INGRÉDIENTS: Huile Végétale Comestible (Huile De Palmoléine, Huile En Coton), Farine De Gramme, Farine De Riz, Flocons De Pommes De Terre, Arachide (7%), Pois Chiches (4%), Lentilles Entières (4%), Bouffée De Riz (3%), Les Pois Verts (3%), Flocons De Riz (3%), Sucre, Épices Moulues Et Condiments (Sel lodé, Piment Rouge, Curcuma (Coloration Et Épices), Cumin, Gingembre, Poivre Noir, Cardamome, Clou De Girofle, Poudre D'épinards Secs, Cannelle, Masse, Muscade, Asafoetida, Régulateur D'acidité (INS 330))",
+  "per_100g": {
+    "energy_kcal": 581,
+    "fat": 40,
+    "saturated_fat": 11,
+    "carbohydrates": 39,
+    "sugars": 4,
+    "fiber": 13,
+    "protein": 15,
+    "salt": 2.355,
+    "sodium": 0.942
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-19T21:10:16Z",
+  "fetched_at": "2026-08-19T01:47:41Z"
+}

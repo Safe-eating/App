@@ -1,0 +1,30 @@
+{
+  "barcode": "8906032018506",
+  "name": "Doodh Biscuits",
+  "brand": "Patanjali",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Wheat Flour (Atta-58.6%), Edible Vegetable Oil (Palm), Sugar, Liquid Glucose, Milk Solids (1.7%), Iodized Salt, Leavening Agents [Ins-500(Ii), Ins 503(Ii), Ins-341(I)], Cheese, Dough Conditioner (Ins 223), Antioxidant (Ins 319), Emulsifier [Ins 322(I)], Flavours-Natural, Nature Identical, Artificial Flavouring Substances (Milk \u0026 Vanilla).",
+  "per_100g": {
+    "energy_kcal": 468,
+    "fat": 17,
+    "saturated_fat": 8.3,
+    "carbohydrates": 72,
+    "sugars": 24,
+    "fiber": 6,
+    "protein": 7.2,
+    "salt": 0.8725,
+    "sodium": 0.349
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-16T11:44:30Z",
+  "fetched_at": "2026-08-19T12:33:13Z"
+}

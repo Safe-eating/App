@@ -1,0 +1,34 @@
+{
+  "barcode": "8901491702539",
+  "name": "Oats Multigrain",
+  "brand": "Quaker",
+  "quantity": "300g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:rolled-flakes",
+    "en:Multigrain oats"
+  ],
+  "ingredients": "Wholegrain Whole Oat Flakes (60%), Wheat Flakes (18%), Barley Flakes(10%), Ragi Flakes (5%), Flax Seeds (5%), Sugar, Iodised Salt, Malt Extract, Flavor (Natural Flavouring Substances).",
+  "per_100g": {
+    "energy_kcal": 407,
+    "fat": 9,
+    "saturated_fat": 1.8,
+    "carbohydrates": 71,
+    "sugars": 2.2,
+    "fiber": 12,
+    "protein": 11.1,
+    "salt": 0.2925,
+    "sodium": 0.117
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-27T00:20:38Z",
+  "fetched_at": "2026-08-19T00:51:21Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8906065169329",
+  "name": "Chicken Breast Strips",
+  "brand": "ITC",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 194,
+    "fat": 8.59523809523809,
+    "saturated_fat": 4.40476190476191,
+    "carbohydrates": 14.3095238095238,
+    "sugars": 2.69047619047619,
+    "fiber": null,
+    "protein": 14.9047619047619,
+    "salt": 1.92678571428571,
+    "sodium": 0.5395
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-21T14:05:03Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

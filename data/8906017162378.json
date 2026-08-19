@@ -1,0 +1,26 @@
+{
+  "barcode": "8906017162378",
+  "name": "Tirupati Groundnut Oil",
+  "brand": "Tirupati",
+  "quantity": "",
+  "categories": [
+    "en:oils"
+  ],
+  "ingredients": "FILTERED GROUNDNUT OIL, VITAMIN A\u0026D",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 23.5,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-22T16:22:30Z",
+  "fetched_at": "2026-08-19T02:05:20Z"
+}

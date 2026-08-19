@@ -1,0 +1,26 @@
+{
+  "barcode": "8906014082266",
+  "name": "Coconut Chutney Powder",
+  "brand": "Brahmins",
+  "quantity": "150 g",
+  "categories": [
+    "en:Powder"
+  ],
+  "ingredients": "Dessicated Coconut, Black Gram, tamarind, Chilly powder, Salt, Curry Leaves, Rosemary",
+  "per_100g": {
+    "energy_kcal": 495.333333333333,
+    "fat": 36.6666666666667,
+    "saturated_fat": 32.6666666666667,
+    "carbohydrates": 18.6666666666667,
+    "sugars": 7.33333333333333,
+    "fiber": 20,
+    "protein": 12.6666666666667,
+    "salt": 6.75333333333333,
+    "sodium": 2.70133333333333
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-01T07:33:45Z",
+  "fetched_at": "2026-08-19T02:03:43Z"
+}

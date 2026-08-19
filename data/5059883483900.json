@@ -1,0 +1,24 @@
+{
+  "barcode": "5059883483900",
+  "name": "Clear Whey Mocktail - Aam Panna Margarita",
+  "brand": "MyProtein",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 334,
+    "fat": 0.230769230769231,
+    "saturated_fat": 0.115384615384615,
+    "carbohydrates": 5.61538461538461,
+    "sugars": 0.576923076923077,
+    "fiber": 0.923076923076923,
+    "protein": 76.8461538461538,
+    "salt": 1.5,
+    "sodium": 0.6
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T14:44:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

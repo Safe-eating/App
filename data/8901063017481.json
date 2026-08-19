@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063017481",
+  "name": "50-50 Maska Chaska",
+  "brand": "Britannia",
+  "quantity": "45.5g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), REFINED PALM\u0026PALMOLEIN OIL, SUGAR, LIQUID GLUCOSE, RAISING AGENTS ([503(1), 341(1), 500(1) \u0026 450( BUTTER (1.2%), BLACK SALT, MILK SOLIDS, DEHYDRATED VEGETABLE (CHIVES) (1%), iodised SALT, NATURE IDENTICAL FLAVOURING SUBSTANCE, DOUGH CONDITIONER (223) AND IMPROVER[1101(0).",
+  "per_100g": {
+    "energy_kcal": 502,
+    "fat": 26,
+    "saturated_fat": 13,
+    "carbohydrates": 60,
+    "sugars": 10,
+    "fiber": 0,
+    "protein": 7,
+    "salt": 2.705,
+    "sodium": 1.082
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-16T13:38:04Z",
+  "fetched_at": "2026-08-19T00:28:39Z"
+}

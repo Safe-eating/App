@@ -1,0 +1,26 @@
+{
+  "barcode": "8906117090755",
+  "name": "Rice Popped Chips",
+  "brand": "BRB",
+  "quantity": "",
+  "categories": [
+    "en:Rice chips"
+  ],
+  "ingredients": "RICE, RICE BRAN OIL, PULSES (11.4%), GREEN PEAS (7.6%), SPICES AND CONDIMENTS (SALT, CUMIN POWDER, DRIED MANGO POWDER, CHILLI GARLIC POWDER, ONION POWDER, TAMARIND POWDER, TURMERIC POWDER, CARDAMOM POWDER, ANTICAKING POWDER, GINGER POWDER, BAYLEAF POWDER, AGENT (E551), FLAVOUR ENHANCERS (E627, E631 CONTAINS SOY AND MILK.",
+  "per_100g": {
+    "energy_kcal": 440,
+    "fat": 14,
+    "saturated_fat": 3.2,
+    "carbohydrates": 68.8,
+    "sugars": 1.2,
+    "fiber": 4,
+    "protein": 10,
+    "salt": 2.218,
+    "sodium": 0.8872
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-28T15:24:40Z",
+  "fetched_at": "2026-08-19T12:53:01Z"
+}

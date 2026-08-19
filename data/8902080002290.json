@@ -1,0 +1,34 @@
+{
+  "barcode": "8902080002290",
+  "name": "7up",
+  "brand": "PepsiCo",
+  "quantity": "500 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:non-alcoholic-beverages",
+    "en:carbonated-drinks",
+    "en:soft-drinks",
+    "en:waters",
+    "en:artificially-sweetened-beverages",
+    "en:sodas",
+    "en:carbonated-waters"
+  ],
+  "ingredients": "Carbonated Water, Acidity Regulators, Flavour (Natural Flavouring Substances), Sweeteners, Preservatives, non-caloric sweeteners, mixture of aspartame,sucralose and acesulfame potassium",
+  "per_100g": {
+    "energy_kcal": 1.2,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-30T05:19:25Z",
+  "fetched_at": "2026-08-19T01:12:11Z"
+}

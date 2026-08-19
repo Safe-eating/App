@@ -1,0 +1,31 @@
+{
+  "barcode": "8901725004682",
+  "name": "farmlite oats \u0026 chocolate Cookies",
+  "brand": "ITC, Sunfeast",
+  "quantity": "150 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "Wheat flour (Atta) (31.3%), Oat flakes (20.3%), Sugar, Refined palm oil, Plain chocolate chips (6.2%) {Sugar, Cocoa solids, Cocoa butter, Dextrose, Emulsifier [Lecithin (from soybean)], Natural flavours and natural flavouring substances}, Liquid glucose, Invert syrup, Raising agents [INS 503 (ii), INS 500(ii), INS 450(i)], Cocoa solids (1.4%), Almond (1.4%), Maltodextrin, lodized salt, Artificial flavouring substances (Milk, Vanilla) and Emulsifier [Lecithin (from Soyabean)] CONTAINS WHEAT, OATS, MILK, SOY, NUT. MAY CONTAIN SULPHITE",
+  "per_100g": {
+    "energy_kcal": 484,
+    "fat": 21.6,
+    "saturated_fat": 10.1,
+    "carbohydrates": 63.6,
+    "sugars": 26.2,
+    "fiber": 4.6,
+    "protein": 11,
+    "salt": 0.622,
+    "sodium": 0.2488
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-09T07:11:36Z",
+  "fetched_at": "2026-08-19T01:03:49Z"
+}

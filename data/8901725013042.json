@@ -1,0 +1,30 @@
+{
+  "barcode": "8901725013042",
+  "name": "Marie Light",
+  "brand": "Sunfeast",
+  "quantity": "200g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined wheat flour (Maida) (66.6%), Sugar, Refined palm oil, Invert syrup, Milk solids, Raising agents [INS 503 (ii), INS 500(i), lodized salt, Nature identical flavouring substances, Flour treatment agent (INS 223), Emulsifier [Diacetyſtartaric and fatty acid esters of glycerol (from refined sunflower oil and palm oil)], Artificial flavouring substances (Milk, Vanilla), Mineral, Colour (INS 150d) and Vitamins.",
+  "per_100g": {
+    "energy_kcal": 452,
+    "fat": 13,
+    "saturated_fat": 6.3,
+    "carbohydrates": 75.8,
+    "sugars": 22.2,
+    "fiber": null,
+    "protein": 8.9,
+    "salt": 0.772,
+    "sodium": 0.3088
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-28T05:55:02Z",
+  "fetched_at": "2026-08-19T01:04:25Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8901262201124",
+  "name": "Amul Masti Dahi",
+  "brand": "Amul",
+  "quantity": "85 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts"
+  ],
+  "ingredients": "MILK, MILK SOLIDS, ACTIVE CULTURE",
+  "per_100g": {
+    "energy_kcal": 61.5,
+    "fat": 3.1,
+    "saturated_fat": 2,
+    "carbohydrates": 4.4,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:11:07Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

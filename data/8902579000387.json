@@ -1,0 +1,31 @@
+{
+  "barcode": "8902579000387",
+  "name": "Appy",
+  "brand": "Parle Agro",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages"
+  ],
+  "ingredients": "Water, sugar, Apple juice concentrate(2.1%), Acidity regulators, stabilizer, natural colour, Antioxidant, nature identical flavouring substances, Added flavour",
+  "per_100g": {
+    "energy_kcal": 63,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 15.8,
+    "sugars": 15.8,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.0425,
+    "sodium": 0.017
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-04T17:16:10Z",
+  "fetched_at": "2026-08-19T01:15:47Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "3948764042270",
+  "name": "Thumbs Up 750ml pet",
+  "brand": "Thumps up",
+  "quantity": "750ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:non-alcoholic-beverages",
+    "en:carbonated-drinks",
+    "en:soft-drinks",
+    "en:sodas"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 39,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 9.7,
+    "sugars": 9.5,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.055,
+    "sodium": 0.022
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-21T13:37:26Z",
+  "fetched_at": "2026-08-18T23:39:37Z"
+}

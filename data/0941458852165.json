@@ -1,0 +1,33 @@
+{
+  "barcode": "0941458852165",
+  "name": "KitKat Rich Chocolate Coated Wafer",
+  "brand": "Nestlé",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:candy-chocolate-bars",
+    "en:chocolate-biscuity-bars"
+  ],
+  "ingredients": "Milk Chocolate (69%) (Sugar, Milk solids (14.5%), Cocoa butter (12.8%), Cocoa solids (9.6%), Emulsifier (Soya lecithin) and Artificial (Vanilla) flavouring substances) and Wafer (Sugar, Refined Wheat flour (Maida), Hydrogenated vegetable fats, Cocoa solids (1.8%), Milk solids, Fractionated vegetable fat, Raising agent (500(i), Yeast, Emulsifier (Soya lecithin), lodized salt, Flour treatment agent (516) and Artificial (Vanilla) flavouring substances).",
+  "per_100g": {
+    "energy_kcal": 482,
+    "fat": 22.5,
+    "saturated_fat": 18.5,
+    "carbohydrates": 62.7,
+    "sugars": 41.9,
+    "fiber": null,
+    "protein": 7.3,
+    "salt": 0.2275,
+    "sodium": 0.091
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-04T10:45:25Z",
+  "fetched_at": "2026-08-18T23:59:28Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906009075068",
+  "name": "Atta Marie Thinz",
+  "brand": "Unibic",
+  "quantity": "495 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Whole Wheat Flour(Atta) (60%), Sugar, Refined Palm Oil, Invert Sugar Syrup, Milk Solids, Raising Agents [INS 503(ii), INS 500 (ii)], Emulsifier of Vegetable Origin (INS 471e), lodised Salt, Natural and Artificial Flavouring Substances (Milk and Vanilla), Dough Conditioners [INS 223, INS 1101(1)].",
+  "per_100g": {
+    "energy_kcal": 444,
+    "fat": 11.8,
+    "saturated_fat": 6.1,
+    "carbohydrates": 74.6,
+    "sugars": 20,
+    "fiber": 8,
+    "protein": 10,
+    "salt": 0.85,
+    "sodium": 0.34
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T09:15:33Z",
+  "fetched_at": "2026-08-19T01:56:55Z"
+}

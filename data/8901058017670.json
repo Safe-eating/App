@@ -1,0 +1,29 @@
+{
+  "barcode": "8901058017670",
+  "name": "Maggi 280g",
+  "brand": "Maggi",
+  "quantity": "280",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 384.285714285714,
+    "fat": 12.5714285714286,
+    "saturated_fat": 8.28571428571429,
+    "carbohydrates": 59.5714285714286,
+    "sugars": 1.85714285714286,
+    "fiber": null,
+    "protein": 8.14285714285714,
+    "salt": 2.5,
+    "sodium": 1
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T16:53:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

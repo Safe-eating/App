@@ -1,0 +1,33 @@
+{
+  "barcode": "8906108306162",
+  "name": "Medjoul Dates",
+  "brand": "Popular",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:fruits",
+    "en:dates-and-their-products",
+    "en:dates"
+  ],
+  "ingredients": "Dates",
+  "per_100g": {
+    "energy_kcal": 325,
+    "fat": 0.39,
+    "saturated_fat": 0.18,
+    "carbohydrates": 73.8,
+    "sugars": 56.6,
+    "fiber": 8.97,
+    "protein": 6.5,
+    "salt": 0.018025,
+    "sodium": 0.00721
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-26T01:25:27Z",
+  "fetched_at": "2026-08-19T12:50:53Z"
+}

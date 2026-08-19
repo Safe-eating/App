@@ -1,0 +1,31 @@
+{
+  "barcode": "8906095120079",
+  "name": "Wonderland California In-Shell Walnuts 1kg",
+  "brand": "Wonderlands Food",
+  "quantity": "1Kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:shelled-nuts",
+    "en:walnuts"
+  ],
+  "ingredients": "Walnuts (Whole)",
+  "per_100g": {
+    "energy_kcal": 654,
+    "fat": 65,
+    "saturated_fat": 6,
+    "carbohydrates": 14,
+    "sugars": 3,
+    "fiber": 7,
+    "protein": 15,
+    "salt": 0.005,
+    "sodium": 0.002
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-10T08:33:37Z",
+  "fetched_at": "2026-08-19T12:49:25Z"
+}

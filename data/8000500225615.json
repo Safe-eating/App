@@ -1,0 +1,32 @@
+{
+  "barcode": "8000500225615",
+  "name": "Nutella Ferrero",
+  "brand": "Nutella, Ferrero",
+  "quantity": "290 g",
+  "categories": [
+    "en:breakfasts",
+    "en:spreads",
+    "en:sweet-spreads",
+    "fr:pates-a-tartiner",
+    "en:hazelnut-spreads",
+    "en:chocolate-spreads",
+    "en:cocoa-and-hazelnuts-spreads"
+  ],
+  "ingredients": "SUGAR, EDIBLE VEGETABLE OIL, HAZELNUTS 13%, LOW FAT COCOA POWDER 7.4%, SKIMMED COW MILK POWDER 6.6%, WHEY POWDER, EMULSIFIER (LECITHIN (INS 322)), FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCE (VANILLIN)).",
+  "per_100g": {
+    "energy_kcal": 533,
+    "fat": 30.9,
+    "saturated_fat": 10.6,
+    "carbohydrates": 57.5,
+    "sugars": 56.3,
+    "fiber": 0,
+    "protein": 6.3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-21T00:01:39Z",
+  "fetched_at": "2026-08-19T00:11:53Z"
+}

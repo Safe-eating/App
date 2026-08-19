@@ -1,0 +1,24 @@
+{
+  "barcode": "8901262202442",
+  "name": "Probiotic Curd",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 65,
+    "fat": 3.1,
+    "saturated_fat": 2,
+    "carbohydrates": 4.6,
+    "sugars": 4.6,
+    "fiber": null,
+    "protein": 4,
+    "salt": 0.375,
+    "sodium": 0.15
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T11:54:49Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

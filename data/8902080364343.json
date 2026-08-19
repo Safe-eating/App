@@ -1,0 +1,27 @@
+{
+  "barcode": "8902080364343",
+  "name": "Mountain dew 2ltr",
+  "brand": "Pepsico, mountaindew",
+  "quantity": "2.25",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS FLAVOUR INATURAL FLAVOURING SUBSTANCES, PRESERVATIVE (2 CAFFEINE (13 mg/100 g), STABILIZER (445), COLOUR (102)",
+  "per_100g": {
+    "energy_kcal": 49,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 12.3,
+    "sugars": 12.3,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.02,
+    "sodium": 0.008
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-15T04:37:01Z",
+  "fetched_at": "2026-08-19T01:13:41Z"
+}

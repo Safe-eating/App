@@ -1,0 +1,34 @@
+{
+  "barcode": "8908005144366",
+  "name": "Breakfast Protein Bar Apricot Fig",
+  "brand": "Yoga Bar",
+  "quantity": "50g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars",
+    "en:cereal-bars",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:energy-bars",
+    "en:protein-bars",
+    "en:protein-energy-bars"
+  ],
+  "ingredients": "Millets, Samai Flakes, Jowar Flakes, Rolled Oats, Rice Flakes, Quinoa Flakes, Oats Flour, Fructo-oligosaccharide, Nuts \u0026 Seeds 15.5% (Flax, Sesame, Sunflower 3%, Chia, Almond 2%, Pumpkin), Raisins 9.8%, Honey, Rice Crispy, Glycerine, Natural Flavors (Apricot, Fig, Rosemary Extract), Gum Acacia, Apple Fibre, Himalayan Pink Salt.",
+  "per_100g": {
+    "energy_kcal": 400,
+    "fat": 12,
+    "saturated_fat": 3.11111111111111,
+    "carbohydrates": 65.1111111111111,
+    "sugars": 27.3333333333333,
+    "fiber": 9.11111111111111,
+    "protein": 12.4444444444444,
+    "salt": 0.666666666666667,
+    "sodium": 0.280444444444444
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-02T16:10:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

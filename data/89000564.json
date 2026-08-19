@@ -1,0 +1,31 @@
+{
+  "barcode": "89000564",
+  "name": "",
+  "brand": "Coca-Cola,Coke",
+  "quantity": "500ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:carbonated-drinks",
+    "en:sodas",
+    "en:colas",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 44,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 10.9,
+    "sugars": 10.6,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.02125,
+    "sodium": 0.0085
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-28T11:52:57Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

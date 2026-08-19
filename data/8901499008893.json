@@ -1,0 +1,36 @@
+{
+  "barcode": "8901499008893",
+  "name": "Kellogg's Corn flakes original",
+  "brand": "Kellogg's",
+  "quantity": "900 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:extruded-cereals",
+    "en:extruded-flakes",
+    "en:corn-flakes"
+  ],
+  "ingredients": "Corn grits (90%) , sugar , cereal extract , iodized salt , vitamins , antioxidant (INS 307b) , minerals",
+  "per_100g": {
+    "energy_kcal": 378,
+    "fat": 1,
+    "saturated_fat": 0.6,
+    "carbohydrates": 86.9,
+    "sugars": 9.2,
+    "fiber": null,
+    "protein": 6.7,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T23:58:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

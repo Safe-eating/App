@@ -1,0 +1,28 @@
+{
+  "barcode": "8901262152228",
+  "name": "Amul kool elaichi 180ml",
+  "brand": "Amul",
+  "quantity": "180 ml",
+  "categories": [
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks"
+  ],
+  "ingredients": "Toned milk, milk solids, sugar, synthetic food colours (102, 133), artificial flavouring substances (elachi). Allergen Information: Contains milk.",
+  "per_100g": {
+    "energy_kcal": 90.5555555555556,
+    "fat": 3.11111111111111,
+    "saturated_fat": 1.88888888888889,
+    "carbohydrates": 12.5,
+    "sugars": 12.5,
+    "fiber": null,
+    "protein": 3.11111111111111,
+    "salt": 0.108333333333333,
+    "sodium": 0.0433333333333333
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-20T06:02:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

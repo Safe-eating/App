@@ -1,0 +1,28 @@
+{
+  "barcode": "8906130900031",
+  "name": "Chocopie",
+  "brand": "Orion",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, CHOCO COVERING (21.6%) [SUGAR, HYDROGENATED VEGETABLE FAT, COCOA SOLIDS, MILK SOLIDS, EMULSIFIER (INS 3220) AND NATURE IDENTICAL FLAVOUR (VANILLIN)], LIQUID GLUCOSE, HYDROGENATED VEGETABLE FAT, HUMECTANT (INS 422), DEXTROSE, RAISING AGENTS [INS 500(1), INS 503), STABILIZERS (INS 407, INS 440, INS 415, INS 410 EDIBLE COMMON SALT HYDROLYZED PEA PROTEIN, PRESERVATIVES (INS 202, INS 281), ACIDITY REGULATOR INS 341, NATURE IDENTICAL FLAVOUR (VANILLIN) ALLERGEN INFORMATION: CONTAINS WHEAT, MILK \u0026 SOY. of MAY CONTAIN SULPHITE \u0026 NUTS.",
+  "per_100g": {
+    "energy_kcal": 432.7,
+    "fat": 15.9,
+    "saturated_fat": 10.8,
+    "carbohydrates": 69.8,
+    "sugars": 40,
+    "fiber": null,
+    "protein": 3.8,
+    "salt": 0.60875,
+    "sodium": 0.2435
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-28T10:11:05Z",
+  "fetched_at": "2026-08-19T12:56:07Z"
+}

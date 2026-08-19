@@ -1,0 +1,26 @@
+{
+  "barcode": "8622217032012",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:Cadbury crispello"
+  ],
+  "ingredients": "Milk Chocolate 50% Sugar, Milk Solids (9) Cocoa Butter, Cocoa Solids, Emulsifiers (442,476), Fwcor Nature Identical and Artificial (Vanilla) Flavouring Substances Centre 50% Sugar Fractionated Fat, Wheat Crispies 11% Refined Wheat Flour (Maida), Sugar, Com Starch, Cocoa Solids, foded Salt, Palm Kernel O, Leavening Agents (4500), 500(a), 341 (0), en Starch, Coco Selida, Emulsifiers (442,476), lodised Salt, Swances Allergen Information: Toe Nuts, Barley, Soy",
+  "per_100g": {
+    "energy_kcal": 522,
+    "fat": 27.6,
+    "saturated_fat": 17.7,
+    "carbohydrates": 64.5,
+    "sugars": 48.7,
+    "fiber": null,
+    "protein": 5.2,
+    "salt": 0.48,
+    "sodium": 0.192
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-12T09:40:03Z",
+  "fetched_at": "2026-08-19T00:12:27Z"
+}

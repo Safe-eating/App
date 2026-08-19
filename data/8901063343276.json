@@ -1,0 +1,32 @@
+{
+  "barcode": "8901063343276",
+  "name": "Multi Grain Bread",
+  "brand": "Britannia",
+  "quantity": "450g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:sliced-breads",
+    "en:multigrain-sliced-breads"
+  ],
+  "ingredients": "WHEAT PRODUCTS (54%) [WHEAT FLOUR (ATTA), WHEAT BRAN\u0026BROKEN WHEAT], OIL SEEDS-5% (LINSEED, SESAME, SUNFLOWER AND WATER-MELON) YEAST, RAGI FLOUR (2%), ROLLED OATS (2%), VITAL GLUTEN, SUGAR, SOYA FLAKES (1.2%), IODISED SALT, REFINED PALMOLEIN OIL, PRESERVATIVE (282), EMULSIFIERS [472e, 471, 481 (1)], ACIDITY REGULATOR (260) AND FLOUR TREATMENT AGENT (510). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT GLUTEN, CATS AND SOYA.",
+  "per_100g": {
+    "energy_kcal": 504,
+    "fat": 8.6,
+    "saturated_fat": 2,
+    "carbohydrates": 94,
+    "sugars": 2.8,
+    "fiber": 13,
+    "protein": 19.2,
+    "salt": 0.848,
+    "sodium": 0.3392
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-21T15:39:10Z",
+  "fetched_at": "2026-08-19T00:33:44Z"
+}

@@ -1,0 +1,36 @@
+{
+  "barcode": "5010338102388",
+  "name": "Reduced Fat Coconut Milk",
+  "brand": "Blue Dragon",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:dairy-substitutes",
+    "en:fruit-based-foods",
+    "en:milk-substitutes",
+    "en:coconuts-and-their-products",
+    "en:plant-based-creams",
+    "en:coconut-milks-and-creams",
+    "en:plant-based-creams-for-cooking"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 62,
+    "fat": 6.2,
+    "saturated_fat": 5,
+    "carbohydrates": 1.4,
+    "sugars": 1.4,
+    "fiber": null,
+    "protein": 0.25,
+    "salt": 0.1625,
+    "sodium": 0.065
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-24T19:17:29Z",
+  "fetched_at": "2026-08-19T00:05:24Z"
+}

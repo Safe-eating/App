@@ -1,0 +1,29 @@
+{
+  "barcode": "8908003249469",
+  "name": "spiced buttermilk",
+  "brand": "Akshayakalpa Organic",
+  "quantity": "200ml",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:buttermilks"
+  ],
+  "ingredients": "Water, Organic Cow Milk (Pasteurized). Salt (Himayalan Pink Salt), Organic Spices (green chilli, ginger, coriander), Starter Culture, Probiotic Culture",
+  "per_100g": {
+    "energy_kcal": 25,
+    "fat": 0.8,
+    "saturated_fat": 0.55,
+    "carbohydrates": 2.8,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 1.4,
+    "salt": 0.065,
+    "sodium": 0.026
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T19:05:28Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

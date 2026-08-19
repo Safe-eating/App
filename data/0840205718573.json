@@ -1,0 +1,30 @@
+{
+  "barcode": "0840205718573",
+  "name": "Potato spicy biscuit",
+  "brand": "Pran",
+  "quantity": "75g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 456,
+    "fat": 14.8,
+    "saturated_fat": 5.6,
+    "carbohydrates": 72.8,
+    "sugars": 22,
+    "fiber": null,
+    "protein": 8,
+    "salt": 2.45,
+    "sodium": 0.98
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-01T09:45:10Z",
+  "fetched_at": "2026-08-18T23:56:18Z"
+}

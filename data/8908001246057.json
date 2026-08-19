@@ -1,0 +1,26 @@
+{
+  "barcode": "8908001246057",
+  "name": "Corn Rings Tangy Tomato",
+  "brand": "Crax",
+  "quantity": "12g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Corn Grits (58%), Edible Vegetable Oil (Refined Palmolein Oil), *Seasoning [Sugar, lodised Salt, Corn Starch, Tomato Powder (0.98%), Chilli, Acidity Regulator (INS 330) Fennel, Anticaking Agent (INS 551), Spice Extract, Flavour Enhancers (INS 627, INS 631)], Flavour(s) (Natural \u0026 Nature Identical Flavouring Substances)",
+  "per_100g": {
+    "energy_kcal": 501,
+    "fat": 25.7,
+    "saturated_fat": 11.5,
+    "carbohydrates": 62.8,
+    "sugars": 8,
+    "fiber": null,
+    "protein": 4.6,
+    "salt": 4.14,
+    "sodium": 1.656
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-18T11:23:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,34 @@
+{
+  "barcode": "8904063210678",
+  "name": "Roasted Crushed Peanuts",
+  "brand": "Haldiram's",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:roasted-nuts",
+    "en:peanuts",
+    "en:roasted-peanuts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 499,
+    "fat": 25.5,
+    "saturated_fat": 6,
+    "carbohydrates": 55,
+    "sugars": 10.5,
+    "fiber": null,
+    "protein": 12.5,
+    "salt": 2.43,
+    "sodium": 0.972
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-08T09:29:39Z",
+  "fetched_at": "2026-08-19T01:29:56Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8906059635007",
+  "name": "Epigamia Greek yogurt",
+  "brand": "Epigamia",
+  "quantity": "85g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:greek-style-yogurts"
+  ],
+  "ingredients": "Pasteurized Double Toned Milk, Milk Solids, Stabilizer (Pectin), Permitted Lactic Acid Cultures Active Live Cultures: S.thermophilus, L.bacillus delbrueckii subsp. bulgaricus ALLERGENS: Contains milk. Manufactured in a facility that also processes nuts \u0026 cereals containing gluten.",
+  "per_100g": {
+    "energy_kcal": 69.4117647058823,
+    "fat": 2.23529411764706,
+    "saturated_fat": 1.41176470588235,
+    "carbohydrates": 4.70588235294118,
+    "sugars": 4.70588235294118,
+    "fiber": null,
+    "protein": 7.64705882352941,
+    "salt": 0.152941176470588,
+    "sodium": 0.0611764705882353
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-02T04:40:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

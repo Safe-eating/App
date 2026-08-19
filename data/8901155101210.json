@@ -1,0 +1,26 @@
+{
+  "barcode": "8901155101210",
+  "name": "Gulab Jamun",
+  "brand": "Gits",
+  "quantity": "200 g",
+  "categories": [
+    "en:gulab-jamun"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 420,
+    "fat": 13.6,
+    "saturated_fat": 8,
+    "carbohydrates": 57,
+    "sugars": 18.2,
+    "fiber": 0,
+    "protein": 17,
+    "salt": 1.92307692307692,
+    "sodium": 0.769230769230769
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-10T23:57:49Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

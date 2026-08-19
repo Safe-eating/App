@@ -1,0 +1,32 @@
+{
+  "barcode": "8902433030598",
+  "name": "Snickers Chocolate Bar",
+  "brand": "",
+  "quantity": "11.5 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:candy-chocolate-bars"
+  ],
+  "ingredients": "Milk chocolate coating Sugar, Milk solids, Cocoa butter, Cocoa solids, Edible vegetable fats \u0026lt;5% (Sal fat, oil), Dextrose, Emulsifier (322); Centre filling (62%): Liquid glucose, Peanuts (1 Sugar, Fractionated vegetable fat, Milk solids, lodized salt, Cocoa butter, Co Edible vegetable fats \u0026lt;5% (Sal fat, Palm oil), Dextrose, Emulsifier EQUIVALENTI",
+  "per_100g": {
+    "energy_kcal": 477,
+    "fat": 22.65,
+    "saturated_fat": 10.2,
+    "carbohydrates": 61,
+    "sugars": 55.9,
+    "fiber": null,
+    "protein": 7.24,
+    "salt": 0.5775,
+    "sodium": 0.231
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-21T15:41:50Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

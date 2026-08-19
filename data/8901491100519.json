@@ -1,0 +1,31 @@
+{
+  "barcode": "8901491100519",
+  "name": "Kurkure",
+  "brand": "Kurkure",
+  "quantity": "78 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:namkeen"
+  ],
+  "ingredients": "Cereal Products (66%) (Rice Meal (43.5%), Corn Meal (23%)), Edible Vegetable Oil (Palmolein),*Seasoning (~Spices and Condiments, lodised Salt, Sugar, Flavour (Natural and Nature Identical Flavouring Substances), Black Salt, Tomato Powder, Acidity Regulators (330, 296, 334), Colour(160c), Maltodextrin) , Gram Meal (0.5%).",
+  "per_100g": {
+    "energy_kcal": 557,
+    "fat": 33.7,
+    "saturated_fat": 7.7,
+    "carbohydrates": 57.7,
+    "sugars": 2.2,
+    "fiber": 0,
+    "protein": 6,
+    "salt": 1.99,
+    "sodium": 0.796
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-03T07:08:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

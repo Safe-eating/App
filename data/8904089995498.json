@@ -1,0 +1,30 @@
+{
+  "barcode": "8904089995498",
+  "name": "Nourish+ High Protein Paneer",
+  "brand": "Heritage",
+  "quantity": "240g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer"
+  ],
+  "ingredients": "Milk Solids, Vinegar \u0026 Glucono Delta Lactone (INS 575)",
+  "per_100g": {
+    "energy_kcal": 202.6,
+    "fat": 9,
+    "saturated_fat": 5.8,
+    "carbohydrates": 5.4,
+    "sugars": 5.4,
+    "fiber": null,
+    "protein": 25,
+    "salt": 0.535,
+    "sodium": 0.214
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-28T01:42:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

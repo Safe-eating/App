@@ -1,0 +1,30 @@
+{
+  "barcode": "8908008674785",
+  "name": "Wafer richeese",
+  "brand": "Nabati",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 20,
+    "saturated_fat": 9,
+    "carbohydrates": 71,
+    "sugars": 33,
+    "fiber": null,
+    "protein": 6,
+    "salt": 0.512,
+    "sodium": 0.512
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-27T10:22:59Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

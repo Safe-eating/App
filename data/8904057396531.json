@@ -1,0 +1,38 @@
+{
+  "barcode": "8904057396531",
+  "name": "Hatsun Yoghurt Shake Strawberry",
+  "brand": "Hatsun",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:dairy-drinks",
+    "en:fermented-dairy-desserts",
+    "en:fermented-drinks",
+    "en:yogurts",
+    "en:fermented-milk-drinks",
+    "en:drinkable-yogurts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 112.571428571429,
+    "fat": 2,
+    "saturated_fat": 1.6,
+    "carbohydrates": 20.5142857142857,
+    "sugars": 20.5142857142857,
+    "fiber": 0,
+    "protein": 3.2,
+    "salt": 0.112571428571429,
+    "sodium": 0.0450285714285714
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:13:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

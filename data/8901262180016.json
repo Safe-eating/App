@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262180016",
+  "name": "Malai Paneer",
+  "brand": "Amul",
+  "quantity": "200 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer"
+  ],
+  "ingredients": "Paneer",
+  "per_100g": {
+    "energy_kcal": 314,
+    "fat": 25,
+    "saturated_fat": 15,
+    "carbohydrates": 4.5,
+    "sugars": 4.5,
+    "fiber": null,
+    "protein": 20,
+    "salt": 0.055,
+    "sodium": 0.022
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-05T15:21:30Z",
+  "fetched_at": "2026-08-19T00:45:44Z"
+}

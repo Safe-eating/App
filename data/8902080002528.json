@@ -1,0 +1,31 @@
+{
+  "barcode": "8902080002528",
+  "name": "Sting Blue Current",
+  "brand": "PepsiCo",
+  "quantity": "250 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:non-alcoholic-beverages",
+    "en:carbonated-drinks",
+    "en:soft-drinks",
+    "en:sodas"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS (330, 331), FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES), SEQUESTRANTS (452(i), 385), CAFFEINE (29 mg/100 ml), PRESERVATIVES (211, 202), SWEETENERS (955, 950), COLOUR (133)",
+  "per_100g": {
+    "energy_kcal": 27,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 6.8,
+    "sugars": 6.8,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.0775,
+    "sodium": 0.031
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-17T15:15:00Z",
+  "fetched_at": "2026-08-19T01:12:15Z"
+}

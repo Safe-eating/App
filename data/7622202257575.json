@@ -1,0 +1,32 @@
+{
+  "barcode": "7622202257575",
+  "name": "Oreo original",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:filled-biscuits",
+    "en:sandwich-biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, FRACTIONATED FAT, PALMOLEIN, INVERT SUGAR, COCOA SOLIDS (2%*), LEAVENING AGENTS (500(ii), 503(ii)), STARCH, IODISED SALT, EMULSIFIER (322), NATURE IDENTICAL FLAVOURING SUBSTANCES. ALLERGEN INFORMATION: CONTAINS WHEAT, SULPHITE, SOY. MAY CONTAIN MILK AND BARLEY.",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 19.6,
+    "saturated_fat": 9.7,
+    "carbohydrates": 71.9,
+    "sugars": 38.9,
+    "fiber": null,
+    "protein": 5.2,
+    "salt": 1.05,
+    "sodium": 0.42
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-29T16:22:09Z",
+  "fetched_at": "2026-08-19T00:10:29Z"
+}

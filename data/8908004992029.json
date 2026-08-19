@@ -1,0 +1,26 @@
+{
+  "barcode": "8908004992029",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:Sugar syrup"
+  ],
+  "ingredients": "Rose water\nChhena",
+  "per_100g": {
+    "energy_kcal": 274,
+    "fat": 2,
+    "saturated_fat": 1.5,
+    "carbohydrates": 59,
+    "sugars": 49.5,
+    "fiber": null,
+    "protein": 5,
+    "salt": 117.5,
+    "sodium": 47
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-14T16:42:17Z",
+  "fetched_at": "2026-08-19T13:09:02Z"
+}

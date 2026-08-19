@@ -1,0 +1,28 @@
+{
+  "barcode": "8901063368606",
+  "name": "Gobbles Frooty Fun Cake",
+  "brand": "",
+  "quantity": "50 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), EGG, SUGAR, VANASPATI, FRUIT PRODUCTS (74% (GLAZED FRUITS (PAPAYA CUTS, SUGAR, PRESERVATIVE (202) AND COLOURS (124\u0026110) AND ORANGE PULP), INTERESTERIFIED VEGETABLE FAT, HUMECTANT (422), REFINED PALMOLEIN OIL, LIQUID GLUCOSE, DEXTROSE, HIGH MALTOSE SYRUP, FRUCTOOLIGOSACCHARIDES, CAKE GEL (EMULSIFIERS (471,477,470) \u0026 HUMECTANTS (1520,422), EDIBLE MAIZE STARCH, WHEAT STARCH, RAISING AGENTS (341), 500m), 450(vi) \u0026 4500), NATURE IDENTICAL AND ARTIFICIAL (MIXED FRUIT AND CREAMY VANILLA) FLAVOURING SUBSTANCES, IODIZED SALT, INVERT SUGAR SYRUP, PRESERVATIVES (202 \u0026 282), ACIDITY REGULATOR(330), BAKING POWDER, EMULSIFIER (475), STABILIZER (415) AND COLOUR (102) Numbers in brackets as per International Numbering System) CONTAINS WHEAT AND EGG.",
+  "per_100g": {
+    "energy_kcal": 415,
+    "fat": 17.3,
+    "saturated_fat": 9,
+    "carbohydrates": 59,
+    "sugars": 30.2,
+    "fiber": null,
+    "protein": 5.7,
+    "salt": 0.6315,
+    "sodium": 0.2526
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-25T18:19:41Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8908009059185",
+  "name": "Zero Maida Whole Wheat Bread",
+  "brand": "The Health Factory",
+  "quantity": "350g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:breads"
+  ],
+  "ingredients": "Fresh Whole Wheat Flour, Yeast, Wheat Gluten, Rice Bran Oil, Cane Sugar, Iodised Salt, Cultured Wheat Flour, Cultured Sweet Potato, Cultured Glucose",
+  "per_100g": {
+    "energy_kcal": 241.4,
+    "fat": 1.32,
+    "saturated_fat": 0.2,
+    "carbohydrates": 43.97,
+    "sugars": 4.1,
+    "fiber": 6.31,
+    "protein": 13.41,
+    "salt": 0.8524,
+    "sodium": 0.34096
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-21T15:20:58Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

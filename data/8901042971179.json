@@ -1,0 +1,26 @@
+{
+  "barcode": "8901042971179",
+  "name": "Karivepaku Podi",
+  "brand": "MTR",
+  "quantity": "100g",
+  "categories": [
+    "en:condiments"
+  ],
+  "ingredients": "Coriander (19%), Red chilli (16%), Blackgram splits, Curry leaf powder (12%), lodised low sodium salt, Bengalgram splits (8%), Tamarind concentrate (8%), Refined palmolein oil, Cumin, Garlic powder, lodised salt, Jaggery, Natural flavouring substances, Anticaking agent (INS 551), Acidity regulator (INS 334), Asafoetida.",
+  "per_100g": {
+    "energy_kcal": 294,
+    "fat": 13.9,
+    "saturated_fat": 4,
+    "carbohydrates": 29.7,
+    "sugars": 13.7,
+    "fiber": null,
+    "protein": 12.5,
+    "salt": 8.7925,
+    "sodium": 3.517
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-03T13:49:14Z",
+  "fetched_at": "2026-08-19T00:22:56Z"
+}

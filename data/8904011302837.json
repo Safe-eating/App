@@ -1,0 +1,31 @@
+{
+  "barcode": "8904011302837",
+  "name": "Delite",
+  "brand": "Aavin",
+  "quantity": "500 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:dairy-drinks",
+    "en:milks"
+  ],
+  "ingredients": "Milk \u0026 Milk Solids",
+  "per_100g": {
+    "energy_kcal": 63,
+    "fat": 3.5,
+    "saturated_fat": 2.3,
+    "carbohydrates": 4.7,
+    "sugars": 4.7,
+    "fiber": 0,
+    "protein": 3.2,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-09T11:45:14Z",
+  "fetched_at": "2026-08-19T01:26:14Z"
+}

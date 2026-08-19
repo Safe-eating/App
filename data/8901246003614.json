@@ -1,0 +1,32 @@
+{
+  "barcode": "8901246003614",
+  "name": "Sliced Black Olives",
+  "brand": "Del Monte",
+  "quantity": "450g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles",
+    "en:olive-tree-products",
+    "en:plant-based-pickles",
+    "en:olives",
+    "en:black-olives"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 137,
+    "fat": 13,
+    "saturated_fat": 2.3,
+    "carbohydrates": 3,
+    "sugars": 0,
+    "fiber": 3,
+    "protein": 0.5,
+    "salt": 1.8,
+    "sodium": 0.72
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-27T00:01:26Z",
+  "fetched_at": "2026-08-19T00:40:33Z"
+}

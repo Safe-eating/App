@@ -1,0 +1,30 @@
+{
+  "barcode": "8901764022272",
+  "name": "Fanta Orange Flv 750ml",
+  "brand": "The Coca-cola company",
+  "quantity": "24",
+  "categories": [
+    "en:beverages",
+    "en:carbonated-drinks",
+    "en:sodas",
+    "en:sweetened-beverages",
+    "en:fanta"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, ACIDITY REGULATOR (330), STABILIZERS (414, 445), PRESERVATIVE (211), COLOUR (110), FLAVOURS (NATURAL \u0026 NATURE-IDENTICAL FLAVORING SUBSTANCES).",
+  "per_100g": {
+    "energy_kcal": 52,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 13,
+    "sugars": 13,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-10T09:35:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8903363007636",
+  "name": "Nutri Delite 2 in 1s",
+  "brand": "Nutri Delite",
+  "quantity": "25 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:extruded-cereals"
+  ],
+  "ingredients": "WHEAT SOLIDS(46%)[REFINED WHEAT FLOUR (MAIDA)(33.3%), WHOLE WHEAT FLOUR (ATTA)(12.6%)] SUGAR, CORN FLOUR, OAT FLOUR, RICE FLOUR, COCOA POWDER(2.6%), LIQUID GLUCOSE, WHEAT BRAN, PALMOLEIN OIL, MALT EXTRACT, IODISED SALT, ARTIFICIAL FLAVOURING SUSTANCES - CHOCOLATE, VANILLA, HONEY, CALCIUM CARBONATE, SOYA LECITHIN (INS 322 (i)), MINERALS AND VITAMINS, NATURAL COLOUR (INS 150d), TOCOPHEROL (INS 307b)",
+  "per_100g": {
+    "energy_kcal": 387.5,
+    "fat": 2.9,
+    "saturated_fat": 1.2,
+    "carbohydrates": 81.6,
+    "sugars": 32.7,
+    "fiber": 0,
+    "protein": 6.5,
+    "salt": 0.28,
+    "sodium": 0.112
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-25T20:21:31Z",
+  "fetched_at": "2026-08-19T01:22:12Z"
+}

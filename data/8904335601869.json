@@ -1,0 +1,32 @@
+{
+  "barcode": "8904335601869",
+  "name": "Yoga bar 23G protein muesli + choco almond + cranberry",
+  "brand": "Yoga bar",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Whole Grains 48% (Rolled Oats, Brown Rice Flakes, Quinoa Flakes), Protein Blend (Soy and Whey Protein Isolate), Dehydrated Fruits, Nuts and Seeds 17% (Dates, Cranberry, Raisins, Almonds, Pumpkin and Chia Seeds), Dark Chocolate (Cocoa, Cocoa Butter, Sugar, Sunflower Lecithin), Jaggery, Rice Bran Oil, Probiotics (Bacillus Coagulans SNZ1969, 150 million CFU Per Serve).Contains Added Natural Flavour: Rosemary Extract and Chocolate.",
+  "per_100g": {
+    "energy_kcal": 386,
+    "fat": 10.7,
+    "saturated_fat": 3,
+    "carbohydrates": 53.1,
+    "sugars": 20.2,
+    "fiber": 7.5,
+    "protein": 23,
+    "salt": 0.224,
+    "sodium": 0.0896
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-10T06:19:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8904004407617",
+  "name": "Taka-tak",
+  "brand": "Haldiram's",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 551,
+    "fat": 34.06,
+    "saturated_fat": 14.44,
+    "carbohydrates": 55.2,
+    "sugars": 1.5,
+    "fiber": 0,
+    "protein": 5.99,
+    "salt": 1.369,
+    "sodium": 0.5476
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-28T17:13:50Z",
+  "fetched_at": "2026-08-19T01:25:42Z"
+}

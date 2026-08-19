@@ -1,0 +1,24 @@
+{
+  "barcode": "8901058023329",
+  "name": "KitKat Delights Hazelnut",
+  "brand": "Nestle",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 418,
+    "fat": 22.9,
+    "saturated_fat": 20,
+    "carbohydrates": 48,
+    "sugars": 36.4,
+    "fiber": null,
+    "protein": 4.9,
+    "salt": 0.10625,
+    "sodium": 0.0425
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-02T06:41:11Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

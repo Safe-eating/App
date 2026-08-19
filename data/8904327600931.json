@@ -1,0 +1,35 @@
+{
+  "barcode": "8904327600931",
+  "name": "Myfitness Chocolate peanut butter",
+  "brand": "",
+  "quantity": "510 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 615.625,
+    "fat": 46.875,
+    "saturated_fat": 9.375,
+    "carbohydrates": 18.75,
+    "sugars": 9.375,
+    "fiber": 6.25,
+    "protein": 25,
+    "salt": 0.8671875,
+    "sodium": 0.346875
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-19T14:51:44Z",
+  "fetched_at": "2026-08-19T01:43:30Z"
+}

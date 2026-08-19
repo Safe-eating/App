@@ -1,0 +1,36 @@
+{
+  "barcode": "8904335600800",
+  "name": "Rolled Oats",
+  "brand": "Yoga bar",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats",
+    "en:6.3 Oat products"
+  ],
+  "ingredients": "100% Golden Rolled Oats.",
+  "per_100g": {
+    "energy_kcal": 387,
+    "fat": 8.4,
+    "saturated_fat": 1.7,
+    "carbohydrates": 66.5,
+    "sugars": 1.7,
+    "fiber": 10,
+    "protein": 12.6,
+    "salt": 0.02375,
+    "sodium": 0.0095
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-18T08:09:18Z",
+  "fetched_at": "2026-08-19T01:44:01Z"
+}

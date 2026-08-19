@@ -1,0 +1,28 @@
+{
+  "barcode": "8906036676290",
+  "name": "Santhrupthi Milk",
+  "brand": "Nandini",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 89,
+    "fat": 6.1,
+    "saturated_fat": 4,
+    "carbohydrates": 5.1,
+    "sugars": 5.1,
+    "fiber": null,
+    "protein": 3.5,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-14T11:31:28Z",
+  "fetched_at": "2026-08-19T12:35:54Z"
+}

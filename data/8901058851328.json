@@ -1,0 +1,32 @@
+{
+  "barcode": "8901058851328",
+  "name": "Maggi 2 Minutes Noodles Masala",
+  "brand": "Maggi",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "Humectant (45) Masala TASTEMAKER: Hydrolysed groundnut (peanut) protein, Mixed spices ((23.6%) (Dehydrated onion, Coriander powder, Red chilli powder (3%), Turmeric powder, Dried garlic (2.5%), Cumin powder, Aniseed powder, Fenugreek powder, Ginger powder, Black pepper powder (0.4%), Clove powder (0.1%), Green cardamom powder (0.1%) \u0026 Nutmeg powder)}, Noodle powder {Refined wheat flour (Maida), Palm oil, Salt, Wheat gluten, Acidity regulators (500(i), 501 (i) \u0026 170(i)), Thickeners (508 \u0026 412) and Humectant (4514) Sugar, Edible starch, Palm oil, Thickener (508), Caramel salt mix (Salt, Colour (150d) \u0026 Palm oil), Acidity regulators (330 \u0026 500), Salt, Flavour enhancer (635) and Mineral (Ferric pyrophosphate).",
+  "per_100g": {
+    "energy_kcal": 437.14285714286,
+    "fat": 15.714285714286,
+    "saturated_fat": 7.1428571428571,
+    "carbohydrates": 63.571428571429,
+    "sugars": 3.4285715648106,
+    "fiber": null,
+    "protein": 10.42857170105,
+    "salt": 3.0803571428573,
+    "sodium": 1.23214285714292
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-14T19:04:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,35 @@
+{
+  "barcode": "8901030865237",
+  "name": "Tomato Ketchup",
+  "brand": "kissan",
+  "quantity": "weight: 1.2 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 133,
+    "fat": 0.4,
+    "saturated_fat": 0.03,
+    "carbohydrates": 31,
+    "sugars": 29.2,
+    "fiber": 0.6,
+    "protein": 1.1,
+    "salt": 2.37,
+    "sodium": 0.948
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-03T21:24:30Z",
+  "fetched_at": "2026-08-19T00:20:18Z"
+}

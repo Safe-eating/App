@@ -1,0 +1,29 @@
+{
+  "barcode": "7622202216695",
+  "name": "Gems",
+  "brand": "Cadbury",
+  "quantity": "7.11g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:gems"
+  ],
+  "ingredients": "Sugar, Hydrogenated Oils, Milk Solids, Cocoa Solids (8%*), Refined Wheat Flour (Maida), Emulsifiers (414, 442, 476), Colours (171, 102, 133, 124, 127, 122, 132, 110), Glazing Agent (903), Liquid Glucose, Flavours (Natural, Nature Identical and Artificial (Caramel and Vanilla) Flavouring Substances). Allergen Information: Contains Milk, Wheat, Sulphites. May Contain Barley, Soy",
+  "per_100g": {
+    "energy_kcal": 469,
+    "fat": 17.5,
+    "saturated_fat": 17.1,
+    "carbohydrates": 75.9,
+    "sugars": 70.8,
+    "fiber": null,
+    "protein": 3.5,
+    "salt": 0.095,
+    "sodium": 0.038
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-21T15:47:00Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

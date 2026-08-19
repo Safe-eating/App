@@ -1,0 +1,26 @@
+{
+  "barcode": "2050007399681",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:Nuts and Seeds Mix"
+  ],
+  "ingredients": "Dried Cranberries Split (20%) (Cranberries, Sugar, Sunflower Oil), Cashewnut Split (14%), Seedless Black Raisins (13%), Almond Split (10%), Black Currant (10%), Sunflower Seeds (10%), Pumpkin Seeds (10%), Dried Fig (7%), Dried Apricot (3%) \u0026 Green Pistachio Nuts (3%)",
+  "per_100g": {
+    "energy_kcal": 5.62,
+    "fat": 18.48,
+    "saturated_fat": 2.79,
+    "carbohydrates": 56.23,
+    "sugars": 15.29,
+    "fiber": 0,
+    "protein": 14.64,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-14T12:58:14Z",
+  "fetched_at": "2026-08-19T00:01:10Z"
+}

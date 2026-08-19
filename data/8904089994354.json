@@ -1,0 +1,28 @@
+{
+  "barcode": "8904089994354",
+  "name": "Lite Fit Milk",
+  "brand": "Heritage",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk Solids (Skimmed Milk), Vitamin A (Palmitate) \u0026 Vitamin D (Ergocalciferol)",
+  "per_100g": {
+    "energy_kcal": 33,
+    "fat": 0.1,
+    "saturated_fat": 0.065,
+    "carbohydrates": 5,
+    "sugars": 5,
+    "fiber": null,
+    "protein": 3.1,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-15T15:00:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

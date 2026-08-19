@@ -1,0 +1,29 @@
+{
+  "barcode": "8906112995918",
+  "name": "Millet Chips",
+  "brand": "LO Foods",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 487.6,
+    "fat": 22.8,
+    "saturated_fat": 10.2,
+    "carbohydrates": 63.7,
+    "sugars": 1.1,
+    "fiber": 5.5,
+    "protein": 6.9,
+    "salt": 1.14925,
+    "sodium": 0.4597
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-12T14:50:03Z",
+  "fetched_at": "2026-08-19T12:51:56Z"
+}

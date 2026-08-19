@@ -1,0 +1,27 @@
+{
+  "barcode": "8908019299076",
+  "name": "Parivar Refined soyabean oil",
+  "brand": "Parivar",
+  "quantity": "1L or 910g",
+  "categories": [
+    "en:Refined-soyabean-oil",
+    "en:Soyabean oil"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 819,
+    "fat": 91,
+    "saturated_fat": 14.5333333333333,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-10T05:21:55Z",
+  "fetched_at": "2026-08-19T13:19:26Z"
+}

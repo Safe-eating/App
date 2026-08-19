@@ -1,0 +1,31 @@
+{
+  "barcode": "89080528",
+  "name": "Iced Latté",
+  "brand": "",
+  "quantity": "170ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:coffees",
+    "en:coffee-drinks"
+  ],
+  "ingredients": "Toned milk (55%), Water, Milk solids, Sugar, Coffee (0.6%), Thickeners (1440, 415), Acidity regulators (500(ii), 332(ii)), Nature-identical flavouring substances, Emulsifier (322(i)), Stabilizer (407) and lodized salt. Allergen Note: Contains Milk and Soy. FOR MRP (incl. of all taxes): - MFD. - USE BY - Lot No.: SEE BOTTOM PANEL",
+  "per_100g": {
+    "energy_kcal": 56,
+    "fat": 1.5,
+    "saturated_fat": 1.3,
+    "carbohydrates": 8.6,
+    "sugars": 6.7,
+    "fiber": 0,
+    "protein": 2.2,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T14:21:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

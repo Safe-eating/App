@@ -1,0 +1,26 @@
+{
+  "barcode": "0769807238367",
+  "name": "Curry it Hyderabadi Biryani Cooking Paste",
+  "brand": "Curry it",
+  "quantity": "",
+  "categories": [
+    "en:cooking-helpers"
+  ],
+  "ingredients": "Paste - Onions, Olive Oil, Tomatoes, Curd, Desi Ghee (3%), Garlic, Fried Onions, Ginger, Mint Leaves, Coriander Leaves, Coriander Powder, Salt, Degi Mirch, Fennel Seeds, Cumin Seeds. Magic Pouch - Bay Leaf, Green Cardamom, Black Cardamom, Cloves, Black Pepper, Star Anise, Cinnamon.",
+  "per_100g": {
+    "energy_kcal": 183.6,
+    "fat": 13.08,
+    "saturated_fat": 3.67,
+    "carbohydrates": 13.24,
+    "sugars": 4.81,
+    "fiber": null,
+    "protein": 3.23,
+    "salt": 4.125,
+    "sodium": 1.65
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-29T12:12:52Z",
+  "fetched_at": "2026-08-18T23:55:33Z"
+}

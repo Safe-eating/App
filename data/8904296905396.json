@@ -1,0 +1,32 @@
+{
+  "barcode": "8904296905396",
+  "name": "Fabsta Digestive Biscuits",
+  "brand": "Tata",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:biscuit-cookie-vitamins-content-guaranteed",
+    "en:Cokm"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 490.7,
+    "fat": 21.59,
+    "saturated_fat": 11.02,
+    "carbohydrates": 66.93,
+    "sugars": 15.9,
+    "fiber": 5.07,
+    "protein": 7.16,
+    "salt": 50,
+    "sodium": 20
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-11T03:31:55Z",
+  "fetched_at": "2026-08-19T01:41:58Z"
+}

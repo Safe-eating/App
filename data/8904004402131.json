@@ -1,0 +1,31 @@
+{
+  "barcode": "8904004402131",
+  "name": "Dry fruit mix",
+  "brand": "Haldiram's",
+  "quantity": "200 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:crackers-appetizers",
+    "en:plain-salty-snacks"
+  ],
+  "ingredients": "Refined Palmolein Oil, Split Pulse Moong (Moong Dal), Potato, Almonds(12.5%), Cashew Nuts (12.5%), Raisins (8%), Bengal Gram Flour (Besan), Spinach, Cucumber Seed, Edible Common Salt, Black Pepper Powder, Dried Mango Powder, Red Chilli Powder, Pipal, Clove Powder, Colour (INS 140(i)), Dried Ginger Powder, Cumin, Bay Leaves, Nutmeg, Cinnamon \u0026 Asafoetida. Allergen: Contains Almonds \u0026 Cashews May Contains Peanut, Sesame Seed, Milk, Soy, Mustard Seed, Sulphite \u0026 Wheat",
+  "per_100g": {
+    "energy_kcal": 538,
+    "fat": 30.8,
+    "saturated_fat": 9.04,
+    "carbohydrates": 44.91,
+    "sugars": 8.05,
+    "fiber": 6.1,
+    "protein": 17.15,
+    "salt": 0.875,
+    "sodium": 0.35
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-03T06:53:59Z",
+  "fetched_at": "2026-08-19T01:24:44Z"
+}

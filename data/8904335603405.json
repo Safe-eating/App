@@ -1,0 +1,32 @@
+{
+  "barcode": "8904335603405",
+  "name": "Protein Muesli",
+  "brand": "Yogabar",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 386,
+    "fat": 10.7,
+    "saturated_fat": 3.9,
+    "carbohydrates": 53.1,
+    "sugars": 20.2,
+    "fiber": 7.5,
+    "protein": 23,
+    "salt": 0.224,
+    "sodium": 0.0896
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T04:58:51Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "0028400034227",
+  "name": "Sea Salted Whole Cashews",
+  "brand": "Made In Nature",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:cashew-nuts"
+  ],
+  "ingredients": "Cashews, vegetable oil (sunflower, cottonseed, soybean, and/or peanut oil) and sea salt.",
+  "per_100g": {
+    "energy_kcal": 607.142857142857,
+    "fat": 42.8571428571429,
+    "saturated_fat": 7.14285714285714,
+    "carbohydrates": 27.1428571428571,
+    "sugars": 4.28571428571429,
+    "fiber": 2.85714285714286,
+    "protein": 14.2857142857143,
+    "salt": 1.25,
+    "sodium": 0.5
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-26T03:21:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

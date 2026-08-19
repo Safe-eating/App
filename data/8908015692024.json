@@ -1,0 +1,24 @@
+{
+  "barcode": "8908015692024",
+  "name": "Chicken Cheese Momos",
+  "brand": "Wow Momo",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 235.72,
+    "fat": 12.56,
+    "saturated_fat": 6.49,
+    "carbohydrates": 16.98,
+    "sugars": 1.92,
+    "fiber": null,
+    "protein": 13.69,
+    "salt": 1.5682,
+    "sodium": 0.62728
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-22T14:14:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

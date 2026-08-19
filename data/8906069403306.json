@@ -1,0 +1,33 @@
+{
+  "barcode": "8906069403306",
+  "name": "VEEBA PEANUT BUTTER UNSWEETENED",
+  "brand": "VEEBA",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Roasted Peanuts (100.0%).",
+  "per_100g": {
+    "energy_kcal": 652,
+    "fat": 52,
+    "saturated_fat": 10.4,
+    "carbohydrates": 18,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 28,
+    "salt": 0.075,
+    "sodium": 0.03
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-02T16:30:39Z",
+  "fetched_at": "2026-08-19T12:42:05Z"
+}

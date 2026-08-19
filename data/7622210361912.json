@@ -1,0 +1,28 @@
+{
+  "barcode": "7622210361912",
+  "name": "Cadbury Dairy Milk Roast Almond Chocolate bar",
+  "brand": "",
+  "quantity": "15g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries"
+  ],
+  "ingredients": "SUGAR, MILK SOLIDS (23%). ALMONDS (12%), COCOA MASS (11X). COCOA BUTTER, NON-HYDROGENATED VEGETABLE FAT (PALM SHEA ILL EMULSIFIERS (SOVA LECITHIN DNS 322001. PGPR (INS (76), NATURE IDENTICAL VAN FLATOUR NATURAL AND ARTIFICIAL MINED ON FR FOOD ADDITIVES ARE OF PLANT AND SYNTHETIC ORIGINS. ALLERGEN INFORMATION: CONTAINS KILK, ALMONDS, SOYA HA WHEAT, OTHER TREE NUTS. RAMUAN: GULA, PEPEJAL SUSU (23%), BADAM (12%). JISIN KOKO (11%), MENTEGA KORO. TEMAN SA TERHIDROGEN (KELAPA SAWIT SHEA ILLIPE), PENGEMULSI (LESITIN SOYA (INS 322]. POLIGLISEROL ESTER TERINTERESTER ASID RISINGLE PERISA ADITIF MAKANAN ADALAH DARIPADA SUMBER TUMBUHAN DAN SINTETIK, MAKLUMAT ALERGEN: MENGANDUNGI SUSU, BADAN MUNGKIN MENGANDUNGI KACANG TANAN, GANDUM, KEKACANG LAIN.",
+  "per_100g": {
+    "energy_kcal": 540,
+    "fat": 32,
+    "saturated_fat": 16,
+    "carbohydrates": 56.6666666666667,
+    "sugars": 52,
+    "fiber": 0,
+    "protein": 8.66666666666667,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-05T14:50:09Z",
+  "fetched_at": "2026-08-19T00:11:31Z"
+}

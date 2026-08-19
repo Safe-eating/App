@@ -1,0 +1,24 @@
+{
+  "barcode": "8904335604242",
+  "name": "Seeds Mix",
+  "brand": "Yoga Bar",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 552,
+    "fat": 42,
+    "saturated_fat": 28,
+    "carbohydrates": 21.2,
+    "sugars": 1.2,
+    "fiber": 11.6,
+    "protein": 28.4,
+    "salt": 1.19,
+    "sodium": 0.476
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-05T14:19:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

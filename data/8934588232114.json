@@ -1,0 +1,29 @@
+{
+  "barcode": "8934588232114",
+  "name": "Sting Energy",
+  "brand": "Pepsi, PepsiCo, Sting, Sting Energy, Suntory",
+  "quantity": "320ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:energy-drinks",
+    "en:energy-drink-with-sugar"
+  ],
+  "ingredients": "Nước bão hòa CO₂, đường HFCS, đường, chất điều chỉnh độ axit (330, 331()), hương dâu giống tự nhiên, hỗn hợp premix (Taurine, Caffeine (145 - 255 mgll), Inositol, các Vitamin: B3, B6, B12), chất chống oxy hóa (452(j), 385), chất bảo quản (202, 211), màu tổng hợp (Allura red AC 129), bột chiết xuất hồng sâm (40 mg/L).",
+  "per_100g": {
+    "energy_kcal": 78.1875,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 19.53125,
+    "sugars": 19.53125,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.07953125,
+    "sodium": 0.0318125
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-13T19:47:19Z",
+  "fetched_at": "2026-08-19T13:24:40Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8901719120251",
+  "name": "Chatkeens Khatta Meetha mixture",
+  "brand": "Parle",
+  "quantity": "530g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "REFINED OIL, FLATTENED RICE (24%), BESAN, SUGAR, CHANA DAL (9%), SAGO (5.0%), PEANUTS (4.2%), MASUR (2.3%), DEHYDRATED PEAS (1.0%), IODISED SALT, SPICES \u0026 CONDIMENTS (TURMERIC POWDER, BISHOPS SEEDS. CHILLI POWDER), CITRIC ACID, RAISING AGENT [500(i), 341()] CONTAINS: NUTS LAST CHARACTER OF THE BATCH INDICATES THE NAME OF REFINED OIL. $-REFINED COTTON SEED OIL @-REFINED PALMOLEIN OIL. A PROPRIETARY FOOD-SNACKS (CATEGORY-15.1)",
+  "per_100g": {
+    "energy_kcal": 558,
+    "fat": 34,
+    "saturated_fat": 8.3,
+    "carbohydrates": 54.1,
+    "sugars": 12,
+    "fiber": null,
+    "protein": 8.9,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-05-18T17:26:45Z",
+  "fetched_at": "2026-08-19T01:00:15Z"
+}

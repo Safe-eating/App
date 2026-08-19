@@ -1,0 +1,30 @@
+{
+  "barcode": "8906090572118",
+  "name": "Karare",
+  "brand": "Too yumm",
+  "quantity": "70 gm",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 489,
+    "fat": 21,
+    "saturated_fat": 9.4,
+    "carbohydrates": 69,
+    "sugars": 6.9,
+    "fiber": 4.1,
+    "protein": 5.6,
+    "salt": 2.225,
+    "sodium": 0.89
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-28T16:20:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

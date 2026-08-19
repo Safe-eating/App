@@ -1,0 +1,31 @@
+{
+  "barcode": "8904043551876",
+  "name": "Modern Wow Pav (Bun)",
+  "brand": "Bimbo, Modern",
+  "quantity": "280g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:bread-rolls"
+  ],
+  "ingredients": "Refined Wheat Flour Mada), Sugar, Edible Vegetable Fat (Interesterified), Yeast, lodized Salt, Gluten, Soya Flour, Preservative (282), Emulsifier (471), Acidity Regulator (260), flour Treatment Agent (510) and Antioxidant (300)",
+  "per_100g": {
+    "energy_kcal": 261,
+    "fat": 2.98,
+    "saturated_fat": 2.17,
+    "carbohydrates": 48.9,
+    "sugars": 2.9,
+    "fiber": null,
+    "protein": 9.5,
+    "salt": 1.105,
+    "sodium": 0.442
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-21T00:17:16Z",
+  "fetched_at": "2026-08-19T01:27:48Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8906045140881",
+  "name": "Whey Protein Isolate",
+  "brand": "Nutrabay",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 357.1875,
+    "fat": 1.34375,
+    "saturated_fat": 0.65625,
+    "carbohydrates": 5.65625,
+    "sugars": 1.6875,
+    "fiber": null,
+    "protein": 80.625,
+    "salt": 1.233359375,
+    "sodium": 0.49334375
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-13T12:54:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

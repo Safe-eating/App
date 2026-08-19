@@ -1,0 +1,35 @@
+{
+  "barcode": "8906009072449",
+  "name": "Snappers Cream n'Onion",
+  "brand": "Unibic",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips",
+    "en:Potato Crackers"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Refined Oil (Paim and Palmolein), Sugar, Dehydrated Potato Flakes [Potato (6%), Emulsifier (E 471). Stabilizer E 450 i), Antioxidants (E 223, E 330)], Seasoning Powder [Sugar, lodized Salt, Milk Solids, Onion Powder, Dehydrated Herbs, Cheese Powder, Spices and Condiments, Acidity Regulator (E330), Yeast Extract, Flavour Enhancers (E 627, E 631)). Liquid Glucose, Starch, lodized Salt, Invert Syrup, Milk Solids. Raising Agents (E 500 ii, E 503 ii). Emulsifiers (E 322 from Soya, E 471), Flour Treatment Agents [E 223, E 1101 (i)]. CONTAINS ADDED FLAVOURS (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "per_100g": {
+    "energy_kcal": 487,
+    "fat": 21,
+    "saturated_fat": 10.8,
+    "carbohydrates": 67,
+    "sugars": 15,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 2.4925,
+    "sodium": 0.997
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T15:27:38Z",
+  "fetched_at": "2026-08-19T01:56:31Z"
+}

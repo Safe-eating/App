@@ -1,0 +1,26 @@
+{
+  "barcode": "8906000921753",
+  "name": "Mootichoor Ghee Laddoo",
+  "brand": "Daadi's",
+  "quantity": "200 g",
+  "categories": [
+    "en:pulses based sweets"
+  ],
+  "ingredients": "Sugar, Bengal Gram Flour, Ghee (16%), Refined Wheat Flour, Cashew Nuts, Cardamom Powder, Permitted Synthetic Colour (INS 102 \u0026 INS 110) \u0026 Food Additives (INS 200 \u0026 INS 202). Allergen Advice: Contains Wheat and Nuts. May Conations Milk and Soy.",
+  "per_100g": {
+    "energy_kcal": 393.03,
+    "fat": 15.83,
+    "saturated_fat": 11.35,
+    "carbohydrates": 58.93,
+    "sugars": 25.2,
+    "fiber": 0,
+    "protein": 3.71,
+    "salt": 0.050725,
+    "sodium": 0.02029
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-04T12:09:11Z",
+  "fetched_at": "2026-08-19T01:48:13Z"
+}

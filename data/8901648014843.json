@@ -1,0 +1,34 @@
+{
+  "barcode": "8901648014843",
+  "name": "Fruit Yoghurt Mango",
+  "brand": "Mother Diary",
+  "quantity": "100g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:fermented-dairy-desserts-with-fruits",
+    "en:yogurts",
+    "en:fruit-yogurts"
+  ],
+  "ingredients": "Milk, Sugar (12%), Milk Solids, Mango Pulp-4%, Active Lactic Culture Thickening Agent TINS 1442), Dried Citrus Pulp, Nature-Identical Flavouring Substances and Synthetic Food Colours (INS 102 \u0026 INS 118)",
+  "per_100g": {
+    "energy_kcal": 132,
+    "fat": 4.6,
+    "saturated_fat": 3.2,
+    "carbohydrates": 18.5,
+    "sugars": 18.5,
+    "fiber": null,
+    "protein": 4.1,
+    "salt": 0.1355,
+    "sodium": 0.0542
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:43:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

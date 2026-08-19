@@ -1,0 +1,33 @@
+{
+  "barcode": "8901123005403",
+  "name": "Lotto Choco Pie With Rich Marshmallow",
+  "brand": "Lotte",
+  "quantity": "336g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:cocoa-and-its-products",
+    "en:biscuits",
+    "en:chocolates",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "CHOCO COVERING (25%) [SUGAR, HYDROGENATED VEGETABLE FAT (PALM), COCOA SOLIDS, MILK SOLIDS, EMULSIFIERS (322,476), ARTIFICIAL FLAVOUR (VANILLA)], WHEAT FLOUR (MAIDA), SUGAR, LIQUID GLUCOSE, INTERESTERIFIED \u0026 HYDROGENATED VEGETABLE FAT (PALM), HUMECTANTS(420, 422), RAISING AGENTS 1500(ii), 503(ii)]. MILK SOLIDS, DEXTROSE, PRESERVATIVES (202, 281), 1ODISED SALT, STABILIZERS (407, 406, 440, 401, 461, 415), ACIDITY REGULATOR 1341(i)] AND ARTIFICIAL FLAVOUR (MILK). cal diet)",
+  "per_100g": {
+    "energy_kcal": 434.478284553214,
+    "fat": 17.1428571428571,
+    "saturated_fat": 12.8571428571429,
+    "carbohydrates": 66.0714285714286,
+    "sugars": 37.1428571428571,
+    "fiber": null,
+    "protein": 3.92857142857143,
+    "salt": 1.91071428571429,
+    "sodium": 0.764285714285714
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-10T12:02:36Z",
+  "fetched_at": "2026-08-19T00:37:23Z"
+}

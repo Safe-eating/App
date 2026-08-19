@@ -1,0 +1,31 @@
+{
+  "barcode": "8908014814151",
+  "name": "Premium Pav Bun",
+  "brand": "Mr Bakewell",
+  "quantity": "160 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:bread-rolls"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Water, Sugar, Yeast, Refined Palm Oil, lodized Salt, Milk Powder, Flour Improver, Emulsifiers DATEM (INS472e), Calcium Propionate (INS282), Gluten.",
+  "per_100g": {
+    "energy_kcal": 300,
+    "fat": 3.33,
+    "saturated_fat": 1.67,
+    "carbohydrates": 60,
+    "sugars": 6.67,
+    "fiber": 1.67,
+    "protein": 6.67,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-19T21:10:25Z",
+  "fetched_at": "2026-08-19T13:16:18Z"
+}

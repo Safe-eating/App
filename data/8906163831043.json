@@ -1,0 +1,29 @@
+{
+  "barcode": "8906163831043",
+  "name": "All Natural Panchmeva",
+  "brand": "Farmley",
+  "quantity": "21g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts"
+  ],
+  "ingredients": "Almonds, Cashew Nuts, Dried Dates, Black Raisins, Green Raisins. ALLERGEN CAUTION: Contain tree nuts. This product has bee packed in an integrated nuts \u0026 dried fruits processing unit and may contain traces of other nuts or dried fruits.",
+  "per_100g": {
+    "energy_kcal": 479.1,
+    "fat": 23,
+    "saturated_fat": 2.7,
+    "carbohydrates": 53.3,
+    "sugars": 31.1,
+    "fiber": 4.7,
+    "protein": 14.7,
+    "salt": 0.02325,
+    "sodium": 0.0093
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-17T19:19:48Z",
+  "fetched_at": "2026-08-19T13:01:43Z"
+}

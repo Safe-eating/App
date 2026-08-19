@@ -1,0 +1,35 @@
+{
+  "barcode": "8908018964159",
+  "name": "Culinary Sauce",
+  "brand": "Gold Coin",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup"
+  ],
+  "ingredients": "Water, Vegetable Pulp, Tomato Paste or Tomato Puree, Sugar Dat. Acidity Regulator (INS 260), Thickening Agents (INS 412 or 415). On Powder, Garlic Powder, Corn Starch, Mixed Spices and Preservative (INS 211 Contains Permitted Synthetic Food Colour ((INS 129). Contains Permitted Class II Preservative.",
+  "per_100g": {
+    "energy_kcal": 69.9,
+    "fat": 0.08,
+    "saturated_fat": 0,
+    "carbohydrates": 16.4,
+    "sugars": 4.3,
+    "fiber": null,
+    "protein": 1,
+    "salt": 1.9525,
+    "sodium": 0.781
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T16:13:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

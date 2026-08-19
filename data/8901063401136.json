@@ -1,0 +1,29 @@
+{
+  "barcode": "8901063401136",
+  "name": "Cheese Slices",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 309,
+    "fat": 25,
+    "saturated_fat": 16,
+    "carbohydrates": 4,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 17,
+    "salt": 3.565,
+    "sodium": 1.426
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-18T06:57:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

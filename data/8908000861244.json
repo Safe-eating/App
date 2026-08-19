@@ -1,0 +1,30 @@
+{
+  "barcode": "8908000861244",
+  "name": "gopal chowkdi",
+  "brand": "namkeen",
+  "quantity": "80",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:Gopal namkeen from maida",
+    "en:Namkeen"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (57%), EDIBLE VEGETABLE OIL (REFINED PALMOLEIN OIL), CORN STARCH (7.5%), SUGAR, SPICES \u0026 CONDIMENTS (DRY MANGO POWDER, CHILLI POWDER), ACIDITY REGULATOR (INS 330), EDIBLE COMMON SALT (BLACK SALT), RAISING AGENT (INS 500(II), INS 500(I)) AND FLOUR TREATMENT AGENT (INS 170(1)).\n\nALLERGEN ADVICE:\n\nCONTAINS WHEAT\n\nMAY CONTAINS CEREALS CONTAINING GLUTEN, MILK, TREE NUTS, PEANUTS, SESAME SEEDS, MUSTARD SEEDS AND SOYA.",
+  "per_100g": {
+    "energy_kcal": 489,
+    "fat": 23,
+    "saturated_fat": 10.9,
+    "carbohydrates": 62.3,
+    "sugars": 9.72,
+    "fiber": 2.15,
+    "protein": 8.2,
+    "salt": 2.56675,
+    "sodium": 1.0267
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-23T12:09:34Z",
+  "fetched_at": "2026-08-19T13:05:28Z"
+}

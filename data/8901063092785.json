@@ -1,0 +1,24 @@
+{
+  "barcode": "8901063092785",
+  "name": "Gâteau",
+  "brand": "",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 505,
+    "fat": 23,
+    "saturated_fat": 11,
+    "carbohydrates": 68.2,
+    "sugars": 27.4,
+    "fiber": null,
+    "protein": 6.3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T22:20:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8904063214768",
+  "name": "Haldiram's Chatpata Dal",
+  "brand": "Haldiram's",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:roasted-peas",
+    "en:salty-roasted-peas",
+    "en:salty-roasted-chickpeas"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 462.9,
+    "fat": 17.3,
+    "saturated_fat": 5.5,
+    "carbohydrates": 57.3,
+    "sugars": 4.1,
+    "fiber": 18.4,
+    "protein": 19.5,
+    "salt": 1.94775,
+    "sodium": 0.7791
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-28T21:16:14Z",
+  "fetched_at": "2026-08-19T01:30:22Z"
+}

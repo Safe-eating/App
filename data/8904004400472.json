@@ -1,0 +1,26 @@
+{
+  "barcode": "8904004400472",
+  "name": "Masala moongfali",
+  "brand": "Haldiram's",
+  "quantity": "",
+  "categories": [
+    "en:food"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 637,
+    "fat": 51.91,
+    "saturated_fat": 10.76,
+    "carbohydrates": 21.85,
+    "sugars": 0,
+    "fiber": 3.33,
+    "protein": 20.62,
+    "salt": 1.0625,
+    "sodium": 0.425
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T17:31:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

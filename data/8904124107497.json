@@ -1,0 +1,28 @@
+{
+  "barcode": "8904124107497",
+  "name": "Pasteurized Double Toned Milk",
+  "brand": "Ananda",
+  "quantity": "400ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 11,
+    "fat": 0.325,
+    "saturated_fat": 0.25,
+    "carbohydrates": 1.2,
+    "sugars": 1.175,
+    "fiber": null,
+    "protein": 0.8,
+    "salt": 0.0259375,
+    "sodium": 0.010375
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-17T13:00:18Z",
+  "fetched_at": "2026-08-19T01:35:41Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8908022254956",
+  "name": "Phab 10g Protein Milkshake Coffee Tiramisu",
+  "brand": "Phab",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:milkshakes"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 45.3,
+    "fat": 0.3,
+    "saturated_fat": 0,
+    "carbohydrates": 7.05,
+    "sugars": 3.75,
+    "fiber": 2.8,
+    "protein": 5,
+    "salt": 0.17505,
+    "sodium": 0.07002
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-09T10:50:52Z",
+  "fetched_at": "2026-08-19T13:21:26Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262301107",
+  "name": "Sky Scooper Multi-layered ice cream",
+  "brand": "Amul",
+  "quantity": "77g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Ice Cream Layer (74%): Milk solids, sugar, almond pieces (4%), stabilizers (), emulsifier (471), artificial flavouring substances (creamy almond), colours (102 12 33). Chocolate Slurry Layer (16%): Cocoa solids, cocoa butter, edible vegetable oil soyabean oil), milk solids, emulsifier (476), artificial flavouring substances (vanila Almond Cokies Layer (6%): Refined wheat flour (maida), edible vegetable oil (palmolein oil, sugar, almond pieces (4%), milk solids, liquid glucose, custard powder, lodized salt, raising agent (500 503)], artificial flavouring substances creamy almond); Topping: Almond pieces (4%)",
+  "per_100g": {
+    "energy_kcal": 324.675324675325,
+    "fat": 22.3376623376623,
+    "saturated_fat": 11.038961038961,
+    "carbohydrates": 27.6623376623377,
+    "sugars": 23.3766233766234,
+    "fiber": null,
+    "protein": 4.80519480519481,
+    "salt": 0.172077922077922,
+    "sodium": 0.0688311688311688
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-29T17:27:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

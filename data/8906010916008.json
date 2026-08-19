@@ -1,0 +1,32 @@
+{
+  "barcode": "8906010916008",
+  "name": "CHOCO BAR ,CHOCO VANILLA STICK",
+  "brand": "Dairy Day",
+  "quantity": "35ml/28g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:frozen-sticks",
+    "en:ice-creams",
+    "en:ice-cream-bars"
+  ],
+  "ingredients": "Inner Layer: Vanilla Frozen Dessert Ingredients (76%) (Water, Milk and Milk Solids, Sugar, Edible Vegetable Oil (Palm Kernel Oil), Emulsifer and Stabiliser (INS471,412,433,407,401) CONTAINS ADDED FLAVOUR-NATURE IDENTICAL AND ARTIFICIAL VANILLA FLVAOURING SUBSTANCES). Outer Layer: Choco compound coating (24%) (Sugar, Palm kernel oil, Cocoa solids, Milk solids, Emulsifier INS 322, CONTAINS NATURE IDENTICAL VANILLA FLAVOURING SUBSTANCES). Allergen Information: Contains Milk. FROZEN DESSERT CONTAINS 6 % EDIBLE VEGETABLE OIL",
+  "per_100g": {
+    "energy_kcal": 364.142857142857,
+    "fat": 23.8571428571429,
+    "saturated_fat": 21.3928571428571,
+    "carbohydrates": 33.0357142857143,
+    "sugars": 33.0357142857143,
+    "fiber": null,
+    "protein": 4.32142857142857,
+    "salt": 78.125,
+    "sodium": 31.25
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-27T12:09:05Z",
+  "fetched_at": "2026-08-19T02:02:48Z"
+}

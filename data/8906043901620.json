@@ -1,0 +1,30 @@
+{
+  "barcode": "8906043901620",
+  "name": "Vanilla Muffin Small",
+  "brand": "Bliss Chocolates India Pvt. Ltd.",
+  "quantity": "2 pcs",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes",
+    "en:muffins"
+  ],
+  "ingredients": "Muffin Mix (Sugar, Wheat Flour, Edible Vegetable Oil, Edible Common Salt, Emulsifiers \u0026 Stabilizers - E477, E466, E412, E435, E322), Dextrose, Starch, Raising Agents, - E55(II), E541(I), Egg, Maltodextrin, Vanilla Flavour, Citric Acid, Water, Edible Refined Oil.",
+  "per_100g": {
+    "energy_kcal": 386,
+    "fat": 20.2,
+    "saturated_fat": 13.4,
+    "carbohydrates": 45.2,
+    "sugars": 26.37,
+    "fiber": 7.5,
+    "protein": 5.6,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-02-11T11:27:37Z",
+  "fetched_at": "2026-08-19T12:36:51Z"
+}

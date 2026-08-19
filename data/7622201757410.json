@@ -1,0 +1,29 @@
+{
+  "barcode": "7622201757410",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates"
+  ],
+  "ingredients": "Contains milk chocolate with colour white chocolate category 5 point won. .3 ingredients, milk, chocolate, 97%, sugar milk. Solids, twenty four percent cocoa butter, cocoa solids emulsifier (442,476) flavours, natural natural identical and artificial vanilla flavouring substances, coloured white chocolate, 3%. OK, sugar, Cocoa, butter milk, solid 0 point Sevan. Lactose colour, one hundred and sixty two flavours, artificial vanilla flavouring substance",
+  "per_100g": {
+    "energy_kcal": 537,
+    "fat": 31.3,
+    "saturated_fat": 21.5,
+    "carbohydrates": 56.6,
+    "sugars": 18,
+    "fiber": 0,
+    "protein": 7.7,
+    "salt": 0.3125,
+    "sodium": 0.125
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-30T14:25:08Z",
+  "fetched_at": "2026-08-19T00:08:30Z"
+}

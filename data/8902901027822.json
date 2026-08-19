@@ -1,0 +1,32 @@
+{
+  "barcode": "8902901027822",
+  "name": "Little Millet",
+  "brand": "Desi Kitchen",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:millet"
+  ],
+  "ingredients": "Little Millet",
+  "per_100g": {
+    "energy_kcal": 347,
+    "fat": 3.9,
+    "saturated_fat": 0.6,
+    "carbohydrates": 65.5,
+    "sugars": 0.1,
+    "fiber": null,
+    "protein": 10.3,
+    "salt": 0.012,
+    "sodium": 0.0048
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-08T08:45:31Z",
+  "fetched_at": "2026-08-19T01:17:53Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8908001246729",
+  "name": "Natkhat Classic",
+  "brand": "Crax",
+  "quantity": "82g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:puffed-salty-snacks",
+    "en:puffs"
+  ],
+  "ingredients": "Semolina (76%), Edible Vegetable Oil (Refined Palmolein Oil), *Seasoning [lodised Salt, Amchur, Red Chilli, Cumin, Coriander, Kachari, Asafoetida, Black Pepper, Ginger, Clove, Mace, Nutmeg, Cinnamon, Mustard Seed, Mint Leaves, Black Cardamom. Acidity Regulator (INS 330), Flavour Enhancer (INS 635)], Wheat Bran, Flavour(s) (Natural \u0026 Nature Identical Flavouring Substances)",
+  "per_100g": {
+    "energy_kcal": 92.4,
+    "fat": 3.2,
+    "saturated_fat": 1.5,
+    "carbohydrates": 14,
+    "sugars": 0.4,
+    "fiber": null,
+    "protein": 1.9,
+    "salt": 532.5,
+    "sodium": 213
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T06:27:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

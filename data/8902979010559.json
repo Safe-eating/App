@@ -1,0 +1,33 @@
+{
+  "barcode": "8902979010559",
+  "name": "Belgian Chocolate Milkshake",
+  "brand": "Cavin's",
+  "quantity": "170ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:dairy-drinks",
+    "en:bars",
+    "en:flavoured-milks"
+  ],
+  "ingredients": "Double toned milk, Sugar, Cocoa solids (1.5%), Flavour (Artificial (Belgian chocolate) Flavouring substances), Stabilizer (INS 412, INS 415, INS 407), Sequestrants (INS 451(i)), Belgian chocolate (0.1%) (Emulsifier (INS 322(i)), Flavour (Natural flavouring substance)), Emulsifier (INS 471). ALLERGEN ADVICE: Contains Milk",
+  "per_100g": {
+    "energy_kcal": 172.6,
+    "fat": 4.6,
+    "saturated_fat": 2.9,
+    "carbohydrates": 27,
+    "sugars": 25.1,
+    "fiber": null,
+    "protein": 5.8,
+    "salt": 0.4025,
+    "sodium": 0.161
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-18T09:45:13Z",
+  "fetched_at": "2026-08-19T01:19:25Z"
+}

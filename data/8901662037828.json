@@ -1,0 +1,31 @@
+{
+  "barcode": "8901662037828",
+  "name": "CHICKEN BIRYANI MIX",
+  "brand": "Suhana",
+  "quantity": "50 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:spices",
+    "en:spice-mix"
+  ],
+  "ingredients": "Iodised Salt, Onion, Garlic, Ginger, Dry Mint Leaves, Refined Sunflower Oil [Sunflower Oil, Permitted Antioxidant (E319), Black Pepper, Chilli, Cumin, CASSIA BARK (TAJ), Clove, Caraway, Green Chilli, Black Cardamom, Sugar, Green Cardamom, Bay Leaf, Long Pepper, Turmeric, Bishop's Seeds, Fennel Seeds, Lemon Powder, Artificial Flavour (Kewda) Minimum Spice Content: 40% Salt Content: 22%",
+  "per_100g": {
+    "energy_kcal": 480,
+    "fat": 27.5,
+    "saturated_fat": 12.2,
+    "carbohydrates": 45,
+    "sugars": 3.9,
+    "fiber": 1.53967704474925,
+    "protein": 13.7,
+    "salt": 5.575,
+    "sodium": 2.23
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T10:09:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,35 @@
+{
+  "barcode": "8901262153607",
+  "name": "Protein Lassi - Plain",
+  "brand": "Amul",
+  "quantity": "200 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:dairy-drinks",
+    "en:fermented-dairy-desserts",
+    "en:yogurts"
+  ],
+  "ingredients": "Milk solids, water, sweetener (965, 960), stabilizers [440, 418, 331 (iii)], acidity regulator (330), enzyme (beta galactosidase), active culture. Allergen Information: Contains milk.  'CONTAINS NATURALLY OCCURRING SUGARS'",
+  "per_100g": {
+    "energy_kcal": 62,
+    "fat": 0.85,
+    "saturated_fat": 0.5,
+    "carbohydrates": 6,
+    "sugars": 1.6,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 0.08,
+    "sodium": 0.032
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-02T16:27:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906020580145",
+  "name": "Wheat Lachha Parantha",
+  "brand": "ID",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour (Atta, 52.75%), RO-Purified Water, Edible Vegetable Oil (Rice Bran Oil Soyabean Oil, Coconut Oil, Sesame Oil) and Iodised Salt.",
+  "per_100g": {
+    "energy_kcal": 300,
+    "fat": 11,
+    "saturated_fat": 5,
+    "carbohydrates": 45,
+    "sugars": 0,
+    "fiber": 3,
+    "protein": 7,
+    "salt": 0.525,
+    "sodium": 0.21
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-06T03:07:52Z",
+  "fetched_at": "2026-08-19T02:07:56Z"
+}

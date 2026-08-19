@@ -1,0 +1,27 @@
+{
+  "barcode": "8901030960451",
+  "name": "Horlicks Mothers Plus",
+  "brand": "Horlicks",
+  "quantity": "200g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "Milk Solids (75%), Dietary Fibre (Wheat Dextrin), Edible Fat powder [High Oleic Sunflower Oil, Corn Solids, Sodium Caseinate, Emulsifier (INS 471), Antioxidant (INS 305)], Cereal Extract, Minerals, Vitamins, Docosahexaenoic Acid (DHA) powder from Schizochytrium sp. (0.51%), Edible Vegetable Oil (Palm Kernel oil), Natural Flavour, Nature Identical flavouring substances, Natural Colour [INS 100(i)],",
+  "per_100g": {
+    "energy_kcal": 351,
+    "fat": 5,
+    "saturated_fat": 1.8,
+    "carbohydrates": 58.5,
+    "sugars": 35,
+    "fiber": 8,
+    "protein": 22,
+    "salt": 1.25,
+    "sodium": 0.5
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-20T09:18:48Z",
+  "fetched_at": "2026-08-19T00:21:23Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8901088129824",
+  "name": "Classic masala",
+  "brand": "saffola",
+  "quantity": "500",
+  "categories": null,
+  "ingredients": "Rolled Oats (55.5%), Millets (16%) [Jowar flare), Bajra flakes (2%)], Maltodextrin, lodised Salt, Spices and Condiments-, Dried Vegetables (Carrots (1.15%), Onion - Flakes (1.15%), Green Peas (0.69% ) ), Sugar, Starch, Refined Rice Bran Oil, Natural Flavouring Substances, Hydrolysed Vegetable protein, Flavour Enhances ( 627, INS 631), Nature-identical Flavouring Substances. Contains Onions, Turmeric, Pepper, Red Chill, Cumin, Garlic, Fenugreek, Clove, Nutmeg. ALLERGEN ADVICE: Contains Oats, Soy \u0026 Sulphite, May contain trace of Milk \u0026 other Gluten containing cereals",
+  "per_100g": {
+    "energy_kcal": 362,
+    "fat": 12.1,
+    "saturated_fat": 1.4,
+    "carbohydrates": 64.1,
+    "sugars": 4.7,
+    "fiber": 12.7,
+    "protein": 11.9,
+    "salt": 5.315,
+    "sodium": 2.126
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-06T08:36:50Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

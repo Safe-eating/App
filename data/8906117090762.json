@@ -1,0 +1,30 @@
+{
+  "barcode": "8906117090762",
+  "name": "Rice Popped Chips - Classic Salted",
+  "brand": "BRB",
+  "quantity": "48 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "RICE, RICE BRAN OIL, PULSES (12.4%), GREEN PEAS (8.2%), IODIZED SALT\nCONTAINS SOY. MAY CONTAIN TRACES OF MILK.",
+  "per_100g": {
+    "energy_kcal": 447.2,
+    "fat": 13.6,
+    "saturated_fat": 3.2,
+    "carbohydrates": 70.4,
+    "sugars": 0.8,
+    "fiber": 4.4,
+    "protein": 10.8,
+    "salt": 1.351,
+    "sodium": 0.5404
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-20T16:11:26Z",
+  "fetched_at": "2026-08-19T12:53:02Z"
+}

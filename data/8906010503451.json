@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010503451",
+  "name": "Noodle Sticks Masala",
+  "brand": "Balaji Wafers",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN), EDIBLE COMMON SALT, SUGAR, TAPIOCA STARCH, SPICES \u0026 CONDIMENTS 2% (CHILLI, CORIANDER, CUMIN, DRY MANGO, BLACK PEPPER, CLOVE, FENUGREEK, CINNAMON, TURMERIC), CORN STAR DEHYDRATED VEGETABLE POWDER (ONION, GARLIC), MALTODEXTRIN HYDROLYZED VEGETABLE PROTEIN (SOYA), NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES (TURMERIC, GARLIC), ACIDITY REGULATOR (NS 330), YEAST EXTRACT, ANTICAKING AGENT (INS 551), FLAVOUR ENHANCER (INS 635) PROPRIETARY FOOD",
+  "per_100g": {
+    "energy_kcal": 508,
+    "fat": 25.5,
+    "saturated_fat": 12,
+    "carbohydrates": 62.5,
+    "sugars": 3.5,
+    "fiber": null,
+    "protein": 7.2,
+    "salt": 3.205,
+    "sodium": 1.282
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-22T06:47:57Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

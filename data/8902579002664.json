@@ -1,0 +1,31 @@
+{
+  "barcode": "8902579002664",
+  "name": "Smoodh Chocolate",
+  "brand": "Parlē Agro",
+  "quantity": "150 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:chocolate-milks"
+  ],
+  "ingredients": "WATER, MILK SOLIDS*, SUGAR, WHEY POWDER, COCOA SOLIDS (1%), MALT EXTRACT, EMULSIFIERS AND STABILIZERS [INS 4806), INS 471, INS 466, INS 407, INS 340, INS 452], NATURE IDENTICAL FLAVOURING SUBSTANCE (CHOCOLATE) AND IODISED SALT.\r\n\r\nALLERGEN INFORMATION: CONTAINS MILK, BARLEY, WHEAT AND MILLET",
+  "per_100g": {
+    "energy_kcal": 83.8,
+    "fat": 1.8,
+    "saturated_fat": 1.2,
+    "carbohydrates": 14.7,
+    "sugars": 13.9,
+    "fiber": null,
+    "protein": 2.2,
+    "salt": 0.1695,
+    "sodium": 0.0678
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-17T14:40:04Z",
+  "fetched_at": "2026-08-19T01:16:17Z"
+}

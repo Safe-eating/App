@@ -1,0 +1,32 @@
+{
+  "barcode": "8901262176477",
+  "name": "Mawa Malai Kulfi",
+  "brand": "Amul",
+  "quantity": "60ml/50g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:frozen-sticks",
+    "en:ice-creams",
+    "en:ice-cream-bars"
+  ],
+  "ingredients": "Inner Layer - Kulfi (77%). Milk solids, sugar, permitted emulsifiers (435, 471), stabilizers (407, 412), artificial flavouring substances (kulfi, condensed milk, cardamom), colours (122,133,102). Outer Layer - Coating (23%): Coconut oil, sugar, milk solids, cashew pieces (2%), emulsifier (322). Allergen Information: Contains milk, nuts.",
+  "per_100g": {
+    "energy_kcal": 162,
+    "fat": 11.8,
+    "saturated_fat": 7.8,
+    "carbohydrates": 12.3,
+    "sugars": 12,
+    "fiber": null,
+    "protein": 2.3,
+    "salt": 0.075,
+    "sodium": 0.03
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-07T16:21:40Z",
+  "fetched_at": "2026-08-19T00:45:13Z"
+}

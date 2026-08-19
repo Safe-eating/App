@@ -1,0 +1,33 @@
+{
+  "barcode": "8904083302292",
+  "name": "Greek Yogurt",
+  "brand": "Milky Mist",
+  "quantity": "100g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:greek-style-yogurts"
+  ],
+  "ingredients": "Pasteurised double toned milk, Milk Solids, Active Lactic Cultures (L.bacillus delbrueckii subsp. bulgaricus, S.thermophilus),",
+  "per_100g": {
+    "energy_kcal": 77.8,
+    "fat": 2.2,
+    "saturated_fat": 1.6,
+    "carbohydrates": 6.5,
+    "sugars": 6.5,
+    "fiber": null,
+    "protein": 8,
+    "salt": 0.1675,
+    "sodium": 0.067
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:24:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

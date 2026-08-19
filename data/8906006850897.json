@@ -1,0 +1,24 @@
+{
+  "barcode": "8906006850897",
+  "name": "Three Cheers Chocolate",
+  "brand": "Baskin Robbins",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 229.384615384615,
+    "fat": 10.7692307692308,
+    "saturated_fat": 6,
+    "carbohydrates": 29.2307692307692,
+    "sugars": 26.3076923076923,
+    "fiber": 0.461538461538462,
+    "protein": 3.69230769230769,
+    "salt": 0.124230769230769,
+    "sodium": 0.0496923076923077
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-19T02:10:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

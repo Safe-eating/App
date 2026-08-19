@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063093690",
+  "name": "Britannia Good Day Casio cookie",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 506.666666666667,
+    "fat": 158,
+    "saturated_fat": 77.3333333333333,
+    "carbohydrates": 448.666666666667,
+    "sugars": 135.333333333333,
+    "fiber": null,
+    "protein": 44.6666666666667,
+    "salt": 3.66666666666667,
+    "sodium": 1.46666666666667
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-23T04:18:23Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

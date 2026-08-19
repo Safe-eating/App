@@ -1,0 +1,37 @@
+{
+  "barcode": "8902710500752",
+  "name": "Nutty Fruity Muesli",
+  "brand": "Baggry’s",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis",
+    "en:breakfast-cereals-fortified-with-vitamins-and-chemical-elements",
+    "en:diet-breakfast-cereals",
+    "en:diet-breakfast-cereals-fortified-with-vitamins-and-chemical-elements",
+    "en:diet-breakfast-cereals-with-fruits",
+    "en:breakfast-cereals-diet-with-dried-fruits-fortified-with-vitamins-and-chemical-elements"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 380,
+    "fat": 4.4,
+    "saturated_fat": 0.8,
+    "carbohydrates": 79.8,
+    "sugars": 19.4,
+    "fiber": 7.3,
+    "protein": 8.9,
+    "salt": 0.665,
+    "sodium": 0.266
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-16T16:55:54Z",
+  "fetched_at": "2026-08-19T01:16:54Z"
+}

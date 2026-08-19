@@ -1,0 +1,31 @@
+{
+  "barcode": "8901786061006",
+  "name": "",
+  "brand": "Everest",
+  "quantity": "100 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:spices",
+    "en:spice-mix"
+  ],
+  "ingredients": "Rock Salt, Black Salt, Dried Mango, Cumin, Pomegranate seed, Black Pepper, Dried Ginger, Chilli, Mint Leaf, Nutmeg, Bishop's Weed, Citric Acid and Compounded Asafoetida.  ALLERGEN INFORMATION: May Contain Mustard",
+  "per_100g": {
+    "energy_kcal": 338,
+    "fat": 3.4,
+    "saturated_fat": 0.4,
+    "carbohydrates": 71.8,
+    "sugars": 6.2,
+    "fiber": null,
+    "protein": 5,
+    "salt": 50,
+    "sodium": 20
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T07:15:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

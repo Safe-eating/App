@@ -1,0 +1,26 @@
+{
+  "barcode": "4904059826405",
+  "name": "Chekkalu",
+  "brand": "Tasties",
+  "quantity": "150 g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Rice flour (64%), Refined palmolein oil, Clarified butter, Onion, Ginger, Green chilli, Roasted bengal gram dal, Iodised salt, Sesame seeds, Cumin and Curry leaves.",
+  "per_100g": {
+    "energy_kcal": 470,
+    "fat": 23.13,
+    "saturated_fat": 11.78,
+    "carbohydrates": 58.37,
+    "sugars": 2,
+    "fiber": 4.8,
+    "protein": 7.18,
+    "salt": 1.6075,
+    "sodium": 0.643
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-21T12:44:45Z",
+  "fetched_at": "2026-08-19T00:04:50Z"
+}

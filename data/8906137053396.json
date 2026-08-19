@@ -1,0 +1,24 @@
+{
+  "barcode": "8906137053396",
+  "name": "Greek Yogurt Vanilla",
+  "brand": "Milma",
+  "quantity": "100g",
+  "categories": null,
+  "ingredients": "Milk solids, Steviol Glycosides (E 960), Active Yogurt Culture, Natural colour and Flavour.",
+  "per_100g": {
+    "energy_kcal": 129,
+    "fat": 4.5,
+    "saturated_fat": 3.1,
+    "carbohydrates": 2.5,
+    "sugars": 2.4,
+    "fiber": null,
+    "protein": 7,
+    "salt": 0.14125,
+    "sodium": 0.0565
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-29T17:21:25Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "7622202051685",
+  "name": "Tang Mango",
+  "brand": "Tang",
+  "quantity": "750g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 389,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 96.7,
+    "sugars": 94.6,
+    "fiber": null,
+    "protein": 0.1,
+    "salt": 0.19,
+    "sodium": 0.076
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-16T11:53:56Z",
+  "fetched_at": "2026-08-19T00:09:49Z"
+}

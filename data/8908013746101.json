@@ -1,0 +1,39 @@
+{
+  "barcode": "8908013746101",
+  "name": "Classic Lemonade",
+  "brand": "Cravova",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:non-alcoholic-beverages",
+    "en:plant-based-beverages",
+    "en:carbonated-drinks",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars",
+    "en:soft-drinks",
+    "en:sodas",
+    "en:fruit-juices",
+    "en:fruit-soft-drinks",
+    "en:lemonades"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, LEMON JUICE CONCENTRATE 0.72% (EQUIVALENT TO 6% LEMON JUICE), EMULSIFIERS (INS 414, INS 445), ACIDITY REGULATOR (INS 330), (LEMON), PRESERVATIVE (INS 211), ANTIOXIDANT (INS 300). IODISED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES",
+  "per_100g": {
+    "energy_kcal": 46,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 11.5,
+    "sugars": 11.1,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-16T09:10:24Z",
+  "fetched_at": "2026-08-19T13:15:10Z"
+}

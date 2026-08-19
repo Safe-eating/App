@@ -1,0 +1,28 @@
+{
+  "barcode": "8901262153416",
+  "name": "Amul Calci+ Milk",
+  "brand": "Amul",
+  "quantity": "250ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Double toned milk, milk solids.",
+  "per_100g": {
+    "energy_kcal": 58,
+    "fat": 1.48,
+    "saturated_fat": 1,
+    "carbohydrates": 6.48,
+    "sugars": 6.48,
+    "fiber": null,
+    "protein": 4.48,
+    "salt": 0.172,
+    "sodium": 0.0688
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-23T05:29:31Z",
+  "fetched_at": "2026-08-19T00:44:10Z"
+}

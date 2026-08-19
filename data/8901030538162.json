@@ -1,0 +1,34 @@
+{
+  "barcode": "8901030538162",
+  "name": "Feast",
+  "brand": "Kwality Wall's",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:frozen-sticks",
+    "en:ice-creams",
+    "en:ice-cream-bars",
+    "en:coated-ice-cream-bars",
+    "en:ice-cream-bars-coated-with-chocolate"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 393.548387096774,
+    "fat": 25.1612903225806,
+    "saturated_fat": 18.8709677419355,
+    "carbohydrates": 38.7096774193548,
+    "sugars": 34.5161290322581,
+    "fiber": 1.45161290322581,
+    "protein": 3.87096774193548,
+    "salt": 0.149193548387097,
+    "sodium": 0.0596774193548387
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-20T18:37:23Z",
+  "fetched_at": "2026-08-19T00:14:36Z"
+}

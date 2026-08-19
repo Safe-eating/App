@@ -1,0 +1,24 @@
+{
+  "barcode": "8908023404435",
+  "name": "Nature's Harvest Mix",
+  "brand": "Tong Garden",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 400,
+    "fat": 10,
+    "saturated_fat": 6.66666666666667,
+    "carbohydrates": 66.6666666666667,
+    "sugars": 20,
+    "fiber": 6.66666666666667,
+    "protein": 6.66666666666667,
+    "salt": 1.5,
+    "sodium": 0.6
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-06T18:15:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

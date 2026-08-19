@@ -1,0 +1,28 @@
+{
+  "barcode": "8907083112021",
+  "name": "Makhana popped fox nuts",
+  "brand": "Snack factory",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers"
+  ],
+  "ingredients": "Makhana (Popped Gorgon Nut) (72%), Refined Palmolein Oil, Spices \u0026 Condiments (Chilli, Coriander, Ginger, Cumin, Fenugreek, Turmeric, Long Pepper, Nutmeg, Mace, Dried Mint leaves (0.3%), Dried Mango (Amchur), Dried Fenugreek Leaves), Salt, Black Salt, Sugar, Olive Oil (1%), Maltodextrin, Hydrolysed Peanut Protein, Flour Treatment Agent (INS 510), Acidity Regulators (INS 296, INS 330) and Flavour Enhancers (INS 627, INS 631), Anticaking Agent (INS 551), Turmeric Oleoresin, Garden Mint Oleoresin, Natural Colour (INS 141) and Added Flavour (Natural Flavouring Substance - Mint). Sugar, ALLERGEN INFORMATION: MAY CONTAINS NUT",
+  "per_100g": {
+    "energy_kcal": 514,
+    "fat": 26.8,
+    "saturated_fat": 11.17,
+    "carbohydrates": 60.04,
+    "sugars": 4.34,
+    "fiber": null,
+    "protein": 8.23,
+    "salt": 1.26615,
+    "sodium": 0.50646
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-06T14:46:36Z",
+  "fetched_at": "2026-08-19T13:03:50Z"
+}

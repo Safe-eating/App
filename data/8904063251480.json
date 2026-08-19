@@ -1,0 +1,32 @@
+{
+  "barcode": "8904063251480",
+  "name": "Gup Shup Peanuts",
+  "brand": "Haldiram's",
+  "quantity": "18g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:peanuts"
+  ],
+  "ingredients": "Peanuts (55%), Refined Wheat Flour (Maida), Edible Vegetable Oil (Palmolein, Cotton Seed, Rice Bran), Starch, Spices \u0026 Condiments (Red Chilli Powder, Clove Powder, Coriander Powder, Cumin Powder, Black Pepper Powder, Ginger Powder, Mace Powder, Nutmeg Powder, Asafoetida), lodised Salt, Sugar and Acidity Regulator (INS 330) and Natural \u0026 Nature Identical Flavouring Substances. *Used as natural flavouring agent. Allergen Information: Contains Gluten \u0026 Peanuts. *",
+  "per_100g": {
+    "energy_kcal": 561,
+    "fat": 37,
+    "saturated_fat": 16,
+    "carbohydrates": 45,
+    "sugars": 2.5,
+    "fiber": null,
+    "protein": 12,
+    "salt": 2.7,
+    "sodium": 1.08
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-06-16T15:31:53Z",
+  "fetched_at": "2026-08-19T01:30:59Z"
+}

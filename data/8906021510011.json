@@ -1,0 +1,30 @@
+{
+  "barcode": "8906021510011",
+  "name": "Idly mix",
+  "brand": "Gangwal",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:idly-batter-mixes"
+  ],
+  "ingredients": "RICE FLOUR (65%), URAD DAL FLOUR, CITRIC ACID (E 330), SOD. BICARBONATE (E 500), IODISED SALT.",
+  "per_100g": {
+    "energy_kcal": 343.56,
+    "fat": 0.56,
+    "saturated_fat": 0.11,
+    "carbohydrates": 73.39,
+    "sugars": 1,
+    "fiber": 4.34,
+    "protein": 11.24,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-20T16:39:50Z",
+  "fetched_at": "2026-08-19T02:09:01Z"
+}

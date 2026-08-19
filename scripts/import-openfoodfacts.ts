@@ -280,11 +280,66 @@ const num = (v: unknown): number => {
  * confident 100/100 "Safe to eat". Refusing to import it is the only honest
  * option: a product with no numbers cannot answer any question this app asks.
  */
+/** Grams of anything in 100 g of food cannot exceed 100. */
+const MAX_G_PER_100 = 100;
+/** Pure fat is about 900 kcal per 100 g; nothing edible beats that. */
+const MAX_KCAL_PER_100 = 900;
+
+/**
+ * Open Food Facts is crowd-sourced, and a slip of the decimal point gets in.
+ * The dataset genuinely contains "1000 g saturated fat per 100 g" and
+ * "158 g fat in a biscuit". These are not edge cases to clamp — the whole
+ * record is untrustworthy, so it is dropped rather than scored on nonsense.
+ *
+ * @returns a description of the problem, or null when the record is plausible
+ */
+function physicallyImpossible(per: Record<string, number | null> | undefined): string | null {
+  if (!per) return null;
+  for (const k of ['fat', 'saturated_fat', 'carbohydrates', 'sugars', 'fiber', 'protein']) {
+    const v = num(per[k]);
+    if (v > MAX_G_PER_100) return `${k} = ${round2(v)} g per 100 g`;
+  }
+  const kcal = num(per.energy_kcal);
+  if (kcal > MAX_KCAL_PER_100) return `energy = ${round2(kcal)} kcal per 100 g`;
+  return null;
+}
+
+const round2 = (n: number) => Math.round(n * 100) / 100;
+
+/** Counts records whose parent nutrients had to be raised. Reported at the end. */
+const repaired: string[] = [];
+
+/**
+ * A total must be at least the sum of the parts declared under it. Where the
+ * data disagrees we RAISE the parent to its logical minimum — never lower a
+ * figure someone actually declared, since that would be inventing data.
+ */
+function repairNutrition(n: Food['nutrition'], label: string): Food['nutrition'] {
+  // Unit conversions upstream leave values like 129.285714285714. Nobody needs
+  // twelve decimal places of a biscuit.
+  for (const k of Object.keys(n) as (keyof Food['nutrition'])[]) n[k] = round2(n[k]);
+
+  let touched = false;
+  if (n.sugarG > n.carbsG + 0.001) {
+    n.carbsG = n.sugarG;
+    touched = true;
+  }
+  const fatParts = n.satFatG + n.transFatG;
+  if (fatParts > n.fatG + 0.001) {
+    n.fatG = fatParts;
+    touched = true;
+  }
+  if (touched) repaired.push(label);
+  return n;
+}
+
 function hasUsableNutrition(per: Record<string, number | null> | undefined): boolean {
   if (!per) return false;
   if (num(per.energy_kcal) > 0) return true;
+  // Presence is not enough — a record of all zeroes is just as misleading as an
+  // empty one, since zero penalties still add up to a confident 100/100.
   const macros = ['fat', 'carbohydrates', 'protein', 'sugars', 'saturated_fat'];
-  return macros.filter((k) => per[k] != null).length >= 2;
+  return macros.filter((k) => num(per[k]) > 0).length >= 2;
 }
 
 /**
@@ -352,7 +407,7 @@ function toFood(p: OffProduct, disambiguate: boolean): Food {
   const sodiumMg =
     per.sodium != null ? num(per.sodium) * 1000 : num(per.salt) * 400;
 
-  const nutrition: Food['nutrition'] = {
+  const nutrition: Food['nutrition'] = repairNutrition({
     energyKcal: num(per.energy_kcal),
     fatG: num(per.fat),
     satFatG: num(per.saturated_fat),
@@ -363,11 +418,13 @@ function toFood(p: OffProduct, disambiguate: boolean): Food {
     fibreG: num(per.fiber),
     proteinG: num(per.protein),
     sodiumMg: Math.round(sodiumMg * 100) / 100,
-  };
+  }, `${p.barcode}  ${p.name}`);
 
   const servingAmount = SERVING_BY_CATEGORY[categoryId] ?? 100;
+  // Two products can share a name. Prefer the brand to tell them apart, then
+  // energy, and fall back to the barcode tail so the names are never identical.
   const name = disambiguate
-    ? `${p.name} (${nutrition.energyKcal} kcal/100 ${unit})`
+    ? `${p.name} (${p.brand ? p.brand : `${nutrition.energyKcal} kcal/100 ${unit}`})`
     : p.name;
 
   const allergens = findAllergens(p.ingredients ?? '', p.name ?? '');
@@ -453,6 +510,7 @@ const seen = new Set<string>();
 const foods: Food[] = [];
 const unmapped: string[] = [];
 const noNutrition: string[] = [];
+const nonsense: string[] = [];
 
 for (const p of raw) {
   if (seen.has(p.barcode)) {
@@ -460,6 +518,12 @@ for (const p of raw) {
     continue;
   }
   seen.add(p.barcode);
+
+  const impossible = physicallyImpossible(p.per_100g);
+  if (impossible) {
+    nonsense.push(`${p.barcode}  ${p.name}  (${impossible})`);
+    continue;
+  }
 
   if (!hasUsableNutrition(p.per_100g)) {
     noNutrition.push(`${p.barcode}  ${p.name}`);
@@ -469,12 +533,48 @@ for (const p of raw) {
   foods.push(toFood(p, (nameCounts.get(p.name) ?? 0) > 1));
 }
 
+// Final guard: if two entries still share a display name, tag them with the
+// last four barcode digits so lists never show two identical rows.
+const byName = new Map<string, Food[]>();
+for (const f of foods) {
+  const list = byName.get(f.name);
+  if (list) list.push(f);
+  else byName.set(f.name, [f]);
+}
+let tagged = 0;
+for (const [, list] of byName) {
+  if (list.length < 2) continue;
+  for (const f of list) {
+    f.name = `${f.name} · ${f.id.slice(-4)}`;
+    tagged++;
+  }
+}
+if (tagged) {
+  console.log(`\nℹ ${tagged} product(s) share a name and were tagged with their barcode tail.`);
+}
+
 foods.sort((a, b) => a.name.localeCompare(b.name));
 fs.writeFileSync(OUT_FILE, JSON.stringify(foods, null, 2) + '\n');
 
 for (const f of foods) {
   console.log(
     `  ✓ ${f.id}  ${f.categoryId.padEnd(11)} ${f.processing.padEnd(20)} ${f.additives.length} additive(s)  ${f.name}`
+  );
+}
+
+if (nonsense.length) {
+  console.log(
+    `
+⚠ ${nonsense.length} product(s) SKIPPED — physically impossible nutrition, so the record cannot be trusted at all.`
+  );
+  nonsense.slice(0, 10).forEach((n) => console.log(`    ${n}`));
+  if (nonsense.length > 10) console.log(`    …and ${nonsense.length - 10} more`);
+}
+
+if (repaired.length) {
+  console.log(
+    `
+ℹ ${repaired.length} product(s) had a parent nutrient raised to match its declared parts (sugars > carbs, or sat+trans > total fat).`
   );
 }
 

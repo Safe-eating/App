@@ -1,0 +1,30 @@
+{
+  "barcode": "7622202334009",
+  "name": "dairy milk",
+  "brand": "Dairy Milk,Cadbury",
+  "quantity": "11 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:milk-chocolates"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 525,
+    "fat": 27.9,
+    "saturated_fat": 18.7,
+    "carbohydrates": 62.6,
+    "sugars": 58.8,
+    "fiber": 0,
+    "protein": 6.8,
+    "salt": 0.2675,
+    "sodium": 0.107
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-05T14:09:39Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "2781234567863",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds"
+  ],
+  "ingredients": "Chia seeds, Flax seeds Pumpkin seeds \u0026 Sunflower seeds ALLERGY CAUTION: May Contain Tree Nuts. This Product has been packed in an integrated nuts and dried fruits processing unit and may contain \u0026 occasional tree of other, nuts or dried fruits. Processed, Packed \u0026 Marketed By: K.G. OVERSEAS PVT. LTD. PLOT NO 10, GROUND FLOOR BLK-GI, LAWRANCE ROAD INDUSTRIAL AREA, Keshav Puram, New Delhi, North West Delhi, Delhi, 110035 For Consumer Complaints \u0026 Feedback Please Contact Customer Care Manager On Above Mentioned Address Or Customer Care No.: 1800-123-8486 2",
+  "per_100g": {
+    "energy_kcal": 455,
+    "fat": 20,
+    "saturated_fat": 3.6,
+    "carbohydrates": 65,
+    "sugars": 45,
+    "fiber": 3.6,
+    "protein": 7.3,
+    "salt": 682.5,
+    "sodium": 273
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-06T09:44:29Z",
+  "fetched_at": "2026-08-19T00:18:14Z"
+}

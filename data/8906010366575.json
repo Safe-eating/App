@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010366575",
+  "name": "Masala Pori",
+  "brand": "Town Bus",
+  "quantity": "28 g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Puffed Rice (44%), Bengal Gram Flour, Rice Flour, Fried Gram Dal, Groundnuts, Garlic, Red Chilli Powder, Turmeric Powder,Red Chilli, Cumin, Mustard, Coriander Powder, Fenugreek, Curry Leaves and Asafoetida. Contains: Nuts (Peanuts) May Contains: Nuts, Milk, Wheat \u0026 Sesame.",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 28,
+    "saturated_fat": 12.3,
+    "carbohydrates": 43,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 10.3,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-15T07:07:57Z",
+  "fetched_at": "2026-08-19T01:59:39Z"
+}

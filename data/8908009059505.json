@@ -1,0 +1,24 @@
+{
+  "barcode": "8908009059505",
+  "name": "Multigrain Low GI Bread",
+  "brand": "The Health Factory",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 265.02,
+    "fat": 4.82,
+    "saturated_fat": 0.8,
+    "carbohydrates": 42.3,
+    "sugars": 2.92,
+    "fiber": 9.72,
+    "protein": 13.14,
+    "salt": 1.15,
+    "sodium": 0.46
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-28T21:07:01Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

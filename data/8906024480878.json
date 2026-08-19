@@ -1,0 +1,28 @@
+{
+  "barcode": "8906024480878",
+  "name": "Cow Milk",
+  "brand": "Dodla",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk solids, Vitamin A (Retinyl Palmitate) and Vitamin D (Ergocalciferol) Allergens: Contains Milk FAT 3.5%, SNF 8.5%",
+  "per_100g": {
+    "energy_kcal": 63,
+    "fat": 3.5,
+    "saturated_fat": 2.1,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": null,
+    "protein": 3.1,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-31T04:09:28Z",
+  "fetched_at": "2026-08-19T12:31:39Z"
+}

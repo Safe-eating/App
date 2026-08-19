@@ -1,0 +1,32 @@
+{
+  "barcode": "8904335605799",
+  "name": "High Protein Oats",
+  "brand": "Yoga Bar",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "Whole Grains (54.9%) (Instant Oats), Protein Blend (24.9%) (Texturised Soy Protein Flakes, Soy Protein Isolate, Whey Powder), Seasoning (Sugar, Iodised Salt, Acidity Regulator (Acetic Acid, Citric Acid, Tartric Acid), Mixed Spices",
+  "per_100g": {
+    "energy_kcal": 370,
+    "fat": 9,
+    "saturated_fat": 1.5,
+    "carbohydrates": 52.5,
+    "sugars": 12,
+    "fiber": 12.5,
+    "protein": 26,
+    "salt": 4.01875,
+    "sodium": 1.6075
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-03T02:48:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

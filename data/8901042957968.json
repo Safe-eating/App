@@ -1,0 +1,30 @@
+{
+  "barcode": "8901042957968",
+  "name": "MTR DOSA",
+  "brand": "MTR",
+  "quantity": "500g",
+  "categories": [
+    "en:baby-foods",
+    "en:baby-milks",
+    "en:infant-formulas",
+    "en:pre-food",
+    "en:batters"
+  ],
+  "ingredients": "Batters (Dry mix) (IFC: 6.6) : Rice flour (46%), Black gram flour (27%), Refined wheat flour (Maida), Interesterified vegetable oil, salt, Raising agent [INS 500 (ii)], Acidity regulator (INS 296), Fenugreek powder.",
+  "per_100g": {
+    "energy_kcal": 377.78,
+    "fat": 6.67,
+    "saturated_fat": 2.22,
+    "carbohydrates": 64.44,
+    "sugars": 0,
+    "fiber": 6.67,
+    "protein": 13.33,
+    "salt": 3.33,
+    "sodium": 1.33333333333332
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-03T17:52:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

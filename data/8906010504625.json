@@ -1,0 +1,31 @@
+{
+  "barcode": "8906010504625",
+  "name": "8906010504625",
+  "brand": "Gippi",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:Balaji"
+  ],
+  "ingredients": "550 BAI ASCHEIN, IL RATED VEG SEASONINE TO COMMON SALT SUGAR ARN MEAL (63 (CONTAINS ONE OR MORE OF THE FOLLOWINGS MALTODI UNORTED VEGETABLE PER UN GARLIC, TOMATO CHILL IDENTICAL FLAVOURING SURED VEGETABLE PROTEIN (SOYA) FLANTICA NATURAL \u0026 NATURE EMULSIFIER (INS 471, INS 470), MILK SOLIDS (0.1%), PAPRIKA EXTRACT (INS 1600), FLAVOUR ENHANCER (INS 627, INS 631, (NS 621) ACIDITY REGULATOR (INS 330, INS 296, INS 334|| **AS FLAVOURING \u0026 SEASONING AGENT GLUTAMATE THE TORNADO FLAMIN' CHILLI MASALA CONTAINS ADDED MONSUM G NOT RECOMMENDED FOR INFANTS BELOW 12 MONTHS AND PRENOMEN. READY-TO-EAT SAVOURIES | PROPRIETARY FOOD | INDIAN SNACKS \u0026 SAVOURES NAMKEEN ALLERGEN ADVICE: CONTAINS SOY \u0026 MILK SOLIDS PRODUCT OF INDIA",
+  "per_100g": {
+    "energy_kcal": 502,
+    "fat": 24.5,
+    "saturated_fat": 11.4,
+    "carbohydrates": 62.1,
+    "sugars": 7.9,
+    "fiber": null,
+    "protein": 6.9,
+    "salt": 2.4975,
+    "sodium": 0.999
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-19T21:01:36Z",
+  "fetched_at": "2026-08-19T02:02:15Z"
+}

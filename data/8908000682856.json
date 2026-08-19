@@ -1,0 +1,31 @@
+{
+  "barcode": "8908000682856",
+  "name": "English jeera",
+  "brand": "Kaycee",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:carbonated-drinks",
+    "en:artificially-sweetened-beverages",
+    "en:carbonated-soft-drinks-without-fruit-juice",
+    "en:carbonated-soft-drinks-without-fruit-juice-with-sugar-and-artificial-sweeteners"
+  ],
+  "ingredients": "CARBONATED WATER INGREDIENTS CARBONATED WATER. SUGAR. ACIDITY REGULATOR (330) SALT. SWEETENERS (951. 950) AND PRESERVATIVE(211) CONTAINS PERMITTED NATURAL COLOUR(1506) AND ADDED RAVOUR NATURAL FLAVOURING SUBSTANCES.) CONTAINS NO FRUIT CONTAINS ARTIFICIAL SWEETENERS AND FOR CALORIE CONSCIOUS. THIS CARBONATED WATER CONTAINS AN ADMIXTURE OF ASPARTAME AND ACESULFAME POTASSIUM. NOT RECOMMENDED FOR PHENYLKETONURICS: FOR CHILDREN: PREGNANT AND LACTATING MOTHERS. CONTAIN NON-CALORIC SWEETENER",
+  "per_100g": {
+    "energy_kcal": 4,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 1,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.2125,
+    "sodium": 0.085
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-30T11:22:23Z",
+  "fetched_at": "2026-08-19T13:04:59Z"
+}

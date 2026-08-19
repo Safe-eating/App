@@ -1,0 +1,36 @@
+{
+  "barcode": "8906081810083",
+  "name": "manchurian rings",
+  "brand": "lite-n-fit",
+  "quantity": "80g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:flours",
+    "en:cereal-flours",
+    "en:wheat-flours",
+    "en:Manchurian seasoning",
+    "en:Ref.veg oil",
+    "en:Sabudana",
+    "en:Salt \u0026 spices"
+  ],
+  "ingredients": "total fat (g)  26g 40%",
+  "per_100g": {
+    "energy_kcal": 498,
+    "fat": 26,
+    "saturated_fat": 6,
+    "carbohydrates": 60,
+    "sugars": 2,
+    "fiber": 3,
+    "protein": 6,
+    "salt": 4.6482,
+    "sodium": 1.85928
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2022-04-01T16:22:08Z",
+  "fetched_at": "2026-08-19T12:47:13Z"
+}

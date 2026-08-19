@@ -1,0 +1,26 @@
+{
+  "barcode": "8908016029263",
+  "name": "natkhat",
+  "brand": "Crax",
+  "quantity": "63 g",
+  "categories": [
+    "en:Wheat puffs"
+  ],
+  "ingredients": "Semolina (76%), Edible Vegetable Oil (Refined Palmolein Oill *Seasoning [lodised Salt, Amchur, Red Chilli, Cumin, Coriander, Kachari, Asafoetida, Black Pepper, Ginger, Clove, Mace, Nutmeg, Cinnamon, Mustard Seed, Mint Leaves, Black Cardamom, Acidity Regulator (INS 330), Flavour Enhancer (INS 635)], Wheat Bran, Flavour(s) (Natural \u0026 Nature Identical Flavouring Substances) \u0026quot;Used as part of flavouring agent Contains Wheat May Contain Soy and Milk",
+  "per_100g": {
+    "energy_kcal": 462,
+    "fat": 16,
+    "saturated_fat": 7.3,
+    "carbohydrates": 70,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 9.5,
+    "salt": 2.6625,
+    "sodium": 1.065
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-16T16:07:38Z",
+  "fetched_at": "2026-08-19T13:17:18Z"
+}

@@ -1,0 +1,34 @@
+{
+  "barcode": "81000011400100",
+  "name": "Garlic",
+  "brand": "Fresho!",
+  "quantity": "100g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:culinary-plants",
+    "en:garlic-and-their-products",
+    "en:garlic"
+  ],
+  "ingredients": "Garlic",
+  "per_100g": {
+    "energy_kcal": 111,
+    "fat": 0.25,
+    "saturated_fat": 0.005,
+    "carbohydrates": 18.6,
+    "sugars": 1.2,
+    "fiber": 5.8,
+    "protein": 5.31,
+    "salt": 0.023,
+    "sodium": 0.009
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-13T13:04:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

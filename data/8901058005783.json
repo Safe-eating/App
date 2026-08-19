@@ -1,0 +1,29 @@
+{
+  "barcode": "8901058005783",
+  "name": "Special Masala Noodles",
+  "brand": "Maggi",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "Saturated Fat (g) Inot more than 7.7 5.4 27% 939.3 657.5 27% %RDA per serve 6.90 4.83 16% Noodles: Refined wheat flour (Maida), - Trans Fat (g) (not more than) 0.13 0.09 Palm oil, Wheat gluten, lodized salt, Sodium img Thickeners (508 \u0026 412), Acidity regulators (501(i) \u0026 500 (i)) and Humectant (451(i)). Masala \u0026quot;TASTEMAKER®: Mixed spices (35.2%) (*Roasted spice powder (9.3%) Iron Img \u0026quot;Guideline Daily Amounts of an average adult (",
+  "per_100g": {
+    "energy_kcal": 397.142857142857,
+    "fat": 13.1428571428571,
+    "saturated_fat": 7.71428571428571,
+    "carbohydrates": 60.2857142857143,
+    "sugars": 3.42857142857143,
+    "fiber": null,
+    "protein": 9.57142857142857,
+    "salt": 2.34821428571429,
+    "sodium": 0.939285714285714
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-24T10:48:04Z",
+  "fetched_at": "2026-08-19T00:25:02Z"
+}

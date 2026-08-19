@@ -1,0 +1,32 @@
+{
+  "barcode": "8908014665289",
+  "name": "French Yogurt",
+  "brand": "Mamie Yova",
+  "quantity": "400g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts"
+  ],
+  "ingredients": "Pasteurized Milk, Water, Stabilizer (INS 1442), permitted starter cultures, Active permitted starter cultures: (L. delbrueikil subsp. Bulgaricus, S. thermophilus). Contains probiotic cultures: (Bifidobacterium and Lactobacillus acidophilus).",
+  "per_100g": {
+    "energy_kcal": 52.4,
+    "fat": 1.08,
+    "saturated_fat": 1.07,
+    "carbohydrates": 6.33,
+    "sugars": 4.2,
+    "fiber": null,
+    "protein": 3.44,
+    "salt": 0.1475,
+    "sodium": 0.059
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T13:52:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

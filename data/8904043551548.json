@@ -1,0 +1,33 @@
+{
+  "barcode": "8904043551548",
+  "name": "Modern 100% Whole Wheat Bread",
+  "brand": "Modern",
+  "quantity": "400 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:sliced-breads",
+    "en:wholemeal-breads",
+    "en:wholemeal-sliced-breads"
+  ],
+  "ingredients": "Whole Wheat Flour (Atta) (57.3%), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Sunflower Oil), lodized Salt, Milk Solids, Oat Flour, Soya Flour, Preservatives (282, 200), Malt Product, Flour Treatment Agents (510, 1100(i)), Acidity Regulators (341(1), 260), Emulsifier (471) and Antioxidant (300).",
+  "per_100g": {
+    "energy_kcal": 264.444444444444,
+    "fat": 2.73,
+    "saturated_fat": 1.33,
+    "carbohydrates": 43.54,
+    "sugars": 3.67,
+    "fiber": 6.4,
+    "protein": 8.78,
+    "salt": 0.97425,
+    "sodium": 0.3897
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-18T10:48:00Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

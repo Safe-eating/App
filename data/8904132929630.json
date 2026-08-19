@@ -1,0 +1,27 @@
+{
+  "barcode": "8904132929630",
+  "name": "Roasted chana",
+  "brand": "Snactac",
+  "quantity": "500g",
+  "categories": [
+    "en:snacks",
+    "en:Roasted"
+  ],
+  "ingredients": "BENGAL GRAM",
+  "per_100g": {
+    "energy_kcal": 301,
+    "fat": 5.3,
+    "saturated_fat": 0.5,
+    "carbohydrates": 41.1,
+    "sugars": 1,
+    "fiber": 26.2,
+    "protein": 19.6,
+    "salt": 0.06875,
+    "sodium": 0.0275
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-02T06:01:00Z",
+  "fetched_at": "2026-08-19T01:36:46Z"
+}

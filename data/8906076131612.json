@@ -1,0 +1,29 @@
+{
+  "barcode": "8906076131612",
+  "name": "Baker's Dozen Fresh Orange Cake",
+  "brand": "Baker's Dozen",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Orange Juice (21%,) [Water, Sugar, Orange Concentrate (20.40%), Orange Pulp (0.5%)^, Vitamin C and Flavour (Natural Flavouring Substances)], Sunflower Oil, Condensed Milk, Apple Cider Vinegar, Orange Peel Candy (1%), Baking. Powder, Raising Agent (INS 500 (ii)), lodized Salt, Preservatives (INS 202, INS 282).",
+  "per_100g": {
+    "energy_kcal": 357.8,
+    "fat": 12.76,
+    "saturated_fat": 2.08,
+    "carbohydrates": 55.3,
+    "sugars": 32.1,
+    "fiber": 2.28,
+    "protein": 5.44,
+    "salt": 0.3376,
+    "sodium": 0.13504
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-03T09:49:04Z",
+  "fetched_at": "2026-08-19T12:43:34Z"
+}

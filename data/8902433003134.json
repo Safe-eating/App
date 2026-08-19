@@ -1,0 +1,35 @@
+{
+  "barcode": "8902433003134",
+  "name": "SNICKERS BUTTERSCOTCH FLAVOUR",
+  "brand": "SNICKERS",
+  "quantity": "40 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:chocolates",
+    "en:candy-chocolate-bars",
+    "en:filled-chocolates",
+    "fr:barres-chocolatees-aux-fruits-oleagineux"
+  ],
+  "ingredients": "milk chocolate coating (35%): sugar, milk solids, serve (%) cocoa butter, cocoa solids, edible vegetable fat ,lt,5% (sal fat, palm oil), dextrose, emulsifier (322), centre filling (65%): peanuts (23%), liquid glucose, sugar, hydrogenated vegetable oil (palm oil), milk solids, lodized salt, cocoa butter, cocoa solids, edible vegetable fats ,lt,5% (sal fat, palm oil), dextrose, nature identical flavour (butterscotch),  emulsifier (322), 20 5* contains vegetable fat in addition to cocoa butter, contains milk, peanut and soy, may contain treenuts,",
+  "per_100g": {
+    "energy_kcal": 501,
+    "fat": 26.6,
+    "saturated_fat": 10.6,
+    "carbohydrates": 56.3,
+    "sugars": 44.8,
+    "fiber": null,
+    "protein": 9.9,
+    "salt": 0.5,
+    "sodium": 0.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-07T21:40:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,40 @@
+{
+  "barcode": "8904063206336",
+  "name": "Banana Chips",
+  "brand": "Haldiram's",
+  "quantity": "180 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:snacks",
+    "en:fruit-based-foods",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:dried-products",
+    "en:crisps",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits",
+    "en:banana-crisps",
+    "en:dried-bananas"
+  ],
+  "ingredients": "Banana (60%), Vegetable oil (Palmolein), Salt, Acidity Regulator (Citric Acid Powder (E330)).",
+  "per_100g": {
+    "energy_kcal": 568,
+    "fat": 40,
+    "saturated_fat": 17,
+    "carbohydrates": 49,
+    "sugars": 2,
+    "fiber": 5.71,
+    "protein": 3,
+    "salt": 1.6,
+    "sodium": 0.64
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T15:27:43Z",
+  "fetched_at": "2026-08-19T01:29:51Z"
+}

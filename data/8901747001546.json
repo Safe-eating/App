@@ -1,0 +1,33 @@
+{
+  "barcode": "8901747001546",
+  "name": "Wagh Bakri tea",
+  "brand": "Wagh Bakri",
+  "quantity": "500gm",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:hot-beverages",
+    "en:plant-based-beverages",
+    "en:beverage-preparations",
+    "en:teas",
+    "en:tea-leaves"
+  ],
+  "ingredients": "TEA",
+  "per_100g": {
+    "energy_kcal": 0.063,
+    "fat": 0.007,
+    "saturated_fat": 0.002,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.0041,
+    "sodium": 0.00165
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-19T10:20:59Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

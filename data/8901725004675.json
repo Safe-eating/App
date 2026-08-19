@@ -1,0 +1,30 @@
+{
+  "barcode": "8901725004675",
+  "name": "Oats and Raisins Cookies",
+  "brand": "Farmlite, Sunfeast",
+  "quantity": "150g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "TRANS FAT FREE _Wheat_ flour (Atta) (34.5%), Refined palm oil, _Oat_ Flakes (15.7%), Sugar, Raisins (8.7%), Corn Flakes, Liquid glucose, Raising agents [INS 503 (ii), INS 500(ii), INS 450(i)], _Milk_ solids, Maltodextrin, Invert syrup, Natural flavours and natural flavouring substances, lodized salt, Colours (INS 150d, INS 150c). Emulsifier [Lecithin (from _Soyabean_)], Artificial flavouring substances (Milk, Vanilla) and Nature identical flavouring substances.",
+  "per_100g": {
+    "energy_kcal": 464,
+    "fat": 19.5,
+    "saturated_fat": 9.8,
+    "carbohydrates": 68,
+    "sugars": 18.3,
+    "fiber": 6.9,
+    "protein": 7.5,
+    "salt": 0.74525,
+    "sodium": 0.2981
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-06T10:42:35Z",
+  "fetched_at": "2026-08-19T01:03:48Z"
+}

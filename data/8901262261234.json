@@ -1,0 +1,31 @@
+{
+  "barcode": "8901262261234",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:dairy-drinks",
+    "en:milks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 58.2352941176471,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 4.70588235294118,
+    "sugars": 4.70588235294118,
+    "fiber": 0,
+    "protein": 3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-04T15:48:04Z",
+  "fetched_at": "2026-08-19T00:47:10Z"
+}

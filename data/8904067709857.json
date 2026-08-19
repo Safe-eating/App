@@ -1,0 +1,38 @@
+{
+  "barcode": "8904067709857",
+  "name": "Roasted peanuts",
+  "brand": "Jabsons",
+  "quantity": "140 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:snacks",
+    "en:legumes",
+    "en:salty-snacks",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:roasted-nuts",
+    "en:peanuts",
+    "en:salted-nuts",
+    "en:roasted-peanuts",
+    "en:salted-peanuts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 630,
+    "fat": 52,
+    "saturated_fat": 9,
+    "carbohydrates": 21,
+    "sugars": 4,
+    "fiber": 1,
+    "protein": 20,
+    "salt": 2,
+    "sodium": 0.8
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-30T17:45:41Z",
+  "fetched_at": "2026-08-19T01:31:34Z"
+}

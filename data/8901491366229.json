@@ -1,0 +1,26 @@
+{
+  "barcode": "8901491366229",
+  "name": "Kurkure Solid Masti Masala Twisteez Crisps",
+  "brand": "Kurkure",
+  "quantity": "61gm",
+  "categories": [
+    "en:namkeen"
+  ],
+  "ingredients": "Edible Vegetable Oil (Palmolein), Edible Starch, Besan (20.1%), Rice Flour (15.3%), Potato Powder, lodised Salt, *Seasoning (~Spices and Condiments, Maltodextrin, lodised Salt, Black Salt, Milk Solids, Acidity Regulators (330, 296, 334), Flavour (Natural and Nature Identical Flavouring Substances), Sugar, Tomato Powder) *As flavouring agent. ~Contains Onion ALLERGEN ADVICE: Contains Nuts, Milk May Contain Sulphite",
+  "per_100g": {
+    "energy_kcal": 528,
+    "fat": 28.7,
+    "saturated_fat": 12.9,
+    "carbohydrates": 58.7,
+    "sugars": 0.5,
+    "fiber": null,
+    "protein": 8.6,
+    "salt": 2.195,
+    "sodium": 0.878
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T17:50:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

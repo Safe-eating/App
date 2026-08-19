@@ -1,0 +1,24 @@
+{
+  "barcode": "8906082374683",
+  "name": "choco xplosion ice cream bar",
+  "brand": "mimo ice creams",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 436.666666666667,
+    "fat": 30.8333333333333,
+    "saturated_fat": 22.3333333333333,
+    "carbohydrates": 37.1666666666667,
+    "sugars": 30.1666666666667,
+    "fiber": null,
+    "protein": 2.66666666666667,
+    "salt": 0.0725,
+    "sodium": 0.029
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-12T16:56:44Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

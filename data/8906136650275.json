@@ -1,0 +1,33 @@
+{
+  "barcode": "8906136650275",
+  "name": "Pintola peanut butter unsweetened",
+  "brand": "Pintola",
+  "quantity": "100g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Peanuts (85%), Whey Protein Concentrate (European Origin) (15%)",
+  "per_100g": {
+    "energy_kcal": 610,
+    "fat": 43,
+    "saturated_fat": 6,
+    "carbohydrates": 16.3,
+    "sugars": 3,
+    "fiber": 8,
+    "protein": 37,
+    "salt": 0.052,
+    "sodium": 0.0208
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-03T17:55:09Z",
+  "fetched_at": "2026-08-19T12:57:34Z"
+}

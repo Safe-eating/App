@@ -1,0 +1,24 @@
+{
+  "barcode": "8906005618603",
+  "name": "Mini Swiss Roll (Choco-Vanilla) [10 Rs]",
+  "brand": "Winkles",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 415.24,
+    "fat": 13.84,
+    "saturated_fat": 8.08,
+    "carbohydrates": 67.12,
+    "sugars": 41.48,
+    "fiber": null,
+    "protein": 5.56,
+    "salt": 1.6383,
+    "sodium": 0.65532
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-02T16:26:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

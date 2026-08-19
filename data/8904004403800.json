@@ -1,0 +1,33 @@
+{
+  "barcode": "8904004403800",
+  "name": "Moong dal",
+  "brand": "Haldiram, Haldiram's",
+  "quantity": "400 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:snacks",
+    "en:legumes",
+    "en:seeds",
+    "en:legume-seeds",
+    "en:pulses"
+  ],
+  "ingredients": "Split Pulse Moong (Moong Dal) (77%), Refined Cotton Seed Oil \u0026 lodised Salt.",
+  "per_100g": {
+    "energy_kcal": 476,
+    "fat": 20.93,
+    "saturated_fat": 5.64,
+    "carbohydrates": 50.66,
+    "sugars": 0,
+    "fiber": 7.52,
+    "protein": 21.31,
+    "salt": 0.39,
+    "sodium": 0.156
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-14T21:45:36Z",
+  "fetched_at": "2026-08-19T01:25:15Z"
+}

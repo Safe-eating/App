@@ -1,0 +1,30 @@
+{
+  "barcode": "7622202030901",
+  "name": "Cadbury Temptations Rum \u0026 Raisins",
+  "brand": "Cadbury",
+  "quantity": "72 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:milk-chocolates"
+  ],
+  "ingredients": "Sugar, Cocoa Butter, Raisins (18%*), Cocoa Solids, Milk Solids, Emulsifiers (442, 476), Flavours (Natural, Nature Identical and Artificial (Rum, Raisin, Vanilla) Flavouring Substances).",
+  "per_100g": {
+    "energy_kcal": 498,
+    "fat": 26.1,
+    "saturated_fat": 17,
+    "carbohydrates": 61.8,
+    "sugars": 53.2,
+    "fiber": null,
+    "protein": 5.7,
+    "salt": 0.165,
+    "sodium": 0.066
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-04T15:54:00Z",
+  "fetched_at": "2026-08-19T00:09:38Z"
+}

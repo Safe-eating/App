@@ -1,0 +1,24 @@
+{
+  "barcode": "5059883483894",
+  "name": "Clear Watermelon Daquiri",
+  "brand": "Myprotein",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 339,
+    "fat": 0.22,
+    "saturated_fat": 0.12,
+    "carbohydrates": 7.37,
+    "sugars": 1.6,
+    "fiber": 0.26,
+    "protein": 76.63,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T15:18:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,34 @@
+{
+  "barcode": "7622202326059",
+  "name": "Dairy Milk Silk Mousse",
+  "brand": "Cadbury is sold by Mondelez",
+  "quantity": "48.5 g",
+  "categories": [
+    "en:snacks",
+    "en:desserts",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:chocolate-desserts",
+    "en:milk-chocolates",
+    "en:sweet-mousses",
+    "en:chocolate-mousses"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 553,
+    "fat": 35.1,
+    "saturated_fat": 22.5,
+    "carbohydrates": 52.4,
+    "sugars": 46.1,
+    "fiber": null,
+    "protein": 8.7,
+    "salt": 0.35,
+    "sodium": 0.14
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-27T09:38:13Z",
+  "fetched_at": "2026-08-19T00:11:14Z"
+}

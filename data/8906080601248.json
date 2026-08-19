@@ -1,0 +1,30 @@
+{
+  "barcode": "8906080601248",
+  "name": "Paper boat coconut water 200ml pet",
+  "brand": "Paper Boat",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:coconut-waters"
+  ],
+  "ingredients": "COCONUT WATER (99%), SUGAR AND PRESERVATIVE (NISIN).",
+  "per_100g": {
+    "energy_kcal": 17.9415,
+    "fat": 0.1485,
+    "saturated_fat": 0.00495,
+    "carbohydrates": 4.0452,
+    "sugars": 3.2037,
+    "fiber": 0.2475,
+    "protein": 0.2079,
+    "salt": 0.0505305,
+    "sodium": 0.020212275
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-25T12:43:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

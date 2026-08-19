@@ -1,0 +1,26 @@
+{
+  "barcode": "00857462",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snakes-mini-bhakarwadi"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 562,
+    "fat": 35.08,
+    "saturated_fat": 9.37,
+    "carbohydrates": 53.82,
+    "sugars": 7.6,
+    "fiber": null,
+    "protein": 7.64,
+    "salt": 473.575,
+    "sodium": 189.43
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-11T06:24:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

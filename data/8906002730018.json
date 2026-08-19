@@ -1,0 +1,31 @@
+{
+  "barcode": "8906002730018",
+  "name": "Instant Gulab Jamun mix",
+  "brand": "Chitale Foods",
+  "quantity": "7 oz (200 g)",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes",
+    "en:cooking-helpers",
+    "en:dessert-mixes"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 431,
+    "fat": 14.6,
+    "saturated_fat": 8.2,
+    "carbohydrates": 54.6,
+    "sugars": 18.8,
+    "fiber": 1.6,
+    "protein": 20.5,
+    "salt": 1.035,
+    "sodium": 0.414
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T03:25:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

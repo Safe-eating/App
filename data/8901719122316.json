@@ -1,0 +1,36 @@
+{
+  "barcode": "8901719122316",
+  "name": "parles's potato piri piri chips",
+  "brand": "parles's",
+  "quantity": "12 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 560,
+    "fat": 33.6,
+    "saturated_fat": 16,
+    "carbohydrates": 57.2,
+    "sugars": 2.2,
+    "fiber": null,
+    "protein": 7.2,
+    "salt": 1.7325,
+    "sodium": 0.693
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-31T23:38:29Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8902901226690",
+  "name": "Sago",
+  "brand": "Good Life",
+  "quantity": "200g",
+  "categories": [
+    "en:sago"
+  ],
+  "ingredients": "Sago",
+  "per_100g": {
+    "energy_kcal": 358,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 88.7,
+    "sugars": 3.3,
+    "fiber": null,
+    "protein": 0.2,
+    "salt": 0.0025,
+    "sodium": 0.001
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-22T23:38:28Z",
+  "fetched_at": "2026-08-19T01:18:58Z"
+}

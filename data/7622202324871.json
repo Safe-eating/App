@@ -1,0 +1,31 @@
+{
+  "barcode": "7622202324871",
+  "name": "Gadour Dairy milk chocolate fruit \u0026 nut",
+  "brand": "Cadbury",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:chocolates"
+  ],
+  "ingredients": "Serving waald g. No. of serving per package TION",
+  "per_100g": {
+    "energy_kcal": 520,
+    "fat": 28.4,
+    "saturated_fat": 16.4,
+    "carbohydrates": 58.8,
+    "sugars": 54.4,
+    "fiber": null,
+    "protein": 8.5,
+    "salt": 0.265,
+    "sodium": 0.106
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T12:01:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8901725116071",
+  "name": "All Rounder",
+  "brand": "Sunfeast",
+  "quantity": "75g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Chatpata Masala"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Refined Palm Oil, Sugar, Refined Palmolein, Dehydrated Potato tato (4.5 %), Emulsifier (INS 471), Stabilizer (INS 450(0)), and Antioxidants (INS 223, INS 330)], Liquid Glucose, Starch dized Salt, invert Syrup, Milk Solids, Raising Agents [INS 500(1),INS 503(i)], Emulsifiers (INS 3220), INS 471, INS 472e nd Flour Treatment Agents [INS 223, INS1101(0)). ONTAINS ADDED FLAVOUR(S)",
+  "per_100g": {
+    "energy_kcal": 471,
+    "fat": 19.5,
+    "saturated_fat": 9.6,
+    "carbohydrates": 66.7,
+    "sugars": 15.4,
+    "fiber": 0,
+    "protein": 7.2,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-04T15:52:51Z",
+  "fetched_at": "2026-08-19T01:06:22Z"
+}

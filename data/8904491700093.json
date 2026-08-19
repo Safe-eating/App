@@ -1,0 +1,24 @@
+{
+  "barcode": "8904491700093",
+  "name": "Millet Cookies (Chocolate)",
+  "brand": "Tummy Friendly",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 412.73,
+    "fat": 11.33,
+    "saturated_fat": 5.02,
+    "carbohydrates": 64.17,
+    "sugars": 16.49,
+    "fiber": null,
+    "protein": 13.52,
+    "salt": 0.447575,
+    "sodium": 0.17903
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-18T16:46:58Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

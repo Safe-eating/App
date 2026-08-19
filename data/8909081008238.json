@@ -1,0 +1,30 @@
+{
+  "barcode": "8909081008238",
+  "name": "Mom's Magic Ghee Roasted Cashew \u0026 Almond Biscuits",
+  "brand": "Sunfeast",
+  "quantity": "54.4 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "MAIDA (REFINED WHEAT FLOUR), SUGAR, REFINED PALM OIL, INVERT SYRUP, NUTS (0.9%) [CASHEWS NUTS (0.85%), ALMONDS(0.05%)], RAISING AGENTS [500(ii), 503(ii), 450(i)], IODIZED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES (BUTTER, NUT, VANILLA, MILK), EMULSIFIERS [MONO AND DIGLYCERIDES OF FATTY ACIDS (FROM PALM OIL), LECITHIN (FROM SOYABEAN), DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL (FROM SUNFLOWER AND PALM OIL)], ARTIFICIAL FLAVOURING SUBSTANCES (BUTTER), GHEE (0.01%), FLOUR TREATMENT AGENT (223), COLOUR (150a).\nCONTAINS WHEAT, SOY, NUT, MILK, SULPHITE.",
+  "per_100g": {
+    "energy_kcal": 481,
+    "fat": 20.1,
+    "saturated_fat": 10.1,
+    "carbohydrates": 69,
+    "sugars": 25.5,
+    "fiber": null,
+    "protein": 6.8,
+    "salt": 0.67525,
+    "sodium": 0.2701
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-04T06:30:53Z",
+  "fetched_at": "2026-08-19T13:23:30Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8902756661943",
+  "name": "Cheese Corn Nuggets",
+  "brand": "Godrej Yummiez",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 279.54,
+    "fat": 12.9,
+    "saturated_fat": 6.23,
+    "carbohydrates": 30.3,
+    "sugars": 2.56,
+    "fiber": 0,
+    "protein": 9.86,
+    "salt": 1.156075,
+    "sodium": 0.46243
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-13T17:40:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

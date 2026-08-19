@@ -1,0 +1,30 @@
+{
+  "barcode": "8901491002912",
+  "name": "20 RICE, CORN \u0026 DAL WITH Kurkure Schezwan Ching's",
+  "brand": "PepsiCo",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "Cereal Products (67%) (Rice meal (44%), Corn Meal (23%)), Edible vegetable oil (Rice Bran Oil), *Seasoning (Sugar, Spices and Condiments, lodised Salt, Edible Vegetable Oil (Canola, Palm and Sunflower), Acidity Regulators (296, 330), Edible Starch, Salt Substitute (Potassium Chloride), Maltodextrin, Natural and Nature Identical Flavouring Substances, Flavour Enhancers (627, 631), Colour (150d)), Gram Meal (0.5%). As Flavouring Agent. \u0026quot;Contains Onion and Garlic Allergen Advice: May Contain Peanut",
+  "per_100g": {
+    "energy_kcal": 557,
+    "fat": 33.7,
+    "saturated_fat": 15.2,
+    "carbohydrates": 57.8,
+    "sugars": 4.1,
+    "fiber": null,
+    "protein": 5.5,
+    "salt": 1.71,
+    "sodium": 0.684
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T08:18:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

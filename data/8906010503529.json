@@ -1,0 +1,34 @@
+{
+  "barcode": "8906010503529",
+  "name": "CHRUNCHEM Masala Masti",
+  "brand": "Balaji",
+  "quantity": "150",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:potato-crisps"
+  ],
+  "ingredients": "POTATO (87%), EDIBLE VEGETABLE OIL (PALMOLEIN), SUGAR, SPICES \u0026 CONDIMENTS 1% (CHILLI, DRY MANGO, CORIANDER, CUMIN, BLACK PEPPER, GINGER, CLOVE), EDIBLE COMMON SALT, BLACK SALT.",
+  "per_100g": {
+    "energy_kcal": 539,
+    "fat": 29.5,
+    "saturated_fat": 14,
+    "carbohydrates": 56.9,
+    "sugars": 5.2,
+    "fiber": 8.5,
+    "protein": 7.4,
+    "salt": 1.9,
+    "sodium": 0.76
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-10T23:13:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

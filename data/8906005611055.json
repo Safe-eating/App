@@ -1,0 +1,26 @@
+{
+  "barcode": "8906005611055",
+  "name": "cream delite",
+  "brand": "winkies",
+  "quantity": "15g",
+  "categories": [
+    "en:choco cake with vanilla cream"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 363.5,
+    "fat": 5.9,
+    "saturated_fat": 3.7,
+    "carbohydrates": 72.7,
+    "sugars": 32.6,
+    "fiber": null,
+    "protein": 4.8,
+    "salt": 0.547,
+    "sodium": 0.2188
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-30T13:15:15Z",
+  "fetched_at": "2026-08-19T01:51:49Z"
+}

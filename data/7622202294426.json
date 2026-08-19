@@ -1,0 +1,31 @@
+{
+  "barcode": "7622202294426",
+  "name": "Temptations rum \u0026 raisins",
+  "brand": "",
+  "quantity": "70 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:chocolate-bar-with-dried-fruits"
+  ],
+  "ingredients": "Sugar, Cocoa Butter, Raisins (18%*), Cocoa Solids, Milk Solids, Emulsifiers (442, 476), Flavours (Natural, Nature Identical and Artificial (Rum, Raisin, Vanilla) Flavouring Substances). Allergen Information: Contains Milk, Soy, Sulphites May Contain Tree Nuts. CONTAINS RUM FLAVOUR",
+  "per_100g": {
+    "energy_kcal": 498,
+    "fat": 26,
+    "saturated_fat": 17.5,
+    "carbohydrates": 62.2,
+    "sugars": 57,
+    "fiber": null,
+    "protein": 5.7,
+    "salt": 0.20575,
+    "sodium": 0.0823
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-05T13:17:21Z",
+  "fetched_at": "2026-08-19T00:10:45Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8904422701281",
+  "name": "Chana Sattu",
+  "brand": "Patanjali",
+  "quantity": "500g",
+  "categories": [
+    "en:Gram flour"
+  ],
+  "ingredients": "Roasted bengal gram",
+  "per_100g": {
+    "energy_kcal": 418,
+    "fat": 6,
+    "saturated_fat": 0.7,
+    "carbohydrates": 68,
+    "sugars": 6,
+    "fiber": null,
+    "protein": 23,
+    "salt": 135,
+    "sodium": 54
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-17T16:35:44Z",
+  "fetched_at": "2026-08-19T01:46:04Z"
+}

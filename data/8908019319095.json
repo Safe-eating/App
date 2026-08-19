@@ -1,0 +1,35 @@
+{
+  "barcode": "8908019319095",
+  "name": "Yummy Tomato Potato Chips",
+  "brand": "Chakote",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:potatoes-and-their-products",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil(Palm), Sugar Powder, Iodized Salt, Dehydrated Vegetable Powders (Tomato Powder, Onion Powder, Garlic Powder), Maltodextrin, Milk Solids, Spices \u0026 Condiments (Chilli Powder, Black Pepper Powder, Clove Powder), Acidity Regulator (INS 330), Flavour Enhancers (INS 627, INS 631), Nature Identical Flavouring Substance(Tomato)\u0026 Anticaking Agent (INS 551).",
+  "per_100g": {
+    "energy_kcal": 534,
+    "fat": 32.46,
+    "saturated_fat": 11.87,
+    "carbohydrates": 54.21,
+    "sugars": 3.53,
+    "fiber": null,
+    "protein": 6.89,
+    "salt": 2.625,
+    "sodium": 1.05
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-22T17:46:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

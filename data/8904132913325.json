@@ -1,0 +1,30 @@
+{
+  "barcode": "8904132913325",
+  "name": "Choco Vanilla Creme",
+  "brand": "Independence",
+  "quantity": "44.5 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INTERESTERIFIED VEGETABLE FAT, COCOA SOLIDS (2.4%), INVERT SUGAR SYRUP, STARCH, RAISING AGENTS (503(1), 500(i)) IODISED SALT, EMULSIFIERS [322(i), 472e), NATURE IDENTICAL \u0026 ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA,  CONTAINS WHEAT, SOY. MAY CONTAIN TRACES OF MILK, NUTS",
+  "per_100g": {
+    "energy_kcal": 473.1,
+    "fat": 16.3,
+    "saturated_fat": 8.3,
+    "carbohydrates": 74.6,
+    "sugars": 37.1,
+    "fiber": null,
+    "protein": 7,
+    "salt": 498.25,
+    "sodium": 199.3
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-02T18:09:38Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

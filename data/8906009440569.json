@@ -1,0 +1,29 @@
+{
+  "barcode": "8906009440569",
+  "name": "Saras Chhach",
+  "brand": "Saras",
+  "quantity": "500ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 31,
+    "fat": 1.5,
+    "saturated_fat": 0.8,
+    "carbohydrates": 2.1,
+    "sugars": 2.1,
+    "fiber": null,
+    "protein": 2.4,
+    "salt": 0.075,
+    "sodium": 0.03
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-15T09:28:15Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

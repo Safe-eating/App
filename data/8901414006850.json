@@ -1,0 +1,26 @@
+{
+  "barcode": "8901414006850",
+  "name": "Bikano diet mixture",
+  "brand": "Bikano",
+  "quantity": "500g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Rice Flakes (37.2%), Edible Vegetable Oil (Refined Palmolein Oil, Refined Ricebran Oil, Acidity Cottonseed Oil), Husked Bengal Gram (28.49%), Corn Flakes (6.8%), Mixed Spices Powder, Turmeric Powder, Yellow Chilli Powder, Hydrolyzed Vegetable Protein, er), Maltodextrin, lodized Salt, Black Salt, Curry Leaves (0.2%), Mint Leaves,   Acidity Regulator (E330)",
+  "per_100g": {
+    "energy_kcal": 501.9,
+    "fat": 25.9,
+    "saturated_fat": 12.4,
+    "carbohydrates": 60.2,
+    "sugars": 6.3,
+    "fiber": null,
+    "protein": 7,
+    "salt": 2.55,
+    "sodium": 1.02
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-08T03:41:06Z",
+  "fetched_at": "2026-08-19T00:48:14Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8904132952621",
+  "name": "Lemon Flavoured 2ltr",
+  "brand": "Campa",
+  "quantity": "2L(2000ml)",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:carbonated-drinks",
+    "en:sodas",
+    "en:lemonade"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS (E 330,E 331(iii)), PRESERVATIVE (E 211), NATURE IDENTICAL FLAVOURING SUBSTANCES",
+  "per_100g": {
+    "energy_kcal": 46,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 11.5,
+    "sugars": 11.5,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.0125,
+    "sodium": 0.005
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-28T09:20:50Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

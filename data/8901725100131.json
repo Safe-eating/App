@@ -1,0 +1,33 @@
+{
+  "barcode": "8901725100131",
+  "name": "B Natural Orange Juice 1ltr tpk",
+  "brand": "B Natural,ITC",
+  "quantity": "12",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars",
+    "en:fruit-juices",
+    "en:orange-juices",
+    "en:orange-juices-with-pulp"
+  ],
+  "ingredients": "water, orange pulp(21%), Sugar, polydextrose(0.75%),Acidity regulator, nature identical flavouring substance, Iodised salt, natural flavours and flavouring substances and colours[INS 171, INS 110]",
+  "per_100g": {
+    "energy_kcal": 32.5184475,
+    "fat": 0.0525,
+    "saturated_fat": 0.00105,
+    "carbohydrates": 7.4300395,
+    "sugars": 7.3397395,
+    "fiber": 0.567,
+    "protein": 0.1575,
+    "salt": 0.0277247355,
+    "sodium": 0.010645261925
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-25T12:44:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

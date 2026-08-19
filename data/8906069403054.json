@@ -1,0 +1,29 @@
+{
+  "barcode": "8906069403054",
+  "name": "Veeba pazta sauce",
+  "brand": "Veeba",
+  "quantity": "",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:pasta-sauces",
+    "en:pizza-sauces"
+  ],
+  "ingredients": "Tomato Paste (36.0%), Onions (12.0%), Garlic (4.0%), Sugar, Water, Refined Soyabean Oil, iodised Salt, Acidity Regulators INS260, Regulators INS330, Spices and Condiments, Herbs (0.5%), Stabilizer (INS415) and Preservative (INS211).",
+  "per_100g": {
+    "energy_kcal": 210.2,
+    "fat": 9.4,
+    "saturated_fat": 1.5,
+    "carbohydrates": 29.9,
+    "sugars": 23.5,
+    "fiber": 0,
+    "protein": 1.5,
+    "salt": 4.9,
+    "sodium": 1.96
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-23T12:47:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

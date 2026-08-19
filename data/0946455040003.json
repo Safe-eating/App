@@ -1,0 +1,28 @@
+{
+  "barcode": "0946455040003",
+  "name": "Organic Whole Wheat Flour",
+  "brand": "Organic Tattva",
+  "quantity": "5 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:flours"
+  ],
+  "ingredients": "Organic Wheat",
+  "per_100g": {
+    "energy_kcal": 399.59,
+    "fat": 1.79,
+    "saturated_fat": 0.38,
+    "carbohydrates": 77.23,
+    "sugars": 5.29,
+    "fiber": 11.9,
+    "protein": 17.99,
+    "salt": 0.014825,
+    "sodium": 0.00593
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-30T18:48:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

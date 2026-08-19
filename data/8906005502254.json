@@ -1,0 +1,26 @@
+{
+  "barcode": "8906005502254",
+  "name": "Punjabi Tadka",
+  "brand": "Bikaji",
+  "quantity": "150 g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Edible Vegetable Oil (Palmolein Oil, Cottonseed Oil), Dehydrated Potato Flakes (21.4%), Gram Flour, Dew Bean Flour (Moth Flour), Tapioca Starch, Ground Spices \u0026 Condiments (lodised Salt, Dry Mango, Red Chilli, Ginger, Black Pepper, Cardamom, Clove, Turmeric (Colouring \u0026 Spices), Tomato Powder, Onion Powder, Garlic Powder, Black Salt, Mace, Nutmeg, Cinnamon, Acidity Regulator (INS 330))",
+  "per_100g": {
+    "energy_kcal": 559,
+    "fat": 11,
+    "saturated_fat": 7,
+    "carbohydrates": 43,
+    "sugars": 2,
+    "fiber": 4,
+    "protein": 10,
+    "salt": 4.885,
+    "sodium": 1.954
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T13:46:51Z",
+  "fetched_at": "2026-08-19T01:51:17Z"
+}

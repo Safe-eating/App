@@ -1,0 +1,31 @@
+{
+  "barcode": "8902579003616",
+  "name": "Chocolate Milk",
+  "brand": "Smoodh",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:chocolate-milks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 81.8,
+    "fat": 1.8,
+    "saturated_fat": 1.2,
+    "carbohydrates": 14.2,
+    "sugars": 13.7,
+    "fiber": null,
+    "protein": 2.2,
+    "salt": 0.17525,
+    "sodium": 0.0701
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-27T00:20:32Z",
+  "fetched_at": "2026-08-19T01:16:21Z"
+}

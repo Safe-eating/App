@@ -1,0 +1,31 @@
+{
+  "barcode": "8908003249728",
+  "name": "Milk Organic",
+  "brand": "Akshayakalpa Organic",
+  "quantity": "1L",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:homogenized-milks",
+    "en:pasteurised-products",
+    "en:uht-milks"
+  ],
+  "ingredients": "Cow Milk",
+  "per_100g": {
+    "energy_kcal": 62.8,
+    "fat": 3.4,
+    "saturated_fat": 2.38,
+    "carbohydrates": 4.7,
+    "sugars": 4.7,
+    "fiber": 0,
+    "protein": 3.21,
+    "salt": 0.12275,
+    "sodium": 0.0491
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T19:07:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

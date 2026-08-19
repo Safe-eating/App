@@ -1,0 +1,33 @@
+{
+  "barcode": "8906116954973",
+  "name": "Chocolate Peanut Butter",
+  "brand": "Muscle Blaze",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Roasted Peanuts (64%), Dark Chocolate Paste {Sugar, Vegetable Fat, Cocoa Mass (3%), Cocoa Solids (18%) \u0026 Emulsifiers (INS 322 (i) \u0026 INS 476]}, Stabilizer (INS 471), Nature Identical (Chocolate) \u0026 Artificial (Ethyl Vanillin) Flavouring Substances. \nAllergens: Contains Nut \u0026 Soy.",
+  "per_100g": {
+    "energy_kcal": 600,
+    "fat": 43,
+    "saturated_fat": 16.72,
+    "carbohydrates": 35.7,
+    "sugars": 19,
+    "fiber": null,
+    "protein": 19,
+    "salt": 0.04675,
+    "sodium": 0.0187
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-24T18:54:48Z",
+  "fetched_at": "2026-08-19T12:52:34Z"
+}

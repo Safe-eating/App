@@ -1,0 +1,37 @@
+{
+  "barcode": "8886467122439",
+  "name": "Pringles Desi Masala Tadka Flavour",
+  "brand": "Pringles",
+  "quantity": "107 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:stacked-extruded-potato-crisps"
+  ],
+  "ingredients": "Dried Potato (45%), Edible Vegetable Oil (Palm Oil), Corn Flour, Wheat Starch, Desi Masala Tadka Flavour Seasoning (5.5%) [Salt, Maltodextrin, Vegetable Powders {Onion Powder (6%), Garlic Powder (2.7%), Tomato Powder (1%)}, Sugar, Spices (6%) {Black Pepper Powder (4%), Ginger Powder (1%), Turmeric Powder (1%)}, Flavouring Substances (Natural Identical), Acidity Regulators (INS 330, 296, 334), Anticaking Agent (INS 551), Stabiliser {INS 341(iii)}, Preservative {INS 262(i)}, Flavour Enhancers (INS 627, 631), Paprika Extract (0.3%), Emulsifier (INS 414)], Emulsifier (INS 471), Maltodextrin, Acidity Regulator (INS 330)",
+  "per_100g": {
+    "energy_kcal": 518,
+    "fat": 28.3,
+    "saturated_fat": 12.6,
+    "carbohydrates": 61.2,
+    "sugars": 1.5,
+    "fiber": null,
+    "protein": 4.7,
+    "salt": 2.0925,
+    "sodium": 0.837
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T19:45:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

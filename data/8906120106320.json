@@ -1,0 +1,33 @@
+{
+  "barcode": "8906120106320",
+  "name": "Trail Mix",
+  "brand": "Farmley",
+  "quantity": "200 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruits-based-foods",
+    "en:dried-products",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits",
+    "en:dry-fruits"
+  ],
+  "ingredients": "Blackcurrants (20%), Cranberry Slices (20%), Cashew Nuts (15%), Almonds (15%), Sunflower Seeds (12.5%), Pumpkin Seeds (12.5%), Blueberries (5%), Olive Oil, Himalayan Salt.",
+  "per_100g": {
+    "energy_kcal": 401,
+    "fat": 16,
+    "saturated_fat": 2.2,
+    "carbohydrates": 54.2,
+    "sugars": 38.2,
+    "fiber": 7.1,
+    "protein": 9.9,
+    "salt": 0.01871,
+    "sodium": 0.00745
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T08:59:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

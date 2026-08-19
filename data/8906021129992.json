@@ -1,0 +1,28 @@
+{
+  "barcode": "8906021129992",
+  "name": "Aachi Mixed Vegetable Pickle",
+  "brand": "Aachi",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles"
+  ],
+  "ingredients": "Seasonal Vegetables (80% - Mango, Lemon, Citron, Carrot, Green Chilli, Garlic, Mango Ginger, Tomato \u0026 Capsicum), Salt, Red Chilli Powder, Edible Vegetable Oil-Refined Rice Bran Oil, Mustard, Asafoetida, Turmeric Powder, Fenugreek, Cumin, Cassia and Acidity Regulators - (INS 260 \u0026 INS 330)",
+  "per_100g": {
+    "energy_kcal": 199,
+    "fat": 11.6,
+    "saturated_fat": 2.9,
+    "carbohydrates": 21.9,
+    "sugars": 1.9,
+    "fiber": null,
+    "protein": 1.9,
+    "salt": 10.85,
+    "sodium": 4.34
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-26T07:35:19Z",
+  "fetched_at": "2026-08-19T02:08:58Z"
+}

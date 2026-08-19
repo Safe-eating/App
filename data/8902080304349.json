@@ -1,0 +1,32 @@
+{
+  "barcode": "8902080304349",
+  "name": "7up 2.25",
+  "brand": "7up",
+  "quantity": "99",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:non-alcoholic-beverages",
+    "en:carbonated-drinks",
+    "en:soft-drinks",
+    "en:sodas",
+    "en:colas"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 47,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 11.7,
+    "sugars": 11.7,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.045,
+    "sodium": 0.018
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-12T04:49:46Z",
+  "fetched_at": "2026-08-19T01:13:15Z"
+}

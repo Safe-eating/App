@@ -1,0 +1,30 @@
+{
+  "barcode": "8906002000012",
+  "name": "Funfoods Classic Egg Mayonnaise",
+  "brand": "Dr. Oetker",
+  "quantity": "245",
+  "categories": [
+    "en:condiments",
+    "en:cooking-helpers",
+    "en:sauces",
+    "en:pizza-sauces",
+    "en:toppings"
+  ],
+  "ingredients": "Water, Tomato Paste (26%), Sugar, Refined Soyabean Oil, Milk Solids, Onions, lodised Salt, Vegetables (2.9%), Mixed Spices, Cheese (1%), Acidity Regulators (NS260, INS330), Herb, Antioxidant (INS319).",
+  "per_100g": {
+    "energy_kcal": 618,
+    "fat": 63.4,
+    "saturated_fat": 11.3,
+    "carbohydrates": 9.4,
+    "sugars": 5.6,
+    "fiber": null,
+    "protein": 2.4,
+    "salt": 1.52825,
+    "sodium": 0.6113
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-13T09:51:56Z",
+  "fetched_at": "2026-08-19T01:49:08Z"
+}

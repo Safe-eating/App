@@ -1,0 +1,29 @@
+{
+  "barcode": "8901491367219",
+  "name": "kurkure",
+  "brand": "kurkure",
+  "quantity": "25g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:Kurkure"
+  ],
+  "ingredients": "Cereal Products (67%) (Rice Meal (44%), Corn Meal (23%)), Edible Vegetable Oil (Rice Bran Oil, Sesame Oil), *Seasoning Spices \u0026 Condiments, lodised Salt, Sugar, Flavour (Natural and Nature Identical Flavouring Substances), Black Salt, Tomato Powder, Acidity Regulators (330, 296, 334), Colour (160c), Maltodextrin), Gram Meal (0.4%). As Flavouring Agent. \u0026quot;Contains Onion and Garlic LERGEN ADVICE: Contains Sulphite.",
+  "per_100g": {
+    "energy_kcal": 522,
+    "fat": 33.6,
+    "saturated_fat": 7.4,
+    "carbohydrates": 56.4,
+    "sugars": 1.4,
+    "fiber": 0,
+    "protein": 6,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-30T08:25:26Z",
+  "fetched_at": "2026-08-19T00:50:49Z"
+}

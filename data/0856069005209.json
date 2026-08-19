@@ -1,0 +1,30 @@
+{
+  "barcode": "0856069005209",
+  "name": "Fine ground sea salt almond flour crackers, sea salt",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:crackers-appetizers"
+  ],
+  "ingredients": "nut and seed flour blend (almonds, sunflower seeds, flax seeds), tapioca starch, cassava, organic sunflower oil, sea salt, organic onion, organic garlic, rosemary extract (for freshness)",
+  "per_100g": {
+    "energy_kcal": 500,
+    "fat": 26.6666666666667,
+    "saturated_fat": 1.66666666666667,
+    "carbohydrates": 60,
+    "sugars": 0,
+    "fiber": 6.66666666666667,
+    "protein": 10,
+    "salt": 1.5,
+    "sodium": 0.6
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T19:34:22Z",
+  "fetched_at": "2026-08-18T23:56:50Z"
+}

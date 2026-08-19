@@ -1,0 +1,24 @@
+{
+  "barcode": "8906143041752",
+  "name": "whole wheat macaroni",
+  "brand": "yu",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 330,
+    "fat": 3.3,
+    "saturated_fat": 0.6,
+    "carbohydrates": 63,
+    "sugars": 4.5,
+    "fiber": 9,
+    "protein": 12.1,
+    "salt": 0.015,
+    "sodium": 0.006
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-15T17:49:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

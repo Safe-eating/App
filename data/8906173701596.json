@@ -1,0 +1,24 @@
+{
+  "barcode": "8906173701596",
+  "name": "Nitra Isolate Protein",
+  "brand": "Big Muscles Nutrition",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 408.695652173913,
+    "fat": 6.52173913043478,
+    "saturated_fat": 3.26086956521739,
+    "carbohydrates": 19.5652173913043,
+    "sugars": 8.69565217391304,
+    "fiber": 2.17391304347826,
+    "protein": 69.5652173913043,
+    "salt": 0.707119565217391,
+    "sodium": 0.282847826086957
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-23T02:11:25Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

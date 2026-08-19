@@ -1,0 +1,29 @@
+{
+  "barcode": "8901063363359",
+  "name": "Cake Fudge It - Choco Brownie",
+  "brand": "Britannia",
+  "quantity": "120g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes"
+  ],
+  "ingredients": "SUGAR, REFINED WHEAT FLOUR (MAIDA), REFINED PALMOLEIN OIL, EGGS, CHOCO CALLETS (10%) [SUGAR, HYDROGENATED VEGETABLE FAT, COCOA SOLIDS, EMULSIFIER (491), DEXTROSE EMULSIFIER [322(i)] \u0026 NATURAL FLAVOURING SUBSTANCES], MILK CHOCOLATE CHIPS (8%) [SUGAR, COCOA BUTTER, MILK SOLIDS, COCOA SOLIDS, DEXTROSE, EMULSIFIER [322(i)] \u0026 NATURAL FLAVOURING SUBSTANCES], COCOA SOLIDS (2%), HIGH MALTOSE SYRUP, LIQUID GLUCOSE, IODISED SALT, ARTIFICIAL (BROWNIE MAGNUM \u0026 VANILLA) FLAVOURING SUBSTANCES, COLOUR (150d), EMULSIFIER (471), PRESERVATIVES (202 \u0026 282), STABILIZER (415), BAKING POWDER AND ACIDITY REGULATOR (330). CONTAINS WHEAT, EGGS, MILK AND SOYA.",
+  "per_100g": {
+    "energy_kcal": 470,
+    "fat": 24,
+    "saturated_fat": 13,
+    "carbohydrates": 58.5,
+    "sugars": 41,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0.435,
+    "sodium": 0.174
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-19T16:46:20Z",
+  "fetched_at": "2026-08-19T00:33:48Z"
+}

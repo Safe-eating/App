@@ -1,0 +1,31 @@
+{
+  "barcode": "8906020461185",
+  "name": "Suji Rusk",
+  "brand": "BIMBO, Harvest Gold",
+  "quantity": "250g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:toasts"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida) (71.4%), Sugar, Edible Vegetable Oil (Refined Palmolein Oil and Refined Rice Bran Oil), Yeast, Suji (2.14%), Invert Sugar Syrup, lodized Salt, Gluten, Food Color (150a), Cardamom Seeds (0.32 %), Emulsifier {472e and 481(i)}, Soya Flour, Nature Identical Flavoring Substance, Flour Treatment Agent {1100(i)}, Xylanase and Antioxidant (300).\r\n (Numbers referred above are as per the International Numbering System)",
+  "per_100g": {
+    "energy_kcal": 443.6,
+    "fat": 10.71,
+    "saturated_fat": 2.48,
+    "carbohydrates": 77.59,
+    "sugars": 24.11,
+    "fiber": 4.24,
+    "protein": 9.21,
+    "salt": 0.684525,
+    "sodium": 0.27381
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-26T13:19:15Z",
+  "fetched_at": "2026-08-19T02:07:25Z"
+}

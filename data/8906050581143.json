@@ -1,0 +1,35 @@
+{
+  "barcode": "8906050581143",
+  "name": "Peanut butter",
+  "brand": "Fric Bergen",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 638.461538461538,
+    "fat": 50.3846153846154,
+    "saturated_fat": 10,
+    "carbohydrates": 22.3076923076923,
+    "sugars": 6.15384615384615,
+    "fiber": null,
+    "protein": 25,
+    "salt": 0.548076923076923,
+    "sodium": 0.219230769230769
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-13T11:11:23Z",
+  "fetched_at": "2026-08-19T12:37:56Z"
+}

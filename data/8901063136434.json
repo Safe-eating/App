@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063136434",
+  "name": "Milk Bikis",
+  "brand": "Britannia",
+  "quantity": "100g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "LIC.NOR10013022002245 NUFACTURED FOR end ICH NOS0013022002253 10:4047000,34",
+  "per_100g": {
+    "energy_kcal": 428.57142857143,
+    "fat": 14.285714285714,
+    "saturated_fat": 7.1428571428571,
+    "carbohydrates": 67.857142857143,
+    "sugars": 25,
+    "fiber": 0,
+    "protein": 7.1428571428571,
+    "salt": 0.75892857142857,
+    "sodium": 0.303571428571428
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2023-02-27T18:02:28Z",
+  "fetched_at": "2026-08-19T00:31:17Z"
+}

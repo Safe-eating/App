@@ -1,0 +1,31 @@
+{
+  "barcode": "8901888005748",
+  "name": "Real Masala Mixed Fruit Juice",
+  "brand": "Real",
+  "quantity": "1L",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars"
+  ],
+  "ingredients": "Water, Sugar, Concentrated Mixed Fruit Juice (4%) [From Orange, Apple, Guava, Apricot, Mango, Banana, Passion Fruit, Lime, Lemon, Mango Pulp (3.3%), Acidity Regulator (INS 330), lodized Salt, Black Salt, Stabilizers (INS 440, INS 466, INS 418), Antioxidant (INS 300), Spices And Condiments (0.1%) [Chilli Powder, Cumin, Coriander, Black Pepper and Turmeric], Colours [INS 160 a (ii) \u0026 (iii)] and Flavours (Natural \u0026 Nature Identical Flavouring Substances). THIS CONTAINS 23.3% MIXED FRUIT JUICE CONTENT.",
+  "per_100g": {
+    "energy_kcal": 49,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 12.2,
+    "sugars": 12.2,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.275,
+    "sodium": 0.11
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-06T05:56:44Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

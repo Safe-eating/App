@@ -1,0 +1,30 @@
+{
+  "barcode": "8904272600895",
+  "name": "Storia Pomegranate 750ml",
+  "brand": "storia",
+  "quantity": "1",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages"
+  ],
+  "ingredients": "Water, Fruit Juice [Apple Concentrate 12% \u0026 Pomegranate Juice Concentrate 4%), Salt, Acidity Regulators [INS331(iii), INS330), Stevia INS960] and Antioxidant [INS300]. *Equivalent to 100% Fruit Juice (Reconstituted) CONTAINS ADDED NATURE IDENTICAL FLAVOURING SUBSTANCES (POMEGRANATE)",
+  "per_100g": {
+    "energy_kcal": 46,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 11.4,
+    "sugars": 11.4,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T02:40:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

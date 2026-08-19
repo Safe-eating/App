@@ -1,0 +1,26 @@
+{
+  "barcode": "8906042150067",
+  "name": "ROASTED SHORT VERMICELLI",
+  "brand": "Anil",
+  "quantity": "450g",
+  "categories": [
+    "en:wheat-vermicelli"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida)",
+  "per_100g": {
+    "energy_kcal": 355.852984916082,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 77.7777777777778,
+    "sugars": 6.66666666666667,
+    "fiber": 6.66666666666667,
+    "protein": 11.1111111111111,
+    "salt": 0.0555555555555556,
+    "sodium": 0.0222222222222222
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-18T22:34:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

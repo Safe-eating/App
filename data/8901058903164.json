@@ -1,0 +1,35 @@
+{
+  "barcode": "8901058903164",
+  "name": "KitKat win gold",
+  "brand": "nestle",
+  "quantity": "38.5 gm",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:bars",
+    "en:chocolate-candies",
+    "en:bars-covered-with-chocolate",
+    "en:chocolate-biscuity-bars",
+    "fr:barre-chocolatee-biscuitee-type-kitkat",
+    "en:sweet-snacks-candies"
+  ],
+  "ingredients": "Sugar, Milk solids (16.2%),Fractionated vegetable fat,  Hydrogenated vegetable fats,Refined Wheat flour (Maida), Cocoa solids (4.5%), Emulsifier (Soya lecithin), Yeast,Raising agent (500(ii))Artificial (Vanilla)flavouring substance, lodized salt, Flour treatment agent (516), and Nature-Identical flavouring substances Contains Wheat, Milk, Sesame and Soy. May Contains Nut.",
+  "per_100g": {
+    "energy_kcal": 436.363636363636,
+    "fat": 24.9350649350649,
+    "saturated_fat": 24.9350649350649,
+    "carbohydrates": 47.7922077922078,
+    "sugars": 35.3246753246753,
+    "fiber": null,
+    "protein": 6.23376623376623,
+    "salt": 0.244155844155844,
+    "sodium": 0.0976623376623377
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-20T12:58:39Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

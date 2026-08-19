@@ -1,0 +1,24 @@
+{
+  "barcode": "8904221694241",
+  "name": "Soy Protein Isolate",
+  "brand": "AS-IT-IS ONE",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 377.142857142857,
+    "fat": 1.37142857142857,
+    "saturated_fat": 0.628571428571429,
+    "carbohydrates": 5.71428571428571,
+    "sugars": 1.65714285714286,
+    "fiber": null,
+    "protein": 85.7142857142857,
+    "salt": 2.7,
+    "sodium": 1.08
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-20T12:09:01Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

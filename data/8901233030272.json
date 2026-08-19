@@ -1,0 +1,33 @@
+{
+  "barcode": "8901233030272",
+  "name": "Perk",
+  "brand": "Cadbury",
+  "quantity": "14.3 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:cocoa-and-its-products",
+    "en:biscuits",
+    "en:chocolates",
+    "en:wafers"
+  ],
+  "ingredients": "COATED WAFER LAYERS Ingredients: Sugar, Hydrogenated vegetable fat, Refined wheat flour, Milk solids, Starch, Cocoa solids (5%), Palmolein oil, Emulsifiers (442, 322, 476), Edible salt, Yeast, Raising agent (500(ii)), Improver (Enzyme) CONTAINS ADDED FLAVOUR (NATURAL, NATURE IDENTICAL AND ARTIFICIAL (CARAMEL AND ETHYL VANILLIN) FLAVOURING SUBSTANCES) Allergen information: Contains Milk \u0026Wheat.",
+  "per_100g": {
+    "energy_kcal": 517,
+    "fat": 25.8,
+    "saturated_fat": 23.4,
+    "carbohydrates": 67.6,
+    "sugars": 45.9,
+    "fiber": 1.8,
+    "protein": 3.6,
+    "salt": 0.23368,
+    "sodium": 0.093472
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-02-11T11:19:57Z",
+  "fetched_at": "2026-08-19T00:39:58Z"
+}

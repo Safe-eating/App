@@ -1,0 +1,41 @@
+{
+  "barcode": "8902080104581",
+  "name": "Pepsi",
+  "brand": "Pepsi Cola",
+  "quantity": "400ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:non-alcoholic-beverages",
+    "en:carbonated-drinks",
+    "en:soft-drinks",
+    "en:waters",
+    "en:artificially-sweetened-beverages",
+    "en:sodas",
+    "en:carbonated-waters",
+    "en:diet-beverages",
+    "en:carbonated-soft-drinks-without-fruit-juice",
+    "en:colas",
+    "en:diet-sodas",
+    "en:cola-with-sugar",
+    "en:diet-cola-soft-drink",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, COLOUR (150d), ACIDITY REGULATOR (338), CAFFEINE (10 mg/100g), FLAVOUR (NATURAL FLAVOURING SUBSTANCES), STABILIZER (436). CONTAINS CAFFEINE",
+  "per_100g": {
+    "energy_kcal": 43,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 10.9,
+    "sugars": 10.9,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.0075,
+    "sodium": 0.003
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-14T04:00:41Z",
+  "fetched_at": "2026-08-19T01:13:12Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8901648003885",
+  "name": "Probiotic Premium Chach",
+  "brand": "Mother Dairy",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:buttermilks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 35.7,
+    "fat": 2.1,
+    "saturated_fat": 1.5,
+    "carbohydrates": 2.2,
+    "sugars": 2.2,
+    "fiber": null,
+    "protein": 2,
+    "salt": 0.06325,
+    "sodium": 0.0253
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-07T03:06:59Z",
+  "fetched_at": "2026-08-19T00:57:42Z"
+}

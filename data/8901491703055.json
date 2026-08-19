@@ -1,0 +1,34 @@
+{
+  "barcode": "8901491703055",
+  "name": "Rolled Oat Flakes",
+  "brand": "Quaker",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 407,
+    "fat": 9.5,
+    "saturated_fat": 1.9,
+    "carbohydrates": 68.5,
+    "sugars": 1.8,
+    "fiber": 10,
+    "protein": 11.8,
+    "salt": 0.02375,
+    "sodium": 0.0095
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-05T10:14:17Z",
+  "fetched_at": "2026-08-19T00:51:24Z"
+}

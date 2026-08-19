@@ -1,0 +1,26 @@
+{
+  "barcode": "8901725135485",
+  "name": "Mom's Magic",
+  "brand": "Sunfeast",
+  "quantity": "100g",
+  "categories": [
+    "en:Fruit and milk cookies"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 499,
+    "fat": 22.9,
+    "saturated_fat": 13.9,
+    "carbohydrates": 65.1,
+    "sugars": 23.9,
+    "fiber": null,
+    "protein": 8.1,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2019-07-17T05:10:53Z",
+  "fetched_at": "2026-08-19T01:06:56Z"
+}

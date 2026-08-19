@@ -1,0 +1,26 @@
+{
+  "barcode": "89080795",
+  "name": "Maggi masala magic",
+  "brand": "Maggi",
+  "quantity": "",
+  "categories": [
+    "en:food"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 166,
+    "fat": 2.9,
+    "saturated_fat": 1.4,
+    "carbohydrates": 30.7,
+    "sugars": 13.5,
+    "fiber": 9.1,
+    "protein": 4.2,
+    "salt": 0.6,
+    "sodium": 10.916
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-25T05:14:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

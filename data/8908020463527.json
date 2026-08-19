@@ -1,0 +1,27 @@
+{
+  "barcode": "8908020463527",
+  "name": "Punjabi Tadka",
+  "brand": "Crax",
+  "quantity": "171 grams",
+  "categories": [
+    "en:snacks",
+    "en:namkeen"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 552,
+    "fat": 34.2,
+    "saturated_fat": 15.4,
+    "carbohydrates": 51.4,
+    "sugars": 4.7,
+    "fiber": null,
+    "protein": 9.7,
+    "salt": 3.3625,
+    "sodium": 1.345
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-23T13:17:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

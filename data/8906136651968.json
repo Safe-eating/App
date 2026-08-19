@@ -1,0 +1,34 @@
+{
+  "barcode": "8906136651968",
+  "name": "High Protein Oats Chocolate",
+  "brand": "Pintola",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "Oats (43%), Protein Blend (26%) (Texturized Soy Protein, Soy Protein Isolate, Whey Protein Concentrate); Dry Fruit, Nut \u0026 Seeds (12%) (Raisins, Almonds, Pumpkin Seeds, Chia Seeds); Organic Jaggery (10%), Cocoa Solids (7%), Jowar Flakes, Himalayan Pink Salt.",
+  "per_100g": {
+    "energy_kcal": 392,
+    "fat": 8,
+    "saturated_fat": 2.1,
+    "carbohydrates": 54.6,
+    "sugars": 14,
+    "fiber": 9.6,
+    "protein": 25,
+    "salt": 0.325,
+    "sodium": 0.13
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-04T17:48:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

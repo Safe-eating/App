@@ -1,0 +1,36 @@
+{
+  "barcode": "8901491001076",
+  "name": "American Style Cream and onion chips",
+  "brand": "Lay's",
+  "quantity": "73g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 537,
+    "fat": 33.1,
+    "saturated_fat": 14.9,
+    "carbohydrates": 53,
+    "sugars": 3.4,
+    "fiber": null,
+    "protein": 6.7,
+    "salt": 1.6075,
+    "sodium": 0.643
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-19T10:41:49Z",
+  "fetched_at": "2026-08-19T00:48:47Z"
+}

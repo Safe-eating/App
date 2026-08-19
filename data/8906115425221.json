@@ -1,0 +1,26 @@
+{
+  "barcode": "8906115425221",
+  "name": "Crunchy Khara Ompudi",
+  "brand": "WellBe",
+  "quantity": "30 g",
+  "categories": [
+    "en:Hot Snack with fried atta"
+  ],
+  "ingredients": "Transfat",
+  "per_100g": {
+    "energy_kcal": 596,
+    "fat": 42.3333333333333,
+    "saturated_fat": 12.4,
+    "carbohydrates": 42,
+    "sugars": 0.666666666666667,
+    "fiber": 4.33333333333333,
+    "protein": 11.6666666666667,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-26T13:41:12Z",
+  "fetched_at": "2026-08-19T12:52:28Z"
+}

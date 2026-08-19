@@ -1,0 +1,27 @@
+{
+  "barcode": "8901595862825",
+  "name": "Red chilli sauce",
+  "brand": "Ching's",
+  "quantity": "90",
+  "categories": [
+    "en:condiments",
+    "en:sauces"
+  ],
+  "ingredients": "Water, Sugar, Red Chilli (6%), Garlic, Ginger, lodised Salt, Thickener (INS 1422), Acidity Regulators (INS 260, INS 330), Emulsifying and Stabilizing Agent (INS 415), Preservative (INS 211). Allergen Advice: May contain: Wheat, Nuts, Sesame seeds, Soy, Mustard and Milk.",
+  "per_100g": {
+    "energy_kcal": 113,
+    "fat": 0.2,
+    "saturated_fat": 0,
+    "carbohydrates": 27.4,
+    "sugars": 20,
+    "fiber": null,
+    "protein": 0.4,
+    "salt": 2760,
+    "sodium": 1104
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-10T10:04:51Z",
+  "fetched_at": "2026-08-19T00:57:03Z"
+}

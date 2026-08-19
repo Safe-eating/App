@@ -1,0 +1,30 @@
+{
+  "barcode": "8908001032049",
+  "name": "Everyday Milk Bread",
+  "brand": "Everyday",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Refined wheat flour, Sugar, Yeast, Iodised Salt, Refined Palmolein Oil, Soya Flour, Emulsifier (INS 476, 471, 481 (1)), Preservative (INS 282), Condensed Milk, Antioxidant (INS 300), Improver (INS 1100). Acidity Regulator (INS 260).",
+  "per_100g": {
+    "energy_kcal": 242,
+    "fat": 2,
+    "saturated_fat": 0.8,
+    "carbohydrates": 50,
+    "sugars": 20,
+    "fiber": null,
+    "protein": 6,
+    "salt": 1.275,
+    "sodium": 0.51
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-14T13:18:27Z",
+  "fetched_at": "2026-08-19T13:05:53Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8901192215802",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:culinary-paste"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 93,
+    "fat": 0.65,
+    "saturated_fat": 0.3,
+    "carbohydrates": 19,
+    "sugars": 11.8,
+    "fiber": null,
+    "protein": 2.7,
+    "salt": 4250,
+    "sodium": 1700
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-06T06:07:12Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

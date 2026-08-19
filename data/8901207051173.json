@@ -1,0 +1,33 @@
+{
+  "barcode": "8901207051173",
+  "name": "Dabur honey",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:breakfasts",
+    "en:spreads",
+    "en:sweet-spreads",
+    "en:bee-products",
+    "en:farming-products",
+    "en:sweeteners",
+    "en:honeys",
+    "en:hon"
+  ],
+  "ingredients": "Honey (100)",
+  "per_100g": {
+    "energy_kcal": 320,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 80,
+    "sugars": 80,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 42.5,
+    "sodium": 17
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-07T02:45:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

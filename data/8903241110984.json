@@ -1,0 +1,28 @@
+{
+  "barcode": "8903241110984",
+  "name": "Pravin Mixed Pickle",
+  "brand": "Pravin",
+  "quantity": "500 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles"
+  ],
+  "ingredients": "Green Mango (43%), Lime (24%) todised Salt, Cotton Seed Oil, Acetic Acid (E260), Asafoetida.",
+  "per_100g": {
+    "energy_kcal": 249,
+    "fat": 16.4,
+    "saturated_fat": 5.8,
+    "carbohydrates": 21,
+    "sugars": 2.4,
+    "fiber": null,
+    "protein": 4.3,
+    "salt": 4.715,
+    "sodium": 1.886
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-21T07:14:12Z",
+  "fetched_at": "2026-08-19T01:21:33Z"
+}

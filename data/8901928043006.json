@@ -1,0 +1,31 @@
+{
+  "barcode": "8901928043006",
+  "name": "Champ Milkuit tasty Milk Biscuit",
+  "brand": "Bisk Farm",
+  "quantity": "300g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:biscuit-with-milk"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (57.97%), SUGAR, EDIBLE VEGETABLE OIL (PALM, PALMOLEIN), HYDROGENATED VEGETABLE FAT (PALM, PALMOLEIN), LIQUID GLUCOSE, EDIBLE STARCH (CORN), MILK SOLIDS (1.45%), SALT, EMULSIFIERS (322,471,481), RAISING AGENTS[500(ii), 503(ii)], ACIDITY REGULATORS [330, 450(i)] AND ANTIOXIDANT (319) CONTAINS ADDED FLAVOURS (VANILLA, MILK) 18(NUMBERS IN BRACKETS ARE AS PER 39 CONTAINS WHEAT, MILK AND SOY INTERNATIONAL NUMBERING SYSTEM) HYPERSENSITIVE INGREDIENTS",
+  "per_100g": {
+    "energy_kcal": 465.49,
+    "fat": 18.69,
+    "saturated_fat": 9.46,
+    "carbohydrates": 71.89,
+    "sugars": 21.23,
+    "fiber": 0,
+    "protein": 7.62,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-08T13:33:40Z",
+  "fetched_at": "2026-08-19T01:10:38Z"
+}

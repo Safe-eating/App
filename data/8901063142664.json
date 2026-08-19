@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063142664",
+  "name": "britannia",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "WHEAT FLOUR (ATTA) (65.5%), REFINED PALM OIL, SUGAR, WHEAT BRAN (2.6%), MALTODEXTRIN, MILK PRODUCTS [MILK SOLIDS \u0026 WHEY POWDER], INVERT SUGAR SYRUP, RAISING AGENTS [503(ii) \u0026 500(ii)], IODISED SALT, EMULSIFIERS [322(i) \u0026 471], MALT EXTRACT, NATURE IDENTICAL \u0026 ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES AND DOUGH CONDITIONER [223].",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 20.8,
+    "saturated_fat": 10.3,
+    "carbohydrates": 68,
+    "sugars": 12.7,
+    "fiber": 6.7,
+    "protein": 9.3,
+    "salt": 0.905,
+    "sodium": 0.362
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-18T12:48:38Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

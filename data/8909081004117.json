@@ -1,0 +1,30 @@
+{
+  "barcode": "8909081004117",
+  "name": "Wowzers Lemon",
+  "brand": "Sunfeast",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "MAIDA (REFINED WHEAT FLOUR), ENROBING CRÈME (21.2) (SUGAR, INTERESTERIFIED VEGETABLE FAT, MILK SOLIDS, ESTERS OF INTERESTERIFIED RICINOLEIC ACID (FROM CASTOR OIL)], NATURE IDENTICAL FLAVOURING SUBSTANCES, REFINED PALM OIL, SUGAR (4.9%), MARGARINE, REFINED PALMOLEIN, STARCH, LIQUID GLUCOSE, WHEAT GLUTEN, ARTIFICIAL FLAVOURING SUBSTANCES (CHEESE), DRIED YEAST, EMULSIFIER [MONO AND DIGLYCERIDES OF FATTY ACIDS, FLOUR TREATMENT AGENT (INS 223), NATURE IDENTICAL FLAVOURING SUBSTANCES.",
+  "per_100g": {
+    "energy_kcal": 499,
+    "fat": 22.7,
+    "saturated_fat": 13.9,
+    "carbohydrates": 66.9,
+    "sugars": 20.7,
+    "fiber": null,
+    "protein": 7.6,
+    "salt": 0.80175,
+    "sodium": 0.3207
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-03T16:59:49Z",
+  "fetched_at": "2026-08-19T13:23:01Z"
+}

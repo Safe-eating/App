@@ -1,0 +1,30 @@
+{
+  "barcode": "8906023493312",
+  "name": "Organic Caveman bakkit foxtail millet",
+  "brand": "Cave Man",
+  "quantity": "60g (6 pack ×10g)",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Foxtail Millet (29.49%), Organic Butter (29.49%), Organic Nuts (8.42%), Organic Sugar, Organic Sorghum, Milk Powder, Salt, Soya Lecithin \u0026 Baking powder.",
+  "per_100g": {
+    "energy_kcal": 541.92,
+    "fat": 31.08,
+    "saturated_fat": 17.07,
+    "carbohydrates": 59.82,
+    "sugars": 21,
+    "fiber": 0,
+    "protein": 5.73,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-24T10:09:36Z",
+  "fetched_at": "2026-08-19T02:09:58Z"
+}

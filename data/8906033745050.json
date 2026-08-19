@@ -1,0 +1,30 @@
+{
+  "barcode": "8906033745050",
+  "name": "Mcvities Butter Cookie 68 GR.",
+  "brand": "McVities",
+  "quantity": "68 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits",
+    "en:shortbread-cookies"
+  ],
+  "ingredients": "Farine de _froment_, sucre, huile végétale (palme (antioxydant E319)), _beurre_ 3 %, sirop de sucre partiellement inverti, fécule de maïs, poudres à lever (bicarbonate d'ammonium, bicarbonate de sodium, pyrophosphate acide de sodium,), carbonate de calcium (1 %), lait écrémé en poudre, sel, monostéarate de glycérol, lécithine de _soja_), arômes artificiels (_beurre_, vanille), antioxydant (métabisulfite de sodium).",
+  "per_100g": {
+    "energy_kcal": 469,
+    "fat": 18.2,
+    "saturated_fat": 8,
+    "carbohydrates": 68.9,
+    "sugars": 24.9,
+    "fiber": null,
+    "protein": 7.7,
+    "salt": 0.75,
+    "sodium": 0.3
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-13T20:37:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

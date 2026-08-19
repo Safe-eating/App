@@ -1,0 +1,33 @@
+{
+  "barcode": "8901262070539",
+  "name": "FRUIT N' NUT Dark Chocolate",
+  "brand": "Amul",
+  "quantity": "150g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:dark-chocolate-bar-with-dried-fruits",
+    "en:Composite chocolate"
+  ],
+  "ingredients": "sugar, cocoa solids, cocoa butter, almonds(8%), raisins(5%), permitted emulsifiers (e322, e476),",
+  "per_100g": {
+    "energy_kcal": 499,
+    "fat": 32.5,
+    "saturated_fat": 16.2,
+    "carbohydrates": 46.7,
+    "sugars": 38.3,
+    "fiber": null,
+    "protein": 7.2,
+    "salt": 0.0825,
+    "sodium": 0.033
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-11-15T06:26:05Z",
+  "fetched_at": "2026-08-19T00:42:31Z"
+}

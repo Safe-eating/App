@@ -1,0 +1,28 @@
+{
+  "barcode": "8906006170032",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:Chips and puffs",
+    "en:Food",
+    "en:O-yes-cocktail-puffs"
+  ],
+  "ingredients": "Rice Meal (Rice) (76%), \u0026quot;Seasoning (10%) - {-Spices \u0026 Condiments, lodized Saft, Refined Sugar, Black Salt Powder, Acidity Regulator (INS330 Anticaking Agent (INS551), Flavour Enhancer 627, INS631), Contains Added Flavours (Nature Identical Flavouring Substances), Maltodextrin Edible Vegetable Oil (Refined Palmolein Oil (8%)}, Pulses (Moong Dal4% and Corn Meal (2%)",
+  "per_100g": {
+    "energy_kcal": 420.72,
+    "fat": 10.52,
+    "saturated_fat": 4.64,
+    "carbohydrates": 75.76,
+    "sugars": 0.63,
+    "fiber": 2,
+    "protein": 5.75,
+    "salt": 2198.95,
+    "sodium": 879.58
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-30T11:14:10Z",
+  "fetched_at": "2026-08-19T01:52:23Z"
+}

@@ -1,0 +1,38 @@
+{
+  "barcode": "8906080604751",
+  "name": "Swing Coconut Water Drink",
+  "brand": "Paper Boat",
+  "quantity": "1.2 l",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:waters",
+    "en:coconuts-and-their-products",
+    "en:coconut-waters",
+    "en:Coconut Water Drink"
+  ],
+  "ingredients": "WATER, COCONUT WATER CONCENTRATE (4.3%), SUGAR, MINERAL (POTASSIUM CHLORIDE) NATURE-IDENTICAL FLAVOURING SUBSTANCES, IODISED SALT, PRESERVATIVES (242, 202, 224), ACIDITY REGULATOR (CITRIC ACID) AND ANTIOXIDANT (ASCORBIC ACID).",
+  "per_100g": {
+    "energy_kcal": 25,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 6.2,
+    "sugars": 6,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-02T14:08:40Z",
+  "fetched_at": "2026-08-19T12:45:50Z"
+}

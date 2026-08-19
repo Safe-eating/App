@@ -1,0 +1,26 @@
+{
+  "barcode": "8901414000827",
+  "name": "Navratan mixture",
+  "brand": "Bikano",
+  "quantity": "500g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Edible Vegetable Oil (Refined Palmolein Oil, Refined Ricebran Oil, Refined Cottonseed Oil), Split Bengal Gram (19.4%), Lentils (18.496), Maize Flour, Peanuts (5.29), Rice Flakes, Spices and Condiments (Red Chilli Powder, Dried Mango Powder, Cumin Powder, Dried Ginger Powder, Black Pepper Powder, Clove Powder, Asafoetida Powder, Cinnamon Powder, Coriander Powder, Green Chilli Powder, Carom Seeds Powder, Nutmeg Powder, Cardamom Powder, Mace Powder, Bay Leaves Powder), Green Peas (2.6%), Cornflakes, Chickpea Flour, Potato Chips, Rice Flour, Chickpeas, lodized Salt, Turmeric Powder, Spinach Powder, Black Salt, Acidity Regulator (E 296), Contains Permitted Natural [E 100 and E141(ii)] and Synthetic Food Colour (E 133/FD\u0026C Blue No.1) and Added Flavour (Nature Identical Flavouring Substances).",
+  "per_100g": {
+    "energy_kcal": 590.4,
+    "fat": 40.4,
+    "saturated_fat": 10.1,
+    "carbohydrates": 42.1,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 14.6,
+    "salt": 1.5,
+    "sodium": 0.6
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-14T13:29:53Z",
+  "fetched_at": "2026-08-19T00:47:50Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "7622202329586",
+  "name": "Dairy Milk Crackle",
+  "brand": "Qadbury",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 516,
+    "fat": 26,
+    "saturated_fat": 17.5,
+    "carbohydrates": 63.6,
+    "sugars": 51.6,
+    "fiber": null,
+    "protein": 7.7,
+    "salt": 0.59,
+    "sodium": 0.236
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-13T12:59:59Z",
+  "fetched_at": "2026-08-19T00:11:14Z"
+}

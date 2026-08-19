@@ -1,0 +1,31 @@
+{
+  "barcode": "8908013194193",
+  "name": "Kombucha",
+  "brand": "Borecha",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:fermented-foods",
+    "en:fermented-drinks",
+    "en:tea-based-beverages",
+    "en:kombuchas"
+  ],
+  "ingredients": "Kombucha (Water, Live Probiotic Kombucha Culture Komagataeibacter sp. A musti A tropicalis), Cane Sugar, Assam Black Tea, Darjeeling Black Teal, Natural Flavouring Substances (Mango), Indian Gooseberry, Bibhitaki, Haritaki, Licorice Root, Carbon Dioxide (INS 290)",
+  "per_100g": {
+    "energy_kcal": 12,
+    "fat": 0.2,
+    "saturated_fat": 0,
+    "carbohydrates": 2.5,
+    "sugars": 2.5,
+    "fiber": 9,
+    "protein": 0.08,
+    "salt": 0.001575,
+    "sodium": 0.00063
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-20T06:10:42Z",
+  "fetched_at": "2026-08-19T13:14:42Z"
+}

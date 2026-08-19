@@ -1,0 +1,27 @@
+{
+  "barcode": "8904063226402",
+  "name": "Chips",
+  "brand": "Haldirams",
+  "quantity": "95g",
+  "categories": [
+    "en:potato-chips-in-vegetable-oil",
+    "en:classic-salted-potato-chips"
+  ],
+  "ingredients": "Potatoes (1%), Edible Vegetable Oil (Palmolein, Cotton Seed, Rice Bran) and lodised Salt (1.6%). ALLERGEN INFORMATION May Contain Wheat, Milk, Nut \u0026 Soy. READY-TO-EAT SAVOURIES (PROPRIETARY FOOD)",
+  "per_100g": {
+    "energy_kcal": 546.4,
+    "fat": 33,
+    "saturated_fat": 15.8,
+    "carbohydrates": 55.2,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 7.1,
+    "salt": 1.5,
+    "sodium": 0.6
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-22T12:34:01Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

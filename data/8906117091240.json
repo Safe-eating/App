@@ -1,0 +1,32 @@
+{
+  "barcode": "8906117091240",
+  "name": "Peanut Butter Shortcuts",
+  "brand": "BRB",
+  "quantity": "25gm",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers",
+    "en:thin-crunchy-wafer-biscuit-with-chocolate"
+  ],
+  "ingredients": "Peanut Butter (46%), Refined Wheat Flour, Jaggery, Cocoa Solids, Milk Solids, Milk Protein Concentrate, Refined Coconut Oil, Soy Lecithin (E322), Salt, Baking Soda, Butter*, Vanilla \u0026 Chocolate Extract*. ALLERGEN INFO: Contains Peanuts, Wheat, Milk and Soy. Fat 12.7g, Fium",
+  "per_100g": {
+    "energy_kcal": 514.8,
+    "fat": 26.8,
+    "saturated_fat": 5.2,
+    "carbohydrates": 50.8,
+    "sugars": 16,
+    "fiber": 0,
+    "protein": 17.6,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-06T14:02:02Z",
+  "fetched_at": "2026-08-19T12:53:04Z"
+}

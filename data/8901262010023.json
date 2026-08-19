@@ -1,0 +1,36 @@
+{
+  "barcode": "8901262010023",
+  "name": "Amul pasteurised butter",
+  "brand": "Amul",
+  "quantity": "250",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:spreads",
+    "en:cheeses",
+    "en:fats",
+    "en:spreadable-fats",
+    "en:animal-fats",
+    "en:dairy-spreads",
+    "en:milkfat",
+    "en:butters"
+  ],
+  "ingredients": "Butter,iodized salt, natural colour (annatto)\nAllergen information:contains milk",
+  "per_100g": {
+    "energy_kcal": 724,
+    "fat": 80,
+    "saturated_fat": 48,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 1,
+    "salt": 2.3875,
+    "sodium": 0.955
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-18T16:16:02Z",
+  "fetched_at": "2026-08-19T00:41:26Z"
+}

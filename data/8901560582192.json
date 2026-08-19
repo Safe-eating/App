@@ -1,0 +1,26 @@
+{
+  "barcode": "8901560582192",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:pasta masala"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 201,
+    "fat": 1.5,
+    "saturated_fat": 0,
+    "carbohydrates": 40,
+    "sugars": 12,
+    "fiber": null,
+    "protein": 7,
+    "salt": 35000,
+    "sodium": 14000
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-21T14:39:04Z",
+  "fetched_at": "2026-08-19T00:56:10Z"
+}

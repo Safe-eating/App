@@ -1,0 +1,26 @@
+{
+  "barcode": "8908019726442",
+  "name": "Choco Pockets",
+  "brand": "Nova Nova",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Sugar, Refined Wheat Flour, Edible Vegetable Oil (Palm Oil) \u0026 Lauric Fat, Milk Solids, Invert Syrup. lodized Salt, Emulsifiers (Plant Origin) (E471, E472(e). E322), Antioxidant (E319). Artificial Flavour \u0026 Colour (E 150d)",
+  "per_100g": {
+    "energy_kcal": 462,
+    "fat": 15,
+    "saturated_fat": 8,
+    "carbohydrates": 76,
+    "sugars": 36,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0.5,
+    "sodium": 0.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-16T14:10:16Z",
+  "fetched_at": "2026-08-19T13:19:54Z"
+}

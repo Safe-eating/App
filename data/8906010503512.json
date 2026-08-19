@@ -1,0 +1,31 @@
+{
+  "barcode": "8906010503512",
+  "name": "Balaji wafers",
+  "brand": "Balaji",
+  "quantity": "135g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato"
+  ],
+  "ingredients": "POTATO (89%), EDIBLE VEGETABLE OIL (PALMOLEIN), EDIBLE COMMON SALT (0.4%).",
+  "per_100g": {
+    "energy_kcal": 554,
+    "fat": 32.9,
+    "saturated_fat": 15.7,
+    "carbohydrates": 53.4,
+    "sugars": 0.8,
+    "fiber": null,
+    "protein": 7.7,
+    "salt": 0.9625,
+    "sodium": 0.385
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-02T13:29:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

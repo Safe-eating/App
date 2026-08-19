@@ -1,0 +1,33 @@
+{
+  "barcode": "8904327600955",
+  "name": "MYFITNESS Peanut Butter - Chocolate",
+  "brand": "MYFITNESS",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "roasted peanuts, dark chocolate, rice crisps (rice flour, wheat flour, milk powder, sugar, salt, cocoa powder), brown sugar, salt, stabilizer (ins471),",
+  "per_100g": {
+    "energy_kcal": 200.7,
+    "fat": 15.4,
+    "saturated_fat": 4.3,
+    "carbohydrates": 7.1,
+    "sugars": 2.7,
+    "fiber": null,
+    "protein": 8.4,
+    "salt": 0.12075,
+    "sodium": 0.0483
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-31T09:10:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

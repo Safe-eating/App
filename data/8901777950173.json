@@ -1,0 +1,31 @@
+{
+  "barcode": "8901777950173",
+  "name": "Ice Cream Belgian Chocolate",
+  "brand": "Vadilal",
+  "quantity": "1l",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-in-a-box"
+  ],
+  "ingredients": "Water, Milk Solids, Dark Chocolate (15%)[Sugar, Edible Vegetable Fat, Cocoa Solids, Edible Common Salt, Emulsifier (322), Artificial (Vanilla) Flavouring Substances] Cocoa Solids, Emulsifier (471), Stabilisers (412, 466, 407), Synthetic Food Colours (110, 124, 133), Artificial (Vanilla) Flavouring Substances.",
+  "per_100g": {
+    "energy_kcal": 265,
+    "fat": 13.6,
+    "saturated_fat": 10.1,
+    "carbohydrates": 32,
+    "sugars": 29.2,
+    "fiber": null,
+    "protein": 3.7,
+    "salt": 0.2125,
+    "sodium": 0.085
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-18T06:54:13Z",
+  "fetched_at": "2026-08-19T01:09:35Z"
+}

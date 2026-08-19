@@ -1,0 +1,31 @@
+{
+  "barcode": "8904132926820",
+  "name": "Besan (Coarse)",
+  "brand": "Good Life",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:flours",
+    "en:legume-flours",
+    "en:chickpea-flours"
+  ],
+  "ingredients": "Chana Dal",
+  "per_100g": {
+    "energy_kcal": 122,
+    "fat": 2.68,
+    "saturated_fat": 0.3,
+    "carbohydrates": 15,
+    "sugars": 0.5,
+    "fiber": 5.45,
+    "protein": 6.74,
+    "salt": 0.54,
+    "sodium": 0.216
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T17:34:38Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

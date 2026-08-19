@@ -1,0 +1,31 @@
+{
+  "barcode": "8909106048928",
+  "name": "Chocolate Ice Cream",
+  "brand": "Kwality Walls",
+  "quantity": "700ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-in-a-box"
+  ],
+  "ingredients": "Water, Milk Solids (Skimmed Milk Powder, Milk Fat, Milk), Sugar, Cocoa Solids, Liquid Glucose, Emulsifier (471), Food Colours [Natural (150d \u0026 160a(ii)), 122, 133, 102], Stabilizers (412, 417, 466, 407, 410), Nature Identical (Chocolate) Flavouring Substance. Allergen Information: Contains Milk.",
+  "per_100g": {
+    "energy_kcal": 201.88679245283,
+    "fat": 8.86792452830189,
+    "saturated_fat": 6.0377358490566,
+    "carbohydrates": 26.7924528301887,
+    "sugars": 23.2075471698113,
+    "fiber": 1.69811320754717,
+    "protein": 4.52830188679245,
+    "salt": 0.202830188679245,
+    "sodium": 0.0811320754716981
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T15:54:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

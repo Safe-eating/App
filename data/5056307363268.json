@@ -1,0 +1,24 @@
+{
+  "barcode": "5056307363268",
+  "name": "Cookies \u0026 Cream Protein Powder",
+  "brand": "Myprotein",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 408,
+    "fat": 7.2,
+    "saturated_fat": 4.8,
+    "carbohydrates": 7,
+    "sugars": 6.92,
+    "fiber": 2,
+    "protein": 79,
+    "salt": 0.24,
+    "sodium": 0.096
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-26T03:19:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

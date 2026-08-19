@@ -1,0 +1,31 @@
+{
+  "barcode": "8906112665354",
+  "name": "Protein Granola",
+  "brand": "True Elements",
+  "quantity": "900g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "Seeds (62.9% - Watermelon, Sunflower, Flax, Chia, Sesame), Jaggery (13.4%), Nuts (10.3% - Almonds, Desiccated Coconut), Oat flour (7.2%), Raw Honey (6.2%).",
+  "per_100g": {
+    "energy_kcal": 439,
+    "fat": 12,
+    "saturated_fat": 1.2,
+    "carbohydrates": 63.4,
+    "sugars": 18,
+    "fiber": 24.5,
+    "protein": 19.2,
+    "salt": 0.0144,
+    "sodium": 0.00576
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-09-15T07:45:06Z",
+  "fetched_at": "2026-08-19T12:51:28Z"
+}

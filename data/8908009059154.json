@@ -1,0 +1,30 @@
+{
+  "barcode": "8908009059154",
+  "name": "Whole Wheat Bread",
+  "brand": "The Health Factory",
+  "quantity": "250 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Chakki Fresh Atta (Whole Wheat Flour), Yeast, Wheat Gluten, Rice Bran Oil (Edible Vegetable Oil), Cane Sugar, Iodised Salt, Cultured Wheat Flour, Cultured Sweet Potato, Cultured Glucose.",
+  "per_100g": {
+    "energy_kcal": 241.49,
+    "fat": 1.33,
+    "saturated_fat": 0.14,
+    "carbohydrates": 43.91,
+    "sugars": 4.13,
+    "fiber": 6.31,
+    "protein": 13.47,
+    "salt": 0.8678,
+    "sodium": 0.34712
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-19T14:17:58Z",
+  "fetched_at": "2026-08-19T13:11:08Z"
+}

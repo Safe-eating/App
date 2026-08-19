@@ -1,0 +1,36 @@
+{
+  "barcode": "8906010501570",
+  "name": "Balaji Wafers Crunchex",
+  "brand": "Balaji",
+  "quantity": "32g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:Kurkure"
+  ],
+  "ingredients": "POTATO (84%), EDIBLE VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWINGS: PALMOLEIN, GROUNDNUT), **SEASONING [SUGAR, MALTODEXTRIN, SALT, SPICES \u0026 CONDIMENTS (CHILLI (0.5%), PEPPER), DEHYDRATED VEGETABLE POWDER (ONION, GARLIC, TOMATO), BLACK SALT, ACIDITY REGULATOR (INS 330, INS 296, INS 334), MILK SOLIDS (0.1%), HYDROLYZED VEGETABLE PROTEIN SOYA), ANTICAKING AGENT (INS 551), FLAVOUR ENHANCER (INS 627, INS 631) FLAVOUR (NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES), PAPRIKA EXTRACT (INS 160C), STABILIZER (INS 340), EMULSIFIER (INS 470)]",
+  "per_100g": {
+    "energy_kcal": 545,
+    "fat": 30.7,
+    "saturated_fat": 14.4,
+    "carbohydrates": 55,
+    "sugars": 3.8,
+    "fiber": 9.3,
+    "protein": 7.5,
+    "salt": 0.0024175,
+    "sodium": 0.000967
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-29T15:25:43Z",
+  "fetched_at": "2026-08-19T02:01:15Z"
+}

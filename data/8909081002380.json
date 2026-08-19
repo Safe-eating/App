@@ -1,0 +1,24 @@
+{
+  "barcode": "8909081002380",
+  "name": "Tiramisu Minis",
+  "brand": "Fabelle",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 529,
+    "fat": 30,
+    "saturated_fat": 18.1,
+    "carbohydrates": 56.3,
+    "sugars": 51.6,
+    "fiber": null,
+    "protein": 9.3,
+    "salt": 0.3375,
+    "sodium": 0.135
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-11T07:29:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

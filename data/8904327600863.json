@@ -1,0 +1,35 @@
+{
+  "barcode": "8904327600863",
+  "name": "Peanut butter",
+  "brand": "MYFITNESS",
+  "quantity": "2.5kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:nuts-and-their-products",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:nut-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Roasted peanuts (10 PURE PEANUTS. NOTHING ELSE Allergen Info: Contains Peanuts BUTTER",
+  "per_100g": {
+    "energy_kcal": 206,
+    "fat": 53,
+    "saturated_fat": 11,
+    "carbohydrates": 5,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 25,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-25T17:53:29Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

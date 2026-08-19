@@ -1,0 +1,34 @@
+{
+  "barcode": "8906006720107",
+  "name": "Qyno Dates",
+  "brand": "Lion",
+  "quantity": "250 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruits-based-foods",
+    "en:dried-products",
+    "en:fruits",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits",
+    "en:dates"
+  ],
+  "ingredients": "Dates",
+  "per_100g": {
+    "energy_kcal": 319.6,
+    "fat": 0.25,
+    "saturated_fat": 0.075,
+    "carbohydrates": 77.2,
+    "sugars": 69.2,
+    "fiber": 5.6,
+    "protein": 2.8,
+    "salt": 0.01,
+    "sodium": 0.004
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T12:22:12Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

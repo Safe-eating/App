@@ -1,0 +1,31 @@
+{
+  "barcode": "8906010500610",
+  "name": "Chata Pataka Tomato",
+  "brand": "Balaji",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:chatka-patka"
+  ],
+  "ingredients": "RICE MEAL (42%), EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN), CORN MEAL (13%), CHICKPEA FLOUR, SUGAR, EDIBLE COMMON SALT, DEHYDRATED VEGETABLE POWDER (TOMATO (0.8%), ONION, GARLIC), CHILLI POWDER, ANTICAKING AGENT (INS 551), EMULSIFIER (INS 414), FLAVOUR ENHANCER (INS 627, INS 631), NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES (TOMATO) PROPRIETARY FOOD NAMKEEN INDIAN SNACKS \u0026 SAVOURIES",
+  "per_100g": {
+    "energy_kcal": 552,
+    "fat": 33.2,
+    "saturated_fat": 16,
+    "carbohydrates": 56.2,
+    "sugars": 5,
+    "fiber": null,
+    "protein": 6.5,
+    "salt": 1.775,
+    "sodium": 0.71
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T15:01:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

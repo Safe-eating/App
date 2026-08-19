@@ -1,0 +1,31 @@
+{
+  "barcode": "8906059636615",
+  "name": "Protein Milkshake",
+  "brand": "Epigamia Turbo",
+  "quantity": "250ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:milkshakes"
+  ],
+  "ingredients": "Skimmed Milk (79%), Milk Solids, Water, Cocoa Powder (0.5%), Natural \u0026 Nature Identical Flavouring Substances (Chocolate\u0026Vanilla), Acidity Regulators [INS 340, INS 452, INS 339 (i), Stabilizers (INS 407), Sweetener (INS 955), Edible Common Salt",
+  "per_100g": {
+    "energy_kcal": 33.2391818181818,
+    "fat": 0.273913636363636,
+    "saturated_fat": 0.16095,
+    "carbohydrates": 4.54673181818182,
+    "sugars": 4.43925909090909,
+    "fiber": 0.1475,
+    "protein": 3.06250909090909,
+    "salt": 2.567128,
+    "sodium": 1.02559827272728
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-21T08:09:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

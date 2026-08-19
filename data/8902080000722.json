@@ -1,0 +1,26 @@
+{
+  "barcode": "8902080000722",
+  "name": "Slice",
+  "brand": "Pepsico",
+  "quantity": "125 ml",
+  "categories": [
+    "en:Ready to serve fruit beverage"
+  ],
+  "ingredients": "WATER, SUGAR, *CONCENTRATED MANGO PULP (5.1%), ACIDITY REGULATOR (330), FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES), STABILIZERS (466, 440), SWEETENER (960a), PRESERVATIVE (202), COLOUR (110). CONTAIN NON-CALORIC SWEETENER",
+  "per_100g": {
+    "energy_kcal": 50,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 12.5,
+    "sugars": 10.8,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-22T02:31:19Z",
+  "fetched_at": "2026-08-19T01:11:38Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "0760851638226",
+  "name": "Gladful Banana Pancake",
+  "brand": "Gladful",
+  "quantity": "150g",
+  "categories": [
+    "en:crepes-and-galettes",
+    "en:pancakes"
+  ],
+  "ingredients": "Sprouted Lobia, Jawar Foxtail Millet, Banana, Oats, Raw Unrefined Cane Sugar, Vanilla, Baking Powder. Made in a facility that processes nuts, barley, rye, and wheat",
+  "per_100g": {
+    "energy_kcal": 314,
+    "fat": 2.5,
+    "saturated_fat": 0,
+    "carbohydrates": 62.8,
+    "sugars": 18.1,
+    "fiber": 4.5,
+    "protein": 10.1,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-14T12:56:16Z",
+  "fetched_at": "2026-08-18T23:55:27Z"
+}

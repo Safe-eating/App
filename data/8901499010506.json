@@ -1,0 +1,33 @@
+{
+  "barcode": "8901499010506",
+  "name": "Muesli With 20% Nuts Delight",
+  "brand": "Kellogg's",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis",
+    "en:diet-breakfast-cereals"
+  ],
+  "ingredients": "Multigrain (68.2%) {(Wheat (24%), Corn Grits (14.1%), Rolled Barley (10.6 %), Rolled Oats (10.6%), Rice (9.1%)}, Dry Fruit \u0026 Nut (20%) {(Raisins (14%), Almond (6%), Sugar, Cereal Extract, Wheat Bran, iodized Salt, Vitamins, Minerals, Flavour (Artificial (Coconut)}, Antioxidant (INS 320 \u0026 INS 307b).",
+  "per_100g": {
+    "energy_kcal": 395,
+    "fat": 6.5,
+    "saturated_fat": 0.7,
+    "carbohydrates": 78.7,
+    "sugars": 21.5,
+    "fiber": 6,
+    "protein": 8.3,
+    "salt": 0.25,
+    "sodium": 0.1
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-03T02:46:58Z",
+  "fetched_at": "2026-08-19T00:53:01Z"
+}

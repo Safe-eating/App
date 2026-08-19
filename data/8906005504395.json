@@ -1,0 +1,26 @@
+{
+  "barcode": "8906005504395",
+  "name": "Tana-bana",
+  "brand": "Bikaji",
+  "quantity": "1 kg",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Edible Vegetable Oil (Palmolein Oil and/or Cottonseed Oil), Rice Flakes (15%), Sugar (15%), Gram Flour, Whole Lentils (5%), Split Chickpea (5%), Peanuts (5%), Tapioca (4%), Green Peas (3%), Acidity Regulator (INS 330) (1%), Dehydrated Potato Flakes,  Dew Bean Flour (Moth Flour), Tapioca Starch, Ground Spices \u0026 Condiments, (Iodised Salt, Turmeric (Colouring and Spices), Bishop Seed, Black Salt, Cinnamon), Acidity Regulator (INS 330) (1%)",
+  "per_100g": {
+    "energy_kcal": 534,
+    "fat": 30,
+    "saturated_fat": 13,
+    "carbohydrates": 55,
+    "sugars": 15,
+    "fiber": 8,
+    "protein": 11,
+    "salt": 2.2,
+    "sodium": 0.88
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-20T11:22:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

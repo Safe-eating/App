@@ -1,0 +1,24 @@
+{
+  "barcode": "8908006628216",
+  "name": "Quattro Formaggi",
+  "brand": "Nutoras",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 364.1,
+    "fat": 28.1,
+    "saturated_fat": 19.6,
+    "carbohydrates": 5,
+    "sugars": 3.8,
+    "fiber": null,
+    "protein": 22.8,
+    "salt": 1.34125,
+    "sodium": 0.5365
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-22T17:45:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

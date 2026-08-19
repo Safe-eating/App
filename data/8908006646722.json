@@ -1,0 +1,26 @@
+{
+  "barcode": "8908006646722",
+  "name": "Pudina Party",
+  "brand": "Mr Makhana",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 516,
+    "fat": 28,
+    "saturated_fat": 8,
+    "carbohydrates": 60,
+    "sugars": 0,
+    "fiber": 4,
+    "protein": 8,
+    "salt": 0.48,
+    "sodium": 0.192
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-25T16:40:07Z",
+  "fetched_at": "2026-08-19T13:10:08Z"
+}

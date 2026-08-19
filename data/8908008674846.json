@@ -1,0 +1,32 @@
+{
+  "barcode": "8908008674846",
+  "name": "nabati wafer",
+  "brand": "nabati",
+  "quantity": "30g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers",
+    "en:cream wafer biscuits"
+  ],
+  "ingredients": "cream(60%) (sugar, edible vegetable oil(palm olien),maltodextin,whey powder,non dairy creamer (glucose syrup, hydrogenated coconut oil, sodium caseinate and milk powder,modified starch (INS 1440), stabilizers (INS 340(¡¡),INS 331(¡¡¡), emulsifier (INS 471,INS 481(¡)),anticaking agent",
+  "per_100g": {
+    "energy_kcal": 484,
+    "fat": 20,
+    "saturated_fat": 10,
+    "carbohydrates": 71,
+    "sugars": 32,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0.87,
+    "sodium": 0.348
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-27T05:51:00Z",
+  "fetched_at": "2026-08-19T13:11:01Z"
+}

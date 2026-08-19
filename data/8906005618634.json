@@ -1,0 +1,30 @@
+{
+  "barcode": "8906005618634",
+  "name": "Mini Swiss Roll",
+  "brand": "Winkies",
+  "quantity": "25g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes",
+    "en:Swiss roll"
+  ],
+  "ingredients": "CAKE (68%): REFINED WHEAT FLOUR (MAIDA), EGGS, SUGAR, WATER, INVERT SYRUP, LIQUID GLUCOSE, DEXTROSE, CAKE GEL(INS 471, INS 477, INS 1520, INS 422), HUMECTANT (INS 422), PALMOLEIN, MILK SOLIDS, EMULSIFIERS (INS 477, INS 471, INS 322, INS 304 (ii)), RAISING AGENTS {INS 450 (i), INS 500 (ii)), PALM OIL, EDIBLE COMMON SALT, FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA), ACIDITY REGULATOR (INS 260), PRESERVATIVES (INS 200, INS 282), STABILIZER(INS 412), CORN FLOUR. FILLING (32%): RED FRUIT PREPARATION (50%) [GLUCOSE-FRUCTOSE SYRUP, SUGAR, STRAWBERRY PUREE (16%), RASPBERRY PUREE (7%), RED CURRANT PUREE (7%), GELLING AGENT(INS 440(11)), ACIDITY REGULATOR(INS 330), CONCENTRATED BLACK CARROT JUICE], BAKERY SHORTENING, LIQUID GLUCOSE, DEXTROSE, SUGAR, INVERT SYRUP, HUMECTANT (INS 422), CAKE GEL(INS 471, INS 477, INS 1520, INS 422), EDIBLE COMMON SALT, PRESERVATIVE (INS 282, INS 200), ACIDITY REGULATOR(INS 296), FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA), COLOUR (INS 150c). (Numbers in brackets as per International Numbering System). CONTAINS WHEAT, MILK, SOY AND EGG INGREDIENTS.",
+  "per_100g": {
+    "energy_kcal": 371.58,
+    "fat": 9.58,
+    "saturated_fat": 2.47,
+    "carbohydrates": 66.45,
+    "sugars": 43.15,
+    "fiber": null,
+    "protein": 4.78,
+    "salt": 0.307425,
+    "sodium": 0.12297
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-20T17:07:35Z",
+  "fetched_at": "2026-08-19T01:51:52Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8901058850390",
+  "name": "Classic",
+  "brand": "Nestlé",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 515,
+    "fat": 27.8,
+    "saturated_fat": 25.8,
+    "carbohydrates": 57.5,
+    "sugars": 49.8,
+    "fiber": 1.9,
+    "protein": 8.7,
+    "salt": 0.494,
+    "sodium": 0.1976
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T20:06:29Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

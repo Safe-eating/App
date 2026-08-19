@@ -1,0 +1,31 @@
+{
+  "barcode": "8904132977235",
+  "name": "Independence Chocolate Flavoured Milkshake",
+  "brand": "Independence",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:milkshakes"
+  ],
+  "ingredients": "DOUBLE TONED MILK (79%), SUGAR, WATER, COCOA SOLIDS (1.5%), EMULSIFIERS\u0026STABILIZERS (471,412,407,415), ACIDITY REGULATORS (340 (ii), 340 (ii), 452(i), IODIZED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES",
+  "per_100g": {
+    "energy_kcal": 101,
+    "fat": 2.7,
+    "saturated_fat": 1.7,
+    "carbohydrates": 16.5,
+    "sugars": 16.5,
+    "fiber": null,
+    "protein": 2.8,
+    "salt": 0.0825,
+    "sodium": 0.033
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-03T12:00:34Z",
+  "fetched_at": "2026-08-19T01:38:15Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8901262300117",
+  "name": "Chocolate Crackle Ice cream",
+  "brand": "Amul",
+  "quantity": "540gm",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-in-a-box"
+  ],
+  "ingredients": "Amul Real Milk. Real Ice Cream. milk chocolate coated cashew chikki (10%) sugar, cashew pieces, milk solids, cocoa butter, cocoa solids, liquid (322,475), stabilizer (414) coa solids, cocoa butter, emulsifiers (471,476, 322), stabilizers (407, 466, 415,412).",
+  "per_100g": {
+    "energy_kcal": 248,
+    "fat": 14,
+    "saturated_fat": 8.3,
+    "carbohydrates": 27,
+    "sugars": 24.4,
+    "fiber": null,
+    "protein": 4.8,
+    "salt": 0.135,
+    "sodium": 0.054
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-24T10:46:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

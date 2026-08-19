@@ -1,0 +1,24 @@
+{
+  "barcode": "8908000295186",
+  "name": "Mukharochak chira bhaja",
+  "brand": "mukharochak",
+  "quantity": "200",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 607,
+    "fat": 38,
+    "saturated_fat": 15,
+    "carbohydrates": 48,
+    "sugars": 3,
+    "fiber": 0,
+    "protein": 11,
+    "salt": 0.6075,
+    "sodium": 0.243
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-20T11:30:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

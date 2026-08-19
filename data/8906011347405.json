@@ -1,0 +1,26 @@
+{
+  "barcode": "8906011347405",
+  "name": "Mello Royale Dark Compound",
+  "brand": "Mello Royale",
+  "quantity": "",
+  "categories": [
+    "en:dark compound"
+  ],
+  "ingredients": "Sugar, Edible Vegetable Fat (Hydrogenated Oil), Cocoa Solids, Emulsifiers (INS 322 (i), INS 476, INS 492), Edible Salt, Flavour.",
+  "per_100g": {
+    "energy_kcal": 533.18,
+    "fat": 30.22,
+    "saturated_fat": 29.73,
+    "carbohydrates": 59.09,
+    "sugars": 51.89,
+    "fiber": null,
+    "protein": 4.3,
+    "salt": 0.33955,
+    "sodium": 0.13582
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-28T09:49:39Z",
+  "fetched_at": "2026-08-19T02:02:49Z"
+}

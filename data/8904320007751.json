@@ -1,0 +1,28 @@
+{
+  "barcode": "8904320007751",
+  "name": "",
+  "brand": "DiSano",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 349,
+    "fat": 0.32,
+    "saturated_fat": 0.18,
+    "carbohydrates": 76.08,
+    "sugars": 3.81,
+    "fiber": 6,
+    "protein": 11.5,
+    "salt": 0.2975,
+    "sodium": 0.119
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-26T17:14:37Z",
+  "fetched_at": "2026-08-19T01:42:54Z"
+}

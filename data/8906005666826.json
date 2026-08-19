@@ -1,0 +1,30 @@
+{
+  "barcode": "8906005666826",
+  "name": "Whole Wheat Vermicelli",
+  "brand": "Narasu's",
+  "quantity": "180 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:semiya",
+    "en:wheat-vermicelli"
+  ],
+  "ingredients": "Wheat Flour",
+  "per_100g": {
+    "energy_kcal": 341,
+    "fat": 1.66666666666667,
+    "saturated_fat": 0.5,
+    "carbohydrates": 69.4444444444444,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 12.1111111111111,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-07T12:47:02Z",
+  "fetched_at": "2026-08-19T01:52:16Z"
+}

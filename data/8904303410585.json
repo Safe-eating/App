@@ -1,0 +1,30 @@
+{
+  "barcode": "8904303410585",
+  "name": "True classics chocolate bar- Bitter",
+  "brand": "Smoor",
+  "quantity": "80g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates"
+  ],
+  "ingredients": "Dark chocolate (Cocoa solids, Cocoa butter, Sugar and Emulsifier (INS 322(i) and INS 476), Natural flavouring substance (Vanilla)) )",
+  "per_100g": {
+    "energy_kcal": 605.49,
+    "fat": 39.53,
+    "saturated_fat": 23.72,
+    "carbohydrates": 48.23,
+    "sugars": 26.6,
+    "fiber": 10.6,
+    "protein": 8.9,
+    "salt": 0.25,
+    "sodium": 0.1
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-23T13:45:29Z",
+  "fetched_at": "2026-08-19T01:42:26Z"
+}

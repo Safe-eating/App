@@ -1,0 +1,31 @@
+{
+  "barcode": "8901719117206",
+  "name": "Hide \u0026 Seek Caffé Mocha",
+  "brand": "Parle",
+  "quantity": "100g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Cookies with Chocolate Chips and Coffee"
+  ],
+  "ingredients": "Refined Wheat Flour, Chocolate 21% (Sugar, Cocoa Solids, Cocoa Butter, Dexstrose, Soy Lecithin, Vanilla), Sugar, Refined Palm Oil, Inverter Sugar Syrup, Instant Coffee Chicory Mixture 1%, Raising Agents (503 ii, 500 ii), Iodized Salt, Emulsifier of Vegetable Origin (472e)",
+  "per_100g": {
+    "energy_kcal": 478,
+    "fat": 17.8,
+    "saturated_fat": 9.2,
+    "carbohydrates": 73.6,
+    "sugars": 32,
+    "fiber": null,
+    "protein": 5.8,
+    "salt": 0.355,
+    "sodium": 0.142
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-16T12:36:31Z",
+  "fetched_at": "2026-08-19T01:00:09Z"
+}

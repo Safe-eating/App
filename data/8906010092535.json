@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010092535",
+  "name": "Grated Italian Cheese",
+  "brand": "D’lecta",
+  "quantity": "",
+  "categories": [
+    "en:Chee"
+  ],
+  "ingredients": "COW MILK, SALT, MICROBIAL VEGETARIAN RENNET. (Mitk / दूध CONTAINS MILK SERVING SIZE 20g 4 SERVES PER PACK",
+  "per_100g": {
+    "energy_kcal": 464,
+    "fat": 32,
+    "saturated_fat": 20.4,
+    "carbohydrates": 2,
+    "sugars": 1.8,
+    "fiber": null,
+    "protein": 42,
+    "salt": 0.002975,
+    "sodium": 0.00119
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-03T03:54:42Z",
+  "fetched_at": "2026-08-19T01:59:36Z"
+}

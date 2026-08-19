@@ -1,0 +1,26 @@
+{
+  "barcode": "8909081004841",
+  "name": "B Natural",
+  "brand": "B Natural",
+  "quantity": "125 ml",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "CONCENTRATE (5%), FLAVOURING ACIDITY REGULATORS [INS 330, INS 331(iii)], NATURE IDENTICAL SUBSTANCES, STABILIZER (INS 466), VITAMIN, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, POLYDEXTROSE (DIETARY FIBER) AND COLOUR (INS 110).^EQUIVALENT TO 10% MANGO RECONSTITUTED PULP. MAY CONTAIN MILK, NUT, SOY AND SULPHITE. SOURCE OF VITAMIN C.",
+  "per_100g": {
+    "energy_kcal": 46,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 11.6,
+    "sugars": 11.6,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-04T04:22:14Z",
+  "fetched_at": "2026-08-19T13:23:03Z"
+}

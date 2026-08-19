@@ -1,0 +1,32 @@
+{
+  "barcode": "8906117362302",
+  "name": "Country Delight Instant Oats",
+  "brand": "Country Delight",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "Rolled Oats",
+  "per_100g": {
+    "energy_kcal": 400,
+    "fat": 9.8,
+    "saturated_fat": 1.7,
+    "carbohydrates": 67,
+    "sugars": 1,
+    "fiber": 10,
+    "protein": 12,
+    "salt": 0.005,
+    "sodium": 0.002
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-03T06:55:35Z",
+  "fetched_at": "2026-08-19T12:54:01Z"
+}

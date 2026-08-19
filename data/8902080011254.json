@@ -1,0 +1,31 @@
+{
+  "barcode": "8902080011254",
+  "name": "Mango delight",
+  "brand": "Tropicana, pepsico",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages"
+  ],
+  "ingredients": "WATER, *CONCENTRATED MANGO PULP AND ALPHONSO MANGO PULP (20%), SUGAR, ACIDITY REGULATOR (330). CONTAINS PERMITTED NATURAL COLOUR (160a()) AND ADDED FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES).",
+  "per_100g": {
+    "energy_kcal": 61,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 15,
+    "sugars": 15,
+    "fiber": null,
+    "protein": 0.2,
+    "salt": 0.005,
+    "sodium": 0.002
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-07-23T14:09:58Z",
+  "fetched_at": "2026-08-19T01:12:39Z"
+}

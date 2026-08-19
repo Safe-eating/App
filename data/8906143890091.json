@@ -1,0 +1,34 @@
+{
+  "barcode": "8906143890091",
+  "name": "Date Sweetened Peanut Butter Crunchy",
+  "brand": "The Whole Truth",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:crunchy-peanut-butters"
+  ],
+  "ingredients": "85% Peanuts, 15% Date powder",
+  "per_100g": {
+    "energy_kcal": 637.142857142857,
+    "fat": 50.2857142857143,
+    "saturated_fat": 8.57142857142857,
+    "carbohydrates": 22,
+    "sugars": 12.8571428571429,
+    "fiber": 8,
+    "protein": 24.2857142857143,
+    "salt": 0.0778571428571429,
+    "sodium": 0.0311428571428571
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-30T08:25:42Z",
+  "fetched_at": "2026-08-19T12:58:44Z"
+}

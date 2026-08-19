@@ -1,0 +1,26 @@
+{
+  "barcode": "8901595863051",
+  "name": "Pasta Masala",
+  "brand": "Smith \u0026 Jones",
+  "quantity": "7g",
+  "categories": [
+    "en:Pasta masala"
+  ],
+  "ingredients": "Iodised Salt, Mixed Spices (20%) (Garlic, Coriander, Cumin, Onior Chilli), Corn Flour, Sugar, Tomato Powder, Flavour Enhancer (INS 635), Anticaking Agent (INS 551), Yeast Extract, Acidity Regulator NS 330), Beet Root Powder, Sunflower Oil, Nature Identical Flavouring Substances. May contain: Wheat, Soy, Mustard, Milk \u0026 Celery.",
+  "per_100g": {
+    "energy_kcal": 216,
+    "fat": 4.6,
+    "saturated_fat": 1,
+    "carbohydrates": 35.3,
+    "sugars": 11.5,
+    "fiber": 6.2,
+    "protein": 8.4,
+    "salt": 40.885,
+    "sodium": 16.354
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-28T11:22:10Z",
+  "fetched_at": "2026-08-19T00:57:06Z"
+}

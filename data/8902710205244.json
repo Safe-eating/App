@@ -1,0 +1,36 @@
+{
+  "barcode": "8902710205244",
+  "name": "Corn Flakes Honey And Almond",
+  "brand": "Bagrry's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:extruded-cereals",
+    "en:extruded-flakes",
+    "en:corn-flakes"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 399,
+    "fat": 5.7,
+    "saturated_fat": 0.5,
+    "carbohydrates": 81.7,
+    "sugars": 29.1,
+    "fiber": 3.6,
+    "protein": 7,
+    "salt": 1.07,
+    "sodium": 0.428
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-16T16:37:06Z",
+  "fetched_at": "2026-08-19T01:16:53Z"
+}

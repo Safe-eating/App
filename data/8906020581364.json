@@ -1,0 +1,31 @@
+{
+  "barcode": "8906020581364",
+  "name": "Protein Rich Dosa Batter",
+  "brand": "ID",
+  "quantity": "800g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:dosa-batter-mixes",
+    "en:idly-batter-mixes"
+  ],
+  "ingredients": "RO-Purified Water (52%), Rice (27%), Protein Blend (Pea Protein Isolate, Soya Protein Isolate, Brown Rice Protein Isolate) (8.5%), Urad Dal, Rice Rava, Iodised Salt And Fenugreek.",
+  "per_100g": {
+    "energy_kcal": 177.36,
+    "fat": 0.32,
+    "saturated_fat": 0.16,
+    "carbohydrates": 28.38,
+    "sugars": 0,
+    "fiber": 2.9,
+    "protein": 15.24,
+    "salt": 0.40725,
+    "sodium": 0.1629
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-04T01:13:09Z",
+  "fetched_at": "2026-08-19T02:08:25Z"
+}

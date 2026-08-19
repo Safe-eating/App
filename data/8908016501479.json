@@ -1,0 +1,26 @@
+{
+  "barcode": "8908016501479",
+  "name": "Mighty Masala Momos",
+  "brand": "Hello Tempayy",
+  "quantity": "",
+  "categories": [
+    "en:momos"
+  ],
+  "ingredients": "Semolina, Tempeh, Onion, Water, Tomato, Rice Bran Oil, Ginger, Garlic, Red Chilli, Tikka Seasoning, Coriander, Salt, Seasoning, Green Chilli, Garam Masala, Cumin Powder, Turmeric Powder, Emulsifiers (INS481, INS472e).",
+  "per_100g": {
+    "energy_kcal": 233,
+    "fat": 5.2,
+    "saturated_fat": 1.4,
+    "carbohydrates": 33.5,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 13,
+    "salt": 0.80475,
+    "sodium": 0.3219
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-29T14:18:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

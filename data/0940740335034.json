@@ -1,0 +1,32 @@
+{
+  "barcode": "0940740335034",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 97.53,
+    "fat": 2.8,
+    "saturated_fat": 2.1,
+    "carbohydrates": 6.9,
+    "sugars": 2.75,
+    "fiber": null,
+    "protein": 6.2,
+    "salt": 0.123375,
+    "sodium": 0.04935
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:18:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

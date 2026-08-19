@@ -1,0 +1,33 @@
+{
+  "barcode": "8901719128882",
+  "name": "Nutri crunch DIGESTIVES",
+  "brand": "",
+  "quantity": "1kg",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:variety-packs",
+    "en:biscuits-or-cookies-variety-packs",
+    "en:biscuits-or-cookies-perishable"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 488,
+    "fat": 19.9,
+    "saturated_fat": 9.2,
+    "carbohydrates": 70.8,
+    "sugars": 15.6,
+    "fiber": 6.1,
+    "protein": 6.5,
+    "salt": 0.6275,
+    "sodium": 0.251
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-19T09:03:49Z",
+  "fetched_at": "2026-08-19T01:01:44Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906020580084",
+  "name": "id Organic Rice Rava Idly Batter",
+  "brand": "id",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:idly-batter-mixes"
+  ],
+  "ingredients": "RO-PURIFIED WATER (55%), RICE RAVA (32%), URAD DAL AND IODISED SALT",
+  "per_100g": {
+    "energy_kcal": 135.43,
+    "fat": 0.99,
+    "saturated_fat": 0.42,
+    "carbohydrates": 26.02,
+    "sugars": 0,
+    "fiber": 1.98,
+    "protein": 5.61,
+    "salt": 0.229725,
+    "sodium": 0.09189
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-13T15:02:28Z",
+  "fetched_at": "2026-08-19T02:07:55Z"
+}

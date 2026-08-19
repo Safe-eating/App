@@ -1,0 +1,27 @@
+{
+  "barcode": "8906143892187",
+  "name": "Unflavoured 30g Pure Whey Protein Isolate",
+  "brand": "WholeTruth",
+  "quantity": "2 kg",
+  "categories": [
+    "en:dairies",
+    "en:whey-powder"
+  ],
+  "ingredients": "whey protein isolate, bromelain",
+  "per_100g": {
+    "energy_kcal": 374,
+    "fat": 1.71428571428571,
+    "saturated_fat": 0.857142857142857,
+    "carbohydrates": 2.28571428571429,
+    "sugars": 0,
+    "fiber": 0.114285714285714,
+    "protein": 86.8571428571429,
+    "salt": 0.517142857142857,
+    "sodium": 0.206857142857143
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-06T03:30:10Z",
+  "fetched_at": "2026-08-19T12:59:41Z"
+}

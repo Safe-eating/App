@@ -1,0 +1,28 @@
+{
+  "barcode": "8901725014759",
+  "name": "Whole Mustard",
+  "brand": "Aashirvaad",
+  "quantity": "",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:mustards"
+  ],
+  "ingredients": "Whole Mustard",
+  "per_100g": {
+    "energy_kcal": 152,
+    "fat": 11.2,
+    "saturated_fat": 0.76,
+    "carbohydrates": 4.33,
+    "sugars": 1.66,
+    "fiber": 0.5,
+    "protein": 6.92,
+    "salt": 6.3,
+    "sodium": 1.86
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-29T08:14:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

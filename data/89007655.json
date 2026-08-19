@@ -1,0 +1,29 @@
+{
+  "barcode": "89007655",
+  "name": "Doublemint",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:candies"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 242,
+    "fat": 0.8,
+    "saturated_fat": 0.8,
+    "carbohydrates": 97,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-25T13:14:40Z",
+  "fetched_at": "2026-08-19T00:13:34Z"
+}

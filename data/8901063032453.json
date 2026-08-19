@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063032453",
+  "name": "Treat Croissant Vanilla Créme",
+  "brand": "Britannia",
+  "quantity": "1 croissant, 45g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:sweet-pastries-and-pies",
+    "en:viennoiseries",
+    "en:filled-croissants",
+    "en:croissant-filled-with-cream"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 455,
+    "fat": 25.5,
+    "saturated_fat": 13.7,
+    "carbohydrates": 49.7,
+    "sugars": 19.3,
+    "fiber": null,
+    "protein": 6.8,
+    "salt": 0.445,
+    "sodium": 0.178
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-08T08:09:35Z",
+  "fetched_at": "2026-08-19T00:30:12Z"
+}

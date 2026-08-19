@@ -1,0 +1,34 @@
+{
+  "barcode": "8906127551086",
+  "name": "Alpino Super Oats Chocolate",
+  "brand": "Alpino",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "Rolled Oats (61%), Unsweetened Peanut butter (22%), Textured Soya Protein (9%), Cocoa Powder, Nuts \u0026 Seed Mix (Almond, raisin, Sunflower Seeds), Monk Fruit Extract, Rosemary extract.",
+  "per_100g": {
+    "energy_kcal": 445,
+    "fat": 16.4,
+    "saturated_fat": 2.8,
+    "carbohydrates": 52.2,
+    "sugars": 6,
+    "fiber": 11.3,
+    "protein": 22,
+    "salt": 0.02625,
+    "sodium": 0.0105
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-28T05:47:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

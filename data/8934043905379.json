@@ -1,0 +1,28 @@
+{
+  "barcode": "8934043905379",
+  "name": "Tata Gofit plant protein",
+  "brand": "Tata Gofit",
+  "quantity": "25g",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 372,
+    "fat": 4,
+    "saturated_fat": 1,
+    "carbohydrates": 9.6,
+    "sugars": 0.4,
+    "fiber": null,
+    "protein": 72,
+    "salt": 2.28,
+    "sodium": 0.912
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-05T18:24:33Z",
+  "fetched_at": "2026-08-19T13:24:38Z"
+}

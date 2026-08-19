@@ -1,0 +1,26 @@
+{
+  "barcode": "8904004409222",
+  "name": "Instant Bhel",
+  "brand": "Haldiram's",
+  "quantity": "44 g",
+  "categories": [
+    "en:Puffed rice blend"
+  ],
+  "ingredients": "Refined Palmolein Oil, Puffed Rice (22%), Bengal Gram Lentils (14%), Bengal Gram Flour (Besan) (11%), Refined Sugar, Refined Wheat Flour (Maida), Groundnut (Peanuts) (3%), Edible Common Salt, Red Chilli Powder, Tomato Powder, Dried Mango Powder, Tamarind Powder, Dried Ginger Powder, Black Salt, Coriander Powder, Turmeric Powder, Date Powder, Onion Powder, Green Chilli Powder, Cumin Powder, Cardamom, Cinnamon, Clove Powder, Ajwain, Acidity Regulator (INS 330), Nutmeg, Bay Leaves, Black Cumin \u0026 Colour (Paprika INS 160 c)",
+  "per_100g": {
+    "energy_kcal": 570.454545454545,
+    "fat": 36.5,
+    "saturated_fat": 15.4090909090909,
+    "carbohydrates": 43.8409090909091,
+    "sugars": 8.61363636363636,
+    "fiber": 5.65909090909091,
+    "protein": 14.0227272727273,
+    "salt": 0.889,
+    "sodium": 0.3556
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-06-08T14:49:22Z",
+  "fetched_at": "2026-08-19T01:25:45Z"
+}

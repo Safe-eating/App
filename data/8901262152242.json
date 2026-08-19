@@ -1,0 +1,27 @@
+{
+  "barcode": "8901262152242",
+  "name": "Amul Kool Badam Flv 180ml",
+  "brand": "amul",
+  "quantity": "Amul",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 90.5555555555556,
+    "fat": 3.11111111111111,
+    "saturated_fat": 2,
+    "carbohydrates": 12.5,
+    "sugars": 8,
+    "fiber": null,
+    "protein": 3.11111111111111,
+    "salt": 7.62,
+    "sodium": 3.048
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-18T07:39:53Z",
+  "fetched_at": "2026-08-19T00:44:05Z"
+}

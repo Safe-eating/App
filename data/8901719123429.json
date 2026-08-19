@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719123429",
+  "name": "Fab! Bourbon",
+  "brand": "Parle",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR*, REFINED PALM OIL, COCOA SOLIDS (4.2%), INVERT SUGAR SYRUP, RAISING AGENTS (503(ii),500(i)), IODISED SALT AND EMULSIFIER OF VEGETABLE ORIGIN [SOY LECITHIN]. CONTAINS PERMITTED NATURAL COLOUR [150d] AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES CHOCOLATE, VANILLA). \r\n*INCLUDING 2% AS SPRINKLED SUGAR CONTAINS: WHEAT AND SOY",
+  "per_100g": {
+    "energy_kcal": 472,
+    "fat": 16.7,
+    "saturated_fat": 8.2,
+    "carbohydrates": 75.3,
+    "sugars": 41.9,
+    "fiber": null,
+    "protein": 5.2,
+    "salt": 0.255,
+    "sodium": 0.102
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-12T13:00:02Z",
+  "fetched_at": "2026-08-19T01:00:42Z"
+}

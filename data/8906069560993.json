@@ -1,0 +1,28 @@
+{
+  "barcode": "8906069560993",
+  "name": "Milk Fill Eclairs",
+  "brand": "Allwin",
+  "quantity": "400 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries"
+  ],
+  "ingredients": "SUGAR, LIQUID GLUCOSE, MILK SOLIDS, EDIBLE VEGETABLE FAT, EDIBLE COMMON SALT, PERMITTED EMULSIFIERS (E-471). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR(S) (E-150) AND ADDED NATURAL IDENTICAL FLAVOURING SUBSTANCES - MILK \u0026 VANILLA.",
+  "per_100g": {
+    "energy_kcal": 445.4,
+    "fat": 0.0156,
+    "saturated_fat": 8.6,
+    "carbohydrates": 73.6,
+    "sugars": 48.9,
+    "fiber": 0.4,
+    "protein": 3.5,
+    "salt": 0.465,
+    "sodium": 0.186
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-05T06:24:33Z",
+  "fetched_at": "2026-08-19T12:42:10Z"
+}

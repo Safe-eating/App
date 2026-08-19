@@ -1,0 +1,29 @@
+{
+  "barcode": "8904083310136",
+  "name": "Milky Mist Cheese Slices 100 g (5 Slices)",
+  "brand": "Milky Mist",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses"
+  ],
+  "ingredients": "Cheese (milk solids, Lodized salt, Microbial culture and microbial enzyme emulsifiers (ins 452, Ins 339), Preservative (ins 200).",
+  "per_100g": {
+    "energy_kcal": 309,
+    "fat": 25,
+    "saturated_fat": 16,
+    "carbohydrates": 4,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 17,
+    "salt": 3.78,
+    "sodium": 1.51
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-05T16:11:40Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

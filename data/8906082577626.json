@@ -1,0 +1,24 @@
+{
+  "barcode": "8906082577626",
+  "name": "Sour Cream \u0026 Onion Crusties",
+  "brand": "Cornitos",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 510.675589547483,
+    "fat": 24.6666666666667,
+    "saturated_fat": 4,
+    "carbohydrates": 65.6666666666667,
+    "sugars": 8.33333333333333,
+    "fiber": null,
+    "protein": 6.66666666666667,
+    "salt": 1.75,
+    "sodium": 0.7
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T04:40:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

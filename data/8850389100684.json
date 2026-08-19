@@ -1,0 +1,42 @@
+{
+  "barcode": "8850389100684",
+  "name": "Mogu lychee",
+  "brand": "Sappe Public Company Limited",
+  "quantity": "320 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruits-based-foods",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:fruits",
+    "en:juices-and-nectars",
+    "en:tropical-fruits",
+    "en:fruit-juices",
+    "en:fruit-juices-from-concentrate",
+    "en:still-fruit-soft-drinks",
+    "en:lychees",
+    "en:still-fruit-soft-drink-with-sugar-and-with-10-50-of-fruit-juice",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "water, lychee juice from concentrate 25%, coconut 25%, fructose, sucrose, acidifiers (citric acid, calcium lactate), lychee flavor, preservative e211, gelling agent: gellan gum, color: e129 - 0.0001% (this dye may have adverse effects on activity and attention in children),",
+  "per_100g": {
+    "energy_kcal": 53,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 13,
+    "sugars": 12,
+    "fiber": 0.5,
+    "protein": 0,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-08T05:40:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

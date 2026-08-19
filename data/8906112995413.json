@@ -1,0 +1,30 @@
+{
+  "barcode": "8906112995413",
+  "name": "5 Super Foods Bread",
+  "brand": "Protein Chef",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Atta (Whole Wheat Flour), Super Foods Blend [Soy Flour (4.3%), Flax Seeds (0.7%), Sesame Seeds (0.4%), Rolled Oats (0.4%), Peanuts (0.3%)], Vital Wheat Gluten, Yeast, Sugar, lodized Salt, Refined Sunflower Oil, Vinegar, Bread Premix, Bread Improver.",
+  "per_100g": {
+    "energy_kcal": 249,
+    "fat": 1.8,
+    "saturated_fat": 0.2,
+    "carbohydrates": 45,
+    "sugars": 3.5,
+    "fiber": 7.8,
+    "protein": 17,
+    "salt": 1.1425,
+    "sodium": 0.457
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-15T15:16:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

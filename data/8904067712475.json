@@ -1,0 +1,26 @@
+{
+  "barcode": "8904067712475",
+  "name": "Jabsons Garlic Mix",
+  "brand": "Jabsons",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Bengal Gram Flour (50%), Refined Palmolein Oil, Peanuts (6%), Garlic (1.5%), Iodized Salt, Chilli Powder, Black salt, Dry Mango Powder, Turmeric.",
+  "per_100g": {
+    "energy_kcal": 633.333333333333,
+    "fat": 46.6666666666667,
+    "saturated_fat": 16.6666666666667,
+    "carbohydrates": 36.6666666666667,
+    "sugars": 3.33333333333333,
+    "fiber": null,
+    "protein": 10,
+    "salt": 1.5,
+    "sodium": 0.6
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-08T17:15:02Z",
+  "fetched_at": "2026-08-19T01:31:58Z"
+}

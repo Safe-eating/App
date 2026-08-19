@@ -1,0 +1,35 @@
+{
+  "barcode": "8901262201896",
+  "name": "Amul Stirred Fruit Yogurt Strawberry",
+  "brand": "Amul",
+  "quantity": "100g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:fermented-dairy-desserts-with-fruits",
+    "en:yogurts",
+    "en:fruit-yogurts",
+    "en:fruit-yogurts-with-fruit-chunks"
+  ],
+  "ingredients": "Toned milk, strawberry fruit preparation (13%) [strawberry, sugar, water, thickener (E440), acidity regulator (E330), natural flavouring substances, colour (E124)], milk solids, sugar, active culture",
+  "per_100g": {
+    "energy_kcal": 137,
+    "fat": 3.7,
+    "saturated_fat": 2.3,
+    "carbohydrates": 19.7,
+    "sugars": 19.7,
+    "fiber": null,
+    "protein": 5.5,
+    "salt": 0.175,
+    "sodium": 0.07
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:11:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

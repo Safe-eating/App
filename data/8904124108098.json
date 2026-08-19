@@ -1,0 +1,30 @@
+{
+  "barcode": "8904124108098",
+  "name": "Paneer",
+  "brand": "Ananda",
+  "quantity": "200g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer"
+  ],
+  "ingredients": "Milk solids",
+  "per_100g": {
+    "energy_kcal": 309,
+    "fat": 17.25,
+    "saturated_fat": 16,
+    "carbohydrates": 2.5,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 18.5,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-01T08:11:24Z",
+  "fetched_at": "2026-08-19T01:36:06Z"
+}

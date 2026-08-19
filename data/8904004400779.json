@@ -1,0 +1,27 @@
+{
+  "barcode": "8904004400779",
+  "name": "Haldiram's Aloo Bhujia",
+  "brand": "Haldiram's",
+  "quantity": "",
+  "categories": [
+    "en:sev",
+    "en:snakes"
+  ],
+  "ingredients": "Potato, Refined Palmolein Oil, Bengal Gram Flour (Besan), Potato Flakes, Potato Starch, Tapioca Starch, Tapary Beans (Moth dal) Flour, lodised Salt, Red Chilli Powder, Black Salt, Acidity Regulator (INS 330), Black Pepper, Clove, Cardamom, Dried Ginger Powder, Dried Garlic Powder, Refined Sugar, Cumin Powder, Bay Leaves, Nutmeg, Cinnamon \u0026 Mint Leaves. CONTAINS ADDED NATURAL, NATURE IDENTICAL \u0026 ARTIFICIAL FLAVOURING SUBSTANCES Allergy Advice.",
+  "per_100g": {
+    "energy_kcal": 564,
+    "fat": 37.48,
+    "saturated_fat": 16.42,
+    "carbohydrates": 47.71,
+    "sugars": 0,
+    "fiber": 4.04,
+    "protein": 8.97,
+    "salt": 0.615,
+    "sodium": 0.246
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-14T09:17:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

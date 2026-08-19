@@ -1,0 +1,32 @@
+{
+  "barcode": "11928227",
+  "name": "Chocolate Feast",
+  "brand": "Kwality Wall's",
+  "quantity": "62g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:frozen-sticks",
+    "en:ice-creams",
+    "en:ice-cream-bars"
+  ],
+  "ingredients": "MEDIUM FAT FROZEN DESSERT (52.6%): Water, Sugar, Palm Oil, Milk Solids, Liquid Glucose, Cocoa Solids, Vegetable CHOCOLATE Protein (Soy), Stabilizers (E412, E417, E407, E410), Artificial (Vanilla) Flavouring Substance, Food Colours (E110, E102, E122, E133, E143). Compound Coating (25.4%): Palm Kernel Oil, Sugar, Cocoa Solids, Milk Solids, Rusk, Emulsifier (E322) and Artificial (Vanilla \u0026 Chocolate) Flavouring Substances. Inner Core (22.3%): Sugar, Palm Kernel Oil, Cocoa Solids, Emulsifier (E322), Artificial (Chocolate \u0026 Vanilla) Flavouring Substances. Contains Milk, Soy and Wheat.",
+  "per_100g": {
+    "energy_kcal": 398.387096774194,
+    "fat": 27.258064516129,
+    "saturated_fat": 20.9677419354839,
+    "carbohydrates": 35.6451612903226,
+    "sugars": 30,
+    "fiber": 1.12903225806452,
+    "protein": 3.2258064516129,
+    "salt": 0.173387096774194,
+    "sodium": 0.0693548387096774
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-20T09:14:13Z",
+  "fetched_at": "2026-08-19T00:00:19Z"
+}

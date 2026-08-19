@@ -1,0 +1,36 @@
+{
+  "barcode": "8906090573122",
+  "name": "Too yumm Chips blue",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Potato (56%), Edible Vegetable Oil (Rice Bran), Seasoning (lodised Salt, *Spices \u0026 Condiments (Contains Onion and Garlic), Sugar, Rice Flour, Hydrolysed Vegetable Protein, Mango Juice Powder, Tomato Powder, Anticaking Agent (INS 551), Acidity Regulators (INS 296, INS 334, INS 330) Flavour Enhancers (INS 627, INS 631), Colour (INS 160c), Natural And Nature Identical Flavouring Substances). *Used as natural flavouring agent ALLERGEN ADVICE: CONTAINS SOYA MAY CONTAIN WHEAT AND MILK",
+  "per_100g": {
+    "energy_kcal": 552,
+    "fat": 33.5,
+    "saturated_fat": 7.6,
+    "carbohydrates": 55,
+    "sugars": 1.1,
+    "fiber": 3.7,
+    "protein": 7.3,
+    "salt": 2,
+    "sodium": 0.8
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-13T07:11:14Z",
+  "fetched_at": "2026-08-19T12:48:56Z"
+}

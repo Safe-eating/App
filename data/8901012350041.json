@@ -1,0 +1,39 @@
+{
+  "barcode": "8901012350041",
+  "name": "ORSL Plus Electrolyte Drink Orange",
+  "brand": "Johnson \u0026 Johnson",
+  "quantity": "200 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:non-alcoholic-beverages",
+    "en:plant-based-beverages",
+    "en:carbonated-drinks",
+    "en:fruit-based-beverages",
+    "en:soft-drinks",
+    "en:sodas",
+    "en:fruit-sodas",
+    "en:energy-drinks",
+    "en:orange-soft-drinks",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "Water, Sugars (Sucrose, Dextrose), Orange Juice (reconstituted), Sodium Citrate, Acidity Regulator (INS 330), Potassium Chloride, Sodium Chloride, Vitamin C, Antioxidant (INS 320),Taurine, Magnesium Sulphate and Calcium Lactate",
+  "per_100g": {
+    "energy_kcal": 50,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 12,
+    "sugars": 12,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.2925,
+    "sodium": 0.117
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-09T15:49:56Z",
+  "fetched_at": "2026-08-19T00:13:56Z"
+}

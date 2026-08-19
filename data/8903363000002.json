@@ -1,0 +1,26 @@
+{
+  "barcode": "8903363000002",
+  "name": "Dmart Premia Yellow Chana",
+  "brand": "Dmart Premia",
+  "quantity": "500g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Roasted Gram, Edible Common Salt \u0026 Turmeric",
+  "per_100g": {
+    "energy_kcal": 419.26,
+    "fat": 7.26,
+    "saturated_fat": 1.09,
+    "carbohydrates": 72.19,
+    "sugars": 2.01,
+    "fiber": null,
+    "protein": 16.29,
+    "salt": 0.85275,
+    "sodium": 0.3411
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-24T05:56:26Z",
+  "fetched_at": "2026-08-19T01:21:34Z"
+}

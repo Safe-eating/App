@@ -1,0 +1,32 @@
+{
+  "barcode": "8901491702546",
+  "name": "Oats Multigrain",
+  "brand": "Quaker",
+  "quantity": "600g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "Oat flakes",
+  "per_100g": {
+    "energy_kcal": 407,
+    "fat": 9,
+    "saturated_fat": 1.8,
+    "carbohydrates": 71,
+    "sugars": 2.2,
+    "fiber": 12,
+    "protein": 11.1,
+    "salt": 0.2925,
+    "sodium": 0.117
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-18T13:25:32Z",
+  "fetched_at": "2026-08-19T00:51:23Z"
+}

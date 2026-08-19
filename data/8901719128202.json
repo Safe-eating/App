@@ -1,0 +1,29 @@
+{
+  "barcode": "8901719128202",
+  "name": "Poppins",
+  "brand": "Parle",
+  "quantity": "100g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:candies"
+  ],
+  "ingredients": "INGREDIENTS SUGAR, LIQUID GLUCOSE AND ACIDITY REGULATOR (296) CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (133 122 129.102.110) AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES BLACK CURRANT, RASPBERRY PINEAPPLE. ORANGE, MANGO)",
+  "per_100g": {
+    "energy_kcal": 385,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 96.3,
+    "sugars": 80.2,
+    "fiber": null,
+    "protein": 0,
+    "salt": 12.5,
+    "sodium": 5
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-30T14:19:53Z",
+  "fetched_at": "2026-08-19T01:01:20Z"
+}

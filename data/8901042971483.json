@@ -1,0 +1,36 @@
+{
+  "barcode": "8901042971483",
+  "name": "Vemicelli",
+  "brand": "MTR",
+  "quantity": "850g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:pastas",
+    "en:bread-coverings",
+    "en:cooking-helpers",
+    "en:dry-pastas",
+    "en:food-decorations",
+    "en:pastry-helpers",
+    "en:sprinkles"
+  ],
+  "ingredients": "Wheat semolina, Durum wheat flour (Atta).",
+  "per_100g": {
+    "energy_kcal": 331,
+    "fat": 0.8,
+    "saturated_fat": 0.1,
+    "carbohydrates": 70,
+    "sugars": 1.5,
+    "fiber": 0,
+    "protein": 11,
+    "salt": 0.005,
+    "sodium": 0.002
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-18T21:30:55Z",
+  "fetched_at": "2026-08-19T00:22:58Z"
+}

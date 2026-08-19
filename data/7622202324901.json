@@ -1,0 +1,24 @@
+{
+  "barcode": "7622202324901",
+  "name": "Dairy Milk Crackle",
+  "brand": "Dairy Milk",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 516,
+    "fat": 25.8,
+    "saturated_fat": 17.5,
+    "carbohydrates": 63.6,
+    "sugars": 51.6,
+    "fiber": null,
+    "protein": 7.7,
+    "salt": 0.59,
+    "sodium": 0.236
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-23T07:10:19Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

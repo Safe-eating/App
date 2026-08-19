@@ -1,0 +1,32 @@
+{
+  "barcode": "8906066202124",
+  "name": "Italiano Tradizionale",
+  "brand": "Keya",
+  "quantity": "500 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:pastas",
+    "en:cereal-pastas",
+    "en:durum-wheat-pasta"
+  ],
+  "ingredients": "Durum Wheat Semolina",
+  "per_100g": {
+    "energy_kcal": 361,
+    "fat": 0.4,
+    "saturated_fat": 0.1,
+    "carbohydrates": 78,
+    "sugars": 1,
+    "fiber": 2,
+    "protein": 12,
+    "salt": 0.0125,
+    "sodium": 0.005
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-01-18T12:36:07Z",
+  "fetched_at": "2026-08-19T12:40:06Z"
+}

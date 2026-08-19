@@ -1,0 +1,30 @@
+{
+  "barcode": "8902027006282",
+  "name": "Brown Bread",
+  "brand": "Kitty,Bimbo",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour (Atta) (32.7%), Refined Wheat Flour (Maida)(27.3%), Yeast, Sugar, Gluten, Wheat Bran, Iodized Salt, Edible Vegetable Oil (Refined Rice Bran Oil, Refined Palmolein Oil), Preservatives (282, 200) Emulsifiers (472e), Acidity Regulators (341(1), 270, 297), Antioxidant (300)",
+  "per_100g": {
+    "energy_kcal": 327.209635416667,
+    "fat": 1.7341796875,
+    "saturated_fat": 0.300364583333333,
+    "carbohydrates": 61.4328125,
+    "sugars": 7.272734375,
+    "fiber": 8.42135416666667,
+    "protein": 12.2574479166667,
+    "salt": 0.789839322916669,
+    "sodium": 0.298411171875001
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-13T14:50:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8901088068758",
+  "name": "Saffola Masala Veggie Twist Oats",
+  "brand": "Saffola",
+  "quantity": "38 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "Bled Oats (73.6%), Maltodextrin, lodised Salt, Dried Vegetables Carot (1.6%). Green Peas (1.15%), French Beans (0.7%), Onion Pader Sugar, Desiccated Coconut Powder, Spice \u0026 Condiments 30%) (Chilly. Turmeric, Ginger, Cardamom, Cinnamon, Curry ves Garlic), Milk Solids, Tomato Powder (1.2%), Hydrolysed hrtable Protein, Yeast Extract, Acidity Regulator (INS 330), Rovour Enhancers (INS 631, INS 627), Colour (INS 100), are-identical Flavouring Substances.",
+  "per_100g": {
+    "energy_kcal": 376,
+    "fat": 9.9,
+    "saturated_fat": 3.4,
+    "carbohydrates": 69.2,
+    "sugars": 5.1,
+    "fiber": 12.4,
+    "protein": 8.8,
+    "salt": 5.7075,
+    "sodium": 2.283
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-20T01:50:05Z",
+  "fetched_at": "2026-08-19T00:35:50Z"
+}

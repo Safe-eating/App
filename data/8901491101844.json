@@ -1,0 +1,35 @@
+{
+  "barcode": "8901491101844",
+  "name": "Lay's Potato Chips",
+  "brand": "Lay's",
+  "quantity": "50 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:potato-crisps",
+    "en:flavoured-potato-crisps"
+  ],
+  "ingredients": "potato, edible vegetable oil (sunflower oil, corn oil, and/or canola oil), spices and condiments (onion powder, chilli powder, dry mango powder, coriander powder, ginger powder, garlic powder, black pepper powder, turmeric powder, cumin powder, salt, black salt, sugar, tomato powder, citric acid, tartaric acid, natural flavors (e160b)",
+  "per_100g": {
+    "energy_kcal": 538.98183547911,
+    "fat": 33.1,
+    "saturated_fat": 14.5,
+    "carbohydrates": 53.4,
+    "sugars": 2.5,
+    "fiber": null,
+    "protein": 6.9,
+    "salt": 2.065,
+    "sodium": 0.826
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T12:57:11Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

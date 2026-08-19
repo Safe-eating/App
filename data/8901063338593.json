@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063338593",
+  "name": "100% Whole Wheat Brown Bread",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 245,
+    "fat": 2,
+    "saturated_fat": 0.6,
+    "carbohydrates": 50.7,
+    "sugars": 1.5,
+    "fiber": 4.4,
+    "protein": 8.3,
+    "salt": 1.1965,
+    "sodium": 0.4786
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-11T15:42:34Z",
+  "fetched_at": "2026-08-19T00:33:19Z"
+}

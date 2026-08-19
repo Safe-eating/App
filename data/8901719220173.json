@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719220173",
+  "name": "Melody Chocolaty",
+  "brand": "Parle",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies"
+  ],
+  "ingredients": "SUGAR, LIQUID GLUCOSE, REFINED PALM OIL, COCOA SOLIDS (6.5%), MILK SOLIDS, IODISED SALT AND EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN). CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES VANILLA \u0026 CHOCOLATE) CONTAINS: MILK \u0026 SOY MANUFACTURED FOR: Issai LIC. No.: 10013022002253 BPARLE BISCUITS PVT LTD NORTH LEVEL CROSSING, VILE PARLE EAST, MUMBAI, MH-40005 MFD. BY: (IP)-PARLE BISCUITS PVT LTD, 464, GONDE DUMALA, IGATPURI, NASHIK, MH-422403 LIC. No.: 10012022000125 (KP)-PARLE BISCUITS PVT LTD, 131/2, KIRKHINDI KHOPOLI-PEN ROAD, RAIGAD, MH-410202 LIC. No.: 10012022000118 (IN)-DHANANJAY CONFECTIONERIES PVT LTD, 42-53 LIC. No.: 10012026000035 SECTOR-F INDL AREA, SANWER ROAD, MP-452 (NE)-PARLE BISCUITS PVT LTD, E-7 (A) \u0026 E-8. R AREA, NEEMRANA, ALWAR, RJ-301705 LIC. No.: 10012013000086 PARLE BISCUITS PVT LTD, 17, UDL-II APC 517432 RAM, CHITTOOR 13-508218 2084",
+  "per_100g": {
+    "energy_kcal": 428,
+    "fat": 12.8,
+    "saturated_fat": 6.6,
+    "carbohydrates": 75.3,
+    "sugars": 53.8,
+    "fiber": null,
+    "protein": 2.9,
+    "salt": 0.6025,
+    "sodium": 0.241
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T20:34:01Z",
+  "fetched_at": "2026-08-19T01:02:44Z"
+}

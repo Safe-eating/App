@@ -1,0 +1,27 @@
+{
+  "barcode": "4906424418420",
+  "name": "Cream bell java coffee Milk shake",
+  "brand": "Cream bell",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "Double Toned Milk (82%), Potable Water, Sugar, Milk Solids, Coffee Powder (0.4%), Emulsifying Agents(INS 471) \u0026Stabilizing Agents (INS 407,412, 415), Acidity Regulators (INS 340 (ii), 340 (iii), 452), Colour (INS 150d) and Flavour (Nature-Identical Favouring Substances (Coffee)}",
+  "per_100g": {
+    "energy_kcal": 84,
+    "fat": 1.6,
+    "saturated_fat": 1,
+    "carbohydrates": 14,
+    "sugars": 13.8,
+    "fiber": null,
+    "protein": 3.4,
+    "salt": 0.12475,
+    "sodium": 0.0499
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-24T17:08:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

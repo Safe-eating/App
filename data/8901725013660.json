@@ -1,0 +1,32 @@
+{
+  "barcode": "8901725013660",
+  "name": "bingo mad angles",
+  "brand": "ITC Limited",
+  "quantity": "15g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips",
+    "en:triangular-shaped"
+  ],
+  "ingredients": "RICE GRITS, SEASONING {REFINED PALMOLEIN, SUGAR, 'SPICES AND CONDIMENTS, IODIZED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES, HYDROLYZED VEGETABLE PROTEIN AND NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES), REFINED PALMOLEIN, DEGERMED CORN GRITS AND BENGAL GRAM GRITS. *USED AS FLAVOURING AGENTS. CONTAINS SOY. MAY CONTAIN MILK, WHEAT.",
+  "per_100g": {
+    "energy_kcal": 526,
+    "fat": 29.5,
+    "saturated_fat": 13.8,
+    "carbohydrates": 61.2,
+    "sugars": 6,
+    "fiber": null,
+    "protein": 5.6,
+    "salt": 1.897,
+    "sodium": 0.7588
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-10T13:47:03Z",
+  "fetched_at": "2026-08-19T01:04:49Z"
+}

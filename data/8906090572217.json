@@ -1,0 +1,30 @@
+{
+  "barcode": "8906090572217",
+  "name": "Too yumm",
+  "brand": "Too Yumm",
+  "quantity": "70 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "Corn 47% Rice Flour (30%), Edible Vegetare Oil (Rice Bran Oil), Seasoning [lodised Salt, Sugar, *Spises \u0026 Condiments [Contains Chilli (5%) and Onion], Acidity Regulator (INS 330), Anticaking Agent (INS 551), Dehydrated Herb, Flavour Enhancers (INS 627, INS 631), Antioxidant (INS 300), Natural and Nature Identical Flavouring Substances], Refined Wheat Flour (Maida) (2.5%), Sugar, Potato Powder (1.5%), Tomato Powder (0.8%), Anticaking Agent (INS 170). lodised Salt, Yeast Extract",
+  "per_100g": {
+    "energy_kcal": 467,
+    "fat": 20.3,
+    "saturated_fat": 4.8,
+    "carbohydrates": 65,
+    "sugars": 32.3529411764706,
+    "fiber": 3.7,
+    "protein": 5.7,
+    "salt": 0.12,
+    "sodium": 0.048
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-05T15:23:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

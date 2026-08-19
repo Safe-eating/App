@@ -1,0 +1,32 @@
+{
+  "barcode": "8904335604150",
+  "name": "Yoga Bar Millet Muesli",
+  "brand": "Yoga Bar",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Whole Grains 58.0% (Millets 26.0% (Ragi 16%, Jowar 10%), Rolled Oats 22%, Brown Rice Flakes), Corn Flakes (Corn Grits, Unrefined Sugar, Iodized Salt, Malt Extract, Soy Lecithin), Nuts \u0026 Seeds 9.5% (Flax, Pumpkin, Almond), Rice Crispy, Dehydrated Fruits 4.8% (Raisins, Cranberry), Jaggery Syrup, Honey, Rice Bran Oil, Natural Flavors (Almond, Rosemary Extract), Himalayan Pink Salt.",
+  "per_100g": {
+    "energy_kcal": 367.5,
+    "fat": 6.25,
+    "saturated_fat": 1,
+    "carbohydrates": 73,
+    "sugars": 12.25,
+    "fiber": 9.5,
+    "protein": 9.25,
+    "salt": 0.704375,
+    "sodium": 0.28175
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-24T08:49:47Z",
+  "fetched_at": "2026-08-19T01:44:33Z"
+}

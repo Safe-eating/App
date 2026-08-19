@@ -1,0 +1,24 @@
+{
+  "barcode": "8901063344525",
+  "name": "Atta Bread",
+  "brand": "Britania",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 245,
+    "fat": 2,
+    "saturated_fat": 0.3,
+    "carbohydrates": 51.1,
+    "sugars": 1.7,
+    "fiber": 4.5,
+    "protein": 7.9,
+    "salt": 1.2085,
+    "sodium": 0.4834
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-19T06:36:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

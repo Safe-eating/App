@@ -1,0 +1,31 @@
+{
+  "barcode": "8909081005046",
+  "name": "Dark Fantasy Choco Fills",
+  "brand": "Sunfeast",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 504.347826086957,
+    "fat": 26.9565217391304,
+    "saturated_fat": 13.0434782608696,
+    "carbohydrates": 60.8695652173913,
+    "sugars": 35.6521739130435,
+    "fiber": null,
+    "protein": 6.95652173913043,
+    "salt": 0.454347826086957,
+    "sodium": 0.181739130434783
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-10T07:58:08Z",
+  "fetched_at": "2026-08-19T13:23:04Z"
+}

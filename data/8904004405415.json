@@ -1,0 +1,32 @@
+{
+  "barcode": "8904004405415",
+  "name": "Haldiram's Soan Papdi (indian Sweets)",
+  "brand": "Haldiram's",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:confectioneries",
+    "en:candies",
+    "en:pastries",
+    "en:indian-sweets"
+  ],
+  "ingredients": "Refined Sugar, Refined Wheat Flour (Maida), Refined Palmolein Oil, Bengal Gram Flour (Besan), Hydrogenated Vegetable Oil (Vanaspati), Liquid Glucose, Cardamom, Almond \u0026 Pistachio Nuts. Allergen: Contains Almonds, Pistachios \u0026 Wheat May Contains Coconut, Cashew, Milk, Soy, Peanut \u0026 Sesame Seed.",
+  "per_100g": {
+    "energy_kcal": 490,
+    "fat": 23.06,
+    "saturated_fat": 13.8,
+    "carbohydrates": 63.35,
+    "sugars": 46.06,
+    "fiber": null,
+    "protein": 5.33,
+    "salt": 8,
+    "sodium": 3.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-19T20:02:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

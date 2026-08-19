@@ -1,0 +1,32 @@
+{
+  "barcode": "8901262300155",
+  "name": "Aamras Kulfi",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:frozen-sticks",
+    "en:ice-creams",
+    "en:ice-cream-bars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 170.27027027027,
+    "fat": 7.83783783783784,
+    "saturated_fat": 4.59459459459459,
+    "carbohydrates": 23.2432432432432,
+    "sugars": 22.1621621621622,
+    "fiber": null,
+    "protein": 2.16216216216216,
+    "salt": 0.0810810810810811,
+    "sodium": 0.0324324324324324
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-05T03:02:28Z",
+  "fetched_at": "2026-08-19T00:47:13Z"
+}

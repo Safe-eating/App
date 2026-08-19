@@ -1,0 +1,31 @@
+{
+  "barcode": "8901512915603",
+  "name": "Nutrify Honey Roasted Oats",
+  "brand": "Sundrop",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 467,
+    "fat": 19.25,
+    "saturated_fat": 6.5,
+    "carbohydrates": 68,
+    "sugars": 25.5,
+    "fiber": 5,
+    "protein": 8,
+    "salt": 0.0175,
+    "sodium": 0.007
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-27T10:51:23Z",
+  "fetched_at": "2026-08-19T00:55:03Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8939118468872",
+  "name": "Whey Protein Concentrate ( Chocolate Biscoff)",
+  "brand": "Naturaltein",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 376.666666666667,
+    "fat": 5.33333333333333,
+    "saturated_fat": 4.33333333333333,
+    "carbohydrates": 12,
+    "sugars": 3.33333333333333,
+    "fiber": 1.33333333333333,
+    "protein": 70.3333333333333,
+    "salt": 1.27833333333333,
+    "sodium": 0.153333333333333
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-13T13:48:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

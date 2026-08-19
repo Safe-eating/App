@@ -1,0 +1,37 @@
+{
+  "barcode": "8904071700031",
+  "name": "Masala Banana Chips",
+  "brand": "Chheda's",
+  "quantity": "170gm",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:chips-and-fries",
+    "en:pickles",
+    "en:olive-tree-products",
+    "en:plant-based-pickles",
+    "en:cakes",
+    "en:olives",
+    "en:banana-breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 160,
+    "fat": 11,
+    "saturated_fat": 5,
+    "carbohydrates": 15,
+    "sugars": 0,
+    "fiber": 1,
+    "protein": 1,
+    "salt": 0.2125,
+    "sodium": 0.085
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-26T21:20:07Z",
+  "fetched_at": "2026-08-19T01:31:59Z"
+}

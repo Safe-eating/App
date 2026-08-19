@@ -1,0 +1,34 @@
+{
+  "barcode": "8901491435109",
+  "name": "Potato chips (Spicy Treat flavour)20rs",
+  "brand": "Uncle Chipps",
+  "quantity": "52 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Palmolein), *Seasoning (Sugar, lodised Salt, ~Spices and Condiments, Acidity Regulators (330, 334, 296), Maltodextrin, Edible Starch, Salt Substitute (Potassium Chloride), Milk Solids, Anticaking Agents (551, 470), Flavour Enhancers (631, 627), Color (150d), Flavour (Natural and Nature Identical Flavouring Substances), Modified Starch (1450)).  *As flavouring agent. ~Contains Onion  ALLERGEN ADVICE: Contains Milk",
+  "per_100g": {
+    "energy_kcal": 670,
+    "fat": 40,
+    "saturated_fat": 20,
+    "carbohydrates": 70,
+    "sugars": 5,
+    "fiber": 15,
+    "protein": 10,
+    "salt": 2.7125,
+    "sodium": 1.085
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T15:20:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

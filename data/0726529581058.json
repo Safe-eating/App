@@ -1,0 +1,24 @@
+{
+  "barcode": "0726529581058",
+  "name": "Brown Bread",
+  "brand": "Star",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 299.8,
+    "fat": 4.2,
+    "saturated_fat": 1.4,
+    "carbohydrates": 56,
+    "sugars": 6.9,
+    "fiber": null,
+    "protein": 9.5,
+    "salt": 0.437,
+    "sodium": 0.1748
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-06T14:59:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

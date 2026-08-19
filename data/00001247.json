@@ -1,0 +1,26 @@
+{
+  "barcode": "00001247",
+  "name": "Shake Mix Vanilla Flavour",
+  "brand": "Herbalife",
+  "quantity": "",
+  "categories": [
+    "en:dietary-supplements"
+  ],
+  "ingredients": "Soy Protein Isolate, Sugar, Fructose Powder, Whey Protein Concentrate, Lecithin Powder, Ca Powder, Calcium Caseinate, Potassium Chloride, Artificial vanilla flavouring substances, Diluent (Dicalcium P phosphate-INS 340 (ii), Papain Powder, Antioxidant (Ascorbyl palmitate - INS 304),  Emulsifier (Glyceryl monostearate - INS 471), Sweetener (Sucralose - INS 955), Stabilizer [Dipotassium hydroge INS. 341 (i)), Minerals ##, Sodium Caseinate, Vitamins\u0026quot;, Psyllium Husk Powder, Zingiber officinale Rhizome",
+  "per_100g": {
+    "energy_kcal": 376,
+    "fat": 7.2,
+    "saturated_fat": 1.6,
+    "carbohydrates": 42,
+    "sugars": 29.6,
+    "fiber": 12,
+    "protein": 36,
+    "salt": 1.23,
+    "sodium": 0.492
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-20T17:31:41Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

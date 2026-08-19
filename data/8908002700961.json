@@ -1,0 +1,30 @@
+{
+  "barcode": "8908002700961",
+  "name": "Milky Biscuits",
+  "brand": "Perrys",
+  "quantity": "30 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR - MAIDA (56%), WHEAT FLOUR - ATTA (10%), SUG AR, INTERESTERIFIED VEGETABLE OIL FAT \u0026 REFINED PALM OIL,INVERT SUGAR SYRUP GLUCOSE POWDER, MILK SOLIDS, RAISING AGENTS [INS 500(11),INS 503(11)], EMULSIFIERS (INS 322), (INS 170), (INS 450), IODISED SALT. CONTAINS ADDED FLAVOURS ARTIFICIAL FLAVOURING SUBSTANCES - MILK, VANNILA,CHOCOLATE CONTAINS WHEAT, MILK \u0026 SOYA.",
+  "per_100g": {
+    "energy_kcal": 493.4,
+    "fat": 21,
+    "saturated_fat": 12,
+    "carbohydrates": 68.7,
+    "sugars": 28,
+    "fiber": null,
+    "protein": 7.4,
+    "salt": 0.55,
+    "sodium": 0.22
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-24T16:19:09Z",
+  "fetched_at": "2026-08-19T13:07:29Z"
+}

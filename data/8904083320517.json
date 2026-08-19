@@ -1,0 +1,30 @@
+{
+  "barcode": "8904083320517",
+  "name": "MilkyMist Italian Chocolate Delight Ice cream",
+  "brand": "MilkyMist",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Milk, Milk Solids, Sugar,Liquid Glucose, Cocoa Solids Chocolate Ripple (7%) Sugar, Water, Liquid Glucose, Cocoa Solids, Cocoa Butter Pectin(INS 440), Choco Chips (5%) [Cocoa Solids, Cocoa Butter, Sugar Soya Lecithin, Artificial Flavoring Substance - Ethyl Vanillin], Emulsifier (S 471), Stabilizers (INS 410, INS 412, INS 407), Flavor (Nature identical Flavoring Substances - Chocolate). Allergen Information: Contains Milk \u0026 Soy.",
+  "per_100g": {
+    "energy_kcal": 243.5,
+    "fat": 13.1,
+    "saturated_fat": 8.9,
+    "carbohydrates": 27.2,
+    "sugars": 27.2,
+    "fiber": null,
+    "protein": 4.1,
+    "salt": 0.13875,
+    "sodium": 0.0555
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-12T04:14:41Z",
+  "fetched_at": "2026-08-19T01:33:40Z"
+}

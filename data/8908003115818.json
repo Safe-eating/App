@@ -1,0 +1,30 @@
+{
+  "barcode": "8908003115818",
+  "name": "Osmania biscuits",
+  "brand": "Karachi Bakery",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 472.727272727273,
+    "fat": 21.8181818181818,
+    "saturated_fat": 10.9090909090909,
+    "carbohydrates": 65.4545454545455,
+    "sugars": 9.09090909090909,
+    "fiber": 3.63636363636364,
+    "protein": 5.45454545454545,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-29T11:26:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

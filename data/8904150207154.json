@@ -1,0 +1,34 @@
+{
+  "barcode": "8904150207154",
+  "name": "Mom's Superfood Mix",
+  "brand": "Nutty Gritties",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis",
+    "en:cereals-with-nuts",
+    "en:mueslis-with-nuts"
+  ],
+  "ingredients": "Pumpkin Seeds (17%), Watermelon seeds (13%), Flax Seeds (12%), Cranberries (12%) Blueberries (10%), Almonds (10% Black Raisins (10%), Sunflower Seeds (9%), Black Currants (7%), Sugar.",
+  "per_100g": {
+    "energy_kcal": 507,
+    "fat": 29,
+    "saturated_fat": 6,
+    "carbohydrates": 43,
+    "sugars": 23,
+    "fiber": 8,
+    "protein": 16,
+    "salt": 44.5,
+    "sodium": 17.8
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-24T03:28:32Z",
+  "fetched_at": "2026-08-19T01:38:19Z"
+}

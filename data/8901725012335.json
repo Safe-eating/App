@@ -1,0 +1,32 @@
+{
+  "barcode": "8901725012335",
+  "name": "Dream cream 20",
+  "brand": "Sunfest",
+  "quantity": "120 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:filled-biscuits",
+    "en:biscuit-filled-with-fruit-paste"
+  ],
+  "ingredients": "Maida (Refined Wheat Flour), Sugar, Refined Palm Oil, Dextrose, Starch, Invert Syrup, Raising Agents [INS 503(ii), INS 500(ii), INS 450(i)], Milk Solids, Artificial Flavouring Substances (Vanilla, Milk, Strawberry, Raspberry, Mint), Iodized Salt, Emulsifier [Lecithin (from Soyabean Nature Identical Flavouring Substances, Acidity Regulator (INS 296), Dehydrated Strawberry (0.02%), Colours (INS 102, INS 124)",
+  "per_100g": {
+    "energy_kcal": 490,
+    "fat": 21.4,
+    "saturated_fat": 10.4,
+    "carbohydrates": 70.5,
+    "sugars": 38.9,
+    "fiber": null,
+    "protein": 4.5,
+    "salt": 0.5,
+    "sodium": 0.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-14T11:51:29Z",
+  "fetched_at": "2026-08-19T01:04:23Z"
+}

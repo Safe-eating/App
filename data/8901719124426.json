@@ -1,0 +1,31 @@
+{
+  "barcode": "8901719124426",
+  "name": "Magix chocolate flavoured Sandwich Biscuit",
+  "brand": "",
+  "quantity": "34g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Chocolate flavoured sandwich biscuit"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP, COCOA SOLIDS (1.4%), RAISING AGENTS 1503 (1), 500 (m)], IODISED SALT AND EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN). CONTAINS PERMITTED NATURAL COLOUR [1500] AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES - CHOCOLATE, MILK, VANILLA). CONTAINS: WHEAT, SOY LICE OF TRAP",
+  "per_100g": {
+    "energy_kcal": 469,
+    "fat": 16.1,
+    "saturated_fat": 7.5,
+    "carbohydrates": 75.4,
+    "sugars": 32.8,
+    "fiber": null,
+    "protein": 5.68,
+    "salt": 0.56,
+    "sodium": 0.224
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-15T06:02:56Z",
+  "fetched_at": "2026-08-19T01:00:46Z"
+}

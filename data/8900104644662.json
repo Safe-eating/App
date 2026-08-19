@@ -1,0 +1,29 @@
+{
+  "barcode": "8900104644662",
+  "name": "Sesame Seeds",
+  "brand": "Popular Essentials",
+  "quantity": "100g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:sesame"
+  ],
+  "ingredients": "Sesame Seeds",
+  "per_100g": {
+    "energy_kcal": 596,
+    "fat": 48.2,
+    "saturated_fat": 8.86,
+    "carbohydrates": 22.6,
+    "sugars": 6.79,
+    "fiber": 12.89,
+    "protein": 18.5,
+    "salt": 0.00585,
+    "sodium": 0.00234
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-19T12:18:59Z",
+  "fetched_at": "2026-08-19T00:13:17Z"
+}

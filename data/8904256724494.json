@@ -1,0 +1,24 @@
+{
+  "barcode": "8904256724494",
+  "name": "Whole Wheat Bread",
+  "brand": "Tasties",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 284.63,
+    "fat": 3.47,
+    "saturated_fat": 0.57,
+    "carbohydrates": 54.63,
+    "sugars": 6.36,
+    "fiber": 7.96,
+    "protein": 8.99,
+    "salt": 1.282825,
+    "sodium": 0.51313
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-13T11:19:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

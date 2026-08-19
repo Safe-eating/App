@@ -1,0 +1,26 @@
+{
+  "barcode": "4906434401375",
+  "name": "nutri mix",
+  "brand": "little joys",
+  "quantity": "350 g",
+  "categories": [
+    "en:milk mix"
+  ],
+  "ingredients": "Protein Blend (Skim Milk Powder, Milk Permeate Powder, Pea Protein Isolate, Brown Rice Protein Isolate, Almond Powder, Walnut Powder, Moong Dal Powder), Sweetener Blend (Dates Powder, Barley Cereal Extract Jaggery Powder), Cocoa Powder, Fiber Blend (Oats Flour, Chia Seeds Powder, Flaxseed Powder, Rogi \u0026 Bajra Flour), Nature Identical Flavour (Chocolate), Algal DHA (Docosahexaenoic Acid), Digestion Blend Probiotics (Lactobacillus acidophilus, Bifidobacterium infantis Bifidobacterium bifidum, Bacillus coagulans, Lactobacillus rhamnosus), Digezyme (a-amylase, Protease, Lipase, Cellulase and Lactose)). Minerals (Calcium (Tribasic Calcium Phosphate), Phosphorous (Potassium Phosphate), Potassium (Potassium Phosphate), Sodium (Sodium Chloride) Magnesium (Magnesium Oxide), Zinc (Zinc Sulphate), Manganese (Manganese Sulphate), lodine (Potassium lodate), Selenium (Sodium Selenate), Chromium (Chromium Chloride)), Vitamins (Vitamin C (Ascorbic Acid), Vitamin E (D-alpha Tocopheryl Acetate), Vitamin B3 (Nicotinamide), Vitamin B5 (Calcium D-Pantothenate), Vitamin B6 (Pyridoxine HC), Vitamin B2 (Riboflavin), Vitamin B1 (Thiamine HCI), Vitamin A (Retinyl Palmitate). Vitamin B9 (Folic Acid), Vitamin K2-7 (Menaquinone-7), Biotin (D-Biotin). Vitamin D3 (Cholecalciferol - Veg Lichen), Vitamin B12 (Cyanocobalamin ALLERGENS: Contains Milk, Nuts, Barley and Oats. Storage: This pack is supposed to be kept sealed. Once the pack has been opened, the contents should be used within 5 weeks. For extra protection continue to keep the contents inside the pack. After use, seal away the pack.",
+  "per_100g": {
+    "energy_kcal": 360.9,
+    "fat": 2.2,
+    "saturated_fat": 0.933333333333333,
+    "carbohydrates": 65.3333333333333,
+    "sugars": 53.8,
+    "fiber": 4.9,
+    "protein": 20,
+    "salt": 0.000225,
+    "sodium": 0.00009
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-24T05:21:55Z",
+  "fetched_at": "2026-08-19T00:05:07Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8901262152303",
+  "name": "Camel Milk",
+  "brand": "Amul",
+  "quantity": "200ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Camel Milk",
+  "per_100g": {
+    "energy_kcal": 90,
+    "fat": 4,
+    "saturated_fat": 2.6,
+    "carbohydrates": 7.6,
+    "sugars": 7.6,
+    "fiber": null,
+    "protein": 4.4,
+    "salt": 0.225,
+    "sodium": 0.09
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-02T02:18:55Z",
+  "fetched_at": "2026-08-19T00:44:06Z"
+}

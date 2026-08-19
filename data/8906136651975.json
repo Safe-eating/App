@@ -1,0 +1,32 @@
+{
+  "barcode": "8906136651975",
+  "name": "High Protein Muesli",
+  "brand": "Pintola",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Whole Grains (34%) (Rolled Oats, Ragi Flakes, Jowar Flakes, Quinoa Flakes, Brown Rice Flakes); Protein Blend (24%) {Texturized Soy Protein, Soy Protein Isolate}; Dry Fruits, Nuts \u0026 Seeds (22%) (Black Raisin, Cranberry, Almonds, Flax Seeds, Pumpkin Seeds); Organic Jaggery, Cocoa Powder (7%), Dates, Rice Bran Oil, Himalayan Pink Salt.",
+  "per_100g": {
+    "energy_kcal": 390,
+    "fat": 8,
+    "saturated_fat": 1.7,
+    "carbohydrates": 56,
+    "sugars": 17,
+    "fiber": 10,
+    "protein": 24,
+    "salt": 0.395,
+    "sodium": 0.158
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-23T08:51:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

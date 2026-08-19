@@ -1,0 +1,24 @@
+{
+  "barcode": "8906125983506",
+  "name": "Nachos - Tangy Guacamole",
+  "brand": "4700BC",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 489.285714285714,
+    "fat": 19.2857142857143,
+    "saturated_fat": 3.92857142857143,
+    "carbohydrates": 68.9285714285714,
+    "sugars": 3.92857142857143,
+    "fiber": 3.57142857142857,
+    "protein": 7.85714285714286,
+    "salt": 0.992857142857143,
+    "sodium": 0.397142857142857
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-30T11:22:25Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

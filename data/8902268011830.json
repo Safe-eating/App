@@ -1,0 +1,30 @@
+{
+  "barcode": "8902268011830",
+  "name": "Kream Time",
+  "brand": "Mukkund",
+  "quantity": "30 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EDIBLE VEGETABLE OIL (PALM), HYDROGENATED EDIBLE VEGETABLE FAT (PALM), LIQUID GLUCOSE, INVERT SYRUP, RAISING AGENTS [INS 503 (ii), INS 500 (ii)], STARCH, MILK SOLIDS, MALT EXTRACT, EDIBLE COMMON SALT, YEAST, EMULSIFIERS (INS 322, INS 472e), ACIDITY REGULATOR (INS 330), DOUGH CONDITIONER (INS 223) \u0026 FLOUR TREATMENT AGENT (INS 1101) GROPAT Rka EN CA CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS AL 102) AND ADDED FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCE-LEMON) CONTAINS WHEAT, MILK AND SOYA",
+  "per_100g": {
+    "energy_kcal": 485,
+    "fat": 17.3,
+    "saturated_fat": 9.4,
+    "carbohydrates": 74.5,
+    "sugars": 25.1,
+    "fiber": null,
+    "protein": 7.4,
+    "salt": 0.685,
+    "sodium": 0.274
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-07-01T10:49:41Z",
+  "fetched_at": "2026-08-19T01:14:20Z"
+}

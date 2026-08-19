@@ -1,0 +1,28 @@
+{
+  "barcode": "8905694508257",
+  "name": "A2 Buffalo Milk",
+  "brand": "Sid’s Farm",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk",
+  "per_100g": {
+    "energy_kcal": 89.3,
+    "fat": 6,
+    "saturated_fat": 4.1,
+    "carbohydrates": 5.1,
+    "sugars": 4.9,
+    "fiber": 0,
+    "protein": 3.7,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-09T11:48:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

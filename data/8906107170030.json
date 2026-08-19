@@ -1,0 +1,24 @@
+{
+  "barcode": "8906107170030",
+  "name": "Pork Ham",
+  "brand": "Prasuma",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 147.1,
+    "fat": 4.9,
+    "saturated_fat": 1.93,
+    "carbohydrates": 3.79,
+    "sugars": 1.34,
+    "fiber": null,
+    "protein": 21.96,
+    "salt": 1.3709,
+    "sodium": 0.54836
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-16T02:20:01Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

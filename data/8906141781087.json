@@ -1,0 +1,29 @@
+{
+  "barcode": "8906141781087",
+  "name": "Sugar Free Eggless Chocolate Cake",
+  "brand": "Artinci",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes"
+  ],
+  "ingredients": "House Low Carb Flour (Whole Wheat, Foxtail Millet, Coconut, Oats, Soy flours), Zero Sugar Sweetener (Erythritol, FOS, Stevia), Cocoa Powder, Butter, Sunflower Oil, Milk Solids, Whey Protein, Chocolate Flavour, Baking Powder, Contains less than 1% of the following, combined: Acidity Regulator (330, 296), Stabiliser (475), Preservative (202)",
+  "per_100g": {
+    "energy_kcal": 186.4,
+    "fat": 9.8,
+    "saturated_fat": 5.8,
+    "carbohydrates": 22.8,
+    "sugars": 1.8,
+    "fiber": 8.6,
+    "protein": 5.4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-17T15:45:19Z",
+  "fetched_at": "2026-08-19T12:58:11Z"
+}

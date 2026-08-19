@@ -1,0 +1,26 @@
+{
+  "barcode": "8901725011017",
+  "name": "Bingo Tedhe Medhe Chatpata Twist",
+  "brand": "Bingo",
+  "quantity": "20g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 551,
+    "fat": 35.2,
+    "saturated_fat": 16.3,
+    "carbohydrates": 52.9,
+    "sugars": 4.2,
+    "fiber": null,
+    "protein": 7.7,
+    "salt": 1.903,
+    "sodium": 0.7612
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-10T05:07:55Z",
+  "fetched_at": "2026-08-19T01:04:22Z"
+}

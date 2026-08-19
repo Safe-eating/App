@@ -1,0 +1,31 @@
+{
+  "barcode": "8901262178259",
+  "name": "Ice Cream Sandwich Vanilla",
+  "brand": "Amul",
+  "quantity": "80ml, 53g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-sandwiches"
+  ],
+  "ingredients": "Inner Layer - Ice Cream (57%): Milk solids, sugar, dextrose, emulsifiers (471, 491), stabilizers (407, 412), artificial flavouring substances (vanilla); Outer Layer - Biscuit (43%): Refined wheat flour, sugar, palm oil, cocoa solids, maltodextrin, iodized salt, raising agents [500 (ii), 503 (ii)], antioxidant (319), emulsifier (322), artificial flavouring substances (vanilla), colour (150d).",
+  "per_100g": {
+    "energy_kcal": 309.433962264151,
+    "fat": 12.6415094339623,
+    "saturated_fat": 6.79245283018868,
+    "carbohydrates": 45.2830188679245,
+    "sugars": 44.3396226415094,
+    "fiber": null,
+    "protein": 5.47169811320755,
+    "salt": 0.367924528301887,
+    "sodium": 0.147169811320755
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-16T15:27:52Z",
+  "fetched_at": "2026-08-19T00:45:40Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8901648015413",
+  "name": "Kulfi",
+  "brand": "Mother Dairy",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:frozen-sticks",
+    "en:ice-creams",
+    "en:ice-cream-bars"
+  ],
+  "ingredients": "Water, Milk Solids, Sugar, Stabilizers \u0026 Emulsifiers (412, 410, 407, 471, 466 435), Nature-Identical Flavouring Substances and Colours (110, 102, 122, 132).",
+  "per_100g": {
+    "energy_kcal": 227,
+    "fat": 13.3,
+    "saturated_fat": 10,
+    "carbohydrates": 23,
+    "sugars": 16.3,
+    "fiber": null,
+    "protein": 3.8,
+    "salt": 0.23,
+    "sodium": 0.092
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-31T09:04:16Z",
+  "fetched_at": "2026-08-19T00:57:43Z"
+}

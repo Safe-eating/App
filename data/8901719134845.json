@@ -1,0 +1,31 @@
+{
+  "barcode": "8901719134845",
+  "name": "Parle-G Biscuit",
+  "brand": "Parle",
+  "quantity": "45gm",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:dry-biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) 68%, SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP (SUGAR, CITRIC ACID), IODISED SALT, RAISING AGENTS [INS 503(ii), 500(ii)], MILK SOLIDS, FLOUR TREATMENT AGENTS [INS 1101(ii)] AND EMULSIFIER OF VEGETABLE ORIGIN [INS 472e]\r\nCONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCE - VANILLA)mm",
+  "per_100g": {
+    "energy_kcal": 454,
+    "fat": 13,
+    "saturated_fat": 6,
+    "carbohydrates": 77.3,
+    "sugars": 25.5,
+    "fiber": null,
+    "protein": 6.9,
+    "salt": 0.74,
+    "sodium": 0.296
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-03T19:26:32Z",
+  "fetched_at": "2026-08-19T01:02:19Z"
+}

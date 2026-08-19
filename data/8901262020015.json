@@ -1,0 +1,32 @@
+{
+  "barcode": "8901262020015",
+  "name": "Cheese slices",
+  "brand": "Amul",
+  "quantity": "200 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:cheese-preparations",
+    "en:processed-cheeses",
+    "en:processed-cheese-in-slices"
+  ],
+  "ingredients": "Cheese, _milk_ solids, emulsifying salts (E452, E339, E341, E331), iodized salt, class II preservatives (E200, E234)",
+  "per_100g": {
+    "energy_kcal": 311,
+    "fat": 25,
+    "saturated_fat": 16,
+    "carbohydrates": 1.5,
+    "sugars": 1.5,
+    "fiber": null,
+    "protein": 20,
+    "salt": 3,
+    "sodium": 1.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-28T08:13:43Z",
+  "fetched_at": "2026-08-19T00:41:31Z"
+}

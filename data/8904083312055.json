@@ -1,0 +1,26 @@
+{
+  "barcode": "8904083312055",
+  "name": "shrikhand elaichi",
+  "brand": "Milky Mist",
+  "quantity": "250g",
+  "categories": [
+    "en:desserts"
+  ],
+  "ingredients": "Milk Solids, Sugar, Cardamom (Elaichi) (0.2%) ,Stabilizer (NS 440), Flavour (Natural Flavouring Substances-Cardamom)",
+  "per_100g": {
+    "energy_kcal": 266.8,
+    "fat": 7,
+    "saturated_fat": 4.5,
+    "carbohydrates": 42.9,
+    "sugars": 41.9,
+    "fiber": null,
+    "protein": 8,
+    "salt": 0.075,
+    "sodium": 0.03
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-18T13:40:36Z",
+  "fetched_at": "2026-08-19T01:33:37Z"
+}

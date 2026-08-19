@@ -1,0 +1,35 @@
+{
+  "barcode": "8904320059668",
+  "name": "Raw Peanut Butter",
+  "brand": "DiSano",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:nuts-and-their-products",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "Roasted Peanuts (100%)",
+  "per_100g": {
+    "energy_kcal": 639,
+    "fat": 49,
+    "saturated_fat": 7,
+    "carbohydrates": 18,
+    "sugars": 3.7,
+    "fiber": 9,
+    "protein": 28.3,
+    "salt": 0.0475,
+    "sodium": 0.019
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-22T11:15:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

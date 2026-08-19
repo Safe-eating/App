@@ -1,0 +1,30 @@
+{
+  "barcode": "7622201149543",
+  "name": "Dairy Milk Chocolate",
+  "brand": "Mondelez",
+  "quantity": "36 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:milk-chocolates"
+  ],
+  "ingredients": "Sugar, Milk solids (20%*), Cocoa Butter. Rice Crispies 11%* (Rice Flour, Sugar, Refined Wheat Flour. Malt Extract. Edible Salt), Cocoa Solids, Emulsifiers (442,476).\r\nCONTAINS ADDED FLAVOUR (NATURAL, NATURE IDENTICAL \u0026 ARTIFICIAL (ETHYL VANNILIN) FLAVORING SUBSTANCES)",
+  "per_100g": {
+    "energy_kcal": 516,
+    "fat": 26,
+    "saturated_fat": 17.5,
+    "carbohydrates": 63.6,
+    "sugars": 51.6,
+    "fiber": 1.86046511627907,
+    "protein": 8,
+    "salt": 0.59,
+    "sodium": 0.236
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-24T17:24:27Z",
+  "fetched_at": "2026-08-19T00:06:54Z"
+}

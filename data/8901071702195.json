@@ -1,0 +1,30 @@
+{
+  "barcode": "8901071702195",
+  "name": "Exotic dark",
+  "brand": "Hershey's",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates"
+  ],
+  "ingredients": "Sugar, Liquid Glucose, Cocoa Solids (1) Fruit Pulp (#5.6%) (Papaya (5.3%), Blueberry (0.19 Acai (80.14%). Cocoa Butter, Fractionated Vegetable Fal Stabilizers (440,414,331 (1400), Milk Solids, Acidity Regulator (296), Flavours Nature Identical \u0026 Artificial Favouring Substances (Raspberry, Vanilla and Green Apple), Emulsifiers (442,476), lodized Salt, Synthetic Food Colours (122,133,132,102) and Glazing Agent (304) CONTAINS COCOA BUTTER EQUIVALENT/VEGETABLE FAT IN ADDITION TO COCOA BUTTER ALLERGEN INFORMATION: CONTAINS MILK MAY CONTAIN NUT, SOY AND WHEAT. Nutritional Information. If a serve is 15g. Pack contains 7 servings. Approximate Values #. \u0026quot;Based on Recommended daily allowance for an average adult (",
+  "per_100g": {
+    "energy_kcal": 453,
+    "fat": 13.7,
+    "saturated_fat": 8,
+    "carbohydrates": 80.5,
+    "sugars": 64.7,
+    "fiber": null,
+    "protein": 1.74,
+    "salt": 0.1525,
+    "sodium": 0.061
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-14T03:09:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

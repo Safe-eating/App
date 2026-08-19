@@ -1,0 +1,30 @@
+{
+  "barcode": "8901058852165",
+  "name": "KitKat",
+  "brand": "Nestlé",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:bars",
+    "en:chocolates"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 489,
+    "fat": 22.7,
+    "saturated_fat": 15.2,
+    "carbohydrates": 63.5,
+    "sugars": 41.1,
+    "fiber": 3.5,
+    "protein": 7.5,
+    "salt": 0.21125,
+    "sodium": 0.0845
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-30T16:53:39Z",
+  "fetched_at": "2026-08-19T00:26:59Z"
+}

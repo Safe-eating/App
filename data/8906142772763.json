@@ -1,0 +1,32 @@
+{
+  "barcode": "8906142772763",
+  "name": "Cashew nuts",
+  "brand": "R U Nutz",
+  "quantity": "250 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:cashew-nuts",
+    "en:unsalted-nuts",
+    "en:unsalted-cashews"
+  ],
+  "ingredients": "Cashew nuts",
+  "per_100g": {
+    "energy_kcal": 570,
+    "fat": 43.85,
+    "saturated_fat": 7.78,
+    "carbohydrates": 30.19,
+    "sugars": 5.91,
+    "fiber": 3.3,
+    "protein": 18.27,
+    "salt": 0.03,
+    "sodium": 0.012
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-10-27T16:27:04Z",
+  "fetched_at": "2026-08-19T12:58:14Z"
+}

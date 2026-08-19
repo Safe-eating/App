@@ -1,0 +1,26 @@
+{
+  "barcode": "8901058019872",
+  "name": "Nestle Everyday",
+  "brand": "Every Day",
+  "quantity": "400g",
+  "categories": [
+    "en:Nestle Everyday dairy whitener"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 433,
+    "fat": 14.5,
+    "saturated_fat": 11.2,
+    "carbohydrates": 55.7,
+    "sugars": 40.9,
+    "fiber": null,
+    "protein": 20,
+    "salt": 0.9625,
+    "sodium": 0.385
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-21T14:47:13Z",
+  "fetched_at": "2026-08-19T00:26:03Z"
+}

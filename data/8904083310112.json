@@ -1,0 +1,32 @@
+{
+  "barcode": "8904083310112",
+  "name": "Cheese Slice",
+  "brand": "Milky Mist",
+  "quantity": "100 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:cheese-preparations",
+    "en:processed-cheeses",
+    "en:processed-cheese-in-slices"
+  ],
+  "ingredients": "Cheese (Milk Solids, lodized Salt, Microbial Culture and Microbial Enzyme), Milk Solids, Emulsifiers (INS 452, INS 339), Preservative (INS 200).",
+  "per_100g": {
+    "energy_kcal": 309,
+    "fat": 25,
+    "saturated_fat": 16,
+    "carbohydrates": 4,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 17,
+    "salt": 3.78,
+    "sodium": 1.512
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T18:40:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

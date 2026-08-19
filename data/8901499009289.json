@@ -1,0 +1,36 @@
+{
+  "barcode": "8901499009289",
+  "name": "Cornflakes Almond Honey (Kellogg's)",
+  "brand": "Kellogg's",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:extruded-cereals",
+    "en:extruded-flakes",
+    "en:corn-flakes"
+  ],
+  "ingredients": "Corn Grits (61.7%), Sugar, Sliced Almonds (9.0%), Cereal Extract, Dextrose, Honey (1.6%) , Iodized Salt, Vitamins, Minerals, Colour (INS 150d) \u0026 Antioxidants (INS 320). CONTAINS PERMITTED NATURAL COLOUR \u0026 ADDED FLAVOUR (NATURE-IDENTICAL FLAVOURING SUBSTANCES)",
+  "per_100g": {
+    "energy_kcal": 410,
+    "fat": 6.66666666666667,
+    "saturated_fat": 4,
+    "carbohydrates": 82,
+    "sugars": 25,
+    "fiber": 1.66666666666667,
+    "protein": 6.33333333333333,
+    "salt": 1.08333333333333,
+    "sodium": 0.433333333333333
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-23T15:53:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

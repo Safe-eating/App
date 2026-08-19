@@ -1,0 +1,26 @@
+{
+  "barcode": "8904063240286",
+  "name": "Moon daal",
+  "brand": "Haldiram's",
+  "quantity": "1 kg",
+  "categories": [
+    "en:Namkeen"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 457.14285714286,
+    "fat": 22.857142857143,
+    "saturated_fat": 5.7142857142857,
+    "carbohydrates": 54.285714285714,
+    "sugars": 2.8571428571429,
+    "fiber": 11.428571428571,
+    "protein": 20,
+    "salt": 0.92857142857143,
+    "sodium": 0.371428571428572
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2023-10-02T14:39:10Z",
+  "fetched_at": "2026-08-19T01:30:58Z"
+}

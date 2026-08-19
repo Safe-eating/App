@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262071130",
+  "name": "",
+  "brand": "Amul",
+  "quantity": "150 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates"
+  ],
+  "ingredients": "Cocoa solids, sugar, emulsifiers (322, 476), artificial flavouring substances (vanilla, cocoa).",
+  "per_100g": {
+    "energy_kcal": 523,
+    "fat": 39.5,
+    "saturated_fat": 22.2,
+    "carbohydrates": 32.8,
+    "sugars": 10.8,
+    "fiber": null,
+    "protein": 12.8,
+    "salt": 0.145,
+    "sodium": 0.058
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-28T12:09:37Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

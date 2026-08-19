@@ -1,0 +1,30 @@
+{
+  "barcode": "8906011830068",
+  "name": "Sooji",
+  "brand": "Naga",
+  "quantity": "500 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:cereal-semolinas"
+  ],
+  "ingredients": "WHEAT \nAllergen declaration: Contains Wheat (Gluten)",
+  "per_100g": {
+    "energy_kcal": 368,
+    "fat": 1.66,
+    "saturated_fat": 0.35,
+    "carbohydrates": 75.44,
+    "sugars": 0,
+    "fiber": 12,
+    "protein": 12.84,
+    "salt": 0.02195,
+    "sodium": 0.00878
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-12T10:42:58Z",
+  "fetched_at": "2026-08-19T02:03:14Z"
+}

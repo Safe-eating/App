@@ -1,0 +1,26 @@
+{
+  "barcode": "8907003500129",
+  "name": "A2B Masala Chips",
+  "brand": "A2B",
+  "quantity": "30g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Potato, Bengal gram dal flour, Rice flour, Refined palm superolein oil, White till, Asafoetida, lodised salt, Chilly powder.",
+  "per_100g": {
+    "energy_kcal": 448.666666666667,
+    "fat": 29.1666666666667,
+    "saturated_fat": 13.3333333333333,
+    "carbohydrates": 38.2333333333333,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 8,
+    "salt": 0.520833333333333,
+    "sodium": 0.208333333333333
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-20T01:56:26Z",
+  "fetched_at": "2026-08-19T13:03:24Z"
+}

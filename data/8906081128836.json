@@ -1,0 +1,28 @@
+{
+  "barcode": "8906081128836",
+  "name": "Dryfruit Bar - Choco Almonds",
+  "brand": "Happilo",
+  "quantity": "15g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars"
+  ],
+  "ingredients": "Cashews, Dates, California Almonds, Cocoa powder, Ragi Crispies",
+  "per_100g": {
+    "energy_kcal": 82,
+    "fat": 5.5,
+    "saturated_fat": 0.9,
+    "carbohydrates": 5.8,
+    "sugars": 3.5,
+    "fiber": 0.8,
+    "protein": 2.4,
+    "salt": 0.02975,
+    "sodium": 0.0119
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-28T14:32:24Z",
+  "fetched_at": "2026-08-19T12:46:50Z"
+}

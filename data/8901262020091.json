@@ -1,0 +1,29 @@
+{
+  "barcode": "8901262020091",
+  "name": "Cheese Cube",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 311,
+    "fat": 25,
+    "saturated_fat": 16,
+    "carbohydrates": 1.5,
+    "sugars": 1.5,
+    "fiber": null,
+    "protein": 20,
+    "salt": 3.05,
+    "sodium": 1.22
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-26T12:36:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906030460055",
+  "name": "White Sliced Bread",
+  "brand": "Moreish",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Yeast, lodised Salt, Soya Flour, Vegetable Oil (Refined Palmolien Oil), Preservatives (282), Acidity Regulator (260), Flour Treatment Agent (1100), Improvers [1100(i), 1104), Antioxidant (300).",
+  "per_100g": {
+    "energy_kcal": 255,
+    "fat": 1.9,
+    "saturated_fat": 0.55,
+    "carbohydrates": 51,
+    "sugars": 2.43,
+    "fiber": null,
+    "protein": 6.8,
+    "salt": 1.29,
+    "sodium": 0.516
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-01T08:34:53Z",
+  "fetched_at": "2026-08-19T12:32:45Z"
+}

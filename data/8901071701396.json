@@ -1,0 +1,32 @@
+{
+  "barcode": "8901071701396",
+  "name": "Hershey's Spreads Cocoa with Almond",
+  "brand": "Hershey's",
+  "quantity": "150g",
+  "categories": [
+    "en:breakfasts",
+    "en:spreads",
+    "en:sweet-spreads",
+    "fr:pates-a-tartiner",
+    "en:hazelnut-spreads",
+    "en:chocolate-spreads",
+    "en:cocoa-and-hazelnuts-spreads"
+  ],
+  "ingredients": "Sugar, Edible Vegetable Oil (Palm Oil), Milk Solids, Cocoa Solids (4.7%), Almond Paste (3%), Hydrogenated Vegetable Fat (Palm Oil \u0026 Sesame Oil), Emulsifier (322(i)), Flavours (Artificial Flavouring Substances-Almond and Vanilla) \u0026 Edible Common Salt ALLERGEN INFORMATION: CONTAINS MILK, SOY AND NUT. MAY CONTAIN WHEAT.",
+  "per_100g": {
+    "energy_kcal": 548,
+    "fat": 32.7,
+    "saturated_fat": 13.1,
+    "carbohydrates": 61.4,
+    "sugars": 59.5,
+    "fiber": null,
+    "protein": 2.2,
+    "salt": 0.275,
+    "sodium": 0.11
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-25T11:32:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

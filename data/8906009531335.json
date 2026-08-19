@@ -1,0 +1,31 @@
+{
+  "barcode": "8906009531335",
+  "name": "Max protein active choco fudge bar",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:energy-bars"
+  ],
+  "ingredients": "Protein Blend (31%) (Soy Nuggets, Whey Protein Concentrate, Calcium Caseinate, Soy Concentrate), Brown Rice Syrup (Liquid Glucose), Milk Compound (15%) (Sugar, Edible Vegetable Oil (Hydrogenated Fat), Milk Solids, Cocoa Solids, Emulisifier (Soy Lecithin), Vanilla Flavours), Edible Vegetable Oil (Hydrogenated Vegetable Oil), Dietary Fiber (7%) (Fructooligosacharide, Wheat Fiber), Almonds (5%), Whole Grain Rolled Oats (4.4%), Raisins (2.5%), Cashew Nuts (2%), Humectant (Glycerine), Fructose, Cocoa Powder, Milk Solids, Flaxseeds, Emulsifier (Soy Lecithin), Binding Agent (Guar Gum), Soy Protein Isolate, Tribasic Calcium Phosphate, Salt and Citric Acid, Antioxidants (Vitamin C), Vitamins, Minerals, Glutamine and Amino Acids Allergen Declaration: Contains Soy Milk \u0026 Nut",
+  "per_100g": {
+    "energy_kcal": 313,
+    "fat": 12.5,
+    "saturated_fat": 4.6,
+    "carbohydrates": 33.9,
+    "sugars": 10.7,
+    "fiber": 5,
+    "protein": 20,
+    "salt": 0.465,
+    "sodium": 0.186
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-18T12:40:23Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

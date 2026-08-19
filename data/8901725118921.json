@@ -1,0 +1,30 @@
+{
+  "barcode": "8901725118921",
+  "name": "tedha medha",
+  "brand": "bingo",
+  "quantity": "75",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "CEREALS AND PULSES MIX {RICE GRITS, DEGERMED CORN GRITS, BENGAL GRAM GRITS, PEA GRITS), *EDIBLE VEGETABLE OIL AND SEASONING {ONION POWDER, SPICES AND CONDIMENTS, IODIZED SALT, MALTODEXTRIN, BLACK SALT FLAVOUR ENHANCERS (508, 635), ACIDITY REGULATORS (MALIC ACID, CITRIC ACID, TARTARIC ACID), TOMATO POWDER, SUGAR, HYDROLYZED VEGETABLE PROTEIN, GARLIC POWDER, NATURE IDENTICAL FLAVOURING SUBSTANCES AND NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES}. *TO KNOW THE SPECIFIC TYPE OF OIL USED, MATCH THE SYMBOL (^ OR AA WITH THE LAST CHARACTER OF BATCH NUMBER WHEREIN A DENOTES REFINED PALMOLEIN AND AA DENOTES REFINED RICE BRAN OIL. USED AS FLAVOURING AGENTS. CONTAINS SOY. MAY CONTAIN MILK, WHEAT, BARLEY. es DO NOT BUY THIS PACK IF FOUND TAMPERED WITH.",
+  "per_100g": {
+    "energy_kcal": 541,
+    "fat": 32.8,
+    "saturated_fat": 14.8,
+    "carbohydrates": 55.9,
+    "sugars": 1.8,
+    "fiber": 0,
+    "protein": 6.9,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-14T08:51:49Z",
+  "fetched_at": "2026-08-19T01:06:26Z"
+}

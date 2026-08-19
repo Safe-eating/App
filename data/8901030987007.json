@@ -1,0 +1,27 @@
+{
+  "barcode": "8901030987007",
+  "name": "Knorr Schezwan Sauce 200 g",
+  "brand": "Knorr",
+  "quantity": "200g",
+  "categories": [
+    "en:condiments",
+    "en:sauces"
+  ],
+  "ingredients": "Water, Vegetables\u0026quot; (Garlic - 9%, Onion 1%), Sugar, Soyabean Oil, lodised Salt, Chillies 4.4%, Soybean Sauce, Acidity Regulator - 260, Stabilisers 1422, 415, Spices \u0026 Condiments, Firvour Enhancers - E627 \u0026 E631, Natural Colour - 1501, Preservative-211, Natural Flavouring substance. Contains Soya and Gluten.",
+  "per_100g": {
+    "energy_kcal": 134,
+    "fat": 6,
+    "saturated_fat": 1,
+    "carbohydrates": 18.7,
+    "sugars": 11.5,
+    "fiber": 2.3,
+    "protein": 1.7,
+    "salt": 0,
+    "sodium": 2.162
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-31T19:30:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

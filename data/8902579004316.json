@@ -1,0 +1,35 @@
+{
+  "barcode": "8902579004316",
+  "name": "SMOODH Flavoured Milk (kesar Badam)",
+  "brand": "Parlē Agro",
+  "quantity": "150ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:dairies",
+    "en:plant-based-beverages",
+    "en:dairy-drinks",
+    "en:fruit-based-beverages",
+    "en:flavoured-milks",
+    "en:fruit-and-milk-beverages",
+    "en:kesar-badam-flavoured-milk"
+  ],
+  "ingredients": "MILK SOLIDS *, SUGAR, EMULSIFIERS AND STABILIZERS [INS 460(i), INS 471, INS 466, INS 407, INS 340, INS 452]. FOOD COLOUR (INS 150c), NATURE IDENTICAL FLAVOURING SUBSTANCE (KESAR BADAM) AND IODISED SALT. *(EQUIVALENT TO 90% M/M DOUBLE TONED MILK) (INS-INTERNATIONAL NUMBERING SYSTEM) ALLERGEN INFORMATION: CONTAINS MILK.",
+  "per_100g": {
+    "energy_kcal": 83.5,
+    "fat": 1.8,
+    "saturated_fat": 1.2,
+    "carbohydrates": 14.9,
+    "sugars": 14.6,
+    "fiber": null,
+    "protein": 1.9,
+    "salt": 0.1575,
+    "sodium": 0.063
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T13:32:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

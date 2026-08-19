@@ -1,0 +1,26 @@
+{
+  "barcode": "8908002854701",
+  "name": "Soya Crunchies",
+  "brand": "Promunch",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 382.333333333333,
+    "fat": 6.66666666666667,
+    "saturated_fat": 1.66666666666667,
+    "carbohydrates": 32.6666666666667,
+    "sugars": 12.3333333333333,
+    "fiber": 16,
+    "protein": 47.6666666666667,
+    "salt": 3.1275,
+    "sodium": 1.251
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-11T15:03:51Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

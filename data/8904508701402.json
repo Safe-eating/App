@@ -1,0 +1,24 @@
+{
+  "barcode": "8904508701402",
+  "name": "Coconut Dry Fruit Gujia",
+  "brand": "Haldiram's",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 521.08,
+    "fat": 31,
+    "saturated_fat": 18.34,
+    "carbohydrates": 53.54,
+    "sugars": 16.12,
+    "fiber": null,
+    "protein": 5.09,
+    "salt": 0.021225,
+    "sodium": 0.00849
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-17T09:54:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

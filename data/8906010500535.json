@@ -1,0 +1,35 @@
+{
+  "barcode": "8906010500535",
+  "name": "Balaji Wafers Chaat Chaska",
+  "brand": "Balaji",
+  "quantity": "35 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato"
+  ],
+  "ingredients": "Potato (88%), Edible Vegetable Oil (Palmolein), lodized Salt, †Spices \u0026 Condiments 0.5% (Cumin, Chilli, Parsley, Ginger, Cinnamon, Black Pepper, Dry Mango), Dehydrated Vegetable Powder (Onion, Garlic), Sugar, Maltodextrin, Flavour Enhancer (INS 627, INS 631), Acidity Regulator (INS 296, INS 330), Anticaking Agent (INS 551).",
+  "per_100g": {
+    "energy_kcal": 545,
+    "fat": 32.2,
+    "saturated_fat": 15.3,
+    "carbohydrates": 53.5,
+    "sugars": 3,
+    "fiber": 6.2,
+    "protein": 7.4,
+    "salt": 0.982,
+    "sodium": 0.3928
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-26T06:29:46Z",
+  "fetched_at": "2026-08-19T02:00:43Z"
+}

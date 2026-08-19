@@ -1,0 +1,24 @@
+{
+  "barcode": "8908013479368",
+  "name": "Coffee cocoa mini",
+  "brand": "The whole truth",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 127.599998474121,
+    "fat": 6.40000009536743,
+    "saturated_fat": 1.60000002384186,
+    "carbohydrates": 10.1000003814697,
+    "sugars": 6.09999990463257,
+    "fiber": 2.79999995231628,
+    "protein": 7.40000009536743,
+    "salt": 0.0277777777777778,
+    "sodium": 0.0111111111111111
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-20T12:12:25Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063142114",
+  "name": "Britannia Nutri Choice Oats",
+  "brand": "Britannia",
+  "quantity": "75 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "WHEAT FLOUR (ATTA) (41.7%), SUGAR, REFINED PALM OIL, ROLLED DATS (14.3%), ALMONDS (5%), LIQUID GLUCOSE, WHEAT BRAN (2.4%), MALTODEXTRIN, RAISING AGENTS [500(ii), 503(ii) \u0026 450(i)], MILK SOLIDS (1.6%), INVERT SUGAR SYRUP, DATS FIBRE (0.8%), EMULSIFIERS [322(i), 471 \u0026 472e], FLAVOURS [ARTIFICIAL (MILK \u0026 BUTTER), NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES], IODISED SALT AND COLOUR (150d). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, OATS, NUTS, MILK AND SOYA.",
+  "per_100g": {
+    "energy_kcal": 478,
+    "fat": 21,
+    "saturated_fat": 8.6,
+    "carbohydrates": 68.5,
+    "sugars": 19.5,
+    "fiber": 8.4,
+    "protein": 8,
+    "salt": 0.385,
+    "sodium": 0.154
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-28T09:32:32Z",
+  "fetched_at": "2026-08-19T00:31:46Z"
+}

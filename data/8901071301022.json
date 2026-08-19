@@ -1,0 +1,36 @@
+{
+  "barcode": "8901071301022",
+  "name": "Sofit Soya Milk",
+  "brand": "",
+  "quantity": "200 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:dairy-substitutes",
+    "en:milk-substitutes",
+    "en:plant-based-beverages",
+    "en:plant-based-milk-alternatives",
+    "en:legume-based-drinks",
+    "en:soy-based-drinks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 68,
+    "fat": 3.2,
+    "saturated_fat": 0.36,
+    "carbohydrates": 3.6,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-02T13:25:31Z",
+  "fetched_at": "2026-08-19T00:34:48Z"
+}

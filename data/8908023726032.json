@@ -1,0 +1,28 @@
+{
+  "barcode": "8908023726032",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), WATER, SUGAR, EDIBLE VEGETABLE OIL (REFINED PALMOLEIN OIL), RICE FLOUR, COCOA SOLID, MILK SOLID, IODIZED SALT, EMULSIFIER-(E 475), HUMECTANT (E 420) SWEETENER (E 420), RAISING AGENT [E 500(11)], ACIDITY REGULATORS (E 330, E 260) CONTAINS PERMITTED CLASS II PRESERVATIVES (E 202, E282, AND E 200). CONTAINS ADDED FLAVOUR(S) [NATURE IDENTICAL FLAVOURING SUBSTANCES (CHOCOLATE) CONTAINS PERMITTED NATURAL COLOUR[E 150(D)] [NUMBER IN BRACKETS AS PER INTERNATIONAL NUMBERING SYSTEM] ALLERGEN INFORMATION: CONTAINS MILK, WHEAT, IT MAY CONTAIN MILK PRODUCTS. POLYOLS MAY HAVE LAXATIVE EFFECT B",
+  "per_100g": {
+    "energy_kcal": 41.86,
+    "fat": 1,
+    "saturated_fat": 1,
+    "carbohydrates": 7,
+    "sugars": 3,
+    "fiber": null,
+    "protein": 1,
+    "salt": 105,
+    "sodium": 42
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-15T05:46:28Z",
+  "fetched_at": "2026-08-19T13:21:54Z"
+}

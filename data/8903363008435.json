@@ -1,0 +1,32 @@
+{
+  "barcode": "8903363008435",
+  "name": "Yellow Chana",
+  "brand": "DMart Premia",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:seeds",
+    "en:legume-seeds",
+    "en:pulses"
+  ],
+  "ingredients": "Roasted Gram, Edible Common Salt \u0026 Turmeric",
+  "per_100g": {
+    "energy_kcal": 419.26,
+    "fat": 7.26,
+    "saturated_fat": 1.06,
+    "carbohydrates": 72.19,
+    "sugars": 2.01,
+    "fiber": null,
+    "protein": 16.29,
+    "salt": 0.85275,
+    "sodium": 0.3411
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-28T07:07:17Z",
+  "fetched_at": "2026-08-19T01:22:33Z"
+}

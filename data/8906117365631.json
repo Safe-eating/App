@@ -1,0 +1,30 @@
+{
+  "barcode": "8906117365631",
+  "name": "Milk Bread",
+  "brand": "Country Delight",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole wheat flour (Atta) (45%), Protein Blend (8.5%) (Vital Wheat Gluten, Soy Protein Isolate, Pea Protein Concentrate). Sulphurless Sugar, Defatted Soy Flour, (Milk Solids) (27%). Baker's Yeast, Edible vegetable oil (Cold-Pressed Sunflower oil), lodized salt, Fermented wheat flour, Cultured sweet potato and Vitamin C.",
+  "per_100g": {
+    "energy_kcal": 243,
+    "fat": 3.1,
+    "saturated_fat": 1.4,
+    "carbohydrates": 42.4,
+    "sugars": 7.4,
+    "fiber": 5.7,
+    "protein": 13,
+    "salt": 0.9575,
+    "sodium": 0.383
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-01T12:18:59Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

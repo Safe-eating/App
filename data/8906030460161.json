@@ -1,0 +1,24 @@
+{
+  "barcode": "8906030460161",
+  "name": "Brown Bread",
+  "brand": "Moreish",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 248,
+    "fat": 1.7,
+    "saturated_fat": 0.7,
+    "carbohydrates": 48,
+    "sugars": 2.4,
+    "fiber": 6.57,
+    "protein": 7.8,
+    "salt": 1.125,
+    "sodium": 0.45
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-02T17:06:37Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

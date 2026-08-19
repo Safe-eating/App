@@ -1,0 +1,34 @@
+{
+  "barcode": "8908012271055",
+  "name": "Meetha Dahi",
+  "brand": "Gyan",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:curd",
+    "en:Pasteurised Toned Milk"
+  ],
+  "ingredients": "Milk solids, Sugar and Lactic Culture",
+  "per_100g": {
+    "energy_kcal": 125,
+    "fat": 3,
+    "saturated_fat": 0,
+    "carbohydrates": 20.5,
+    "sugars": 16,
+    "fiber": 0,
+    "protein": 4.1,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-07-24T14:37:19Z",
+  "fetched_at": "2026-08-19T13:13:45Z"
+}

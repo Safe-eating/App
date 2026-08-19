@@ -1,0 +1,30 @@
+{
+  "barcode": "8906033740758",
+  "name": "McVitie's Digestive",
+  "brand": "McVitie's",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 470,
+    "fat": 17.3,
+    "saturated_fat": 8.3,
+    "carbohydrates": 70.6,
+    "sugars": 18.1,
+    "fiber": 6.5,
+    "protein": 7.9,
+    "salt": 0,
+    "sodium": 0.527
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-15T02:32:14Z",
+  "fetched_at": "2026-08-19T12:34:14Z"
+}

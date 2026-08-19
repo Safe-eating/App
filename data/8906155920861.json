@@ -1,0 +1,26 @@
+{
+  "barcode": "8906155920861",
+  "name": "Masala Cup",
+  "brand": "Hadwani's Gokul",
+  "quantity": "60g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida) (67%), Edible Vegetable Oil (Palmolein Oil)(23%), Corn Starch (7.5%), Spices \u0026 Condiments (Dry Mango Powder, Chilli Powder), Black Salt, Edible Common Salt, Bicarbonate of Soda (INS 500 (ii) \u0026 Sodium Carbonate INS 500 (1)), Calcium Carbonate (INS 170). Allergen Declaration : Contain Wheat Gluten.",
+  "per_100g": {
+    "energy_kcal": 503,
+    "fat": 25.7,
+    "saturated_fat": 12.1,
+    "carbohydrates": 59,
+    "sugars": 6.5,
+    "fiber": null,
+    "protein": 9,
+    "salt": 2.44,
+    "sodium": 0.976
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-15T06:11:50Z",
+  "fetched_at": "2026-08-19T13:00:43Z"
+}

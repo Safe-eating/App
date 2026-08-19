@@ -1,0 +1,24 @@
+{
+  "barcode": "8901499012012",
+  "name": "Kellogg’s Oats",
+  "brand": "Kellogg’s India",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 377.5,
+    "fat": 9,
+    "saturated_fat": 1.75,
+    "carbohydrates": 67.75,
+    "sugars": 1.25,
+    "fiber": 10,
+    "protein": 11.5,
+    "salt": 0.0175,
+    "sodium": 0.007
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-23T01:29:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

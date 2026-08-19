@@ -1,0 +1,31 @@
+{
+  "barcode": "8903363010988",
+  "name": "Udid Dal",
+  "brand": "DMart Premia",
+  "quantity": "500 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:seeds",
+    "en:legume-seeds"
+  ],
+  "ingredients": "Black Gram Split",
+  "per_100g": {
+    "energy_kcal": 337.3,
+    "fat": 1.35,
+    "saturated_fat": 0.28,
+    "carbohydrates": 57.49,
+    "sugars": 0.84,
+    "fiber": null,
+    "protein": 23.82,
+    "salt": 0.0472,
+    "sodium": 0.01888
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-08T11:25:00Z",
+  "fetched_at": "2026-08-19T01:22:43Z"
+}

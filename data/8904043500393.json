@@ -1,0 +1,24 @@
+{
+  "barcode": "8904043500393",
+  "name": "Sunbake Rusk",
+  "brand": "Modern",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 399.24,
+    "fat": 9.64,
+    "saturated_fat": 2.23,
+    "carbohydrates": 69.83,
+    "sugars": 21.7,
+    "fiber": null,
+    "protein": 8.29,
+    "salt": 0.616075,
+    "sodium": 0.24643
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-22T12:10:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

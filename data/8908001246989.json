@@ -1,0 +1,26 @@
+{
+  "barcode": "8908001246989",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:Packet food"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 593,
+    "fat": 44,
+    "saturated_fat": 19.5,
+    "carbohydrates": 39.7,
+    "sugars": 1.7,
+    "fiber": 0,
+    "protein": 9.5,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-11T14:53:47Z",
+  "fetched_at": "2026-08-19T13:06:00Z"
+}

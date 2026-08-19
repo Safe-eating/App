@@ -1,0 +1,37 @@
+{
+  "barcode": "8886467122446",
+  "name": "Pringles - South African Style Periperi Flavour",
+  "brand": "Pringles",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:stacked-extruded-potato-crisps"
+  ],
+  "ingredients": "Dried Potato (44%), Edible Vegetable Oil (Palm Oil), Corn Flour, Starch, Peri Peri Seasoning (6.5%) [Maltodextrin, Salt, Sugar, Flavouring Substances (Natural \u0026 Nature Identical), Vegetable Powder (5%) (Garlic), Vinegar, Spices (Red Chilli Pepper (3%), Cumin), Acidity Regulator (INS 296), Flavour Enhancer (INS 635), Anticaking Agents (INS 341(iii), 551), Spice Extracts (0.6%) (Green Chilli, Garlic, Paprika), Herb Extract (Oregano)], Emulsifier (INS 471), Maltodextrin, Acidity",
+  "per_100g": {
+    "energy_kcal": 522,
+    "fat": 28.5,
+    "saturated_fat": 15,
+    "carbohydrates": 61.5,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 5.2,
+    "salt": 1.48,
+    "sodium": 0.592
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T19:47:17Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

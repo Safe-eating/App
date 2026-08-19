@@ -1,0 +1,33 @@
+{
+  "barcode": "8906127550140",
+  "name": "Peanut Butter",
+  "brand": "Alpino",
+  "quantity": "400 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 625,
+    "fat": 49,
+    "saturated_fat": 12,
+    "carbohydrates": 18,
+    "sugars": 3,
+    "fiber": 6,
+    "protein": 30,
+    "salt": 0.0625,
+    "sodium": 0.025
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-03T01:13:26Z",
+  "fetched_at": "2026-08-19T12:55:38Z"
+}

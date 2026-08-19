@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063019027",
+  "name": "Little Hearts Classic",
+  "brand": "Britannia",
+  "quantity": "75g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Sugar coated biscuit"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR (23%), REFINED PALMOLEIN\u0026PALM OIL, RAISING AGENTS [503 (ii) \u0026 500(ii)], MILK SOLIDS, IODISED SALT, YEAST AND EMULSIFIER [322(i)]. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SOYA.",
+  "per_100g": {
+    "energy_kcal": 486,
+    "fat": 19.5,
+    "saturated_fat": 9.4,
+    "carbohydrates": 70,
+    "sugars": 24.4,
+    "fiber": null,
+    "protein": 7.4,
+    "salt": 0.7775,
+    "sodium": 0.311
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-22T05:12:47Z",
+  "fetched_at": "2026-08-19T00:29:08Z"
+}

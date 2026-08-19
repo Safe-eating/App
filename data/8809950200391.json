@@ -1,0 +1,24 @@
+{
+  "barcode": "8809950200391",
+  "name": "Korean Veg Dumplings",
+  "brand": "Good Seoul",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 160,
+    "fat": 4.70588235294118,
+    "saturated_fat": 0.705882352941177,
+    "carbohydrates": 22.3529411764706,
+    "sugars": 3.29411764705882,
+    "fiber": 4.23529411764706,
+    "protein": 9.05882352941176,
+    "salt": 1.35294117647059,
+    "sodium": 0.541176470588235
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-31T11:06:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

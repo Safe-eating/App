@@ -1,0 +1,32 @@
+{
+  "barcode": "7622201758639",
+  "name": "Perk",
+  "brand": "Cadbury",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolates",
+    "en:7622201758639",
+    "en:Perk"
+  ],
+  "ingredients": "Sugar, Interesterified Vegetable Fat, Refined Wheat Flour (Maida), Lactose-Rich Deproteinized Whey Permeate Powder, Starch, Cocoa Solids (5%), Palmolein, Emulsiffers (442, 322, 476), lodised Salt, Yeast, Flavours (Natural, Natural identical and Artificial (Caramel and Vanilla) Flavouring Substances), Raising Agent (500(i)), Improver (1101(i)) Allergen Information: Contains Milk, Wheat, Soy, Sulphites. May Contain Barley.",
+  "per_100g": {
+    "energy_kcal": 512,
+    "fat": 25.4,
+    "saturated_fat": 20,
+    "carbohydrates": 67.9,
+    "sugars": 44.9,
+    "fiber": null,
+    "protein": 3.7,
+    "salt": 0.2475,
+    "sodium": 0.099
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-09-29T16:43:10Z",
+  "fetched_at": "2026-08-19T00:08:41Z"
+}

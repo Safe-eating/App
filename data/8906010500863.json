@@ -1,0 +1,30 @@
+{
+  "barcode": "8906010500863",
+  "name": "Shing Bhujiya - Nimbu Chatka",
+  "brand": "Balaji Wafers",
+  "quantity": "24g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:bhujia",
+    "en:shing-bhujiq"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 616,
+    "fat": 44.2,
+    "saturated_fat": 11.4,
+    "carbohydrates": 28.1,
+    "sugars": 3.1,
+    "fiber": null,
+    "protein": 20.2,
+    "salt": 2772.5,
+    "sodium": 1109
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-20T13:29:40Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

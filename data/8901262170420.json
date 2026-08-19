@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262170420",
+  "name": "Chocochips Ice Cream",
+  "brand": "Amul",
+  "quantity": "270g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Milk solids, sugar, milk chocolate chips (8%) sugar, cocoa butter, milk solids, cocoa solids, emulsifiers (322,476)], cocoa solids, emulsifier (471), stabilizers (407, 466,415,412).",
+  "per_100g": {
+    "energy_kcal": 455.555555555556,
+    "fat": 25,
+    "saturated_fat": 15.5555555555556,
+    "carbohydrates": 51.1111111111111,
+    "sugars": 45.3703703703704,
+    "fiber": null,
+    "protein": 8.14814814814815,
+    "salt": 0.212962962962963,
+    "sodium": 0.0851851851851852
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-19T18:42:46Z",
+  "fetched_at": "2026-08-19T00:44:35Z"
+}

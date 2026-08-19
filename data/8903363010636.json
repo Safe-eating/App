@@ -1,0 +1,26 @@
+{
+  "barcode": "8903363010636",
+  "name": "Moong Dal",
+  "brand": "DMart Premia",
+  "quantity": "1 kg",
+  "categories": [
+    "en:Green Gram Split"
+  ],
+  "ingredients": "Green Gram Split",
+  "per_100g": {
+    "energy_kcal": 348.4,
+    "fat": 1.2,
+    "saturated_fat": 0.25,
+    "carbohydrates": 59.9,
+    "sugars": 0.95,
+    "fiber": null,
+    "protein": 24.5,
+    "salt": 0.02535,
+    "sodium": 0.01014
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-30T11:49:44Z",
+  "fetched_at": "2026-08-19T01:22:40Z"
+}

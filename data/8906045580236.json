@@ -1,0 +1,26 @@
+{
+  "barcode": "8906045580236",
+  "name": "All in One",
+  "brand": "Lalji",
+  "quantity": "400g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "EDIBLE VEGETABLE OIL (Cotton Seed oil and/or Palmonien Oil, HUSKED GRAM (Pulse 14.0% Flour 5.5 %), Peanuts (12.5%), Lentil (9.0%),Husked Dew Gram, Rice Flakes (6.5%), Whole Gram, Potato Solids, Peas, Cornflakes, Edible Salt, Watermelon Seeds, Spices \u0026 Condiments and Citric Acid (E330).",
+  "per_100g": {
+    "energy_kcal": 570.84,
+    "fat": 37.62,
+    "saturated_fat": 9.07,
+    "carbohydrates": 44.75,
+    "sugars": 6.15,
+    "fiber": null,
+    "protein": 13.32,
+    "salt": 1.352825,
+    "sodium": 0.54113
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-01T13:09:07Z",
+  "fetched_at": "2026-08-19T12:36:57Z"
+}

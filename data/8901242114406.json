@@ -1,0 +1,26 @@
+{
+  "barcode": "8901242114406",
+  "name": "Bambino Vermicelli",
+  "brand": "Bambino",
+  "quantity": "425g",
+  "categories": [
+    "en:vermicelli"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 381,
+    "fat": 1,
+    "saturated_fat": 0.3,
+    "carbohydrates": 82.5,
+    "sugars": 0,
+    "fiber": 3,
+    "protein": 10.5,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-15T09:52:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

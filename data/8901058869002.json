@@ -1,0 +1,28 @@
+{
+  "barcode": "8901058869002",
+  "name": "Munch",
+  "brand": "Nestlé",
+  "quantity": "12.5 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 438,
+    "fat": 22.8,
+    "saturated_fat": 21.6,
+    "carbohydrates": 54.4,
+    "sugars": 33.4,
+    "fiber": 2.8,
+    "protein": 5.7,
+    "salt": 0.37425,
+    "sodium": 0.1497
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-23T09:33:02Z",
+  "fetched_at": "2026-08-19T00:27:02Z"
+}

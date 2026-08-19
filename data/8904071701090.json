@@ -1,0 +1,27 @@
+{
+  "barcode": "8904071701090",
+  "name": "Small Bhakarwadi",
+  "brand": "",
+  "quantity": "170g",
+  "categories": [
+    "en:snacks",
+    "en:Bhakarwadi"
+  ],
+  "ingredients": "Wheat Flour, Palm Oil, Gram Flour, Ground Spices, White Sesame, Green Chili, Dry Mango Powder, Turmeric Powder, Tamarind \u0026 Salt",
+  "per_100g": {
+    "energy_kcal": 271.42857142857,
+    "fat": 15.714285714286,
+    "saturated_fat": 7.1428571428571,
+    "carbohydrates": 28.571428571429,
+    "sugars": 4.2857142857143,
+    "fiber": 1.4285714285714,
+    "protein": 4.2857142857143,
+    "salt": 0.33928571428573,
+    "sodium": 0.135714285714292
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T20:02:47Z",
+  "fetched_at": "2026-08-19T01:32:02Z"
+}

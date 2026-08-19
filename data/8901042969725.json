@@ -1,0 +1,27 @@
+{
+  "barcode": "8901042969725",
+  "name": "Gulab Jamun",
+  "brand": "MTR",
+  "quantity": "175 g",
+  "categories": [
+    "en:cooking-helpers",
+    "en:dessert-mixes"
+  ],
+  "ingredients": "Refined wheat flour (Maida), Milk solids (18%), Interesterified vegetable fat, Raising agent [INS 500 (ii)] and Acidity regulator (INS 296). Allergen Advice: Contains Wheat Gluten and Milk.",
+  "per_100g": {
+    "energy_kcal": 390,
+    "fat": 10.4,
+    "saturated_fat": 6,
+    "carbohydrates": 60,
+    "sugars": 3.3,
+    "fiber": 0,
+    "protein": 14,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-17T03:59:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

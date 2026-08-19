@@ -1,0 +1,28 @@
+{
+  "barcode": "8905694508240",
+  "name": "Sid's Farm Cow Milk",
+  "brand": "Sid's Farm",
+  "quantity": "500 ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Cow Milk",
+  "per_100g": {
+    "energy_kcal": 67.9711637487127,
+    "fat": 3.60453141091658,
+    "saturated_fat": 2.57466529351184,
+    "carbohydrates": 5.14933058702369,
+    "sugars": 5.04634397528321,
+    "fiber": null,
+    "protein": 3.39855818743563,
+    "salt": 0.102986611740474,
+    "sodium": 0.0411946446961895
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-08T07:21:25Z",
+  "fetched_at": "2026-08-19T01:47:40Z"
+}

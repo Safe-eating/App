@@ -1,0 +1,32 @@
+{
+  "barcode": "8908020493395",
+  "name": "Low Fat Cheezy Spread Peri Peri",
+  "brand": "Fidelo",
+  "quantity": "200 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:spreads",
+    "en:cheeses",
+    "en:salted-spreads",
+    "en:cheese-spreads"
+  ],
+  "ingredients": "Cream Cheese (Milk \u0026 Milk Solids, Cheese Culture), Seasoning (Peri Peri), Locust Bean Gum, Carrageenan, Iodized Salt.",
+  "per_100g": {
+    "energy_kcal": 175.7,
+    "fat": 12.5,
+    "saturated_fat": 6.8,
+    "carbohydrates": 7.8,
+    "sugars": 6.4,
+    "fiber": null,
+    "protein": 8,
+    "salt": 1.174,
+    "sodium": 0.4696
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-27T14:40:43Z",
+  "fetched_at": "2026-08-19T13:20:32Z"
+}

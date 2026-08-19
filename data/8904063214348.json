@@ -1,0 +1,26 @@
+{
+  "barcode": "8904063214348",
+  "name": "Haldiram navratan 220g",
+  "brand": "Haldiram's",
+  "quantity": "220g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 518.7,
+    "fat": 29.5,
+    "saturated_fat": 7.2,
+    "carbohydrates": 43,
+    "sugars": 2.7,
+    "fiber": 0,
+    "protein": 20.3,
+    "salt": 0.7985,
+    "sodium": 0.3194
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-27T11:56:55Z",
+  "fetched_at": "2026-08-19T01:30:00Z"
+}

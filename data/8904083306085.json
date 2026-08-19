@@ -1,0 +1,33 @@
+{
+  "barcode": "8904083306085",
+  "name": "Milky Mist Curd",
+  "brand": "Milky Mist",
+  "quantity": "400g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:curd"
+  ],
+  "ingredients": "Pasteurized Toned Milk and Active Lactic Culture. Allergen Information: Contains Milk.",
+  "per_100g": {
+    "energy_kcal": 61,
+    "fat": 3,
+    "saturated_fat": 1.9,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": null,
+    "protein": 3.5,
+    "salt": 0.065,
+    "sodium": 0.026
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2023-06-05T12:19:05Z",
+  "fetched_at": "2026-08-19T01:33:30Z"
+}

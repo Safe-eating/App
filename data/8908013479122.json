@@ -1,0 +1,28 @@
+{
+  "barcode": "8908013479122",
+  "name": "Peanut Butter Protein Bar",
+  "brand": "The Whole Truth",
+  "quantity": "52g",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-bars"
+  ],
+  "ingredients": "Peanuts, Dates, Cranberries, Whey Protein Concentrate, Cocoa Butter",
+  "per_100g": {
+    "energy_kcal": 497.884615384615,
+    "fat": 27.6923076923077,
+    "saturated_fat": 9.42307692307692,
+    "carbohydrates": 36.9230769230769,
+    "sugars": 23.8461538461538,
+    "fiber": 8.46153846153846,
+    "protein": 25,
+    "salt": 0.0663461538461538,
+    "sodium": 0.0265384615384615
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-14T09:05:03Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

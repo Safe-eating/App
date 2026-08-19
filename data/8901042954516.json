@@ -1,0 +1,26 @@
+{
+  "barcode": "8901042954516",
+  "name": "Rava idli",
+  "brand": "MTR",
+  "quantity": "500 gm",
+  "categories": [
+    "en:breakfasts"
+  ],
+  "ingredients": "ISemolina (80%), Edible Vegetable fat - Interesterified (Palm Oil, Palm kernel C Bengal gram splits, Curry leaves, Salt, Sugar, Mustard, Raising agent Sodium bicarbonate (E 500 il), Ginger, Green chilli, Coriander, Blackgram Dal, Red chilli Powder, Cumin, Turmeric, Cassia, Fenugreek, Clove, Maltodextrin, Acidity regulators Citric acid (E 330) and Tartaricacid (E 334) . CONTAINS NATURAL FLAVORING SUBSTANCE",
+  "per_100g": {
+    "energy_kcal": 365,
+    "fat": 8,
+    "saturated_fat": 3,
+    "carbohydrates": 63,
+    "sugars": 1.5,
+    "fiber": null,
+    "protein": 1.5,
+    "salt": 9,
+    "sodium": 3.6
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-14T08:06:42Z",
+  "fetched_at": "2026-08-19T00:21:55Z"
+}

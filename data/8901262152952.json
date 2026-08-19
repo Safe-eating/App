@@ -1,0 +1,37 @@
+{
+  "barcode": "8901262152952",
+  "name": "Protein Buttermilk",
+  "brand": "Amul",
+  "quantity": "200 ml",
+  "categories": [
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:dairy-drinks",
+    "en:fermented-dairy-desserts",
+    "en:fermented-drinks",
+    "en:yogurts",
+    "en:fermented-milk-drinks",
+    "en:drinkable-yogurts"
+  ],
+  "ingredients": "_Milk_ solids, water, iodized salt, stabilizers (440, 418), active culture",
+  "per_100g": {
+    "energy_kcal": 54,
+    "fat": 0.5,
+    "saturated_fat": 0.3,
+    "carbohydrates": 4,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 0.000125,
+    "sodium": 0.00005
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-12T08:08:19Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

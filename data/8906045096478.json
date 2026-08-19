@@ -1,0 +1,27 @@
+{
+  "barcode": "8906045096478",
+  "name": "Nature Day Fresh Lime FLAVOUR",
+  "brand": "Nature Day",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "Sparkling Water, Sugar, Sodium Chloride, Acidity Regulator (INS330), Class II Preservatives (INS211).",
+  "per_100g": {
+    "energy_kcal": 55.6,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 13.9,
+    "sugars": 13.02,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.1275,
+    "sodium": 0.051
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-08T04:21:06Z",
+  "fetched_at": "2026-08-19T12:36:53Z"
+}

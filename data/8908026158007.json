@@ -1,0 +1,24 @@
+{
+  "barcode": "8908026158007",
+  "name": "Peri Peri Super Bhujia",
+  "brand": "Total Snacc",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 443.870967741935,
+    "fat": 13.8709677419355,
+    "saturated_fat": 6.12903225806452,
+    "carbohydrates": 60,
+    "sugars": 2.90322580645161,
+    "fiber": 11.9354838709677,
+    "protein": 19.3548387096774,
+    "salt": 1.43548387096774,
+    "sodium": 0.574193548387097
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-26T08:39:01Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

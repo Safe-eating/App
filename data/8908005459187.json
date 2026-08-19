@@ -1,0 +1,31 @@
+{
+  "barcode": "8908005459187",
+  "name": "Quinoa Muesli - Chocolate and Banana",
+  "brand": "Nourish You",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 393,
+    "fat": 6.43,
+    "saturated_fat": 0.89,
+    "carbohydrates": 71.53,
+    "sugars": 6.25,
+    "fiber": 7.26,
+    "protein": 12.13,
+    "salt": 1.8,
+    "sodium": 0.72
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-15T09:38:56Z",
+  "fetched_at": "2026-08-19T13:09:34Z"
+}

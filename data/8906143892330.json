@@ -1,0 +1,24 @@
+{
+  "barcode": "8906143892330",
+  "name": "Cranberry Raisin Protein Bar",
+  "brand": "The While Truth",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 489.230769230769,
+    "fat": 25.9615384615385,
+    "saturated_fat": 11.7307692307692,
+    "carbohydrates": 41.5384615384615,
+    "sugars": 25.5961538461538,
+    "fiber": 6.53846153846154,
+    "protein": 23.0769230769231,
+    "salt": 0.0634615384615385,
+    "sodium": 0.0253846153846154
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-06T10:53:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8904067709871",
+  "name": "Bar-B-Que Roasted Peanuts",
+  "brand": "Jabsons",
+  "quantity": "140 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:roasted-nuts",
+    "en:peanuts",
+    "en:roasted-peanuts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 633.333333333333,
+    "fat": 53.3333333333333,
+    "saturated_fat": 10,
+    "carbohydrates": 20,
+    "sugars": 3.33333333333333,
+    "fiber": 3.33333333333333,
+    "protein": 20,
+    "salt": 1.58333333333333,
+    "sodium": 0.633333333333333
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-08T02:25:05Z",
+  "fetched_at": "2026-08-19T01:31:35Z"
+}

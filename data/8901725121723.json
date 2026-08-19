@@ -1,0 +1,36 @@
+{
+  "barcode": "8901725121723",
+  "name": "Aashirvaad Superior MP Atta",
+  "brand": "ITC",
+  "quantity": "5kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:flours",
+    "en:cereal-flours",
+    "en:cereal-grains",
+    "en:wheat-flours",
+    "en:wheats",
+    "en:whole-wheat-flours"
+  ],
+  "ingredients": "WHOLE WHEAT",
+  "per_100g": {
+    "energy_kcal": 338,
+    "fat": 1.3,
+    "saturated_fat": 0.3,
+    "carbohydrates": 76,
+    "sugars": 3.6,
+    "fiber": 10.4,
+    "protein": 10.7,
+    "salt": 3.75,
+    "sodium": 1.5
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T21:56:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

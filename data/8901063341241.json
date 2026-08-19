@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063341241",
+  "name": "Atta Kulcha Bread",
+  "brand": "Britannia",
+  "quantity": "250g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "WHEAT FLOUR (ATTA) (68%), YEAST, SUGAR, REFINED SOYABEAN OIL, IODIZED SALT, VITAL GLUTEN,KASURI METHI  LEAVES (0.7%), PRESERVATIVES [282 \u0026 200], SOYA FLOUR, MALT EXTRACT, ACIDITY  REGULATOR [260], FLOUR TREATMENT AGENT [510] AND ANTIOXIDANT (300).",
+  "per_100g": {
+    "energy_kcal": 298,
+    "fat": 4.3,
+    "saturated_fat": 1.7,
+    "carbohydrates": 56.2,
+    "sugars": 3.4,
+    "fiber": 4.4,
+    "protein": 8.5,
+    "salt": 1.5125,
+    "sodium": 0.605
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-22T12:55:56Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

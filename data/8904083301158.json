@@ -1,0 +1,30 @@
+{
+  "barcode": "8904083301158",
+  "name": "MilkyMist Cow Ghee",
+  "brand": "Milky Mist",
+  "quantity": "2L",
+  "categories": [
+    "en:fats",
+    "en:animal-fats",
+    "en:butter-fat",
+    "en:clarified-butter",
+    "en:ghee"
+  ],
+  "ingredients": "Milk Fat",
+  "per_100g": {
+    "energy_kcal": 898,
+    "fat": 99.8,
+    "saturated_fat": 68,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 15,
+    "sodium": 6
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T18:38:15Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

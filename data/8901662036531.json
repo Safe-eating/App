@@ -1,0 +1,32 @@
+{
+  "barcode": "8901662036531",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:spices",
+    "en:spice-blends",
+    "en:masalas"
+  ],
+  "ingredients": "Cholesterol",
+  "per_100g": {
+    "energy_kcal": 409,
+    "fat": 8.8,
+    "saturated_fat": 1.3,
+    "carbohydrates": 68,
+    "sugars": 5,
+    "fiber": null,
+    "protein": 13.7,
+    "salt": 67.5,
+    "sodium": 27
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-27T15:43:15Z",
+  "fetched_at": "2026-08-19T00:58:45Z"
+}

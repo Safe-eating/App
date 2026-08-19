@@ -1,0 +1,29 @@
+{
+  "barcode": "8901155101111",
+  "name": "Gulab Jamun mix",
+  "brand": "Gits",
+  "quantity": "100g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "xx:gulab-jamun"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 428.57142857143,
+    "fat": 14.285714285714,
+    "saturated_fat": 7.1428571428571,
+    "carbohydrates": 57.142857142857,
+    "sugars": 21.428571428571,
+    "fiber": 0,
+    "protein": 14.285714285714,
+    "salt": 1.9642857142857,
+    "sodium": 0.78571428571428
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-16T01:27:12Z",
+  "fetched_at": "2026-08-19T00:37:51Z"
+}

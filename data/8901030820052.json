@@ -1,0 +1,28 @@
+{
+  "barcode": "8901030820052",
+  "name": "Junior Horlicks Chocolate flavour",
+  "brand": "Horlicks",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "Maltodextrin, Milk Solids (25%), Wheat Flour (Atta), Malted Barley (Extracted Solids) (13%), Sugar,Cocoa Powder, Minerals, Natural Colour [INS 150c],Nature Identical Flavouring Substances, Vitamins, Docosahexaenoic Acid (DHA)  powder from Schizochytrium sp. (0.26%), Edible lodized Salt, Acidity Regulator (INS 501(ii)].",
+  "per_100g": {
+    "energy_kcal": 376,
+    "fat": 4,
+    "saturated_fat": 3.2,
+    "carbohydrates": 74,
+    "sugars": 32,
+    "fiber": null,
+    "protein": 12,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-13T13:24:24Z",
+  "fetched_at": "2026-08-19T00:15:37Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8908013950232",
+  "name": "Super Strength Plant Protein Shake - Raw Chocolate Flavour",
+  "brand": "Plix",
+  "quantity": "1 kg",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-shakes"
+  ],
+  "ingredients": "Plant Protein Blend 84.5% (Pea protein isolate \u0026 Rice protein isolate), Cocoa powder (Alkalized) 8.35%, Natural \u0026 Nature identical flavoring substances, Grape seed extract (Vitis vinifera) 0.9%, Rock salt, Xanthan gum (INS 415), Vitamin Premix (Refer to nutrition facts), Sucralose (INS955), Papain (INS 1101(ii)) 0.15%, Bromelain (INS 1101(iii)) 0.15%, Lycopene 0.090%. CONTAINS ADDED NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES - CHOCOLATE \u0026 OTHERS.",
+  "per_100g": {
+    "energy_kcal": 363.24,
+    "fat": 0.64,
+    "saturated_fat": 0.29,
+    "carbohydrates": 17.46,
+    "sugars": 2,
+    "fiber": 12.63,
+    "protein": 73.5,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-31T05:23:58Z",
+  "fetched_at": "2026-08-19T13:15:15Z"
+}

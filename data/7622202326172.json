@@ -1,0 +1,36 @@
+{
+  "barcode": "7622202326172",
+  "name": "Cadbury Dairy Milk Silk Roast Almond",
+  "brand": "Cadbury",
+  "quantity": "52g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:alcoholic-beverages",
+    "en:snacks",
+    "en:beers",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:candy-chocolate-bars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 560,
+    "fat": 35.2,
+    "saturated_fat": 19.1,
+    "carbohydrates": 52.7,
+    "sugars": 46.7,
+    "fiber": null,
+    "protein": 9.7,
+    "salt": 0.26,
+    "sodium": 0.104
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-08T13:57:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063029217",
+  "name": "Jim Jam",
+  "brand": "Britannia",
+  "quantity": "25g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Flavoured sandwich Biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR (24%), REFINED PALM OIL \u0026 INTERESTERIFIED VEGETABLE FAT, INVERT SUGAR SYRUP, DEXTROSE, MILK PRODUCTS (MILK SOLIDS \u0026 SWEETENED CONDENSED MILK), EDIBLE MAIZE STARCH, MALTODEXTRIN, FRUIT PRODUCTS (0.7%) (APPLE JUICE CONCENTRATE, BANANA POWDER \u0026 PLUM JUICE CONCENTRATE), IODISED SALT, EMULSIFIERS [322(i) \u0026 471], RAISING AGENTS [503(ii) \u0026 500(ii)], NATURE IDENTICAL AND ARTIFICIAL (MIXED FRUIT, VANILLA \u0026 BUTTER) FLAVOURING SUBSTANCES, ACIDITY REGULATORS [330 \u0026 331(iii)], GELLING AGENT (440) AND COLOUR (122).",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 19,
+    "saturated_fat": 9.5,
+    "carbohydrates": 73,
+    "sugars": 33.5,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0.535,
+    "sodium": 0.214
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-04T15:50:26Z",
+  "fetched_at": "2026-08-19T00:29:43Z"
+}

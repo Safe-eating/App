@@ -1,0 +1,31 @@
+{
+  "barcode": "8906171950019",
+  "name": "Soya Chips",
+  "brand": "Chauhan Foods",
+  "quantity": "200g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers"
+  ],
+  "ingredients": "SOYA FLOUR (DEFATTED), UDAD DAL FLOUR, RICE FLOUR, EDIBLE STARCH, IODIZED SALT, CONDIMENTS, SPICES, CITRIC ACID, EDIBLE OIL",
+  "per_100g": {
+    "energy_kcal": 500,
+    "fat": 25,
+    "saturated_fat": 11,
+    "carbohydrates": 60,
+    "sugars": 4,
+    "fiber": 4,
+    "protein": 9,
+    "salt": 1.275,
+    "sodium": 0.51
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-11T00:47:33Z",
+  "fetched_at": "2026-08-19T13:02:20Z"
+}

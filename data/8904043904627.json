@@ -1,0 +1,30 @@
+{
+  "barcode": "8904043904627",
+  "name": "Tata Sampann California Almonds",
+  "brand": "Tata Sampann",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:almonds"
+  ],
+  "ingredients": "Almonds",
+  "per_100g": {
+    "energy_kcal": 596,
+    "fat": 43.8,
+    "saturated_fat": 3.6,
+    "carbohydrates": 29.9,
+    "sugars": 5.5,
+    "fiber": 12.5,
+    "protein": 20.6,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-11T10:38:05Z",
+  "fetched_at": "2026-08-19T01:27:55Z"
+}

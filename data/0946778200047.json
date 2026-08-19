@@ -1,0 +1,26 @@
+{
+  "barcode": "0946778200047",
+  "name": "Super Munchies Pineapple Chips",
+  "brand": "Super Munchies",
+  "quantity": "50gm",
+  "categories": [
+    "en:Vacuum cooked chips"
+  ],
+  "ingredients": "Pineapple 89%, refined rice bran oil",
+  "per_100g": {
+    "energy_kcal": 424,
+    "fat": 11,
+    "saturated_fat": 4,
+    "carbohydrates": 80,
+    "sugars": 7.3,
+    "fiber": null,
+    "protein": 2,
+    "salt": 0.0035,
+    "sodium": 0.0014
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-23T15:36:12Z",
+  "fetched_at": "2026-08-18T23:59:56Z"
+}

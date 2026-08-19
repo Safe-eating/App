@@ -1,0 +1,26 @@
+{
+  "barcode": "8901786761005",
+  "name": "Ginger Garlic Paste",
+  "brand": "",
+  "quantity": "100g",
+  "categories": [
+    "en:25"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 35,
+    "fat": 1.2,
+    "saturated_fat": 0.3,
+    "carbohydrates": 5.3,
+    "sugars": 0.27,
+    "fiber": null,
+    "protein": 0.87,
+    "salt": 2.1325,
+    "sodium": 0.853
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T16:53:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

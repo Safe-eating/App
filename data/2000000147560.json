@@ -1,0 +1,26 @@
+{
+  "barcode": "2000000147560",
+  "name": "Nu Nectar",
+  "brand": "Nu Nectar",
+  "quantity": "500g",
+  "categories": [
+    "en:Nutrition Drink"
+  ],
+  "ingredients": "‎Cereal extract (65% super grains - wheat, barley \u0026 pearl millet), Jaggery, Milk solids, Cocoa, Wheat gluten, Vitamins, Minerals, Inositol, Natural and nature identical flavouring substances (Chocolate and Vanilla), Salt, Raising agent (INS 500(ii)), Choline, Taurine, Phenylalanine, Leucine, Arginine, Threonine, Methionine, Valine, Histidine, Lysine., Protein, Vitamin D, Vitamin K, Taurine, Inositol, Calcium, Phosphorous, Chromium, FOS, Manganese, Folic acid (Vitamin B9), Choline, Iron, Zinc, Magnesium, Iodine, Vitamin C, Vitamin B12, Vitamin B6, Potassium, Chloride, Vitamin A, Vitamin E, Copper, Selenium, Molybdenum, Histidine, Arginine, DL Methionine, Leucine, L-Lysine, DHA 10%, Valine, Biotin (Vitamin B7), Thiamine (Vitamin B1), Riboflavin (Vitamin B2), Niacin (Vitamin B3), Pantothenic acid (Vitamin B5)",
+  "per_100g": {
+    "energy_kcal": 380.84,
+    "fat": 1.08,
+    "saturated_fat": 0.82,
+    "carbohydrates": 80.79,
+    "sugars": 17.26,
+    "fiber": 1.16,
+    "protein": 11.99,
+    "salt": 0.916875,
+    "sodium": 0.36675
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-10-28T11:19:12Z",
+  "fetched_at": "2026-08-19T00:00:59Z"
+}

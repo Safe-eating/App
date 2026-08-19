@@ -1,0 +1,31 @@
+{
+  "barcode": "8906010500139",
+  "name": "Balaji Wafers",
+  "brand": "Balaji",
+  "quantity": "35 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers"
+  ],
+  "ingredients": "POTATO (87%), EDIBLE VEGETABLE OIL (PALMOLEIN), SUGAR, SPICES \u0026 CONDIMENTS 1% (CHILLI, DRY MANGO, CORIANDER, CUMIN, BLACK PEPPER, GINGER, (LOVE), EDIBLE COMMON SALT, BLACK SALT.",
+  "per_100g": {
+    "energy_kcal": 526,
+    "fat": 30.5,
+    "saturated_fat": 0,
+    "carbohydrates": 58.1,
+    "sugars": 8.1,
+    "fiber": null,
+    "protein": 4.8,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-27T15:52:58Z",
+  "fetched_at": "2026-08-19T02:00:12Z"
+}

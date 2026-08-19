@@ -1,0 +1,32 @@
+{
+  "barcode": "8906172784071",
+  "name": "True Elements High Protein Oats Indi Masala",
+  "brand": "True Elements",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 391.935483870968,
+    "fat": 10.1612903225806,
+    "saturated_fat": 2.09677419354839,
+    "carbohydrates": 57.5806451612903,
+    "sugars": 5.32258064516129,
+    "fiber": 12.258064516129,
+    "protein": 20.9677419354839,
+    "salt": 3.09274193548387,
+    "sodium": 1.23709677419355
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-07T10:12:22Z",
+  "fetched_at": "2026-08-19T13:02:46Z"
+}

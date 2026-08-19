@@ -1,0 +1,27 @@
+{
+  "barcode": "00026020",
+  "name": "TGF Khatta Meetha",
+  "brand": "Truly Good Foods",
+  "quantity": "200g",
+  "categories": [
+    "en:snacks",
+    "en:Fried Snacks"
+  ],
+  "ingredients": "Edible Vegetable Oil (Palmolein Oil, Cottonseed Oil), Sugar (16%), Rice Flakes (13%), Besan, Dried Green Peas (5%) Peanut (5%), Lentils (4%), Edible Starch, Sago (3%), Rice Flour, lodized Salt, Spices \u0026 Condiments and Acidity Regulator (INS 330).",
+  "per_100g": {
+    "energy_kcal": 573,
+    "fat": 37,
+    "saturated_fat": 10,
+    "carbohydrates": 50,
+    "sugars": 17,
+    "fiber": null,
+    "protein": 10,
+    "salt": 1.19,
+    "sodium": 0.476
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-04T13:11:34Z",
+  "fetched_at": "2026-08-18T23:53:17Z"
+}

@@ -1,0 +1,35 @@
+{
+  "barcode": "8906024484142",
+  "name": "badam flavored milk",
+  "brand": "DODLA",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:dairy-drinks",
+    "en:milks",
+    "en:flavoured-milks",
+    "en:buffalo-milks",
+    "en:toned-milks",
+    "en:double-toned-milks"
+  ],
+  "ingredients": "Milk Solids, Sugar \u0026 Water. Contains Permitted Synthetic Food Colours (INS 102 \u0026 INS 110) And Added Nature-identical Flavour (Badam)",
+  "per_100g": {
+    "energy_kcal": 81,
+    "fat": 1.5,
+    "saturated_fat": 0.9,
+    "carbohydrates": 13.6,
+    "sugars": 13.6,
+    "fiber": 0,
+    "protein": 3.3,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-10T01:28:20Z",
+  "fetched_at": "2026-08-19T12:31:41Z"
+}

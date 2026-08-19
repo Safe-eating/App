@@ -1,0 +1,34 @@
+{
+  "barcode": "8906059636936",
+  "name": "Epigamia Everyday Yogurt Mango",
+  "brand": "Epigamia",
+  "quantity": "75g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:fermented-dairy-desserts-with-fruits",
+    "en:yogurts",
+    "en:fruit-yogurts"
+  ],
+  "ingredients": "Pasteurized Double Toned Milk (86%), Sugar, Milk Solids (3%), Nature Identical Flavouring Substances (Mango), Stabilizer (INS 440), Permitted Lactic Acid Cultures, Colour (INS 102, INS 110) Active Live Cultures: S.Thermophilus, L.Bacillus delbrueckii subsp. Bulgaricus ALLERGENS: Contains milk. Manufactured in a facility processing milk, nuts \u0026 cereals containing gluten.",
+  "per_100g": {
+    "energy_kcal": 94.6666666666667,
+    "fat": 1.33333333333333,
+    "saturated_fat": 0.8,
+    "carbohydrates": 17.3333333333333,
+    "sugars": 17.3333333333333,
+    "fiber": null,
+    "protein": 4,
+    "salt": 0.146666666666667,
+    "sodium": 0.0586666666666667
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-14T10:05:58Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

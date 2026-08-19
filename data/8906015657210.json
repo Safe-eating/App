@@ -1,0 +1,26 @@
+{
+  "barcode": "8906015657210",
+  "name": "khatta mitha sweet S sour",
+  "brand": "bhikharam chandmal",
+  "quantity": "400 g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Edible Vegetable Oil (Palmolein Oil), Sugar Powder, Tepary Beans Flour, Gram Pulse, Wheat Flour, Semolina,Gram Pulse Flour,  Lentils, Potatoes, Cornflakes, Rice Flakes, Rice Powder, Edible Starch, Peanuts, Spinach, Curry Leaves (Fried), Salt , Fennel Seed, Coriander Seed \u0026 Leavening Agent (INS 500(ii)), Acidity Regulatory (INS 330 \u0026 INS 296).",
+  "per_100g": {
+    "energy_kcal": 931.8,
+    "fat": 61.84,
+    "saturated_fat": 18.08,
+    "carbohydrates": 75.52,
+    "sugars": 33.6,
+    "fiber": 4.64,
+    "protein": 18.32,
+    "salt": 1.7676,
+    "sodium": 0.70704
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-01T09:57:39Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

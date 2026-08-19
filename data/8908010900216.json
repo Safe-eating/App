@@ -1,0 +1,39 @@
+{
+  "barcode": "8908010900216",
+  "name": "PEANUT BUTTER",
+  "brand": "Pintola",
+  "quantity": "350g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:snacks",
+    "en:spreads",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:nuts-and-their-products",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:nut-butters",
+    "en:peanut-butters",
+    "en:crunchy-peanut-butters"
+  ],
+  "ingredients": "Peanuts (68%), Dark Chocolate (30%) {Sugar Cocoa Solids, Cocoa butter, Emulsifier (INS 322)}, Stabilizer (INS471)",
+  "per_100g": {
+    "energy_kcal": 580,
+    "fat": 40,
+    "saturated_fat": 11,
+    "carbohydrates": 36.4,
+    "sugars": 19,
+    "fiber": 5.2,
+    "protein": 18.6,
+    "salt": 0.0375,
+    "sodium": 0.015
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T02:34:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

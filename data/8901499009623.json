@@ -1,0 +1,37 @@
+{
+  "barcode": "8901499009623",
+  "name": "Chocos Fills",
+  "brand": "Kellogg's",
+  "quantity": "250 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:chocolate-cereals",
+    "en:extruded-cereals",
+    "en:filled-cereals",
+    "en:breakfast-cereals-filled-with-chocolate",
+    "en:diet-chocolate-breakfast-cereals",
+    "en:unfortified-diet-chocolate-breakfast-cereals"
+  ],
+  "ingredients": "Multi Grain Flour Mix (Rice Flour, Whole Oats Flour, Whole Wheat Flour), Choco Cream (Sugar, Edible Vegetable Oil (Sunflower Oil, Palm Oil), Cocoa Solids (63%), Milk Solids, Emulsifier (INS 322(i))). Sugar, Cocoa Powder (5.6%), Iodized Salt, Vitamins",
+  "per_100g": {
+    "energy_kcal": 432,
+    "fat": 14,
+    "saturated_fat": 4.8,
+    "carbohydrates": 72,
+    "sugars": 30.5,
+    "fiber": 5,
+    "protein": 7,
+    "salt": 0.75,
+    "sodium": 0.3
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-24T08:49:17Z",
+  "fetched_at": "2026-08-19T00:52:53Z"
+}

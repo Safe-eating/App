@@ -1,0 +1,24 @@
+{
+  "barcode": "8908006646135",
+  "name": "Black Salt Roasted Makhana",
+  "brand": "Mr Makhana",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 356,
+    "fat": 20,
+    "saturated_fat": 4,
+    "carbohydrates": 40,
+    "sugars": 0,
+    "fiber": 4,
+    "protein": 8,
+    "salt": 0.52,
+    "sodium": 0.208
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-04T04:23:12Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

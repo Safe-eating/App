@@ -1,0 +1,29 @@
+{
+  "barcode": "8906125982042",
+  "name": "Protein Pops Hawaiian Barbecue",
+  "brand": "4700 BC Gourmet Snacks",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:fox-nuts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 469,
+    "fat": 21.4,
+    "saturated_fat": 5,
+    "carbohydrates": 58.2,
+    "sugars": 5.6,
+    "fiber": 11.9,
+    "protein": 10,
+    "salt": 0.9525,
+    "sodium": 0.381
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-27T14:54:47Z",
+  "fetched_at": "2026-08-19T12:55:31Z"
+}

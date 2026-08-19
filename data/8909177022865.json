@@ -1,0 +1,30 @@
+{
+  "barcode": "8909177022865",
+  "name": "Daily Good Bread",
+  "brand": "Daily Good",
+  "quantity": "400 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour (Atta) (80%), Sour Dough, Yeast, Vinegar, Edible Vegetable Oil (Sunflower Oil), Sugar, Iodized Salt, Gluten, Preservative (INS 282, INS 200), Improver {Antioxidant (INS 300), Anticaking Agent (INS 170(i), Flour Treatment Agent (INS 1100(i))).",
+  "per_100g": {
+    "energy_kcal": 240,
+    "fat": 1.9,
+    "saturated_fat": 0.3,
+    "carbohydrates": 46.5,
+    "sugars": 10.4,
+    "fiber": 9.5,
+    "protein": 9.5,
+    "salt": 1.01,
+    "sodium": 0.404
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-26T06:16:23Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

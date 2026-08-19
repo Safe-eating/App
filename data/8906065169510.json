@@ -1,0 +1,24 @@
+{
+  "barcode": "8906065169510",
+  "name": "Lebanese Falafel Kebab",
+  "brand": "ITC",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 244,
+    "fat": 11.5,
+    "saturated_fat": 5.9,
+    "carbohydrates": 24.9,
+    "sugars": 1.2,
+    "fiber": null,
+    "protein": 10.3,
+    "salt": 1.01325,
+    "sodium": 0.4053
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-23T15:02:38Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

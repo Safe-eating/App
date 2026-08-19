@@ -1,0 +1,36 @@
+{
+  "barcode": "8901499011466",
+  "name": "Corn Flakes Real Almond Honey",
+  "brand": "Kellogg's",
+  "quantity": "180g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:extruded-cereals",
+    "en:extruded-flakes",
+    "en:corn-flakes"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 409,
+    "fat": 6.7,
+    "saturated_fat": 4,
+    "carbohydrates": 81.9,
+    "sugars": 30,
+    "fiber": 1.8,
+    "protein": 6.2,
+    "salt": 1.075,
+    "sodium": 0.43
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-25T08:17:50Z",
+  "fetched_at": "2026-08-19T00:53:33Z"
+}

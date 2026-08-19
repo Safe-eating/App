@@ -1,0 +1,38 @@
+{
+  "barcode": "8903363002143",
+  "name": "DMart Premia Mix Dry Fruit",
+  "brand": "DMart",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:dried-products",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits",
+    "en:raisins",
+    "en:mixed-nuts",
+    "en:Dry fruit"
+  ],
+  "ingredients": "Ingredients (Approx. Values in %): Raisins (55%), Dry Dates (20%), Almond (15%), Cashew (10%)",
+  "per_100g": {
+    "energy_kcal": 451.54,
+    "fat": 15.29,
+    "saturated_fat": 1.68,
+    "carbohydrates": 70.49,
+    "sugars": 46.57,
+    "fiber": 0,
+    "protein": 7.98,
+    "salt": 0.0196,
+    "sodium": 0.00784
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-20T06:07:48Z",
+  "fetched_at": "2026-08-19T01:21:37Z"
+}

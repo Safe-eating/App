@@ -1,0 +1,26 @@
+{
+  "barcode": "8904063230010",
+  "name": "Haldiram Bhujia400g",
+  "brand": "Haldiram, Haldiram's",
+  "quantity": "400g",
+  "categories": [
+    "en:Indian savoury snack"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 571.42857142857,
+    "fat": 40,
+    "saturated_fat": 11.428571428571,
+    "carbohydrates": 42.857142857143,
+    "sugars": 2.8571428571429,
+    "fiber": 4.3,
+    "protein": 11.428571428571,
+    "salt": 2,
+    "sodium": 0.8
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-25T17:09:55Z",
+  "fetched_at": "2026-08-19T01:30:28Z"
+}

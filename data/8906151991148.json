@@ -1,0 +1,30 @@
+{
+  "barcode": "8906151991148",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 200,
+    "fat": 10,
+    "saturated_fat": 6.5,
+    "carbohydrates": 24,
+    "sugars": 45,
+    "fiber": null,
+    "protein": 3.5,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-15T04:08:09Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

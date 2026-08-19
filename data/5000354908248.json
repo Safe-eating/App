@@ -1,0 +1,33 @@
+{
+  "barcode": "5000354908248",
+  "name": "Original Custard powder",
+  "brand": "Bird's",
+  "quantity": "350 g",
+  "categories": [
+    "en:dairies",
+    "en:condiments",
+    "en:cooking-helpers",
+    "en:sauces",
+    "en:dessert-mixes",
+    "en:dessert-sauces",
+    "en:custards-and-pastry-creams",
+    "en:custard-powder"
+  ],
+  "ingredients": "Maize Starch, Salt, Colour (Annatto Norbixin), Flavouring.",
+  "per_100g": {
+    "energy_kcal": 82.9268292682927,
+    "fat": 1.52439024390244,
+    "saturated_fat": 0.975609756097561,
+    "carbohydrates": 14.2073170731707,
+    "sugars": 9.51219512195122,
+    "fiber": 0.304878048780488,
+    "protein": 3.10975609756098,
+    "salt": 0.152439024390244,
+    "sodium": 0.0609756097560976
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-21T08:39:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

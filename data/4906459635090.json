@@ -1,0 +1,24 @@
+{
+  "barcode": "4906459635090",
+  "name": "Greek Yogurt blueberry",
+  "brand": "Epigamia",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 94.1176470588235,
+    "fat": 1.88235294117647,
+    "saturated_fat": 1.17647058823529,
+    "carbohydrates": 12.9411764705882,
+    "sugars": 12.9411764705882,
+    "fiber": null,
+    "protein": 6.47058823529412,
+    "salt": 0.129411764705882,
+    "sodium": 0.0517647058823529
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-15T08:51:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

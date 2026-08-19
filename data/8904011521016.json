@@ -1,0 +1,26 @@
+{
+  "barcode": "8904011521016",
+  "name": "Tender Coconut Sago Payasam Mix",
+  "brand": "Double Horse",
+  "quantity": "180g",
+  "categories": [
+    "en:Kheer"
+  ],
+  "ingredients": "Sugar (59%), Sago (18%), Tender Coconut (15%), Natural Tender Coconut Flavor, Milk Powder, Salt",
+  "per_100g": {
+    "energy_kcal": 400,
+    "fat": 4,
+    "saturated_fat": 0,
+    "carbohydrates": 92,
+    "sugars": 68,
+    "fiber": 4,
+    "protein": 0,
+    "salt": 0.012,
+    "sodium": 0.0048
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-07T08:31:34Z",
+  "fetched_at": "2026-08-19T01:26:20Z"
+}

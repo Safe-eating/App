@@ -1,0 +1,24 @@
+{
+  "barcode": "8906163833306",
+  "name": "Farmley Makha Shakha Achari Stix",
+  "brand": "Farmley",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 433.1,
+    "fat": 9.4,
+    "saturated_fat": 0.7,
+    "carbohydrates": 77.5,
+    "sugars": 2.8,
+    "fiber": 3.5,
+    "protein": 7.8,
+    "salt": 1.7435,
+    "sodium": 0.6974
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T17:37:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

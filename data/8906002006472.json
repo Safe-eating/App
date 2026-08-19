@@ -1,0 +1,27 @@
+{
+  "barcode": "8906002006472",
+  "name": "Sandwich Spread Veg. Cucumber \u0026 Carrot",
+  "brand": "Dr.Oetker Funfoods",
+  "quantity": "250g",
+  "categories": [
+    "en:Emulsified dips",
+    "en:Sandwich spreads"
+  ],
+  "ingredients": "Refined Soyabean Oil, Vegetables (30%) [Cucumber (13%), Carrot (9%), Tomatoes (8%)], Water, Sugar Liquid Glucose, Spices \u0026 Condiments, lodised Salt, Emulsifiers \u0026 Stabilizers (INS1442, INS415), Milk Solids, Cheese Powder, Maltodextrin, Lemon Juice, Acidity Regulators (INS330 INS260), Preservatives (INS211, INS202). CONTAINS MILK.",
+  "per_100g": {
+    "energy_kcal": 405.5,
+    "fat": 35.6,
+    "saturated_fat": 6.1,
+    "carbohydrates": 20.5,
+    "sugars": 18.3,
+    "fiber": null,
+    "protein": 0.8,
+    "salt": 2.5425,
+    "sodium": 1.017
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-27T14:15:32Z",
+  "fetched_at": "2026-08-19T01:49:46Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8906006786448",
+  "name": "Ginger garlic paste",
+  "brand": "Surabhi",
+  "quantity": "200 g",
+  "categories": [
+    "en:variety-packs",
+    "en:sauces-and-condiments-variety-packs"
+  ],
+  "ingredients": "Ginger, Garlic, lodized Salt, Water, Acidity Regulator (INS330, INS260), Stabilizer (INS415), Preservative (INS211) CONTAINS PERMITTED CLASS II PRESERVATIVES (INS211) Allergy",
+  "per_100g": {
+    "energy_kcal": 57.09,
+    "fat": 0.42,
+    "saturated_fat": 0.11,
+    "carbohydrates": 12.74,
+    "sugars": 0.94,
+    "fiber": null,
+    "protein": 1.76,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-02T06:26:49Z",
+  "fetched_at": "2026-08-19T01:53:52Z"
+}

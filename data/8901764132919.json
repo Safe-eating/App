@@ -1,0 +1,37 @@
+{
+  "barcode": "8901764132919",
+  "name": "Fanta Apple Delite",
+  "brand": "Fanta",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:non-alcoholic-beverages",
+    "en:plant-based-beverages",
+    "en:carbonated-drinks",
+    "en:fruit-based-beverages",
+    "en:soft-drinks",
+    "en:sodas",
+    "en:fruit-sodas",
+    "en:apple-soft-drinks"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, APPLE JUICE (10.5%)(RECONSTITUTED FROM APPLE JUICE CONCENTRATE), ACIDITY REGULATOR (296), STABILIZER (452) PRESERVATIVES (202, 211), COLOUR (150d), APPLE FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCES).",
+  "per_100g": {
+    "energy_kcal": 48,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 12.1,
+    "sugars": 12,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.02125,
+    "sodium": 0.0085
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-10T09:49:57Z",
+  "fetched_at": "2026-08-19T01:09:04Z"
+}

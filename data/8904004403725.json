@@ -1,0 +1,28 @@
+{
+  "barcode": "8904004403725",
+  "name": "Moong Dal",
+  "brand": "Haldiram's",
+  "quantity": "35 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:namkeen"
+  ],
+  "ingredients": "Split Pulse Moong (Moong Dal) (77%), Refined Cotton Seed Oil \u0026 Edible Common Salt.",
+  "per_100g": {
+    "energy_kcal": 476,
+    "fat": 20.93,
+    "saturated_fat": 5.64,
+    "carbohydrates": 50.66,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 21.31,
+    "salt": 0.4,
+    "sodium": 0.16
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-19T17:24:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

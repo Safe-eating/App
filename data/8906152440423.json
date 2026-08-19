@@ -1,0 +1,26 @@
+{
+  "barcode": "8906152440423",
+  "name": "Whole Chana Besan",
+  "brand": "Floryo",
+  "quantity": "500 g",
+  "categories": [
+    "en:besan"
+  ],
+  "ingredients": "Besan",
+  "per_100g": {
+    "energy_kcal": 353,
+    "fat": 5,
+    "saturated_fat": 0.5,
+    "carbohydrates": 62,
+    "sugars": 1,
+    "fiber": 15,
+    "protein": 22,
+    "salt": 0.0525,
+    "sodium": 0.021
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-07T15:00:56Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

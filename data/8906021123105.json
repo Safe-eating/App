@@ -1,0 +1,32 @@
+{
+  "barcode": "8906021123105",
+  "name": "Turmeric Powder/ Haldi",
+  "brand": "Aachi",
+  "quantity": "16 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:spices",
+    "en:turmeric",
+    "en:turmeric-powder"
+  ],
+  "ingredients": "TURMERIC",
+  "per_100g": {
+    "energy_kcal": 291,
+    "fat": 3.25,
+    "saturated_fat": 1.84,
+    "carbohydrates": 44.4,
+    "sugars": 3.21,
+    "fiber": 22.7,
+    "protein": 9.68,
+    "salt": 0.068,
+    "sodium": 0.027
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-05T08:47:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "5430446645063",
+  "name": "Protein Spaghetti",
+  "brand": "Urban Platter",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 336,
+    "fat": 2.1,
+    "saturated_fat": 0.4,
+    "carbohydrates": 62.3,
+    "sugars": 0,
+    "fiber": 9.1,
+    "protein": 21.4,
+    "salt": 0.005,
+    "sodium": 0.002
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-04T15:01:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

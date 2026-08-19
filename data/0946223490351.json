@@ -1,0 +1,35 @@
+{
+  "barcode": "0946223490351",
+  "name": "Millet Muesli",
+  "brand": "TATA Soulful",
+  "quantity": "700g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats"
+  ],
+  "ingredients": "Rolled Oats (37%), Rice Flakes (19%), Ragi Flakes (13%), Corn Flakes (6%), Flax Seeds (8%), Black Raisins (4%), Almonds (3%), Rice Bran Oil, Pumpkin Seeds (2%), Chia Seeds (2%), Natural Flavour, Antioxidant (320).",
+  "per_100g": {
+    "energy_kcal": 756,
+    "fat": 2.6,
+    "saturated_fat": 0.6,
+    "carbohydrates": 158,
+    "sugars": 6,
+    "fiber": 28.8,
+    "protein": 25,
+    "salt": 0.325,
+    "sodium": 0.13
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-24T18:25:07Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

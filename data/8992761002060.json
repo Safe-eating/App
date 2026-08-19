@@ -1,0 +1,36 @@
+{
+  "barcode": "8992761002060",
+  "name": "Coca Cola Zero Sugar",
+  "brand": "Coca-Cola",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:non-alcoholic-beverages",
+    "en:carbonated-drinks",
+    "en:soft-drinks",
+    "en:artificially-sweetened-beverages",
+    "en:sodas",
+    "en:diet-beverages",
+    "en:colas",
+    "en:diet-sodas",
+    "en:diet-cola-soft-drink"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 0,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.0128205128205128,
+    "sodium": 0.00512820512820513
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T15:29:08Z",
+  "fetched_at": "2026-08-19T13:25:40Z"
+}

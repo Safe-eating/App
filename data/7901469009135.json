@@ -1,0 +1,32 @@
+{
+  "barcode": "7901469009135",
+  "name": "Corn flakes",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:Fla"
+  ],
+  "ingredients": "Corn Grits (90%), Sugar, Cereal Extract, lodized Salt, Vitamins, Antioxidant (INS 307b), Minerals. ALLERGEN DECLARATION: CONTAINS WHEAT \u0026 BARLEY. MAY CONTAIN SOY, MILK, OATS \u0026 NUTS.",
+  "per_100g": {
+    "energy_kcal": 378,
+    "fat": 1,
+    "saturated_fat": 0.6,
+    "carbohydrates": 86.6,
+    "sugars": 9.2,
+    "fiber": null,
+    "protein": 6.7,
+    "salt": 1.225,
+    "sodium": 0.49
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-27T07:57:19Z",
+  "fetched_at": "2026-08-19T00:11:47Z"
+}

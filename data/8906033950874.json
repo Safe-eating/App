@@ -1,0 +1,27 @@
+{
+  "barcode": "8906033950874",
+  "name": "Sev",
+  "brand": "G pulla reddy's",
+  "quantity": "150g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks"
+  ],
+  "ingredients": "Bengal Gram Flour,Edible Vegetable (Palmolein) oil, salt",
+  "per_100g": {
+    "energy_kcal": 521,
+    "fat": 33,
+    "saturated_fat": 4.4,
+    "carbohydrates": 55,
+    "sugars": 4.5,
+    "fiber": 3.4,
+    "protein": 4,
+    "salt": 1.2775,
+    "sodium": 0.511
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-07T06:49:44Z",
+  "fetched_at": "2026-08-19T12:34:23Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906166360328",
+  "name": "Butter Biscuits",
+  "brand": "Open Secrets",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Oats Flour, Whole Wheat Flour, Hydrogenated vegetable oil (Coconut Oil, Seasame Oil (refined) \u0026 Vitamin A), Fructooligosaccharides, Jaggery Powder, Skimmed Milk Powder, Unsalted Butter(3.5%), Refined Sunflower oil, Rising Agent (INS 303 (ii), INS 500 (ii) INS 450(i), E575), Antioxidant E322, Edible Salt Emulsifier INS473",
+  "per_100g": {
+    "energy_kcal": 73.5,
+    "fat": 3.3,
+    "saturated_fat": 3,
+    "carbohydrates": 9.5,
+    "sugars": 3.8,
+    "fiber": 0.3,
+    "protein": 1.4,
+    "salt": 0.135,
+    "sodium": 0.054
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-27T12:30:16Z",
+  "fetched_at": "2026-08-19T13:01:50Z"
+}

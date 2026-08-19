@@ -1,0 +1,24 @@
+{
+  "barcode": "8901262071536",
+  "name": "55% Dark Chocolate",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 521,
+    "fat": 33.1,
+    "saturated_fat": 18.6,
+    "carbohydrates": 51.4,
+    "sugars": 43,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 0.095,
+    "sodium": 0.038
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-31T15:01:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

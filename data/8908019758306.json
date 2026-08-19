@@ -1,0 +1,34 @@
+{
+  "barcode": "8908019758306",
+  "name": "proV select Indian Whole Natural Raisin",
+  "brand": "proV select",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:dried-products",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits",
+    "en:raisins"
+  ],
+  "ingredients": "Raisins",
+  "per_100g": {
+    "energy_kcal": 354,
+    "fat": 2.4,
+    "saturated_fat": 1.5,
+    "carbohydrates": 80.2,
+    "sugars": 47.6,
+    "fiber": 9.1,
+    "protein": 3,
+    "salt": 0.11675,
+    "sodium": 0.0467
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-21T03:26:15Z",
+  "fetched_at": "2026-08-19T13:19:59Z"
+}

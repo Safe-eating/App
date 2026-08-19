@@ -1,0 +1,32 @@
+{
+  "barcode": "8908000258211",
+  "name": "Jivo Olive Oil",
+  "brand": "Jivo",
+  "quantity": "1L",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fats",
+    "en:vegetable-fats",
+    "en:olive-tree-products",
+    "en:vegetable-oils",
+    "en:olive-oils"
+  ],
+  "ingredients": "Olive Oil",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 12,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-28T13:04:36Z",
+  "fetched_at": "2026-08-19T13:04:20Z"
+}

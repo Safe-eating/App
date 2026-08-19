@@ -1,0 +1,36 @@
+{
+  "barcode": "8901499010216",
+  "name": "Corn Flakes1.20 kg",
+  "brand": "Kellogg's",
+  "quantity": "260g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:extruded-cereals",
+    "en:extruded-flakes",
+    "en:corn-flakes"
+  ],
+  "ingredients": "Corn Grits (90%), Sugar, Cereal Extract, Iodized Salt, Vitamins, Minerals and Antioxidant (INS 307b). CONTAINS GLUTEN. MAY CONTAIN TRACES OF TREENUT.",
+  "per_100g": {
+    "energy_kcal": 378,
+    "fat": 1,
+    "saturated_fat": 0.6,
+    "carbohydrates": 86.9,
+    "sugars": 9.2,
+    "fiber": 2.5,
+    "protein": 6.7,
+    "salt": 1.225,
+    "sodium": 0.49
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-04T04:34:00Z",
+  "fetched_at": "2026-08-19T00:52:57Z"
+}

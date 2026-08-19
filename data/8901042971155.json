@@ -1,0 +1,26 @@
+{
+  "barcode": "8901042971155",
+  "name": "Idli Karam Podi",
+  "brand": "MTR",
+  "quantity": "100g",
+  "categories": [
+    "en:condiments"
+  ],
+  "ingredients": "Red Chilli (18%), Blackgram splits (17%), Bengalgram splits (15%), Coriander (14%), lodised low sodium salt, Tamarind concentrate (8%), Refined palmolein oil, Cumin, Garlic powder (3%), Curry leaf powder, lodised salt, Jaggery, Natural flavouring substances, Anticaking agent (INS 551), Acidity regulator (INS 334) and Asafoetida",
+  "per_100g": {
+    "energy_kcal": 304,
+    "fat": 12.2,
+    "saturated_fat": 3.5,
+    "carbohydrates": 35.2,
+    "sugars": 13.7,
+    "fiber": null,
+    "protein": 13.4,
+    "salt": 8.785,
+    "sodium": 3.514
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-23T02:52:53Z",
+  "fetched_at": "2026-08-19T00:22:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8901648000860",
+  "name": "Chocolate Flavoured Milk",
+  "brand": "Mother Dairy",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:dairy-drinks",
+    "en:milks",
+    "en:flavoured-milks"
+  ],
+  "ingredients": "Milk, Sugar, Milk solids, Nature - identical \u0026Artificial chocolate flavouring substances, Natural colour (150a) \u0026 Synthetic food colour (110, 132, 102, 122, 127).",
+  "per_100g": {
+    "energy_kcal": 74,
+    "fat": 1.7,
+    "saturated_fat": 1.2,
+    "carbohydrates": 11.4,
+    "sugars": 11.4,
+    "fiber": null,
+    "protein": 3.4,
+    "salt": 0.1375,
+    "sodium": 0.055
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-01T09:51:51Z",
+  "fetched_at": "2026-08-19T00:57:36Z"
+}

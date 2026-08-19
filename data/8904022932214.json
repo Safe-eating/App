@@ -1,0 +1,26 @@
+{
+  "barcode": "8904022932214",
+  "name": "Wholewheat Brown Bread",
+  "brand": "LA Americana Gourmet",
+  "quantity": "",
+  "categories": [
+    "en:Sliced wholeweat brown bread"
+  ],
+  "ingredients": "Whole Wheat Flour - Atta (53.0%), Water, Yeast, Jaggery (2.1%), Cold Pressed Sunflower Oil, Pink Salt (1.0%) and Fermented Whole Wheat Flour (Atta).",
+  "per_100g": {
+    "energy_kcal": 287,
+    "fat": 2.51,
+    "saturated_fat": 0.42,
+    "carbohydrates": 51.39,
+    "sugars": 2.46,
+    "fiber": 8.11,
+    "protein": 10.7,
+    "salt": 1.27,
+    "sodium": 0.508
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-19T20:52:52Z",
+  "fetched_at": "2026-08-19T01:26:50Z"
+}

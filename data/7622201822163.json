@@ -1,0 +1,30 @@
+{
+  "barcode": "7622201822163",
+  "name": "Dairy milk",
+  "brand": "Cadbury",
+  "quantity": "55g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:milk-chocolates"
+  ],
+  "ingredients": "Sugar, Milk Solids (23%*), Cocoa Butter, Cocoa Solids, Emulsifiers (442, 476), Flavouring Substances (Natural, Nature Identical and Artificial (Vanilla)). \n\nAllergen Information: Contains Milk. May Contain Tree Nuts, Wheat, Barley and Soy.",
+  "per_100g": {
+    "energy_kcal": 532,
+    "fat": 29.2,
+    "saturated_fat": 19.6,
+    "carbohydrates": 60.4,
+    "sugars": 57,
+    "fiber": 0,
+    "protein": 7.8,
+    "salt": 0.3225,
+    "sodium": 0.129
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-18T12:59:55Z",
+  "fetched_at": "2026-08-19T00:09:21Z"
+}

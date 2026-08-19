@@ -1,0 +1,26 @@
+{
+  "barcode": "8000500441688",
+  "name": "TicTac Seeds",
+  "brand": "Tictac",
+  "quantity": "13gram",
+  "categories": [
+    "en:Refreshments"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 50,
+    "fat": 0.2,
+    "saturated_fat": 0.09,
+    "carbohydrates": 11.7,
+    "sugars": 11,
+    "fiber": 0,
+    "protein": 0.1,
+    "salt": 0.004,
+    "sodium": 0.0016
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-14T14:02:43Z",
+  "fetched_at": "2026-08-19T00:11:59Z"
+}

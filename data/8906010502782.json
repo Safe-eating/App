@@ -1,0 +1,37 @@
+{
+  "barcode": "8906010502782",
+  "name": "Stack Up - Simply Salted",
+  "brand": "Balaji Wafer",
+  "quantity": "60g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:condiments",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:stacked-extruded-potato-crisps"
+  ],
+  "ingredients": "POTATO POWDER (58%), EDIBLE VEGETABLE OIL (PALMOLEIN), RICE FLOUR, POTATO STARCH, TAPIOCA STARCH, EDIBLE COMMON SALT (2.0%), SUGAR, EMULSIFIER (INS 471), MALTODEXTRIN, FLAVOUR ENHANCER (INS 627, INS 631), YEAST EXTRACT.",
+  "per_100g": {
+    "energy_kcal": 541,
+    "fat": 31.1,
+    "saturated_fat": 15.4,
+    "carbohydrates": 58.7,
+    "sugars": 0.5,
+    "fiber": 0,
+    "protein": 4.8,
+    "salt": 2.125,
+    "sodium": 0.85
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T20:27:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

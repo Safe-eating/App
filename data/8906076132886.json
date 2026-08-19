@@ -1,0 +1,30 @@
+{
+  "barcode": "8906076132886",
+  "name": "Ragi Loaf Bread",
+  "brand": "The Baker's Dozen",
+  "quantity": "240g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 244,
+    "fat": 1,
+    "saturated_fat": 0.3,
+    "carbohydrates": 48,
+    "sugars": 11,
+    "fiber": 11,
+    "protein": 10,
+    "salt": 1.1275,
+    "sodium": 0.451
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-22T16:34:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8906029790033",
+  "name": "Snakker",
+  "brand": "Priyagold",
+  "quantity": "24 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers"
+  ],
+  "ingredients": "SUGAR, HYDROGENATED VEGETABLE OIL (PALM), WHEAT FLOUR, COCOA SOLIDS (6%), MILK SOLIDS (5%), EMULSIFIERS (E322, E442, E476), IODISED SALT, LEAVING AGENT [E 500(ii)],  DOUGH CONDITIONER (E223), CONTAINS ADDED FLAVOUR [NATURAL AND NATURE IDENTICAL AND ARTIFICIAL (ETHYL VANILLIN) FLAVOURING SUBSTANCE. HYDROGENATED VEGETABLE FAT USED CONTAINS TRANSFAT",
+  "per_100g": {
+    "energy_kcal": 480,
+    "fat": 21.9,
+    "saturated_fat": 20,
+    "carbohydrates": 64.6,
+    "sugars": 51,
+    "fiber": null,
+    "protein": 5.9,
+    "salt": 0.30988,
+    "sodium": 0.123952
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-02-11T11:20:07Z",
+  "fetched_at": "2026-08-19T12:32:44Z"
+}

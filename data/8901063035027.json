@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063035027",
+  "name": "Milk Bikis",
+  "brand": "",
+  "quantity": "200 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 498,
+    "fat": 22,
+    "saturated_fat": 13,
+    "carbohydrates": 68,
+    "sugars": 31.5,
+    "fiber": null,
+    "protein": 7,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-18T11:37:02Z",
+  "fetched_at": "2026-08-19T00:30:38Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8906115981284",
+  "name": "Roasted Flax Seeds",
+  "brand": "Himalayan Natives",
+  "quantity": "150 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:flax-seeds"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 569,
+    "fat": 40.6,
+    "saturated_fat": 4.89,
+    "carbohydrates": 29.35,
+    "sugars": 0,
+    "fiber": 25.22,
+    "protein": 21.55,
+    "salt": 0.2,
+    "sodium": 0.08
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-26T06:58:10Z",
+  "fetched_at": "2026-08-19T12:52:30Z"
+}

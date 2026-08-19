@@ -1,0 +1,37 @@
+{
+  "barcode": "8901063146280",
+  "name": "Winkin cow thick Lassi classic 180ml",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:dairy-drinks",
+    "en:fermented-dairy-desserts",
+    "en:fermented-drinks",
+    "en:fermented-milk-drinks",
+    "en:yogurts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 62,
+    "fat": 1.2,
+    "saturated_fat": 0.8,
+    "carbohydrates": 11.6,
+    "sugars": 11.6,
+    "fiber": null,
+    "protein": 1.2,
+    "salt": 0.19925,
+    "sodium": 0.0797
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T11:42:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

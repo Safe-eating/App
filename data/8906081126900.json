@@ -1,0 +1,34 @@
+{
+  "barcode": "8906081126900",
+  "name": "Happilo Arabian Dates",
+  "brand": "Happilo",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruits-based-foods",
+    "en:dried-products",
+    "en:fruits",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits",
+    "en:dates"
+  ],
+  "ingredients": "Dates",
+  "per_100g": {
+    "energy_kcal": 286.666666666667,
+    "fat": 0.666666666666667,
+    "saturated_fat": 0,
+    "carbohydrates": 77.3333333333333,
+    "sugars": 62.6666666666667,
+    "fiber": 9.33333333333333,
+    "protein": 2.66666666666667,
+    "salt": 0.00833333333333333,
+    "sodium": 0.00333333333333333
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-24T11:09:39Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8904063240071",
+  "name": "Bhujia",
+  "brand": "Haldiram's",
+  "quantity": "38 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:crackers-appetizers",
+    "en:puffed-salty-snacks"
+  ],
+  "ingredients": "Tepary Beans Flour, Edible Vegetable Oil (Cotton Seed, Corn, Palmolein, Ground Nut and Rice Bran), Gram Pulse Flour, lodised Salt, *Spices \u0026 Condiments (Red Chilli Powder, Black Pepper Powder, Ginger Powder, Clove Powder, Mace Powder, Nutmeg Powder and Cardamom Powder). \u0026quot;Used as natural flavouring substances. Contains Peanut",
+  "per_100g": {
+    "energy_kcal": 579.6,
+    "fat": 40.8,
+    "saturated_fat": 6.7,
+    "carbohydrates": 39,
+    "sugars": 3.1,
+    "fiber": null,
+    "protein": 14.1,
+    "salt": 1.885,
+    "sodium": 0.754
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-26T06:20:13Z",
+  "fetched_at": "2026-08-19T01:30:32Z"
+}

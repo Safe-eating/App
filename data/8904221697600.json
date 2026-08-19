@@ -1,0 +1,28 @@
+{
+  "barcode": "8904221697600",
+  "name": "High Protein Bar Cookie Latte",
+  "brand": "Atom,asitis",
+  "quantity": "",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-bars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 398.333333333333,
+    "fat": 15.1666666666667,
+    "saturated_fat": 5.16666666666667,
+    "carbohydrates": 31.8333333333333,
+    "sugars": 0.666666666666667,
+    "fiber": 9.66666666666667,
+    "protein": 33.6666666666667,
+    "salt": 0.604166666666667,
+    "sodium": 0.241666666666667
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-03T07:37:28Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

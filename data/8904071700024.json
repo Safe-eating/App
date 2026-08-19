@@ -1,0 +1,41 @@
+{
+  "barcode": "8904071700024",
+  "name": "Salt-n-Pepper Banana Chips",
+  "brand": "Chheda's",
+  "quantity": "150g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:fruits-based-foods",
+    "en:nuts-and-their-products",
+    "en:crisps",
+    "en:dried-products",
+    "en:nuts",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits",
+    "en:dried-bananas",
+    "en:banana-chip"
+  ],
+  "ingredients": "INGREDIENTS: Banana (60%), Vegetable Oil (Palmolein), Spices (Black Pepper Powder, Coriander Powder, Salt, Mango Powder). INGRÉDIENTS: Banane (60%), huile végétale (palmoléine), épices (poudre de poivre noir,poudre de coriandre, sel, poudre de mangue). مكونات موز (٦٠٪) ، زيت نباتي (نخيل)، بهارات مسحوق) فلفل أسود، مسحوق الكزبرة، الملح، مسحوق المانجو). Allergy Advice: This product is packed in a factory that handles peanuts, nuts, milk, wheat, sesame, soya and mustard. INDIA",
+  "per_100g": {
+    "energy_kcal": 552,
+    "fat": 35.6,
+    "saturated_fat": 16.6,
+    "carbohydrates": 55,
+    "sugars": 0,
+    "fiber": 2,
+    "protein": 2.9,
+    "salt": 0.87,
+    "sodium": 0.348
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T08:43:59Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

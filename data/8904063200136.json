@@ -1,0 +1,35 @@
+{
+  "barcode": "8904063200136",
+  "name": "Moong Dal",
+  "brand": "Haldiram's",
+  "quantity": "1 cup",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:snacks",
+    "en:legumes",
+    "en:seeds",
+    "en:legume-seeds",
+    "en:pulses",
+    "en:mung-beans",
+    "en:Fried-mung-dal"
+  ],
+  "ingredients": "Split Mung Bean (74%), Vegetable Oil (Peanut, Corn \u0026 Cotton Seed) And Salt.",
+  "per_100g": {
+    "energy_kcal": 160,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 18,
+    "sugars": 0,
+    "fiber": 2,
+    "protein": 7,
+    "salt": 0.525,
+    "sodium": 0.21
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-19T04:01:42Z",
+  "fetched_at": "2026-08-19T01:29:26Z"
+}

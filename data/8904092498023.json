@@ -1,0 +1,37 @@
+{
+  "barcode": "8904092498023",
+  "name": "Pizza bread",
+  "brand": "Kabhib",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:meals",
+    "en:cereals-and-their-products",
+    "en:pizzas-pies-and-quiches",
+    "en:breads",
+    "en:pizzas",
+    "en:bakery-products",
+    "en:flatbreads",
+    "en:pizza-dough",
+    "en:raw-pizza-base"
+  ],
+  "ingredients": "Whole Wheat Flour, Refined Wheat Flour, Yeast, Palm Oil, Sugar, iodised Salt, Colour (INS 150d), Gluten, Permitted Preservative (INS 282), Soya Flour, Flour Treatment Agent (E1100), Flour Treatment Agent (E1104), Flour Treatment Agent (E1102), Flour Treatment Agent (E510), Acidity Regulator (INS 260).",
+  "per_100g": {
+    "energy_kcal": 337,
+    "fat": 5,
+    "saturated_fat": 2,
+    "carbohydrates": 65,
+    "sugars": 1.5,
+    "fiber": 2,
+    "protein": 8,
+    "salt": 1.5825,
+    "sodium": 0.633
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-23T12:39:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

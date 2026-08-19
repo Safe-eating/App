@@ -1,0 +1,33 @@
+{
+  "barcode": "8901262202299",
+  "name": "Amul High Protein",
+  "brand": "Amul",
+  "quantity": "400 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:curd"
+  ],
+  "ingredients": "Pasteurised skimmed milk, milk solids, enzyme (beta-galact active culture, probiotic bacterial strain (Bifidobacterium lactis - minimum 10 CR *Colony Forming Unit Allergen Information: Contains milk. 'CONTAINS NATURALLY OCCURRING SUGARS'.",
+  "per_100g": {
+    "energy_kcal": 68,
+    "fat": 0.1,
+    "saturated_fat": 0.1,
+    "carbohydrates": 10,
+    "sugars": 10,
+    "fiber": null,
+    "protein": 6.3,
+    "salt": 0.21,
+    "sodium": 0.084
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:36:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

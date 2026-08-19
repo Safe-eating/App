@@ -1,0 +1,29 @@
+{
+  "barcode": "8908000716476",
+  "name": "Peda",
+  "brand": "Rajhans",
+  "quantity": "250 g",
+  "categories": [
+    "en:dairies",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:peda"
+  ],
+  "ingredients": "Milk Solids, Sugar, Cardamom",
+  "per_100g": {
+    "energy_kcal": 442,
+    "fat": 22,
+    "saturated_fat": 14,
+    "carbohydrates": 47.5,
+    "sugars": 47.5,
+    "fiber": null,
+    "protein": 13,
+    "salt": 0.5,
+    "sodium": 0.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-10T02:20:17Z",
+  "fetched_at": "2026-08-19T13:05:22Z"
+}

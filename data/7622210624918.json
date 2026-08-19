@@ -1,0 +1,33 @@
+{
+  "barcode": "7622210624918",
+  "name": "Cheese Spread",
+  "brand": "Philadelphia Original",
+  "quantity": "280g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:spreads",
+    "en:salted-spreads",
+    "en:fresh-cheeses",
+    "en:cheese-spreads"
+  ],
+  "ingredients": "PASTEURIZED COW'S MILK, CREAM (FROM COW'S MILK), WHEY, SALT, THICKENER (E412), ACID (E330), LACTIC CULTURE",
+  "per_100g": {
+    "energy_kcal": 223.333333333333,
+    "fat": 20.3333333333333,
+    "saturated_fat": 13.3333333333333,
+    "carbohydrates": 4.66666666666667,
+    "sugars": 4.66666666666667,
+    "fiber": 0.333333333333333,
+    "protein": 5.33333333333333,
+    "salt": 0.75,
+    "sodium": 0.3
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-20T08:41:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

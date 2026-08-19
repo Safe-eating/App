@@ -1,0 +1,32 @@
+{
+  "barcode": "8908001137102",
+  "name": "DevBhumi Honey",
+  "brand": "DevBhumi",
+  "quantity": "500g",
+  "categories": [
+    "en:breakfasts",
+    "en:spreads",
+    "en:sweet-spreads",
+    "en:bee-products",
+    "en:farming-products",
+    "en:sweeteners",
+    "en:honeys"
+  ],
+  "ingredients": "Honey",
+  "per_100g": {
+    "energy_kcal": 330.44,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 82.4,
+    "sugars": 82,
+    "fiber": 0.2,
+    "protein": 0.21,
+    "salt": 0.01,
+    "sodium": 0.004
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-21T05:05:46Z",
+  "fetched_at": "2026-08-19T13:05:57Z"
+}

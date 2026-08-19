@@ -1,0 +1,30 @@
+{
+  "barcode": "8901491001069",
+  "name": "India’s Magic Masala 30",
+  "brand": "Lay's",
+  "quantity": "67g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 546,
+    "fat": 33.2,
+    "saturated_fat": 14.9,
+    "carbohydrates": 54.9,
+    "sugars": 1.1,
+    "fiber": null,
+    "protein": 6.9,
+    "salt": 1.6575,
+    "sodium": 0.663
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T20:10:42Z",
+  "fetched_at": "2026-08-19T00:48:46Z"
+}

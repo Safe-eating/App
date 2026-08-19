@@ -1,0 +1,32 @@
+{
+  "barcode": "8901491000208",
+  "name": "Sweet chilli Doritos",
+  "brand": "Doritos",
+  "quantity": "50gm",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips",
+    "en:nacho-chips"
+  ],
+  "ingredients": "Corn (79%), Edible Vegetable Oil (Palmolein), *Seasoning (Sugar, lodised Salt, ~Spices \u0026 Condiments, Acidity Regulators (296, 330, 260), Flavour (Natural and Nature Identical Flavouring Substances), Fructose, Flavour Enhancers (631, 627), Tomato Powder, Wheat Maltodextrin, Anticaking agent (551), Colour (160c), Antioxidant (300)) *As flavoring agent. \u0026quot;Contains Onion and Garlic Allergen Advice: Contains Wheat",
+  "per_100g": {
+    "energy_kcal": 499,
+    "fat": 23.4,
+    "saturated_fat": 8.7,
+    "carbohydrates": 65.5,
+    "sugars": 6.5,
+    "fiber": null,
+    "protein": 6.6,
+    "salt": 1.6025,
+    "sodium": 0.641
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-24T19:22:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

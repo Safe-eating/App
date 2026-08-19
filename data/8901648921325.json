@@ -1,0 +1,28 @@
+{
+  "barcode": "8901648921325",
+  "name": "Mother Dairy Toned Milk",
+  "brand": "Mother Dairy",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk Solids, Vitamin A, Vitamin D2 (Ergocalciferol)",
+  "per_100g": {
+    "energy_kcal": 59,
+    "fat": 3.1,
+    "saturated_fat": 2.2,
+    "carbohydrates": 4.7,
+    "sugars": 4.7,
+    "fiber": null,
+    "protein": 3.1,
+    "salt": 0.1375,
+    "sodium": 0.055
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-27T06:25:40Z",
+  "fetched_at": "2026-08-19T00:58:36Z"
+}

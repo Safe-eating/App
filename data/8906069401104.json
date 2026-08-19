@@ -1,0 +1,35 @@
+{
+  "barcode": "8906069401104",
+  "name": "VEEBA CREAMY PEANUT BUTTER",
+  "brand": "VEEBA",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 638,
+    "fat": 50,
+    "saturated_fat": 10,
+    "carbohydrates": 21,
+    "sugars": 9,
+    "fiber": null,
+    "protein": 26,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-30T05:45:09Z",
+  "fetched_at": "2026-08-19T12:41:31Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "0890600200876",
+  "name": "Veg Mayonnaise For Burger",
+  "brand": "Dr. Oetker",
+  "quantity": "250g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:dips",
+    "en:mayonnaises"
+  ],
+  "ingredients": "Refined Soyabean Oil, Tomatoes (3%), Sugar, Milk Solids, Lemon Juice,iodised Salt, Emulsifiers \u0026 Stabilizers (INS1442, INS415), Mixed Spices,Acid Regulators (INS260, INS330), Preservatives (INS211, INS202),Antioxidant(INS319), Contains _Milk_",
+  "per_100g": {
+    "energy_kcal": 456.7,
+    "fat": 42.1,
+    "saturated_fat": 7.6,
+    "carbohydrates": 20.1,
+    "sugars": 14.3,
+    "fiber": 0,
+    "protein": 1.6,
+    "salt": 1.62,
+    "sodium": 0.648
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-11-21T06:14:34Z",
+  "fetched_at": "2026-08-18T23:58:55Z"
+}

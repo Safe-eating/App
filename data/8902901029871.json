@@ -1,0 +1,33 @@
+{
+  "barcode": "8902901029871",
+  "name": "Good Life Whole Wheat Atta with Multigrains",
+  "brand": "Good Life",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:flours",
+    "en:cereal-flours",
+    "en:wheat-flours",
+    "en:whole-wheat-flours"
+  ],
+  "ingredients": "Sharbati Wheat (90%), Multigrains (Defatted Soya 5%, Maize 2%, Chana 1%, Ragi 1%, Jowar1%).",
+  "per_100g": {
+    "energy_kcal": 322,
+    "fat": 1.6,
+    "saturated_fat": 0.2,
+    "carbohydrates": 62.8,
+    "sugars": 2.7,
+    "fiber": 11.7,
+    "protein": 12.5,
+    "salt": 0.008,
+    "sodium": 0.0032
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-14T11:21:53Z",
+  "fetched_at": "2026-08-19T01:17:56Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8901499010490",
+  "name": "Nuts Delight Muesli",
+  "brand": "Kellogg's",
+  "quantity": "240g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis",
+    "en:bircher-style-mueslis"
+  ],
+  "ingredients": "MULTIGRAIN MIX (67.6%) (CORN GRITS (21.2%), WHEAT (16.8%), ROLLED BARLEY (10.5%), ROLLED OATS (10.5%), RICE (8.6% ) ), DRY FRUITS \u0026 NUT (20%) (RAISINS (14.5%) [BROWN RAISINS (11.5%), BLACK RAISINS (3%)], ALMONDS (5.5%)), SUGAR, CEREAL EXTRACT, OLIGOFRUCTOSE, WHEAT BRAN, IODIZED SALT, COCOA SOLIDS, VITAMINS, FLAVOURS (NATURE IDENTICAL \u0026 ARTIFICIAL (COCONUT), ANTIOXIDANT (INS 307b), MINERAL AND COLOUR (INS 150d).",
+  "per_100g": {
+    "energy_kcal": 53,
+    "fat": 5.9,
+    "saturated_fat": 1,
+    "carbohydrates": 79.3,
+    "sugars": 21.7,
+    "fiber": 6.8,
+    "protein": 8,
+    "salt": 1.3,
+    "sodium": 0.52
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-03T11:18:31Z",
+  "fetched_at": "2026-08-19T00:53:00Z"
+}

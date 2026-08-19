@@ -1,0 +1,32 @@
+{
+  "barcode": "8904083600282",
+  "name": "kapol surti Masala",
+  "brand": "kapol",
+  "quantity": "75g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:spices",
+    "en:spice-blends",
+    "en:masalas"
+  ],
+  "ingredients": "Cumin, Coriander, Pomegranate Seeds, Dry Mango, Salt, Black Pepper, Chilly,, Asafoetida, Turmeric.",
+  "per_100g": {
+    "energy_kcal": 155,
+    "fat": 1,
+    "saturated_fat": 0.5,
+    "carbohydrates": 28.5,
+    "sugars": 0,
+    "fiber": 2.5,
+    "protein": 8,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-26T18:45:34Z",
+  "fetched_at": "2026-08-19T01:34:08Z"
+}

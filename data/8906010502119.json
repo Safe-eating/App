@@ -1,0 +1,31 @@
+{
+  "barcode": "8906010502119",
+  "name": "Chataka pataka",
+  "brand": "Balaji",
+  "quantity": "25",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:Chataka pataka"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 551,
+    "fat": 32.7,
+    "saturated_fat": 15,
+    "carbohydrates": 55.5,
+    "sugars": 1,
+    "fiber": 1,
+    "protein": 6.8,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-17T14:19:37Z",
+  "fetched_at": "2026-08-19T02:01:39Z"
+}

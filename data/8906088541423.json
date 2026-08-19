@@ -1,0 +1,30 @@
+{
+  "barcode": "8906088541423",
+  "name": "White eggs",
+  "brand": "nandu's",
+  "quantity": "",
+  "categories": [
+    "en:eggs-and-their-products",
+    "en:farming-products",
+    "en:eggs",
+    "en:chicken-eggs",
+    "en:fresh-eggs"
+  ],
+  "ingredients": "Eggs",
+  "per_100g": {
+    "energy_kcal": 149.48,
+    "fat": 5.78,
+    "saturated_fat": 4.22,
+    "carbohydrates": 2.84,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 12.16,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-09T07:11:23Z",
+  "fetched_at": "2026-08-19T12:48:23Z"
+}

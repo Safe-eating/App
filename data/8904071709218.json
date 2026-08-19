@@ -1,0 +1,26 @@
+{
+  "barcode": "8904071709218",
+  "name": "Crunchy Aloo Laccha",
+  "brand": "Chheda's",
+  "quantity": "150G",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Palmolein), Mixed Spices (Red Chilli, Rock Salt, Black Salt, Mango Powder).",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 28,
+    "saturated_fat": 12.5,
+    "carbohydrates": 53.3,
+    "sugars": 1.9,
+    "fiber": 4.9,
+    "protein": 6.9,
+    "salt": 1800,
+    "sodium": 720
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-23T01:43:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

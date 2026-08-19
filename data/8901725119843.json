@@ -1,0 +1,26 @@
+{
+  "barcode": "8901725119843",
+  "name": "BINGO! Hashtag Cream \u0026 Onion",
+  "brand": "ITC Limited",
+  "quantity": "21.9 g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Potato (59.5%), Refined Palmolein and Seasoning (Onion Powder (1.9%), Sugar, Iodized Salt, Maltodextrin, Dehydrated Parsley Leaves, Natural Flavouring Substances and Nature Identical Flavouring Substances and Black Pepper). Contains Soy, Milk. May Contain Wheat.",
+  "per_100g": {
+    "energy_kcal": 539.9,
+    "fat": 31.9,
+    "saturated_fat": 14.7,
+    "carbohydrates": 56.1,
+    "sugars": 2.4,
+    "fiber": null,
+    "protein": 7.1,
+    "salt": 1631.5,
+    "sodium": 652.6
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T10:44:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

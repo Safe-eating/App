@@ -1,0 +1,27 @@
+{
+  "barcode": "8904077201419",
+  "name": "Pizza Khakhara",
+  "brand": "Maniarr's",
+  "quantity": "45 g",
+  "categories": [
+    "en:Indian snacks",
+    "en:Wheat crisps"
+  ],
+  "ingredients": "Wheat Flour (73%), Edible Vegetable Oil (Palmolein) (15%), Tomato Paste (5%), Sugar Syrup, Salt, Ch Powder (Milk, Cheese, Salt, Enzymes), Onion Powder, Oregano Flakes, Garlic Powder.",
+  "per_100g": {
+    "energy_kcal": 403.333333333333,
+    "fat": 16.6666666666667,
+    "saturated_fat": 7,
+    "carbohydrates": 54.3333333333333,
+    "sugars": 3.33333333333333,
+    "fiber": 2.66666666666667,
+    "protein": 8.66666666666667,
+    "salt": 2.55,
+    "sodium": 1.02
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-03T09:55:40Z",
+  "fetched_at": "2026-08-19T01:32:37Z"
+}

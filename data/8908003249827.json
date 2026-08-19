@@ -1,0 +1,29 @@
+{
+  "barcode": "8908003249827",
+  "name": "Akshayakalpa Spiced Buttermilk",
+  "brand": "Akshayakalpa",
+  "quantity": "200ml",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:buttermilks"
+  ],
+  "ingredients": "Water, Organic Cow Milk, Organic Spices (Green Chilli, Ginger, Coriander), Himalayan Pink Salt, Starter Culture.",
+  "per_100g": {
+    "energy_kcal": 27.6,
+    "fat": 1.2,
+    "saturated_fat": 0.96,
+    "carbohydrates": 2.8,
+    "sugars": 2.42,
+    "fiber": null,
+    "protein": 1.4,
+    "salt": 0.64,
+    "sodium": 0.256
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-22T12:35:34Z",
+  "fetched_at": "2026-08-19T13:08:02Z"
+}

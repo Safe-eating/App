@@ -1,0 +1,33 @@
+{
+  "barcode": "8908009533944",
+  "name": "Glueten Free Atta",
+  "brand": "JusAmazin",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:flours",
+    "en:cereal-flours",
+    "en:wheat-flours",
+    "en:whole-wheat-flours"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 402.8,
+    "fat": 8.2,
+    "saturated_fat": 1.9,
+    "carbohydrates": 70.7,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 11.5,
+    "salt": 0.0295,
+    "sodium": 0.0118
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-17T13:28:12Z",
+  "fetched_at": "2026-08-19T13:11:41Z"
+}

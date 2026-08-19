@@ -1,0 +1,30 @@
+{
+  "barcode": "8902433005763",
+  "name": "70%coCÓA",
+  "brand": "Galaxy",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 568,
+    "fat": 43.1,
+    "saturated_fat": 25.8,
+    "carbohydrates": 30.8,
+    "sugars": 26.9,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 0.016,
+    "sodium": 0.0064
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-21T18:20:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

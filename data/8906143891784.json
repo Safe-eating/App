@@ -1,0 +1,26 @@
+{
+  "barcode": "8906143891784",
+  "name": "Pista Badaam Whey Protein",
+  "brand": "The Whole Truth",
+  "quantity": "1kg",
+  "categories": [
+    "en:dietary-supplements"
+  ],
+  "ingredients": "Whey protein blend 78.0% (instantised with sunflower lecithin) whey protein isolate 56.0% whey protein concentrate 22.0% whole milk powder 7.6% dates pistachio almonds bromelain 5.0% 4.0% 4.0% 0.5% cardamom 0.4% curcumin 0.3% monk fruit 0.2%",
+  "per_100g": {
+    "energy_kcal": 397.142857142857,
+    "fat": 4.85714285714286,
+    "saturated_fat": 2.57142857142857,
+    "carbohydrates": 15.1428571428571,
+    "sugars": 9.71428571428571,
+    "fiber": 4.57142857142857,
+    "protein": 73.4285714285714,
+    "salt": 0.787142857142857,
+    "sodium": 0.314857142857143
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T15:08:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

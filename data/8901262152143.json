@@ -1,0 +1,29 @@
+{
+  "barcode": "8901262152143",
+  "name": "Double Chocolate Milk Shake",
+  "brand": "Amul",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks"
+  ],
+  "ingredients": "Double toned milk, sugar, dark chocolate (7.5%), milk chocolate (1.9%), cocoa solids, stabilizer (407), artificial flavouring substances (cocos, vanilla),",
+  "per_100g": {
+    "energy_kcal": 115,
+    "fat": 5,
+    "saturated_fat": 2.77777777777778,
+    "carbohydrates": 15.2222222222222,
+    "sugars": 14.6111111111111,
+    "fiber": null,
+    "protein": 3.11111111111111,
+    "salt": 0.0925,
+    "sodium": 0.037
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-15T05:36:21Z",
+  "fetched_at": "2026-08-19T00:43:42Z"
+}

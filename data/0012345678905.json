@@ -1,0 +1,33 @@
+{
+  "barcode": "0012345678905",
+  "name": "Sphère plaisir",
+  "brand": "Alteña's Nopales, Laugar",
+  "quantity": "1",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:snacks",
+    "en:meats-and-their-products",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:meats",
+    "en:prepared-meats"
+  ],
+  "ingredients": "Courgette (40 %), _ŒUF_, Farines (avoine, pois chiche), bicarbonate, _MOUTARDE_ à L'Ancienne (dont Vinaigre d'alcool, graines de _MOUTARDE_, eau, sel, vin blanc 4,8 % (dont _SULFITES_), sucre, arôme naturel, acidifiant : acide lactique), Cœur: _MOUTARDE_ au miel (dont Sucre, eau, vinaigre d'alcool, graines de _MOUTARDE_, miel 8%, sel, épices, herbes, colorant : caramel E150c, acidifiant : acide citrique, conservateur : E224 (_SULFITES_))",
+  "per_100g": {
+    "energy_kcal": 340,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 80,
+    "sugars": 0,
+    "fiber": 3,
+    "protein": 8,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-27T12:26:49Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

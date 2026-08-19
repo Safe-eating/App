@@ -1,0 +1,29 @@
+{
+  "barcode": "8901262178075",
+  "name": "Chocolate Magic Sundae",
+  "brand": "Amul",
+  "quantity": "1 l",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets"
+  ],
+  "ingredients": "Ice Cream (78%) - Milk solids, sugar, emulsifier (471), stabilizers (407, 466, 415, 412), artificial flavouring substances (vanilla). Chocolate Topping (22%)-( cocoa solids, coconut oil, chocolate ripple [water, sugar, dextrose, cocoa solids, stabilizer (440)], milk chocolate chips (1.5%)",
+  "per_100g": {
+    "energy_kcal": 267,
+    "fat": 16.2,
+    "saturated_fat": 11.1,
+    "carbohydrates": 27.3,
+    "sugars": 26.5,
+    "fiber": null,
+    "protein": 3.5,
+    "salt": 0.11,
+    "sodium": 0.044
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-24T09:58:47Z",
+  "fetched_at": "2026-08-19T00:45:37Z"
+}

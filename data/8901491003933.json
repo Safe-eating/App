@@ -1,0 +1,36 @@
+{
+  "barcode": "8901491003933",
+  "name": "Chips - Mediterranean Pizza Flavour",
+  "brand": "Lay's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 538,
+    "fat": 32.9,
+    "saturated_fat": 14.7,
+    "carbohydrates": 54.2,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 6.5,
+    "salt": 1.22,
+    "sodium": 0.488
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-24T17:32:19Z",
+  "fetched_at": "2026-08-19T00:49:53Z"
+}

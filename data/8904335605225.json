@@ -1,0 +1,28 @@
+{
+  "barcode": "8904335605225",
+  "name": "Unflavoured Plant Protein",
+  "brand": "Yoga Bar",
+  "quantity": "",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders"
+  ],
+  "ingredients": "Pea Protein Isolate",
+  "per_100g": {
+    "energy_kcal": 406,
+    "fat": 9.7,
+    "saturated_fat": 1.8,
+    "carbohydrates": 0.6,
+    "sugars": 0.3,
+    "fiber": 1.9,
+    "protein": 80,
+    "salt": 2.7,
+    "sodium": 1.08
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-27T17:04:03Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

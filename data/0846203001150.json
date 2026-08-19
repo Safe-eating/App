@@ -1,0 +1,26 @@
+{
+  "barcode": "0846203001150",
+  "name": "Patal Poha Chivda (Indian snack)",
+  "brand": "Chitale, Chitale Bandhu Mithaiwale",
+  "quantity": "200 g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Rice Flakes, Ground Nuts, Edible Vegetable Oil (Groundnut oil), Dry Coconut, Salt \u0026 Spices",
+  "per_100g": {
+    "energy_kcal": 437.4,
+    "fat": 15.4,
+    "saturated_fat": 7.2,
+    "carbohydrates": 66.9,
+    "sugars": 5.2,
+    "fiber": null,
+    "protein": 7.8,
+    "salt": 1.5367,
+    "sodium": 0.61468
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-06T17:43:14Z",
+  "fetched_at": "2026-08-18T23:56:37Z"
+}

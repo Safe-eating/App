@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063033689",
+  "name": "Britaninia Treat Choco Creme Biscuits",
+  "brand": "Britaninia",
+  "quantity": "51 gram",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:biscuit-cookie-snack-w-chocolate-filling"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INTERESTERIFIED VEGETARITZAT, COCOA SOLIDS (3.8%), INVERT SUGAR SYRUP, MILK CHOCOLATE (2%) [EMULSIFIER 3220 EDIBLE MAIZE STARCH, RAISING AGENTS [500(ii) \u0026 503(ii), IODIZED SALT, MILK SOLIDS, ARTIFICIAL VANILLA, CARAMEL \u0026 MILKY COCOA) \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES EMULSIFIER [322(1) AND COLOURS (150d, 124\u0026133) Numbers to brackets as per International Numbering System) CONTAINS WHEAT, MILK \u0026 SOY WORE IN A COOL, HYGIENIC ANU DIT ACLEAN AIRTIGHT CONTAINER ONCE OPENED. GEANCEER CONTENTS TO Marketed By: BRITANIA INDUSTRIES LTD., S/TAHUNGE STREET, KOLKATA-700017, WEST BENGAL (A WADIA Enterprise) We For Min unit address \u0026 Lic. No read the last two characters of the IOT and can anel SL-06",
+  "per_100g": {
+    "energy_kcal": 498,
+    "fat": 21.2,
+    "saturated_fat": 10.3,
+    "carbohydrates": 71.5,
+    "sugars": 37.2,
+    "fiber": null,
+    "protein": 5.3,
+    "salt": 1.005,
+    "sodium": 0.402
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T20:20:34Z",
+  "fetched_at": "2026-08-19T00:30:36Z"
+}

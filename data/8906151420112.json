@@ -1,0 +1,26 @@
+{
+  "barcode": "8906151420112",
+  "name": "Laxminarayan potato chiwda",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:Potato crispy"
+  ],
+  "ingredients": "Potato, Refined Peanuts Oil, Hydrogenated Vegetable Oil, Peanuts, Raisins, Cashewnts, Coconut, Sugar, lodised Salt, Green Chillies Powder.",
+  "per_100g": {
+    "energy_kcal": 582.3,
+    "fat": 39.7,
+    "saturated_fat": 13.77,
+    "carbohydrates": 42.6,
+    "sugars": 17.93,
+    "fiber": null,
+    "protein": 13.65,
+    "salt": 1030,
+    "sodium": 412
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-14T06:05:02Z",
+  "fetched_at": "2026-08-19T13:00:14Z"
+}

@@ -1,0 +1,39 @@
+{
+  "barcode": "8901262200189",
+  "name": "Amul Lassi 200ml",
+  "brand": "Amul",
+  "quantity": "200mL",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:dairy-drinks",
+    "en:fermented-dairy-desserts",
+    "en:fermented-drinks",
+    "en:fermented-milk-drinks",
+    "en:yogurts",
+    "en:yogurt-drinks",
+    "en:lassi"
+  ],
+  "ingredients": "Milk solids, water, sugar, stabilizer (440), nature identical and artificial flavouring substances (rose), active culture. Allergen Information: Contains milk.",
+  "per_100g": {
+    "energy_kcal": 88.5,
+    "fat": 2.1,
+    "saturated_fat": 1.25,
+    "carbohydrates": 14.5,
+    "sugars": 14.5,
+    "fiber": null,
+    "protein": 2.1,
+    "salt": 0.075,
+    "sodium": 0.03
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-25T12:59:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

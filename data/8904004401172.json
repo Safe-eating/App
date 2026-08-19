@@ -1,0 +1,31 @@
+{
+  "barcode": "8904004401172",
+  "name": "Khatta Meetha",
+  "brand": "Haldiram",
+  "quantity": "1",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:crackers-appetizers",
+    "en:plain-salty-snacks"
+  ],
+  "ingredients": "Refined Palmolein Oil, Rice Flakes (22%) , Bengal Gram Flour (Besan) (21%), Refined Sugar, Split Pulse Bengal Gram (Chana Dal) (7%) Groundnuts (Peanuts) (5%), Sago (4%), Red Lentils (Masur Whole) (2.5%), Edible Common Salt, Black Salt, Turmeric Acidity Regulator (INS 330), Red Chilli, Ajwain, Raising Agent S500i) \u0026 Asafoetida tard Seed",
+  "per_100g": {
+    "energy_kcal": 530,
+    "fat": 29.25,
+    "saturated_fat": 12.48,
+    "carbohydrates": 57.38,
+    "sugars": 4.26,
+    "fiber": 4.01,
+    "protein": 9.26,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-29T09:33:06Z",
+  "fetched_at": "2026-08-19T01:24:41Z"
+}

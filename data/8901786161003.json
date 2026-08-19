@@ -1,0 +1,32 @@
+{
+  "barcode": "8901786161003",
+  "name": "Chicken masala Spice Mix",
+  "brand": "Everest",
+  "quantity": "100gn",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:spices",
+    "en:spice-mix",
+    "en:masala"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 400,
+    "fat": 12,
+    "saturated_fat": 2,
+    "carbohydrates": 38,
+    "sugars": 0.6,
+    "fiber": null,
+    "protein": 18,
+    "salt": 6,
+    "sodium": 2.4
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-18T06:54:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

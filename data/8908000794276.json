@@ -1,0 +1,28 @@
+{
+  "barcode": "8908000794276",
+  "name": "Shrikhand",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:desserts",
+    "en:dairy-desserts"
+  ],
+  "ingredients": "Chakka, Sugar, Elaichi, Nutmeg",
+  "per_100g": {
+    "energy_kcal": 267,
+    "fat": 7,
+    "saturated_fat": 6.1,
+    "carbohydrates": 45.4,
+    "sugars": 45.1,
+    "fiber": null,
+    "protein": 5.5,
+    "salt": 0.05975,
+    "sodium": 0.0239
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-18T13:38:55Z",
+  "fetched_at": "2026-08-19T13:05:27Z"
+}

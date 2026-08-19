@@ -1,0 +1,30 @@
+{
+  "barcode": "8906034562427",
+  "name": "77 Green Dosa Flour",
+  "brand": "77 Green",
+  "quantity": "400 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:dosa-batter-mixes"
+  ],
+  "ingredients": "Rice Flour, Black Gram Split, Semolina, Vegetable Ghee, Salt, Sodium Bicarbonate (E500ii), Citric Acid (E330), Fenugreek Seed.",
+  "per_100g": {
+    "energy_kcal": 370,
+    "fat": 2,
+    "saturated_fat": 0,
+    "carbohydrates": 77,
+    "sugars": 2,
+    "fiber": 5,
+    "protein": 11,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-16T21:58:28Z",
+  "fetched_at": "2026-08-19T12:34:46Z"
+}

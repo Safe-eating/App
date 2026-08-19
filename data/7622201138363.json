@@ -1,0 +1,30 @@
+{
+  "barcode": "7622201138363",
+  "name": "Dark 70%",
+  "brand": "Mondelez",
+  "quantity": "80 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates"
+  ],
+  "ingredients": "Cocoa Solids (46%) #, Cocoa Butter (27%) #, Sugar, Milk Solids, Nature Identical Flavouring Substances, Emulsifiers (442, 476). Allergen Information: Contains Milk. May Contain Tree Nuts, Soy. Refers to %Cocoa",
+  "per_100g": {
+    "energy_kcal": 597,
+    "fat": 47.6,
+    "saturated_fat": 31,
+    "carbohydrates": 39,
+    "sugars": 24.4,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 0.035,
+    "sodium": 0.014
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-16T14:01:06Z",
+  "fetched_at": "2026-08-19T00:06:37Z"
+}

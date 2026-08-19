@@ -1,0 +1,33 @@
+{
+  "barcode": "7622201757212",
+  "name": "Original Oreo",
+  "brand": "Oreo, Cadbury",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:filled-biscuits",
+    "en:sandwich-biscuits",
+    "en:chocolate-sandwich-cookies"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Fractionated Fat, Palmolein, Invert Sugar, Cocoa Solids (2%), Leavening Agents (500(ii), 503(ii)), Starch, lodised Salt, Emulsifier (322), Nature Identical Flavouring Substances. Allergen Information: Contains Wheat, Sulphites, Soy. May Contain Milk and Barley.",
+  "per_100g": {
+    "energy_kcal": 438,
+    "fat": 19.6,
+    "saturated_fat": 9.7,
+    "carbohydrates": 71.9,
+    "sugars": 38.8,
+    "fiber": null,
+    "protein": 5.2,
+    "salt": 1.05,
+    "sodium": 0.42
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-01T02:58:19Z",
+  "fetched_at": "2026-08-19T00:08:24Z"
+}

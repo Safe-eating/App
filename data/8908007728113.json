@@ -1,0 +1,31 @@
+{
+  "barcode": "8908007728113",
+  "name": "white bread",
+  "brand": "Bakeman's Soft bread",
+  "quantity": "250g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:white-breads"
+  ],
+  "ingredients": "Refined wheat Flour , Yeast , Sugar , Iodized Salt , Preservative(282) , Soya Flour , Emulsifier (481(i)), Acidity Regulator (270), Flour Treatment Agents (1104 \u0026 1100), Antioxidant(300).",
+  "per_100g": {
+    "energy_kcal": 252.3,
+    "fat": 0.85,
+    "saturated_fat": 0.41,
+    "carbohydrates": 53.9,
+    "sugars": 4.2,
+    "fiber": null,
+    "protein": 7.2,
+    "salt": 0.428,
+    "sodium": 0.1712
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-11-16T13:15:33Z",
+  "fetched_at": "2026-08-19T13:10:40Z"
+}

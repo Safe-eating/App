@@ -1,0 +1,26 @@
+{
+  "barcode": "8901721000626",
+  "name": "Prabhuji jhal chanachur 1kg",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:Food"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 592.63,
+    "fat": 42.5,
+    "saturated_fat": 11.8,
+    "carbohydrates": 39.68,
+    "sugars": 6.96,
+    "fiber": 6.64,
+    "protein": 12.83,
+    "salt": 0.004,
+    "sodium": 0.0016
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-02T08:49:13Z",
+  "fetched_at": "2026-08-19T01:02:49Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8906069010146",
+  "name": "cocosutra cookie dough mix",
+  "brand": "cocosutra",
+  "quantity": "",
+  "categories": [
+    "en:dough"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 70,
+    "fat": 1,
+    "saturated_fat": 0.5,
+    "carbohydrates": 14,
+    "sugars": 7,
+    "fiber": null,
+    "protein": 1,
+    "salt": 0.08,
+    "sodium": 0.032
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-21T07:17:56Z",
+  "fetched_at": "2026-08-19T12:40:37Z"
+}

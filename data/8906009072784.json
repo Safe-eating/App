@@ -1,0 +1,29 @@
+{
+  "barcode": "8906009072784",
+  "name": "Biscott",
+  "brand": "Unibic",
+  "quantity": "250g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 470,
+    "fat": 18,
+    "saturated_fat": 10.5,
+    "carbohydrates": 71,
+    "sugars": 30,
+    "fiber": null,
+    "protein": 6,
+    "salt": 0.6,
+    "sodium": 0.24
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-22T07:11:00Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

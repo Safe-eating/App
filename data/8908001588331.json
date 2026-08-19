@@ -1,0 +1,26 @@
+{
+  "barcode": "8908001588331",
+  "name": "Idly and Dosa Batter",
+  "brand": "Asal",
+  "quantity": "1 kg",
+  "categories": [
+    "en:Batters"
+  ],
+  "ingredients": "RO-purified Water, Rice, Urad Dal, Fenugreek and lodized Salt",
+  "per_100g": {
+    "energy_kcal": 150,
+    "fat": 1.19,
+    "saturated_fat": 0.46,
+    "carbohydrates": 29,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 4.76,
+    "salt": 0.2225,
+    "sodium": 0.089
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-10-13T04:19:09Z",
+  "fetched_at": "2026-08-19T13:06:01Z"
+}

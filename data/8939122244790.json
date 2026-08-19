@@ -1,0 +1,24 @@
+{
+  "barcode": "8939122244790",
+  "name": "Whey Iso Boost Chocolate",
+  "brand": "Naturaltein",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 386,
+    "fat": 3.6,
+    "saturated_fat": 2.3,
+    "carbohydrates": 14.01,
+    "sugars": 5.3,
+    "fiber": 2.8,
+    "protein": 76,
+    "salt": 0.608625,
+    "sodium": 0.24345
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-10T12:15:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

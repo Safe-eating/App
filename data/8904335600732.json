@@ -1,0 +1,39 @@
+{
+  "barcode": "8904335600732",
+  "name": "Dark Chocolate Peanut Butter",
+  "brand": "Yogabar",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:sweet-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "fr:pates-a-tartiner",
+    "en:nut-butters",
+    "en:chocolate-spreads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 634.375,
+    "fat": 50.3125,
+    "saturated_fat": 13.125,
+    "carbohydrates": 20,
+    "sugars": 10,
+    "fiber": 19.6875,
+    "protein": 25.9375,
+    "salt": 0.01328125,
+    "sodium": 0.0053125
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-03T00:05:54Z",
+  "fetched_at": "2026-08-19T01:43:58Z"
+}

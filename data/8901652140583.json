@@ -1,0 +1,30 @@
+{
+  "barcode": "8901652140583",
+  "name": "Puff choco vanilla flavoured sandwich biscuits",
+  "brand": "Priyagold",
+  "quantity": "40g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida) (50% ), Sugar, Edible Vegetable Oils (Palm), Leavening Agents | Ammonium Bicarbonate (E 503(), Sodium Bicarbonate (E500 (H)], Liquid Glucose, Milk Solids (1.5%), Cocoa Powder, Iodised Salt, Permitted Emulsifiers [Lecithin (E 322(1)), Diacetyltartaric And Fatty Acid Esters Of Glycerol [E472(E)], Dough Conditioner [Sodium Metabisulphite (E 223) Contains Added Artificial Flavours (Choco \u0026 Vanilla) And Added Natural Food Colours (Caramel E150d) \u0026 Synthetic Food Colour (Ponceau 4r E124)\nALLERGEN WARNING: this biscuit contains wheat, milk, soy and sulphite as hypersensitive ingredients",
+  "per_100g": {
+    "energy_kcal": 1775,
+    "fat": 94,
+    "saturated_fat": 40.1071428571429,
+    "carbohydrates": 229.821428571429,
+    "sugars": 103.571428571429,
+    "fiber": null,
+    "protein": 26.6428571428571,
+    "salt": 1.42857142857143,
+    "sodium": 0.571428571428571
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-04T05:35:41Z",
+  "fetched_at": "2026-08-19T00:58:42Z"
+}

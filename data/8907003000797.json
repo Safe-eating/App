@@ -1,0 +1,26 @@
+{
+  "barcode": "8907003000797",
+  "name": "Puli Kacchal Thokku",
+  "brand": "A2B",
+  "quantity": "400g",
+  "categories": [
+    "en:condiments"
+  ],
+  "ingredients": "Refined rice bran oil, Tamarind (20%), lodised salt, Bengal gram dhall, Black gram dhall, Chillies, Coriander, Asafoetida, Mustard, Turmeric, Fenugreek, Preservative(INS211).",
+  "per_100g": {
+    "energy_kcal": 463,
+    "fat": 40,
+    "saturated_fat": 8.7,
+    "carbohydrates": 19,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 7,
+    "salt": 10,
+    "sodium": 4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-21T11:04:32Z",
+  "fetched_at": "2026-08-19T13:03:23Z"
+}

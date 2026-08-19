@@ -1,0 +1,26 @@
+{
+  "barcode": "7622201149437",
+  "name": "Dairy milk milk chocolate",
+  "brand": "Mondelez",
+  "quantity": "",
+  "categories": [
+    "en:dairies"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 534,
+    "fat": 28.9,
+    "saturated_fat": 17.5,
+    "carbohydrates": 60.4,
+    "sugars": 57.3,
+    "fiber": null,
+    "protein": 8.1,
+    "salt": 0.156,
+    "sodium": 0.0624
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2022-12-21T17:14:28Z",
+  "fetched_at": "2026-08-19T00:06:54Z"
+}

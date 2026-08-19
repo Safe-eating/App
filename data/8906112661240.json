@@ -1,0 +1,24 @@
+{
+  "barcode": "8906112661240",
+  "name": "Steel Cut Oats",
+  "brand": "True Elements",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "Steel Cut Oats, Rosemary Extract",
+  "per_100g": {
+    "energy_kcal": 419.2,
+    "fat": 12.2,
+    "saturated_fat": 2.8,
+    "carbohydrates": 65.7,
+    "sugars": 0,
+    "fiber": 10.7,
+    "protein": 11.5,
+    "salt": 0.01,
+    "sodium": 0.004
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-06T08:53:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

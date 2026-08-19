@@ -1,0 +1,26 @@
+{
+  "barcode": "8902756431102",
+  "name": "CHICKEN NUGGETS",
+  "brand": "Godrej",
+  "quantity": "500g",
+  "categories": [
+    "en:Tyson"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 247,
+    "fat": 13.88,
+    "saturated_fat": 5.4,
+    "carbohydrates": 17.05,
+    "sugars": 1.98,
+    "fiber": null,
+    "protein": 12.95,
+    "salt": 1.3346,
+    "sodium": 0.53384
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-30T11:49:35Z",
+  "fetched_at": "2026-08-19T01:17:20Z"
+}

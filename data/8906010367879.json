@@ -1,0 +1,28 @@
+{
+  "barcode": "8906010367879",
+  "name": "",
+  "brand": "GRB",
+  "quantity": "200 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 3096.47058823529,
+    "fat": 152.941176470588,
+    "saturated_fat": 88.2352941176471,
+    "carbohydrates": 401.764705882353,
+    "sugars": 294.117647058824,
+    "fiber": null,
+    "protein": 28.2352941176471,
+    "salt": 0.161764705882353,
+    "sodium": 0.0647058823529412
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-13T12:49:33Z",
+  "fetched_at": "2026-08-19T01:59:42Z"
+}

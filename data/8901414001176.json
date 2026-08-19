@@ -1,0 +1,31 @@
+{
+  "barcode": "8901414001176",
+  "name": "Bikano peanut salted 200g",
+  "brand": "Bikano",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:Sn"
+  ],
+  "ingredients": "Peanuts (95.8%), Edible Vegetable Oil (Refined Rice Bran Oil, Refined Cottonseed Oil, Refined Palmolein Oil), lodize Salt (1.0%), Black Salt (0.3%). ALLERGEN ALERT: CONTAINS PEANUT Allergen Advice :",
+  "per_100g": {
+    "energy_kcal": 566.666666666667,
+    "fat": 43.3333333333333,
+    "saturated_fat": 10,
+    "carbohydrates": 16.6666666666667,
+    "sugars": 3.33333333333333,
+    "fiber": 3.33333333333333,
+    "protein": 23.3333333333333,
+    "salt": 1.33333333333333,
+    "sodium": 0.533333333333333
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-04T14:27:36Z",
+  "fetched_at": "2026-08-19T00:47:51Z"
+}

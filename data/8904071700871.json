@@ -1,0 +1,31 @@
+{
+  "barcode": "8904071700871",
+  "name": "Diet Poha Chivda",
+  "brand": "Chheda's",
+  "quantity": "170 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:crackers-appetizers",
+    "en:plain-salty-snacks"
+  ],
+  "ingredients": "Rice Flakes, Gram Flour, Palm Oil, Sugar, Salt.",
+  "per_100g": {
+    "energy_kcal": 546.666666666667,
+    "fat": 30.6666666666667,
+    "saturated_fat": 13.3333333333333,
+    "carbohydrates": 57.3333333333333,
+    "sugars": 0,
+    "fiber": 1.33333333333333,
+    "protein": 9.33333333333333,
+    "salt": 0.5,
+    "sodium": 0.2
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-10T05:52:01Z",
+  "fetched_at": "2026-08-19T01:32:01Z"
+}

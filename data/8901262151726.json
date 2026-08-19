@@ -1,0 +1,29 @@
+{
+  "barcode": "8901262151726",
+  "name": "Amul Lactose Free250ml",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:lactose-free-milk"
+  ],
+  "ingredients": "Toned Milk, Milk Solids, Enzyme (beta galactosidase)",
+  "per_100g": {
+    "energy_kcal": 59.2,
+    "fat": 3.12,
+    "saturated_fat": 2,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.105,
+    "sodium": 0.042
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-24T22:20:42Z",
+  "fetched_at": "2026-08-19T00:43:37Z"
+}

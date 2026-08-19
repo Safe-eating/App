@@ -1,0 +1,30 @@
+{
+  "barcode": "8904422705050",
+  "name": "Patanjali 7Grain Biscuit Digestive",
+  "brand": "Patanjali",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Wheat flour (Atta - 42.8%), Edible vegetable oil (Refined Palm oil), Sugar Multi grain flour (18.7%) {Ragi, Wheat bran, Oats, Corn flakes, Rice, Jowar, Bengal gram} Invert sugar syrup, Raising agent (INS 500(ii), INS 503(ii)), lodized salt, Malt extract, Nature identical \u0026 Artificial flavouring substances ( Vanilla \u0026 Honey), Acidity regulator [INS 296, INS 334, INS 450(i)), Flour Treatment agent (INS 223)",
+  "per_100g": {
+    "energy_kcal": 477.37,
+    "fat": 21.45,
+    "saturated_fat": 10.16,
+    "carbohydrates": 59.11,
+    "sugars": 20.7,
+    "fiber": 6.32,
+    "protein": 8.81,
+    "salt": 0.35,
+    "sodium": 0.14
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-28T00:32:45Z",
+  "fetched_at": "2026-08-19T01:46:07Z"
+}

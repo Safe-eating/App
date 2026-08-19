@@ -1,0 +1,26 @@
+{
+  "barcode": "8901595862962",
+  "name": "Schezwan Chutney",
+  "brand": "Ching's Secret",
+  "quantity": "250 g",
+  "categories": [
+    "en:schezean-chutney"
+  ],
+  "ingredients": "Water, Sunflower Oil, Sugar, Ginger, Salt, Chilli, Garlic, Onion, Corn Starch, Flavour Enhancer (E635), Thickener (E1422), Acidity Regulator (E260), Spices (Whte Pepper, Schezwan Pepper), Preservatives (E202, E211). Celery, Soy Sauce Powder (Soybean, Wheat, Salt).",
+  "per_100g": {
+    "energy_kcal": 177,
+    "fat": 10.6,
+    "saturated_fat": 3.4,
+    "carbohydrates": 17.2,
+    "sugars": 15.2,
+    "fiber": 2,
+    "protein": 1.9,
+    "salt": 3.3775,
+    "sodium": 1.351
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-09T09:43:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063142442",
+  "name": "Nutri Choice Seeds",
+  "brand": "Britannia",
+  "quantity": "75 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 493,
+    "fat": 23.4,
+    "saturated_fat": 9.6,
+    "carbohydrates": 63,
+    "sugars": 13.6,
+    "fiber": 6.8,
+    "protein": 11,
+    "salt": 0.785,
+    "sodium": 0.314
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-25T05:52:47Z",
+  "fetched_at": "2026-08-19T00:32:11Z"
+}

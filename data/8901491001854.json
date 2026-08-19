@@ -1,0 +1,36 @@
+{
+  "barcode": "8901491001854",
+  "name": "PEPSICO.",
+  "brand": "Lay's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Palmolein Oil, Sunflower Oil), *Seasoning (Maltodextrin, Spices \u0026 Condiments, lodised Salt, Sugar, Acidity Regulator (330), Beetroot Powder, Yeast Extract, Butter Milk Powder, Anticaking Agent (551), Flavour Enhancers (627 \u0026 631)).",
+  "per_100g": {
+    "energy_kcal": 539,
+    "fat": 32.9,
+    "saturated_fat": 14.7,
+    "carbohydrates": 53.9,
+    "sugars": 2.2,
+    "fiber": 0,
+    "protein": 6.5,
+    "salt": 1.4165,
+    "sodium": 0.5666
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-03T10:08:48Z",
+  "fetched_at": "2026-08-19T00:49:16Z"
+}

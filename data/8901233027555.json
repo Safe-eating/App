@@ -1,0 +1,31 @@
+{
+  "barcode": "8901233027555",
+  "name": "Cadbury Choco Creme Oreo",
+  "brand": "Cadbury",
+  "quantity": "300 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "SANDWICH BISCUIT INGREDIENTS: Refined Wheat Flour (Maida), Sugar, Edible Vegetable Fat, Palmolein, Cocoa Solids (3%*), Invert Sugar, Leavening Agents (500(ii), 503(ii)), Edible Salt, Emulsifier (322). CONTAINS ADDED FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCES).\nAllergen information: Contains Wheat. May Contain Milk",
+  "per_100g": {
+    "energy_kcal": 480,
+    "fat": 19.7,
+    "saturated_fat": 9.8,
+    "carbohydrates": 70.3,
+    "sugars": 37.8,
+    "fiber": null,
+    "protein": 5.5,
+    "salt": 1.26492,
+    "sodium": 0.505968
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2020-01-04T07:38:07Z",
+  "fetched_at": "2026-08-19T00:39:54Z"
+}

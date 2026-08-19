@@ -1,0 +1,28 @@
+{
+  "barcode": "8901262040013",
+  "name": "Shrikhand",
+  "brand": "Amul",
+  "quantity": "500g",
+  "categories": [
+    "en:dairies",
+    "en:desserts",
+    "en:dairy-desserts"
+  ],
+  "ingredients": "Milk solids, sugar, elaichi powder (0.1%)",
+  "per_100g": {
+    "energy_kcal": 234,
+    "fat": 5,
+    "saturated_fat": 3,
+    "carbohydrates": 42,
+    "sugars": 42,
+    "fiber": 2.947,
+    "protein": 5,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-19T10:45:51Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

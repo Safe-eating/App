@@ -1,0 +1,27 @@
+{
+  "barcode": "8904043906928",
+  "name": "Tata Simply Better Cold Pressed Groundnut Oil",
+  "brand": "Simply Better, Tata",
+  "quantity": "1L",
+  "categories": [
+    "en:ground nut oil",
+    "en:oils"
+  ],
+  "ingredients": "100% Cold Pressed Groundnut Oil",
+  "per_100g": {
+    "energy_kcal": 898,
+    "fat": 99.8,
+    "saturated_fat": 20.9,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.00125,
+    "sodium": 0.0005
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-14T15:00:28Z",
+  "fetched_at": "2026-08-19T01:28:18Z"
+}

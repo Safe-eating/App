@@ -1,0 +1,29 @@
+{
+  "barcode": "8901063401082",
+  "name": "Britannia cheese cube",
+  "brand": "Britannia",
+  "quantity": "200g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses"
+  ],
+  "ingredients": "CHEESE, WATER, MILK PRODUCTS (MILK SOLIDS, BUTTER), EMULSIFIERS [331 (iii), 339 (iii), 452(i)], VITAMINS AND MINERAL*, ACIDITY REGULATOR (330), IODIZED SALT, PRESERVATIVES (200 \u0026 235).",
+  "per_100g": {
+    "energy_kcal": 312.7,
+    "fat": 24,
+    "saturated_fat": 17,
+    "carbohydrates": 4.6,
+    "sugars": 4.6,
+    "fiber": null,
+    "protein": 19.5,
+    "salt": 4.30575,
+    "sodium": 1.7223
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-27T09:11:19Z",
+  "fetched_at": "2026-08-19T00:34:44Z"
+}

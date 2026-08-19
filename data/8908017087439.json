@@ -1,0 +1,28 @@
+{
+  "barcode": "8908017087439",
+  "name": "Plant Protein - Mango",
+  "brand": "Happy Cultures",
+  "quantity": "505g",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders"
+  ],
+  "ingredients": "Pea Protein Isolate 42%, Brown Rice Protein Isolate 39%, Real Fruit \u0026 Almond Chunks 10%, Gut Loving Probiotics 1% ,Ashwagandha KSM 66° 1%, Monk Fruit Extract 0.3%",
+  "per_100g": {
+    "energy_kcal": 355.555555555556,
+    "fat": 3.88888888888889,
+    "saturated_fat": 0.277777777777778,
+    "carbohydrates": 13.3333333333333,
+    "sugars": 0,
+    "fiber": 2.77777777777778,
+    "protein": 68.0555555555556,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-16T03:31:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

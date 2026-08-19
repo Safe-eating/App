@@ -1,0 +1,29 @@
+{
+  "barcode": "18112205",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 444,
+    "fat": 15.9,
+    "saturated_fat": 10.1,
+    "carbohydrates": 72.9,
+    "sugars": 52.6,
+    "fiber": 0,
+    "protein": 3.3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-12T06:56:23Z",
+  "fetched_at": "2026-08-19T00:00:30Z"
+}

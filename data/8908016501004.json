@@ -1,0 +1,30 @@
+{
+  "barcode": "8908016501004",
+  "name": "Tempayy Cubes",
+  "brand": "Hello Tempayy",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:meat-alternatives",
+    "en:tempeh"
+  ],
+  "ingredients": "Non-GMO Soybeans, Water, Rhizopus (Culture), Iodised Salt, Rice Flour, Iron, Vitamin B12.",
+  "per_100g": {
+    "energy_kcal": 178,
+    "fat": 6.8,
+    "saturated_fat": 1.5,
+    "carbohydrates": 10.1,
+    "sugars": 0,
+    "fiber": 8.5,
+    "protein": 21,
+    "salt": 0.265,
+    "sodium": 0.106
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-31T04:17:07Z",
+  "fetched_at": "2026-08-19T13:17:24Z"
+}

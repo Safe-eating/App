@@ -1,0 +1,24 @@
+{
+  "barcode": "8906143620544",
+  "name": "Jeera Khakra",
+  "brand": "prolicious",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 446,
+    "fat": 20.4,
+    "saturated_fat": 4.2,
+    "carbohydrates": 50.6,
+    "sugars": 2.8,
+    "fiber": 11.9,
+    "protein": 21,
+    "salt": 2.4625,
+    "sodium": 0.985
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T06:36:40Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

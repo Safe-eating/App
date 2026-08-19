@@ -1,0 +1,39 @@
+{
+  "barcode": "3154230805458",
+  "name": "HERTA TARTE EN OR Pâte Feuilletée LOT 2+1 OFFERTE",
+  "brand": "HERTA, Tarte en or",
+  "quantity": "690 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:meals",
+    "en:cereals-and-their-products",
+    "en:pies",
+    "en:pizzas-pies-and-quiches",
+    "en:cooking-helpers",
+    "en:pie-dough",
+    "en:salted-pies",
+    "en:baking-mixes",
+    "en:puff-pastry-sheets",
+    "en:frozen-baking-mixes",
+    "en:refrigerated-baking-mixes"
+  ],
+  "ingredients": "Farine de BLÉ, Eau, Huiles végétales (palme, colza), GLUTEN de BLÉ, Alcool, Sel, Jus de citron concentré, Levure désactivée. Peut contenir : LAIT, SOJA, MOUTARDE.",
+  "per_100g": {
+    "energy_kcal": 383.1,
+    "fat": 20,
+    "saturated_fat": 9.2,
+    "carbohydrates": 42,
+    "sugars": 1.9,
+    "fiber": 1.4,
+    "protein": 6.5,
+    "salt": 1.2,
+    "sodium": 0.48
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-16T20:06:12Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906032341093",
+  "name": "Butter cookies",
+  "brand": "Milk Ma",
+  "quantity": "200g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "WHEAT FLOUR, SUGAR, VEG. SHORTENING, ELAICHI, SALT AND FLAVOUR.",
+  "per_100g": {
+    "energy_kcal": 362,
+    "fat": 16,
+    "saturated_fat": 0,
+    "carbohydrates": 48,
+    "sugars": 1.14,
+    "fiber": 1.42,
+    "protein": 6.28,
+    "salt": 0.5175,
+    "sodium": 0.207
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-04-09T12:24:34Z",
+  "fetched_at": "2026-08-19T12:33:47Z"
+}

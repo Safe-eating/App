@@ -1,0 +1,26 @@
+{
+  "barcode": "8906005501288",
+  "name": "All-in-one kuch-kuch",
+  "brand": "Bikaji",
+  "quantity": "",
+  "categories": [
+    "en:Fried Mixture"
+  ],
+  "ingredients": "Edible Vegetable Oil (Palmolein Oil and/or Cottonseed oil), Gram Flour, Dew Beans Flour (Moth Flour), Peanuts (12.75%), Split Chickpea (4.6%), Corn Flakes (4.5%), Rice Flakes (3.75%), Split Green Gram (3.5), Whole Lentils (3.5%), Cashew (2.5%), Raisins (2%), Potato Sticks (1.5%), Chick Peas (1.2%), Green Peas (0.4%), Tapioca (0.1%), Potato Flakes, Starch, Cucumber Seed, Sesame Seeds, Sugar, Edible Common Salt, Acidity Regulator (INS330), Chilli, Coriander, Turmeric (Coloring and Spices), Cumin, Fennel Seeds, Ginger, Black Pepper, Cardamom, Clove, Nutmeg. Spinach Powder, Asafoetida, Bishop's Seed, Curry Leaves Contains: Nut and Nut Components, Peanuts",
+  "per_100g": {
+    "energy_kcal": 588,
+    "fat": 42,
+    "saturated_fat": 11,
+    "carbohydrates": 38,
+    "sugars": 10,
+    "fiber": 0,
+    "protein": 14,
+    "salt": 1.1675,
+    "sodium": 0.467
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-06T18:02:34Z",
+  "fetched_at": "2026-08-19T01:51:16Z"
+}

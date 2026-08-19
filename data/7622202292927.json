@@ -1,0 +1,29 @@
+{
+  "barcode": "7622202292927",
+  "name": "Silk Hearts And Roses Tiny Treats",
+  "brand": "Cadbury Dairy Milk",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 543,
+    "fat": 31.2,
+    "saturated_fat": 21.5,
+    "carbohydrates": 58.5,
+    "sugars": 55.3,
+    "fiber": null,
+    "protein": 7.6,
+    "salt": 0.3125,
+    "sodium": 0.125
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-10T14:08:15Z",
+  "fetched_at": "2026-08-19T00:10:40Z"
+}

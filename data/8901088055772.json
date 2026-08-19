@@ -1,0 +1,38 @@
+{
+  "barcode": "8901088055772",
+  "name": "Oats",
+  "brand": "Saffola",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereal-grains",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats",
+    "en:oat"
+  ],
+  "ingredients": "Rolled Oats Allergen Advice: Contains Oats. May contains traces of other Cereals containing gluten. 100% Wholegrain",
+  "per_100g": {
+    "energy_kcal": 369,
+    "fat": 8,
+    "saturated_fat": 1.6,
+    "carbohydrates": 66.8,
+    "sugars": 0.5,
+    "fiber": 10.4,
+    "protein": 12.6,
+    "salt": 0.0125,
+    "sodium": 0.005
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-01T05:39:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

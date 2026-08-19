@@ -1,0 +1,36 @@
+{
+  "barcode": "8901491002141",
+  "name": "Gourmet limed and cracked pepper chips",
+  "brand": "Lay's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 506,
+    "fat": 25.7,
+    "saturated_fat": 11.6,
+    "carbohydrates": 61.2,
+    "sugars": 1.9,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 1.64,
+    "sodium": 0.656
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-05T08:20:27Z",
+  "fetched_at": "2026-08-19T00:49:17Z"
+}

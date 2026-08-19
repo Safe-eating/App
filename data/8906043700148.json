@@ -1,0 +1,26 @@
+{
+  "barcode": "8906043700148",
+  "name": "Cow Milk",
+  "brand": "Omfed",
+  "quantity": "",
+  "categories": [
+    "en:dairies"
+  ],
+  "ingredients": "Milk",
+  "per_100g": {
+    "energy_kcal": 64,
+    "fat": 3.5,
+    "saturated_fat": 2.3,
+    "carbohydrates": 4.8,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 3.3,
+    "salt": 0.0925,
+    "sodium": 0.037
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-03T04:07:14Z",
+  "fetched_at": "2026-08-19T12:36:50Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8902710500509",
+  "name": "Baggry’s No Added Sugar muesli",
+  "brand": "Baggrys",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 380,
+    "fat": 5,
+    "saturated_fat": 1,
+    "carbohydrates": 77.3333333333333,
+    "sugars": 1.33333333333333,
+    "fiber": 8,
+    "protein": 10.3333333333333,
+    "salt": 1.25,
+    "sodium": 0.5
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T11:02:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906152620627",
+  "name": "Sawan Pani Puri Khakhra Bites",
+  "brand": "Sawan",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:crackers-appetizers"
+  ],
+  "ingredients": "Wheat Atta, Oil, Pudina, Pani Puri Masala, Amchur Powder, Black Salt, Green Chilli Paste, Jeera Powder.",
+  "per_100g": {
+    "energy_kcal": 470,
+    "fat": 19.2,
+    "saturated_fat": 8.4,
+    "carbohydrates": 62.9,
+    "sugars": 0.3,
+    "fiber": 9.6,
+    "protein": 11.3,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-19T22:51:28Z",
+  "fetched_at": "2026-08-19T13:00:17Z"
+}

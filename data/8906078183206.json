@@ -1,0 +1,40 @@
+{
+  "barcode": "8906078183206",
+  "name": "Sabudana Papad",
+  "brand": "DNV",
+  "quantity": "100g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:cereals-and-potatoes",
+    "en:vegetables-based-foods",
+    "en:cereals-and-their-products",
+    "en:vegetables",
+    "en:breads",
+    "en:flatbreads",
+    "en:special-breads",
+    "en:starches",
+    "en:papadum",
+    "en:tapioca",
+    "en:Sabudana-papad"
+  ],
+  "ingredients": "Tapioca Flour, Edible common Salt",
+  "per_100g": {
+    "energy_kcal": 348,
+    "fat": 0.23,
+    "saturated_fat": 0.01,
+    "carbohydrates": 86,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 0.5,
+    "salt": 1.85,
+    "sodium": 0.74
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-05T16:08:11Z",
+  "fetched_at": "2026-08-19T12:43:38Z"
+}

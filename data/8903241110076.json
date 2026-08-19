@@ -1,0 +1,29 @@
+{
+  "barcode": "8903241110076",
+  "name": "Pravin Mango Pickle",
+  "brand": "Pravin",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles",
+    "en:plant-based-pickles"
+  ],
+  "ingredients": "Green Mango (63%), lodised Salt, Cotton Seed Oil, Mustard, Red Chilli, Fenugreek, Turmeric, Acidity Regulator - Acetic Acid (E260), Asafoetida.",
+  "per_100g": {
+    "energy_kcal": 138,
+    "fat": 3.2,
+    "saturated_fat": 1,
+    "carbohydrates": 24,
+    "sugars": 3.6,
+    "fiber": null,
+    "protein": 3.3,
+    "salt": 4.5375,
+    "sodium": 1.815
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-24T02:52:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

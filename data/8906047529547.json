@@ -1,0 +1,35 @@
+{
+  "barcode": "8906047529547",
+  "name": "Disano  peanut butter",
+  "brand": "Disano",
+  "quantity": "350g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:nuts-and-their-products",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:nut-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 612.5,
+    "fat": 49.625,
+    "saturated_fat": 9,
+    "carbohydrates": 19,
+    "sugars": 9,
+    "fiber": 4.1875,
+    "protein": 26,
+    "salt": 0.33125,
+    "sodium": 0.1325
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-10T05:24:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

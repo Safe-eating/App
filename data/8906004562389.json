@@ -1,0 +1,26 @@
+{
+  "barcode": "8906004562389",
+  "name": "Yellow Diamond Plain Sev Mamra",
+  "brand": "Yellow Diamond",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Puffed Rice (46%), Edible Vegetable Oil (Palmolein Oil/Cotton Seed Oil), Gram Flour (22%), Rice Flour, lodised Salt, Turmeric Powder.",
+  "per_100g": {
+    "energy_kcal": 527.63,
+    "fat": 29.51,
+    "saturated_fat": 13.33,
+    "carbohydrates": 55.23,
+    "sugars": 1.69,
+    "fiber": null,
+    "protein": 10.28,
+    "salt": 1.56885,
+    "sodium": 0.62754
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-02T02:39:48Z",
+  "fetched_at": "2026-08-19T01:50:47Z"
+}

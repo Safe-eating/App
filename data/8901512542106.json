@@ -1,0 +1,27 @@
+{
+  "barcode": "8901512542106",
+  "name": "act-2 popcorn tomato chilli 59g",
+  "brand": "",
+  "quantity": "59g",
+  "categories": [
+    "en:snacks",
+    "en:popcorn"
+  ],
+  "ingredients": "Popcorn Sachet: Popping Corn, Refined\nEdible Palmolein Oil and iodised Salt.\nTomato Chilli Seasoning Sachet\n(Net Quantity-4g): Dehydrated Vegetables\n(Tomato Powder, Onion Powder and Garlic\nPowder), Chilli Powder, iodised Salt, Sugar,\nYeast Extract Powder, Stabilizer (Hydrolysed\nVegetable Protein), Maltodextrin, Acidity\nRegulator (Citric Acid) and Anticaking\nAgent (Silicon Dioxide).\nCONTAINS ADDED FLAVOUR [NATURE\nIDENTICAL FLAVOURING SUBSTANCES)\nSee print on pack for: MRP (inclusive of\nall taxes), Net Quantity (in g), Batch No.\nDate of Manufacture\nomato chilli flavour seasoning inside\nIC\npped Popcon.\nB.No:",
+  "per_100g": {
+    "energy_kcal": 521,
+    "fat": 28.9,
+    "saturated_fat": 11.6,
+    "carbohydrates": 56,
+    "sugars": 0.3,
+    "fiber": null,
+    "protein": 9,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-15T19:51:45Z",
+  "fetched_at": "2026-08-19T00:54:33Z"
+}

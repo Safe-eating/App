@@ -1,0 +1,24 @@
+{
+  "barcode": "8906090578172",
+  "name": "Party Harder",
+  "brand": "Too Yum",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 543,
+    "fat": 32.5,
+    "saturated_fat": 8,
+    "carbohydrates": 56,
+    "sugars": 1.1,
+    "fiber": null,
+    "protein": 7.1,
+    "salt": 1.925,
+    "sodium": 0.77
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-13T05:49:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

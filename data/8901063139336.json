@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063139336",
+  "name": "Britannia bourbon 100g",
+  "brand": "Britannia",
+  "quantity": "100g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR (33%), REFINED PALM OIL, EDIBLE MAIZE STARCH, COLOURS (150a, 150d, 122, 110,133\u0026102), COCOA SOLIDS (2.7%), MILK SOLIDS, RAISING AGENTS [500(ii)\u0026503(ii)], NATURE IDENTICAL\u0026ARTIFICIAL (VANILLA, CHOCOLATE MILK\u0026MILKY COCOA) SUBSTANCES, FLAVOURING EMULSIFIERS [471 \u0026 322(1)], MILK CHOCOLATE (0.1%) [EMULSIFIER (322(1))) AND IODISED SALT. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SOYA.",
+  "per_100g": {
+    "energy_kcal": 493.5,
+    "fat": 20.3,
+    "saturated_fat": 10.1,
+    "carbohydrates": 72.7,
+    "sugars": 38.3,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0.119,
+    "sodium": 0.0476
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-30T10:22:22Z",
+  "fetched_at": "2026-08-19T00:31:43Z"
+}

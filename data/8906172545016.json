@@ -1,0 +1,30 @@
+{
+  "barcode": "8906172545016",
+  "name": "aamchi Mango Ice Cream",
+  "brand": "Hocco",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Inner Layer Medium Fat Ice Cream (85.2%): Precessed Mange Pulp (40%) (Mange Pulp. Sugar) Milk Solids (Cream Butter Skimmed Milk Powder), Sugar, Emulsifier (INS 471, INS 433) and Stabilisers (INS 466, INS 412, INS 407a, INS 415. INS 410) CONTAINS NATURAL COLOUR (INS 1606) AND NATURAL MANGO FLAVOURING SUBSTANCES, Outer Layer-Mange Covering (14.8%): Edible Vegetable Oil (Palm Oil, Palm Kernel Oil), Sugar, Milk Solids, Emulsifiers (NS3230) INS 476) Acidity regulater (INS 330), Spices Oleoresins, CONTAINS NATURAL COLOUR (INS 160b, INS 1606. INS 1411 And NATURAL MANGO FLAVOURING",
+  "per_100g": {
+    "energy_kcal": 237.666666666667,
+    "fat": 15.9166666666667,
+    "saturated_fat": 10.75,
+    "carbohydrates": 21.9166666666667,
+    "sugars": 21.4166666666667,
+    "fiber": null,
+    "protein": 2.5,
+    "salt": 0.0970833333333333,
+    "sodium": 0.0388333333333333
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-01T04:51:32Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

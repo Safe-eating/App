@@ -1,0 +1,26 @@
+{
+  "barcode": "8904067703367",
+  "name": "Jonson falari mix",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:namkeen"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 600,
+    "fat": 40,
+    "saturated_fat": 16.6666666666667,
+    "carbohydrates": 46.6666666666667,
+    "sugars": 23.3333333333333,
+    "fiber": 0,
+    "protein": 6.66666666666667,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-08T12:28:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

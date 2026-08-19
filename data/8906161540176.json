@@ -1,0 +1,24 @@
+{
+  "barcode": "8906161540176",
+  "name": "Cookie Crunch Delight",
+  "brand": "Stroom",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 406.68253968254,
+    "fat": 15.7460317460317,
+    "saturated_fat": 9.44444444444444,
+    "carbohydrates": 39.8571428571429,
+    "sugars": 21.9047619047619,
+    "fiber": 6.3968253968254,
+    "protein": 32.0793650793651,
+    "salt": 0.283333333333333,
+    "sodium": 0.113333333333333
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-24T02:57:49Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

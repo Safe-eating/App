@@ -1,0 +1,33 @@
+{
+  "barcode": "8901512102904",
+  "name": "Sundrop Superlite Advanced Refined Sunflower Oil",
+  "brand": "Sundrop",
+  "quantity": "1L (910 g)",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fats",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:sunflower-seeds-and-their-products",
+    "en:sunflower-oils",
+    "en:refined-deodorized-sunflower-oils"
+  ],
+  "ingredients": "Refined Edible Sunflower Oil, Antioxidant (TBHQ), Antifoaming Agent [Dimethyl Polysiloxane (DMPS) Vitamin A and Vitamin D2.",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 11,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-01T09:16:01Z",
+  "fetched_at": "2026-08-19T00:54:00Z"
+}

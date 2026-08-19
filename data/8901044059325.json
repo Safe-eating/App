@@ -1,0 +1,29 @@
+{
+  "barcode": "8901044059325",
+  "name": "Mapro Mazaana Milk Chocolate",
+  "brand": "Mapro",
+  "quantity": "50g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates"
+  ],
+  "ingredients": "Milk Chocolate (Sugar, Cocoa liquor, Milk Solids, Emulsifiers (INS 322 (i), INS-476). Contains natural and nature identical flavouring substances (vanilla))",
+  "per_100g": {
+    "energy_kcal": 571,
+    "fat": 37,
+    "saturated_fat": 23,
+    "carbohydrates": 53,
+    "sugars": 42,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 0.2,
+    "sodium": 0.08
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-21T04:51:58Z",
+  "fetched_at": "2026-08-19T00:23:21Z"
+}

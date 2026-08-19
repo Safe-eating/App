@@ -1,0 +1,24 @@
+{
+  "barcode": "8906191631356",
+  "name": "Blueberry Cheesecake Protein Bar",
+  "brand": "Phab",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 317.58,
+    "fat": 13.3,
+    "saturated_fat": 6.78,
+    "carbohydrates": 27.18,
+    "sugars": 11.5,
+    "fiber": 15.42,
+    "protein": 30,
+    "salt": 0.445,
+    "sodium": 0.178
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-14T10:02:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

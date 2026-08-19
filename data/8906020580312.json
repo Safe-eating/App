@@ -1,0 +1,37 @@
+{
+  "barcode": "8906020580312",
+  "name": "Freshly Frozen Chickoo Pulp",
+  "brand": "ID",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:frozen-foods",
+    "en:fruit-based-foods",
+    "en:fruits",
+    "en:frozen-plant-based-foods",
+    "en:tropical-fruits",
+    "en:frozen-fruits",
+    "en:frozen-tropical-fruits",
+    "en:fruit pulp"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 165,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 40.01,
+    "sugars": 29.89,
+    "fiber": 4.11,
+    "protein": 1.24,
+    "salt": 0.034375,
+    "sodium": 0.01375
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-26T17:14:21Z",
+  "fetched_at": "2026-08-19T02:07:59Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "7622201149406",
+  "name": "Cadbury Dairy Milk Chocolate",
+  "brand": "Cadbury",
+  "quantity": "24g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolates",
+    "en:milk-chocolates"
+  ],
+  "ingredients": "Sugar , Milk Solids(22%), Cocoa butter, Cocoa Solids ,Edible vegetable fat, Emulsifiers(442,476).",
+  "per_100g": {
+    "energy_kcal": 534,
+    "fat": 28.9,
+    "saturated_fat": 17.5,
+    "carbohydrates": 60.4,
+    "sugars": 57.3,
+    "fiber": null,
+    "protein": 8.1,
+    "salt": 0.39624,
+    "sodium": 0.158496
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-03T16:53:51Z",
+  "fetched_at": "2026-08-19T00:06:48Z"
+}

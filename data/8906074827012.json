@@ -1,0 +1,31 @@
+{
+  "barcode": "8906074827012",
+  "name": "Fruit Biscuit (Vegan)",
+  "brand": "Karachi Bakery",
+  "quantity": "400gm 7 serving",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:vegan biscuit"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable fat (Bakery Shortening), Vegan Milk Soilds (Almond \u0026 Soya), Papaya Cubes (Tooty Fruity) (10%) Cashew Bits (6%) \u0026 Iodised Salt.\nCONTAINS PERMITTED SYNTHETIC FOOD COLOURS - E102, E110, E129 \u0026 ADDED FLAVORS (NATURAL IDENTICAL \u0026 ARTIFICIAL FLAVORING SUBSTANCES - VANILLA \u0026 MIXED FRUIT",
+  "per_100g": {
+    "energy_kcal": 501,
+    "fat": 27.3,
+    "saturated_fat": 14.9,
+    "carbohydrates": 58.6,
+    "sugars": 11.5,
+    "fiber": 0.96,
+    "protein": 5.1,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-04T11:38:11Z",
+  "fetched_at": "2026-08-19T12:43:08Z"
+}

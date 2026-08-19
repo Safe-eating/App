@@ -1,0 +1,30 @@
+{
+  "barcode": "8906017815038",
+  "name": "DESI GHEE",
+  "brand": "MADHUSUDAN",
+  "quantity": "1 Litre",
+  "categories": [
+    "en:fats",
+    "en:animal-fats",
+    "en:butter-fat",
+    "en:clarified-butter",
+    "en:ghee"
+  ],
+  "ingredients": "MILK FAT",
+  "per_100g": {
+    "energy_kcal": 897,
+    "fat": 99.7,
+    "saturated_fat": 61.5,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.00525,
+    "sodium": 0.0021
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-07T07:55:06Z",
+  "fetched_at": "2026-08-19T02:06:20Z"
+}

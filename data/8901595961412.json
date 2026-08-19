@@ -1,0 +1,27 @@
+{
+  "barcode": "8901595961412",
+  "name": "Hot and sour soup",
+  "brand": "Ching's Secret",
+  "quantity": "55 g",
+  "categories": [
+    "en:meals",
+    "en:soups"
+  ],
+  "ingredients": "Corn Starch, Dehydrated Vegetables 18% (carrot, cabbage, garlic), Salt, Sugar, Dehydrated Mushrooms (8%), Dried Glucose Syrup, Disodium 5' Guanylate, Disodium 5'- Inosinate (Flavour Enhancers, E627, E631), Soy Sauce Powder (soybean, wheat, salt), Onion Powder, Caramel (Natural Colour, E150d), Chilli Powder (1%), Acetic Acid (Acidity Regulator, E260), Xanthan Gum (Thickener, E415), Silicon Dioxide (Anticaking Agent, E551), Sunflower Oil, Pepper Powder.",
+  "per_100g": {
+    "energy_kcal": 327.27272727273,
+    "fat": 1.2727272727273,
+    "saturated_fat": 0.54545454545455,
+    "carbohydrates": 74.545454545455,
+    "sugars": 29.090909090909,
+    "fiber": null,
+    "protein": 5.2727272727273,
+    "salt": 21.9,
+    "sodium": 8.76
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-03T23:00:47Z",
+  "fetched_at": "2026-08-19T00:57:10Z"
+}

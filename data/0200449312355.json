@@ -1,0 +1,30 @@
+{
+  "barcode": "0200449312355",
+  "name": "Kolhapuri Cookies",
+  "brand": "Chakote",
+  "quantity": "180",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour Maida), Hydrogenated Vegetable Oil, Sugar, Semolina, Liquid Glucose, Milk Solids, lodized Salt, Ghee Emulsifiers (INS 450(i), INS 471, INS 472e), Spices (Cardamom Powder, Cardamom Oil) \u0026 Raising Agent (INS 500(ii)). ALLERGENS: CONTAINS GLUTEN, MILK",
+  "per_100g": {
+    "energy_kcal": 507,
+    "fat": 23.41,
+    "saturated_fat": 13.01,
+    "carbohydrates": 67.75,
+    "sugars": 19.02,
+    "fiber": null,
+    "protein": 6.27,
+    "salt": 532.5,
+    "sodium": 213
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-21T15:33:51Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

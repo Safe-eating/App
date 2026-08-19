@@ -1,0 +1,38 @@
+{
+  "barcode": "8906078721026",
+  "name": "Chips Creamy Onion",
+  "brand": "Gopal Namkeen, Gopal Snacks, Gopal Wafers",
+  "quantity": "30g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:flavoured-potato-crisps",
+    "en:wavy-potato-crisps"
+  ],
+  "ingredients": "POTATO (60%), EDIBLE VEGETABLE OIL (PALMOLEIN OIL), SUGAR, EDIBLE COMMON SALT, MALTODEXTRIN, MILK SOLIDS, CHEESE POWDER (0.1%), ONION POWDER (1.3%), FLAVOUR ENHANCER (INS 627, INS 631), ANTICAKING AGENT (INS 551), NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES (CHEESE \u0026 ONION FLAVOURS) AND STABILIZER (INS 414).",
+  "per_100g": {
+    "energy_kcal": 542,
+    "fat": 34.19,
+    "saturated_fat": 10.8,
+    "carbohydrates": 50.1,
+    "sugars": 7.65,
+    "fiber": 3.15,
+    "protein": 8.1,
+    "salt": 0.773,
+    "sodium": 0.3092
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-15T06:30:37Z",
+  "fetched_at": "2026-08-19T12:43:43Z"
+}

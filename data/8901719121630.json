@@ -1,0 +1,31 @@
+{
+  "barcode": "8901719121630",
+  "name": "20-20",
+  "brand": "Parle",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:confectioneries",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 482,
+    "fat": 18.6,
+    "saturated_fat": 8.5,
+    "carbohydrates": 71.9,
+    "sugars": 24.1,
+    "fiber": null,
+    "protein": 6.7,
+    "salt": 0.6,
+    "sodium": 0.24
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-17T14:20:29Z",
+  "fetched_at": "2026-08-19T01:00:18Z"
+}

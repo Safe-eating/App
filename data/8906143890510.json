@@ -1,0 +1,32 @@
+{
+  "barcode": "8906143890510",
+  "name": "The Whole Truth Hazelnut Dark Chocolate",
+  "brand": "The Whole Truth",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:chocolates-with-hazelnuts",
+    "en:dark-chocolates-with-hazelnuts"
+  ],
+  "ingredients": "47% COCOA, 38% DATES, 15% HAZELNUTS",
+  "per_100g": {
+    "energy_kcal": 576.7,
+    "fat": 39,
+    "saturated_fat": 21,
+    "carbohydrates": 48.3,
+    "sugars": 29.7,
+    "fiber": 9.7,
+    "protein": 8.1,
+    "salt": 0.03325,
+    "sodium": 0.0133
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-12T13:46:49Z",
+  "fetched_at": "2026-08-19T12:59:15Z"
+}

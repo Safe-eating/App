@@ -1,0 +1,30 @@
+{
+  "barcode": "8906009076843",
+  "name": "Unibic Signature Cookies",
+  "brand": "Unibic",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 476,
+    "fat": 19,
+    "saturated_fat": 10.6,
+    "carbohydrates": 70,
+    "sugars": 35,
+    "fiber": null,
+    "protein": 6.2,
+    "salt": 0.7125,
+    "sodium": 0.285
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-10T11:29:09Z",
+  "fetched_at": "2026-08-19T01:57:02Z"
+}

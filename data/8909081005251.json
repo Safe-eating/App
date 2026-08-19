@@ -1,0 +1,32 @@
+{
+  "barcode": "8909081005251",
+  "name": "Yippee Noodles",
+  "brand": "Sunfeast",
+  "quantity": "72.6 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 456,
+    "fat": 19.2,
+    "saturated_fat": 10,
+    "carbohydrates": 64,
+    "sugars": 3.2,
+    "fiber": null,
+    "protein": 9.2,
+    "salt": 2.986,
+    "sodium": 1.1944
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T23:47:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

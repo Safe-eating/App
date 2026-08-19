@@ -1,0 +1,28 @@
+{
+  "barcode": "8906027122782",
+  "name": "soya sauce",
+  "brand": "SAMS",
+  "quantity": "200 g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:soy-sauces"
+  ],
+  "ingredients": "Water, Soya Bean Extract, Caramel (E-150C), Salt, Acidity Regulator (E-260), Thickener (E-415), Permitted Class II Preservatives",
+  "per_100g": {
+    "energy_kcal": 57,
+    "fat": 0.3,
+    "saturated_fat": 0,
+    "carbohydrates": 11.6,
+    "sugars": 10.6,
+    "fiber": null,
+    "protein": 1.9,
+    "salt": 7.375,
+    "sodium": 2.95
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-26T13:37:42Z",
+  "fetched_at": "2026-08-19T12:32:12Z"
+}

@@ -1,0 +1,34 @@
+{
+  "barcode": "8908002753004",
+  "name": "Mishti Doi",
+  "brand": "Red Cow Dairy",
+  "quantity": "400g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:flavoured-fermented-dairy-desserts",
+    "en:flavoured-yogurts"
+  ],
+  "ingredients": "Milk, Sugar, Milk Solids, Water, \u0026 Active Lactic Culture. CONTAINS PERMITTED NATURAL COLOUR (INS 150a)",
+  "per_100g": {
+    "energy_kcal": 155,
+    "fat": 4.5,
+    "saturated_fat": 3,
+    "carbohydrates": 24.5,
+    "sugars": 18,
+    "fiber": null,
+    "protein": 4.2,
+    "salt": 0.14375,
+    "sodium": 0.0575
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T14:02:23Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

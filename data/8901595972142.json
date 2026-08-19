@@ -1,0 +1,30 @@
+{
+  "barcode": "8901595972142",
+  "name": "Veg Manchurian masala",
+  "brand": "Ching's secret",
+  "quantity": "20g",
+  "categories": [
+    "en:condiments",
+    "en:dried-products",
+    "en:dried-products-to-be-rehydrated",
+    "en:sauces",
+    "en:dehydrated-sauces"
+  ],
+  "ingredients": "Corn Flour, lodised Salt, Dehydrated Garlic, Sugar, Onion Powder, Soy Sauce Powder (Soybean, Wheat, Salt), Mixed Spices (2%) [Ginger, Cumin, Coriander, Chilli, Pepper], Natural Colour (INS 150d), Flavour Enhancer (INS 635), Sunflower Oil, Anticaking Agent (INS 551), Thickening \u0026 Stabilizing Agent (INS 415), Acidity Regulator (INS 260), Natural Flavouring Substances. ALLERGEN ADVICE: CONTAINS WHEAT AND SOY. May contain Peanuts, Tree Nuts, Sesame Seeds, Mustard and Milk (dairy products).",
+  "per_100g": {
+    "energy_kcal": 288,
+    "fat": 2.4,
+    "saturated_fat": 0.4,
+    "carbohydrates": 60.8,
+    "sugars": 15,
+    "fiber": null,
+    "protein": 5.7,
+    "salt": 19.335,
+    "sodium": 7.734
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T18:11:39Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

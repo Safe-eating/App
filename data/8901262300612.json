@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262300612",
+  "name": "Tender Coconut",
+  "brand": "amul",
+  "quantity": "67g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Milk solids, sugar, stabilizers (407, 466, 415, 412), coconut pieces (35%), water",
+  "per_100g": {
+    "energy_kcal": 237.313432835821,
+    "fat": 13.2835820895522,
+    "saturated_fat": 7.16417910447761,
+    "carbohydrates": 25.6716417910448,
+    "sugars": 25.3731343283582,
+    "fiber": null,
+    "protein": 3.88059701492537,
+    "salt": 0.119402985074627,
+    "sodium": 0.0477611940298507
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T08:26:13Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

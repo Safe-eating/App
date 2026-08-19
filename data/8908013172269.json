@@ -1,0 +1,31 @@
+{
+  "barcode": "8908013172269",
+  "name": "Strawberries \u0026 Cream Protein Milk Shake",
+  "brand": "Phab",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:milkshakes"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 69.5,
+    "fat": 2,
+    "saturated_fat": 0.35,
+    "carbohydrates": 4.5,
+    "sugars": 0.9,
+    "fiber": 1.25,
+    "protein": 9,
+    "salt": 0.1875,
+    "sodium": 0.075
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-27T01:56:24Z",
+  "fetched_at": "2026-08-19T13:14:41Z"
+}

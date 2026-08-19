@@ -1,0 +1,28 @@
+{
+  "barcode": "8904089974981",
+  "name": "Butterscotch Crunch",
+  "brand": "Heritage",
+  "quantity": "60 ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts"
+  ],
+  "ingredients": "Frozen Dessert: Water, Sugar, Milk Solids, Edible Vegetable Oil (Palm Kern Oil) \u0026 Edible Vegetable Fat (Interesterified fat). Liquid Glucose, Wheat Crispy. Vegetable Protein (Soy), Emulsifier \u0026 Stabilizers (INS 471, INS 412, INS 410, INS 407 \u0026 INS 401) Choco dip: Edible Vegetable Oil (Palm Kernel Oil, Palm Oil), Sugar, Cocoa Solids, Emulsifier (INS322) CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS102) AND ADDED ARTIFICIAL (BUTTERSCOTCH) FLAVOURING SUBSTANCE. \u0026quot;MEDIUM FAT FROZEN DESSERT\u0026quot; CONTAINS 7.0 % EDIBLE VEGETABLE OIL AND VEGETABLE PROTEIN PRODUCT",
+  "per_100g": {
+    "energy_kcal": 315.2,
+    "fat": 18.9,
+    "saturated_fat": 7.8,
+    "carbohydrates": 32.7,
+    "sugars": 22.8,
+    "fiber": null,
+    "protein": 3.5,
+    "salt": 0.2,
+    "sodium": 0.08
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-11-14T09:46:10Z",
+  "fetched_at": "2026-08-19T01:35:03Z"
+}

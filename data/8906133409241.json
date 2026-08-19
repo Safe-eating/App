@@ -1,0 +1,24 @@
+{
+  "barcode": "8906133409241",
+  "name": "Whey Protein Concentrate (Cocoa Edition)",
+  "brand": "Only What's Needed",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 387.878787878788,
+    "fat": 5.15151515151515,
+    "saturated_fat": 3.03030303030303,
+    "carbohydrates": 12.1212121212121,
+    "sugars": 3.33333333333333,
+    "fiber": 1.51515151515152,
+    "protein": 72.7272727272727,
+    "salt": 0.475,
+    "sodium": 0.19
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-18T10:40:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

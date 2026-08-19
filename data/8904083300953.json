@@ -1,0 +1,30 @@
+{
+  "barcode": "8904083300953",
+  "name": "MilkyMist Strawberry Milk Shake",
+  "brand": "Milky Mist",
+  "quantity": "220ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks"
+  ],
+  "ingredients": "Toned Milk (89%), Sugar, Milk Solids, Emulsifier \u0026 Stabilizer (INS 471, INS 407, INS 412, INS 415), Flavor (Nature Identical Flavoring Substances - Strawberry) Acidity Regulator [INS 339 (ii)], lodized Salt, Contains Permitted Synthetic Food Colour (INS 127).",
+  "per_100g": {
+    "energy_kcal": 117,
+    "fat": 4,
+    "saturated_fat": 2.5,
+    "carbohydrates": 17.1,
+    "sugars": 17.1,
+    "fiber": null,
+    "protein": 3.1,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T18:36:29Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906069721769",
+  "name": "Anand badamika",
+  "brand": "Anand",
+  "quantity": "225g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined wheat Flour, Sugar, Butter, Almond (14%), Milk Solids",
+  "per_100g": {
+    "energy_kcal": 493,
+    "fat": 25.7,
+    "saturated_fat": 18.6,
+    "carbohydrates": 55.5,
+    "sugars": 26.3,
+    "fiber": null,
+    "protein": 9.8,
+    "salt": 0.07325,
+    "sodium": 0.0293
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-14T00:34:07Z",
+  "fetched_at": "2026-08-19T12:42:32Z"
+}

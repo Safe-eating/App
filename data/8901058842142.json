@@ -1,0 +1,33 @@
+{
+  "barcode": "8901058842142",
+  "name": "a+ slim",
+  "brand": "Nestlé",
+  "quantity": "1 l",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:homogenized-milks",
+    "en:pasteurised-products",
+    "en:uht-milks",
+    "en:skimmed-milks",
+    "en:uht-skimmed-milks"
+  ],
+  "ingredients": "Skimmed Milk",
+  "per_100g": {
+    "energy_kcal": 34,
+    "fat": 0.2,
+    "saturated_fat": 0.1,
+    "carbohydrates": 5,
+    "sugars": 5,
+    "fiber": 0,
+    "protein": 3,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-28T12:04:42Z",
+  "fetched_at": "2026-08-19T00:26:31Z"
+}

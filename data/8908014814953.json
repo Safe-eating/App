@@ -1,0 +1,30 @@
+{
+  "barcode": "8908014814953",
+  "name": "Whole Wheat Bread",
+  "brand": "Mr Bakewell",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour Atta) 100% Water. Wheat Gluten. Yeast, Sunflower Oil, Sugar, lodised Salt, Soya Flour, Preservative (INS 282). Emulsifiers (INS 472e INS 471, INS 481) Antioxidant (INS 300), Enzymes.",
+  "per_100g": {
+    "energy_kcal": 238,
+    "fat": 1.1,
+    "saturated_fat": 0.42,
+    "carbohydrates": 39.65,
+    "sugars": 3.89,
+    "fiber": null,
+    "protein": 11.23,
+    "salt": 1.07,
+    "sodium": 0.428
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-08T12:10:19Z",
+  "fetched_at": "2026-08-19T13:16:43Z"
+}

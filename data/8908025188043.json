@@ -1,0 +1,30 @@
+{
+  "barcode": "8908025188043",
+  "name": "Triple Chocolate Ice-cream Cake",
+  "brand": "Get-A-Way",
+  "quantity": "750ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Triple Chocolate Ice Cream Cake Water, Dark Compound Chocolate (Sugar. Hydrogenated Vegetable Fat. Cocoa Solids, Hydrogenated Vegetable Oil Maltodextrin Emulsifiers (INS 492 INS 322, INS 478). lodized Salt) Premix (Chocolate Sponge): Refined Wheat Flour, Sugar, Milk Solids. Cocoa Solids, Refined Vegetable Oil (Sunflower), Baking Powder. Starch, Sall. Emulsifiers and Stabilizers (INS 471. INS 475. INS 477 \u0026 INS 415) Non Dairy Whipping Cream: Water, Sugar, Hydrogenated Paim Kernel Oil Cocoa Butter Substitute, Stabilizers (INS 475. INS 471. INS 461. INS 491. Soy Protein, Sodium Caseinate. INS 415. INS 412. INS 339(0), lodized Salt). Dextrose, Sorbitol, Emulsifier (INS 433) Non Dairy Cooking Cream Water. Hydrogenated Palm Kernel OIL. Liquid Glucose, Milk Solids. Stabilizers (INS 471, INS 481, INS 1450 INS 415. INS 412), Sodium Caseinate. Acidity Regulators (INS 331 (ii). INS 3390), Methocel K4M. Xanthum Gurn Milk Solids, Fructooligosaccharides. Coes Solids, Refined Sugar. Erythritol (INS 968), Maltodextrin (INS 1400), Butter. Stabilisers and Emulsifiers (INS 471 INS 412. INS 466, INS 407) Crystal Ace Rapeseed Oil. Emulsifiers (E477, E471, E322), Antioxidant (E304(i)) Edible Golden Balls Dextrose Corn Starch, Sugar, Confectioners Glaze Gum Arabic. Carnauba Wax, Synthetic Foods Colours (INS 102, INS 171). Propylene Glycol Esters of Fatty Acids(INS 477). CONTAINS PERMITTED NATURAL COLOUR(S) AND ADDED FLAVOUR (VANILLA)",
+  "per_100g": {
+    "energy_kcal": 251.26582278481,
+    "fat": 9.87341772151899,
+    "saturated_fat": 7.59493670886076,
+    "carbohydrates": 35.9493670886076,
+    "sugars": 22.0253164556962,
+    "fiber": null,
+    "protein": 4.81012658227848,
+    "salt": 0.770886075949367,
+    "sodium": 0.308354430379747
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-29T07:32:22Z",
+  "fetched_at": "2026-08-19T13:22:33Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8904256722698",
+  "name": "Madras Mixture",
+  "brand": "Tasties",
+  "quantity": "150 g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Gram Flour, Edible Vegetable Oil (Palmolein Oil), Rice Flour, Rice Flakes, Peanuts, Cashew Nuts, Roasted Bengal Gram, Curry Leaves, Iodised Salt, Chilli Powder, Asafoetida, Pepper Powder, Coriander Powder And Ajwain Powder.",
+  "per_100g": {
+    "energy_kcal": 571.1,
+    "fat": 37.7,
+    "saturated_fat": 14.5,
+    "carbohydrates": 44.4,
+    "sugars": 2.6,
+    "fiber": 2.7,
+    "protein": 13.5,
+    "salt": 0.67175,
+    "sodium": 0.2687
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-11-12T12:01:51Z",
+  "fetched_at": "2026-08-19T01:39:18Z"
+}

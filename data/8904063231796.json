@@ -1,0 +1,27 @@
+{
+  "barcode": "8904063231796",
+  "name": "NAVRATTAN",
+  "brand": "Haldiram Snacks Pvt. Ltd.",
+  "quantity": "420g",
+  "categories": [
+    "en:snacks",
+    "en:Ready-to-eat-savouries"
+  ],
+  "ingredients": "Gram Pulse Flour, Edible Vegetable Oil (Cotton Seed, Corn, Palmolein, Ground Nut and Rice Bran), Gram Pulse (26%), Lentil (16%), Peanuts (13%), Rice Flakes (7%), Potatoes, Tepary Beans Flour, lodised Salt, Black Salt Powder, Spinach Powder, Rice Powder, Edible Starch, *Spices \u0026 Condiments (Red Chilli Powder, Turmeric Powder, Mango Powder, Black Pepper Powder, Ginger Powder, Clove Powder, Mace Powder, Nutmeg Powder, Cumin Powder, Fenugreek Seeds Powder, Coriander Powder, Bay Leav Powder, Mint Leaves Powder, Cardamom Powder, Asafoeda Powder), Acidity Regulator (INS 330), Anticaking Agent (INS 551) and Synthetic Food Colour (INS 133). *Used as natural flavouring substances. Allergen Information: Contains Nut.",
+  "per_100g": {
+    "energy_kcal": 518.7,
+    "fat": 29.5,
+    "saturated_fat": 7.2,
+    "carbohydrates": 43,
+    "sugars": 2.7,
+    "fiber": 3.5,
+    "protein": 20.3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-22T21:52:25Z",
+  "fetched_at": "2026-08-19T01:30:29Z"
+}

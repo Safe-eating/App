@@ -1,0 +1,27 @@
+{
+  "barcode": "8906143891760",
+  "name": "protein powder",
+  "brand": "The whole truth protein powder",
+  "quantity": "210g",
+  "categories": [
+    "en:dairies",
+    "en:whey-powder"
+  ],
+  "ingredients": "whey protein blend,whey protein isolate,whey protein concentrate  (instantized with sunflower lecithin),whole milk powder,dates,cocoa,bromelain,monk fruit juice concentrate",
+  "per_100g": {
+    "energy_kcal": 397.428571428571,
+    "fat": 4.57142857142857,
+    "saturated_fat": 2.28571428571429,
+    "carbohydrates": 18.2857142857143,
+    "sugars": 8.57142857142857,
+    "fiber": 4.57142857142857,
+    "protein": 71.1428571428571,
+    "salt": 0.730714285714286,
+    "sodium": 0.292285714285714
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-18T12:41:21Z",
+  "fetched_at": "2026-08-19T12:59:40Z"
+}

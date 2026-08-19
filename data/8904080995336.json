@@ -1,0 +1,32 @@
+{
+  "barcode": "8904080995336",
+  "name": "Strawberry yogurt",
+  "brand": "Heritage,Live",
+  "quantity": "90g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts"
+  ],
+  "ingredients": "Milk, Milk solids, Suga , Stabilizer (INS 440), Nature Identical Flavouring substances, Food Color (INS 122), Active Lactic Cultures (Strep thermophilus, Lactobacillus debent subsp. bulgaricus)",
+  "per_100g": {
+    "energy_kcal": 97.2,
+    "fat": 0,
+    "saturated_fat": 1.1,
+    "carbohydrates": 15.2,
+    "sugars": 8.8,
+    "fiber": null,
+    "protein": 5.5,
+    "salt": 0.1325,
+    "sodium": 0.053
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-11T05:34:25Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

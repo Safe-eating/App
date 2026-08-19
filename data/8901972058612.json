@@ -1,0 +1,31 @@
+{
+  "barcode": "8901972058612",
+  "name": "Waffy Chocolate",
+  "brand": "Dukes",
+  "quantity": "60 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, HYDROGENATED OILS, MALTODEXTRIN, COCOA SOLIDS (1.5 %), EMULSIFIER [INS 322(1)], ARTIFICIAL FLAVOURING SUBSTANCES (CHOCOLATE, VANILLA), IODIZED SALT, RAISING AGENT [INS 500 (ii)], COLOUR (INS 150d), FLOUR TREATMENT AGENTS (INS 223, INS 1100, INS 1101).",
+  "per_100g": {
+    "energy_kcal": 500,
+    "fat": 23.33,
+    "saturated_fat": 10,
+    "carbohydrates": 70,
+    "sugars": 46.67,
+    "fiber": 0,
+    "protein": 3.33,
+    "salt": 0.2075,
+    "sodium": 0.083
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-10-27T22:54:01Z",
+  "fetched_at": "2026-08-19T01:11:07Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8901088884174",
+  "name": "Soya Mini Chunks",
+  "brand": "Saffola",
+  "quantity": "",
+  "categories": [
+    "en:Soyabean"
+  ],
+  "ingredients": "Defatted Soya",
+  "per_100g": {
+    "energy_kcal": 312,
+    "fat": 1,
+    "saturated_fat": 0.3,
+    "carbohydrates": 30.2,
+    "sugars": 2.9,
+    "fiber": 15.5,
+    "protein": 53,
+    "salt": 1.10275,
+    "sodium": 0.4411
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-13T05:09:57Z",
+  "fetched_at": "2026-08-19T00:36:54Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8906069407151",
+  "name": "Wok Tok Korean Noodles",
+  "brand": "Wok Tok",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 444.94,
+    "fat": 19.32,
+    "saturated_fat": 4.63,
+    "carbohydrates": 60.88,
+    "sugars": 1.88,
+    "fiber": 5.33,
+    "protein": 9.55,
+    "salt": 3.1525,
+    "sodium": 1.261
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-15T19:06:38Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

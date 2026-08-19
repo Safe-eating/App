@@ -1,0 +1,35 @@
+{
+  "barcode": "8904335601005",
+  "name": "Crunchy Dark Chocolate Peanut Butter",
+  "brand": "Yoga Bar",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:crunchy-peanut-butters",
+    "en:Dark-chocolate-crunchy-peanut-butter"
+  ],
+  "ingredients": "Roasted Peanut 72% (Peanut Butter and Peanut Chunks), Dark Chocolate Compound 20% (Sugar, Vegetable Palm Oil, Cocoa Solids \u0026 Emulsifier (Lecithin, Polyglycerol Polyricinoleate), Natural Flavours), Sugar, Emulsifier and Stabiliser (Mono \u0026 diglycerides of fatty acids), Salt, Hydrogenated Soyabean Oil",
+  "per_100g": {
+    "energy_kcal": 620,
+    "fat": 47,
+    "saturated_fat": 13.7,
+    "carbohydrates": 30.5,
+    "sugars": 14.3,
+    "fiber": null,
+    "protein": 21.5,
+    "salt": 0.8,
+    "sodium": 0.32
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-11T12:33:12Z",
+  "fetched_at": "2026-08-19T01:44:02Z"
+}

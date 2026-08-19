@@ -1,0 +1,30 @@
+{
+  "barcode": "8908010609348",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "Thai sticky rice (85%), black sesame (10%). salt (3%), rice bran oil (2%)",
+  "per_100g": {
+    "energy_kcal": 401.7,
+    "fat": 4.25,
+    "saturated_fat": 0.1,
+    "carbohydrates": 86.2,
+    "sugars": 0.5,
+    "fiber": 4.4,
+    "protein": 6.15,
+    "salt": 0.9675,
+    "sodium": 0.387
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-20T04:52:06Z",
+  "fetched_at": "2026-08-19T13:12:35Z"
+}

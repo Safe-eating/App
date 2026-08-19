@@ -1,0 +1,24 @@
+{
+  "barcode": "8906054210018",
+  "name": "Jeera Cumin khakhra",
+  "brand": "SHANTA G",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 440,
+    "fat": 21.9,
+    "saturated_fat": 9.9,
+    "carbohydrates": 63,
+    "sugars": 5,
+    "fiber": 9.8,
+    "protein": 9.7,
+    "salt": 2.75,
+    "sodium": 1.1
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-03T07:58:13Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

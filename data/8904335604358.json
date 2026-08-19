@@ -1,0 +1,28 @@
+{
+  "barcode": "8904335604358",
+  "name": "Power Up Choco Peanut Butter Bar",
+  "brand": "Yoga Bar",
+  "quantity": "70g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 360,
+    "fat": 13.7142857142857,
+    "saturated_fat": 8,
+    "carbohydrates": 44.1428571428571,
+    "sugars": 3,
+    "fiber": 18.1428571428571,
+    "protein": 28.5714285714286,
+    "salt": 0.0967857142857143,
+    "sodium": 0.0387142857142857
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-17T17:30:02Z",
+  "fetched_at": "2026-08-19T01:44:36Z"
+}

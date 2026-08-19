@@ -1,0 +1,34 @@
+{
+  "barcode": "8906020461307",
+  "name": "Crem Bites",
+  "brand": "Harvest Gold",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:confectioneries",
+    "en:biscuits",
+    "en:cakes",
+    "en:wafers",
+    "en:Eggless cakes"
+  ],
+  "ingredients": "Cake (76%): Refined Wheat flour (Maida), Sugar, Liquid Glucose, Humectant (422,420(i)), Refined Vegetable Oil (Palmolein), Milk Solids, Food Colour (150d), Cake Gel (Water, Emulsifiers (471, 477)), Cocoa Solids (1%), Corn Starch, Raising Agents (5000), 50300), 45000) lodized Salt Preservatives (202, 200, 281, 223), Stabilizer (415), Emulsifiers (47000), 472e, 475, 322001, Acidity Regulators (270, 341, 330), Nature-Identical Flavouring Substances Center Creme (24%): Sugar, Hydrogenated Vegetable Fat, Liquid Glucose, Humectant (422) Cocoa Solids (2.5%), Milk Solids, Food Colour (150d), Emulsifier (322(0), Preservative (202) lodized Salt, Nature-Identical Flavouring Substances\u0026quot; (Numbers referred above are as per International Numbering System) Contains Wheat, Soy and Milk",
+  "per_100g": {
+    "energy_kcal": 454.9,
+    "fat": 18.5,
+    "saturated_fat": 8.13,
+    "carbohydrates": 68.1,
+    "sugars": 21.08,
+    "fiber": 0.93,
+    "protein": 4,
+    "salt": 0.7275,
+    "sodium": 0.291
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-30T19:09:24Z",
+  "fetched_at": "2026-08-19T02:07:28Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8906064651511",
+  "name": "Cheesy Chipotle Sauce",
+  "brand": "Wingreens Farms",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 398.4,
+    "fat": 37.9333333333333,
+    "saturated_fat": 6.4,
+    "carbohydrates": 13,
+    "sugars": 10.6,
+    "fiber": null,
+    "protein": 1.2,
+    "salt": 3.445,
+    "sodium": 1.378
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T15:52:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

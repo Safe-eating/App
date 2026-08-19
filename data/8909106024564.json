@@ -1,0 +1,29 @@
+{
+  "barcode": "8909106024564",
+  "name": "HORLICKS",
+  "brand": "Horlicks",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:energy-drinks",
+    "en:energy-drink-with-sugar"
+  ],
+  "ingredients": "Malt (65.6%) [Barley (31.3%), Wheat Flour (Atta), Wheat, Millet), Milk Solids (14%), Sugar, Wheat Gluten",
+  "per_100g": {
+    "energy_kcal": 377,
+    "fat": 2,
+    "saturated_fat": 1.2,
+    "carbohydrates": 79,
+    "sugars": 46,
+    "fiber": 0,
+    "protein": 11,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-07T03:00:05Z",
+  "fetched_at": "2026-08-19T13:23:36Z"
+}

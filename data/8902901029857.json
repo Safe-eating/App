@@ -1,0 +1,33 @@
+{
+  "barcode": "8902901029857",
+  "name": "Good Life MP Sharbati Atta",
+  "brand": "Good Life",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:flours",
+    "en:cereal-flours",
+    "en:wheat-flours",
+    "en:whole-wheat-flours"
+  ],
+  "ingredients": "Wheat Flour (Atta)",
+  "per_100g": {
+    "energy_kcal": 321,
+    "fat": 1.5,
+    "saturated_fat": 0.2,
+    "carbohydrates": 64.2,
+    "sugars": 1.8,
+    "fiber": 11.4,
+    "protein": 10.6,
+    "salt": 0.005,
+    "sodium": 0.002
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-04T09:57:54Z",
+  "fetched_at": "2026-08-19T01:17:55Z"
+}

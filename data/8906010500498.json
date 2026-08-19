@@ -1,0 +1,36 @@
+{
+  "barcode": "8906010500498",
+  "name": "balaji wafers tomato twist",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:chip"
+  ],
+  "ingredients": "Potato (87%). Edible Vegetable Oil (Palmolein), Sugar, iodized Salt, Maltodextrin, Spices \u0026 Condiments (Chilli Powder, Cumin Powder, Clove Powder, Cinnamon), Dehydrated Vegetable Powder (Tomato (1%), Onion, Garlic), Acidity Regulator (INS 296, INS 330), Anticaking Agent (INS 551), Flavour Enhancer (INS 627, INS 631).",
+  "per_100g": {
+    "energy_kcal": 556,
+    "fat": 33.8,
+    "saturated_fat": 16,
+    "carbohydrates": 53.5,
+    "sugars": 6,
+    "fiber": null,
+    "protein": 6.5,
+    "salt": 1.7275,
+    "sodium": 0.691
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-30T18:03:15Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

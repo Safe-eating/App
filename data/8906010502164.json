@@ -1,0 +1,28 @@
+{
+  "barcode": "8906010502164",
+  "name": "Katak Batak - Chilli Lemon",
+  "brand": "Balaji Wafers",
+  "quantity": "48g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers"
+  ],
+  "ingredients": "Peanut (52%), Wheat Flour (Atta), Corn Starch, Edible Vegetable Oil (Palmolein, Rice Bran), Sugar, Maltodextrin, Edible Common Salt, Chilli Powder (2.0%), Black Salt, Dehydrated Vegetable Powder (Garlic, Onion, Lemon (0.4%)), Hydrolyzed Vegetable Protein (Soya), Acidity Regulator (INS 330), Flavour Enhancer (INS 627, INS 631), Yeast Extract, Oregano, Natural \u0026 Nature Identical Flavouring Substances (Chilli, Lemon), Paprika Extract (INS 160C)",
+  "per_100g": {
+    "energy_kcal": 624,
+    "fat": 45,
+    "saturated_fat": 12,
+    "carbohydrates": 32,
+    "sugars": 8,
+    "fiber": null,
+    "protein": 19,
+    "salt": 1.725,
+    "sodium": 0.69
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-17T09:25:27Z",
+  "fetched_at": "2026-08-19T02:01:41Z"
+}

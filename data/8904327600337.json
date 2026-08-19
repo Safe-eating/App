@@ -1,0 +1,36 @@
+{
+  "barcode": "8904327600337",
+  "name": "CHOCOLATE PEANUT BUTTER",
+  "brand": "MYFITNESS",
+  "quantity": "510g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:nuts-and-their-products",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:nut-butters",
+    "en:peanut-butters",
+    "en:chocolate-peanut-butter"
+  ],
+  "ingredients": "Roasted Peanuts (83%), Dark Chocolate (10%), Sugar, Salt, Stabilizer (INS 471)",
+  "per_100g": {
+    "energy_kcal": 637,
+    "fat": 50,
+    "saturated_fat": 12,
+    "carbohydrates": 24,
+    "sugars": 12,
+    "fiber": 9,
+    "protein": 23,
+    "salt": 0.34,
+    "sodium": 0.136
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-26T12:37:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

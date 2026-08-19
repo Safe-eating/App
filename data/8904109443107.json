@@ -1,0 +1,26 @@
+{
+  "barcode": "8904109443107",
+  "name": "Patanjali Moong Dal",
+  "brand": "Patanjali",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Split green Gram (78%), Cotton seed oil, Edible common salt, Acidity regulator (INS 330)",
+  "per_100g": {
+    "energy_kcal": 478,
+    "fat": 21.2,
+    "saturated_fat": 5.7,
+    "carbohydrates": 46.9,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 24.95,
+    "salt": 2.27,
+    "sodium": 0.908
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-05T06:14:39Z",
+  "fetched_at": "2026-08-19T01:35:13Z"
+}

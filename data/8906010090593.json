@@ -1,0 +1,35 @@
+{
+  "barcode": "8906010090593",
+  "name": "Natural Cheddar slices",
+  "brand": "D'lecta",
+  "quantity": "200 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:cow-cheeses",
+    "en:cheeses-from-the-united-kingdom",
+    "en:cheeses-from-england",
+    "en:sliced-cheeses",
+    "en:cheddar-cheese",
+    "en:cheddar-slices"
+  ],
+  "ingredients": "Pasteurized Cow's Milk, Pasteurized Skim Milk, lodised Salt, Stabilizer (INS 509), Microbial Culture \u0026 Microbial Rennet",
+  "per_100g": {
+    "energy_kcal": 391.6,
+    "fat": 29.84,
+    "saturated_fat": 20.74,
+    "carbohydrates": 7,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 23.69,
+    "salt": 0.000825,
+    "sodium": 0.00033
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-20T03:48:33Z",
+  "fetched_at": "2026-08-19T01:59:11Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906014640053",
+  "name": "Dalda",
+  "brand": "Dalda",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fats",
+    "en:vegetable-fats",
+    "en:vegetable-oils"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 62,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-28T11:23:42Z",
+  "fetched_at": "2026-08-19T02:03:45Z"
+}

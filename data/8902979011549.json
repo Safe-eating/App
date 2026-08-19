@@ -1,0 +1,26 @@
+{
+  "barcode": "8902979011549",
+  "name": "Badam Flavoured Milk",
+  "brand": "Cavin's",
+  "quantity": "170ml",
+  "categories": [
+    "en:Almond milkshakes"
+  ],
+  "ingredients": "Double toned milk, Sugar, Almond bits (0.4%), Flavour (Artificial (Badam) Flavouring substance), Sequestrant (INS 339 (i)), Stabilizer (INS 407), Synthetic food color (INS 102, INS 110). Allergen advice: Contains milk and nuts",
+  "per_100g": {
+    "energy_kcal": 85.1,
+    "fat": 1.5,
+    "saturated_fat": 1,
+    "carbohydrates": 14.7,
+    "sugars": 14.6,
+    "fiber": null,
+    "protein": 3.2,
+    "salt": 0.145,
+    "sodium": 0.058
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-22T11:49:14Z",
+  "fetched_at": "2026-08-19T01:19:27Z"
+}

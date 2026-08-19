@@ -1,0 +1,31 @@
+{
+  "barcode": "8906005500557",
+  "name": "Bikaji Peanuts",
+  "brand": "Bikaji",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:peanuts"
+  ],
+  "ingredients": "Peanut (95%), Edible Vegetable Oil (Palmolein Oil, Cottonseed Oil), Iodized Salt (1.5%)",
+  "per_100g": {
+    "energy_kcal": 637.5,
+    "fat": 47.5,
+    "saturated_fat": 7.5,
+    "carbohydrates": 20,
+    "sugars": 2.5,
+    "fiber": 5,
+    "protein": 25,
+    "salt": 1.2625,
+    "sodium": 0.505
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T15:27:57Z",
+  "fetched_at": "2026-08-19T01:51:14Z"
+}

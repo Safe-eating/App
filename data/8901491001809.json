@@ -1,0 +1,30 @@
+{
+  "barcode": "8901491001809",
+  "name": "Lay's Sizzlin Hot",
+  "brand": "Lay's",
+  "quantity": "52.9g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "Potatoes\r\n\r\nEdible Vegetable Oils: Palmolein and Rice Bran Oil\r\n\r\nSeasoning, which includes:\r\n\r\nMaltodextrin\r\n\r\nSpices and Condiments (including onion and garlic)\r\n\r\nSugar\r\n\r\nIodised Salt\r\n\r\nAcidity Regulator (E330)\r\n\r\nDehydrated Vegetable (Beetroot Powder)\r\n\r\nNatural Flavouring Substances\r\n\r\nButtermilk Powder\r\n\r\nAnticaking Agent (E551)\r\n\r\nFlavour Enhancers (E627 and E631)",
+  "per_100g": {
+    "energy_kcal": 538,
+    "fat": 33,
+    "saturated_fat": 12.5,
+    "carbohydrates": 53.9,
+    "sugars": 2.3,
+    "fiber": null,
+    "protein": 6.6,
+    "salt": 1.3875,
+    "sodium": 0.555
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-17T17:51:26Z",
+  "fetched_at": "2026-08-19T00:48:54Z"
+}

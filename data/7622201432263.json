@@ -1,0 +1,30 @@
+{
+  "barcode": "7622201432263",
+  "name": "Oreo Cricket Edition",
+  "brand": "Cadbury",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Fractionated Fat, Palmolein, Cocoa Solids (3%*), Invert Sugar, Leavening Agents (500(ii),503 (ii)), Starch, lodised Salt, Emulsifier (322), Nature Identical Flavouring Substances.",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 19.7,
+    "saturated_fat": 9.8,
+    "carbohydrates": 71.4,
+    "sugars": 38,
+    "fiber": 0,
+    "protein": 5.3,
+    "salt": 1.05,
+    "sodium": 0.42
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-16T13:08:42Z",
+  "fetched_at": "2026-08-19T00:07:28Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8906020460027",
+  "name": "White Bread",
+  "brand": "Harvest Gold",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:white-breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 227,
+    "fat": 0.52,
+    "saturated_fat": 0.1,
+    "carbohydrates": 49,
+    "sugars": 3,
+    "fiber": 2.9,
+    "protein": 6.57,
+    "salt": 1.2425,
+    "sodium": 0.497
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2023-09-15T07:43:03Z",
+  "fetched_at": "2026-08-19T02:07:00Z"
+}

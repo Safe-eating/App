@@ -1,0 +1,30 @@
+{
+  "barcode": "7622202325991",
+  "name": "50% Dark Chocolate",
+  "brand": "Cadbury Bournville",
+  "quantity": "75",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 543,
+    "fat": 34.3,
+    "saturated_fat": 23,
+    "carbohydrates": 56.9,
+    "sugars": 45.1,
+    "fiber": null,
+    "protein": 5.6,
+    "salt": 0.0395,
+    "sodium": 0.0158
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-02T09:48:15Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

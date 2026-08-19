@@ -1,0 +1,30 @@
+{
+  "barcode": "8906009077277",
+  "name": "Butter cookies",
+  "brand": "Unibic",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Butter (20%), With Maltitol, Leavening Agents, Sweetener, Emulsifier, Salt.",
+  "per_100g": {
+    "energy_kcal": 490,
+    "fat": 22.8,
+    "saturated_fat": 14.6,
+    "carbohydrates": 65,
+    "sugars": 0.5,
+    "fiber": null,
+    "protein": 6.3,
+    "salt": 0.2125,
+    "sodium": 0.085
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-10T10:09:03Z",
+  "fetched_at": "2026-08-19T01:57:05Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8906190000047",
+  "name": "Pista Badam Drink Mix",
+  "brand": "Rajam",
+  "quantity": "200g",
+  "categories": [
+    "en:Drink mix",
+    "en:Milk drink"
+  ],
+  "ingredients": "SUGAR, MAIZE STARCH, PISTA BITS (3%), BADAM BITS (3%), CASHEW BITS (2%), MILK POWDER, CARDAMOM.\r\n\r\nCONTAINS PERMITTED NATURAL COLOURS (INS100 \u0026 INS141) AND ADDED NATURAL IDENTICAL FLAVOURING SUBSTANCES-PISTA FLAVOUR",
+  "per_100g": {
+    "energy_kcal": 401,
+    "fat": 1,
+    "saturated_fat": 0,
+    "carbohydrates": 96,
+    "sugars": 85,
+    "fiber": null,
+    "protein": 2,
+    "salt": 0.12,
+    "sodium": 0.048
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-10T16:18:13Z",
+  "fetched_at": "2026-08-19T13:03:17Z"
+}

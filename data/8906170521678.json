@@ -1,0 +1,24 @@
+{
+  "barcode": "8906170521678",
+  "name": "Pea Protein Isolate Unflavoured",
+  "brand": "Nutrabay",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 354.21,
+    "fat": 1.52,
+    "saturated_fat": 0.3,
+    "carbohydrates": 8.48,
+    "sugars": 2.55,
+    "fiber": null,
+    "protein": 76.66,
+    "salt": 3.325,
+    "sodium": 1.33
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-07T04:57:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

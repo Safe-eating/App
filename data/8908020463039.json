@@ -1,0 +1,26 @@
+{
+  "barcode": "8908020463039",
+  "name": "natkhat masala",
+  "brand": "crax",
+  "quantity": "82g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Semolina (67%), Edible Vegetable Oil (Refined Palmolein Oil), *Seasoning [Sugar, lodised Salt, Rice Flour, Onion Powder, Chilli, Mango Juice Powder, Hydrolysed Soy Protein, Cumin, Coriander, Garlic Powder Palm Oil, Anticaking Agent (INS 561), Flavour Enhancers (INS 627, INS 631), Spice Extract], Wheat Bran, Flavour(s) (Natural \u0026 Nature Identical Flavouring Substances) *Used as part of flavouring agent Contains Wheat and Soy May Contains Milk TRANS FAT FREE",
+  "per_100g": {
+    "energy_kcal": 480,
+    "fat": 20,
+    "saturated_fat": 9,
+    "carbohydrates": 66,
+    "sugars": 5,
+    "fiber": null,
+    "protein": 9,
+    "salt": 3.4,
+    "sodium": 1.36
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-28T10:14:06Z",
+  "fetched_at": "2026-08-19T13:20:27Z"
+}

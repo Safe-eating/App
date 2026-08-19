@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719100369",
+  "name": "Parle Bis Hide \u0026seek",
+  "brand": "Parle",
+  "quantity": "33 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, CHOCO CHIPS (17.3%) ISUGAR, EDIBLE VEGETABLE FAT (HYDROGENATED OILS), COCOA SOLIDS, DEXTROSE, EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA)], REFINED PALM DIL, CHOCOLATE (5.8%) [SUGAR, COCOA SOLIDS, COCOA BUTTER, DEXTROSE EMULSIFIER OF EGETABLE ORIGIN (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES-VANILLAJ. VERT SOGAR SYRUP, RAISING AGENTS (503(1), 500], COCOA SOLIDS, IODISED SALT AND JULSIFIER OF VEGETABLE ORIGIN [472e]. VIAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA) TAINS: WHEAT. SOY MEADE OONOTION MODE",
+  "per_100g": {
+    "energy_kcal": 161.3,
+    "fat": 3.3,
+    "saturated_fat": 2.5,
+    "carbohydrates": 29.7,
+    "sugars": 29.6,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.455,
+    "sodium": 0.182
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-10T05:03:37Z",
+  "fetched_at": "2026-08-19T00:59:14Z"
+}

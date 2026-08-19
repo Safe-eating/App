@@ -1,0 +1,33 @@
+{
+  "barcode": "8901722066355",
+  "name": "Frozen sweet corn",
+  "brand": "Safal",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:frozen-foods",
+    "en:cereals-and-their-products",
+    "en:frozen-plant-based-foods",
+    "en:frozen-cereals",
+    "en:frozen-corn"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 88,
+    "fat": 0.7,
+    "saturated_fat": 0.1,
+    "carbohydrates": 16,
+    "sugars": 3,
+    "fiber": 3,
+    "protein": 3,
+    "salt": 0.0375,
+    "sodium": 0.015
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-25T08:35:38Z",
+  "fetched_at": "2026-08-19T01:02:52Z"
+}

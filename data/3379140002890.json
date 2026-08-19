@@ -1,0 +1,32 @@
+{
+  "barcode": "3379140002890",
+  "name": "Lijjat Papad",
+  "brand": "Lijjat",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:breads",
+    "en:flatbreads",
+    "en:special-breads",
+    "en:papadum"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 326,
+    "fat": 0.56,
+    "saturated_fat": 0.5,
+    "carbohydrates": 59.02,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 20.94,
+    "salt": 1.39,
+    "sodium": 0.556
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-03T10:49:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

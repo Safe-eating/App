@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719101038",
+  "name": "Parle - G",
+  "brand": "Parle",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 460.992907801418,
+    "fat": 12.4113475177305,
+    "saturated_fat": 6.20567375886525,
+    "carbohydrates": 78.0141843971631,
+    "sugars": 24.822695035461,
+    "fiber": 1.77304964539007,
+    "protein": 7.09219858156028,
+    "salt": 0.75354609929078,
+    "sodium": 0.301418439716312
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T14:34:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

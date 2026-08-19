@@ -1,0 +1,31 @@
+{
+  "barcode": "8904004400069",
+  "name": "Halirams Bhujiya sev 1kg",
+  "brand": "Haldiram's, haldirams",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:spices"
+  ],
+  "ingredients": "Tapary Beans Flour (43%), Edible Vegetable Oil, Gram Pulse Flour (12%), Edible Common Salt Powder, Black Pepper Powder, Ginger Powder, Clove Powder, Mace Powder, Nutmeg Powder \u0026 Cardamom Powder",
+  "per_100g": {
+    "energy_kcal": 592,
+    "fat": 43.5,
+    "saturated_fat": 11.5,
+    "carbohydrates": 37.14,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 12.93,
+    "salt": 0.771,
+    "sodium": 0.3084
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-19T02:04:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

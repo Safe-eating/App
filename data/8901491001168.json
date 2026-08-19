@@ -1,0 +1,28 @@
+{
+  "barcode": "8901491001168",
+  "name": "Masala munch",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 558,
+    "fat": 34.6,
+    "saturated_fat": 15.6,
+    "carbohydrates": 55.2,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 2.23,
+    "sodium": 0.892
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-04T15:27:12Z",
+  "fetched_at": "2026-08-19T00:48:50Z"
+}

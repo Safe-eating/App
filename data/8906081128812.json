@@ -1,0 +1,26 @@
+{
+  "barcode": "8906081128812",
+  "name": "Dryfruit Bar",
+  "brand": "Happilo",
+  "quantity": "15g",
+  "categories": [
+    "en:Dry fruits"
+  ],
+  "ingredients": "Cashews, Dates,  Walnuts, Almonds, Ragi Crispies \u0026 Nutmeg.",
+  "per_100g": {
+    "energy_kcal": 84,
+    "fat": 5.9,
+    "saturated_fat": 0.9,
+    "carbohydrates": 5.5,
+    "sugars": 4.1,
+    "fiber": 0.6,
+    "protein": 2.3,
+    "salt": 0.0115,
+    "sodium": 0.0046
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-09-04T16:56:46Z",
+  "fetched_at": "2026-08-19T12:46:48Z"
+}

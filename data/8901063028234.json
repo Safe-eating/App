@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063028234",
+  "name": "",
+  "brand": "Brittania",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 463,
+    "fat": 15,
+    "saturated_fat": 8,
+    "carbohydrates": 76,
+    "sugars": 28.8,
+    "fiber": null,
+    "protein": 6,
+    "salt": 0.6875,
+    "sodium": 0.275
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-24T02:51:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

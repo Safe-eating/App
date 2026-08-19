@@ -1,0 +1,30 @@
+{
+  "barcode": "8908014814120",
+  "name": "Hotdog bun",
+  "brand": "Mr Bakewell",
+  "quantity": "160g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida) Water, Sugar, Yeast, Refined Palm Oil, lodized Salt, Flour Improver Emulsifiers, DATEM (INS472e), Calcium Propionate (INS282), Gluten.",
+  "per_100g": {
+    "energy_kcal": 314,
+    "fat": 5.58,
+    "saturated_fat": 2.78,
+    "carbohydrates": 59.25,
+    "sugars": 7.41,
+    "fiber": 1.35,
+    "protein": 7.4,
+    "salt": 0.79625,
+    "sodium": 0.3185
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-07T11:23:33Z",
+  "fetched_at": "2026-08-19T13:16:15Z"
+}

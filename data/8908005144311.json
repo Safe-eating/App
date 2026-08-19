@@ -1,0 +1,28 @@
+{
+  "barcode": "8908005144311",
+  "name": "yoga bar 20g protein hazelnut",
+  "brand": "Yoga bar",
+  "quantity": "",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-bars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 464.285714285714,
+    "fat": 23,
+    "saturated_fat": 4.42857142857143,
+    "carbohydrates": 34.5714285714286,
+    "sugars": 8.57142857142857,
+    "fiber": 14.2857142857143,
+    "protein": 29.7142857142857,
+    "salt": 1.08928571428571,
+    "sodium": 0.435714285714286
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-28T12:32:40Z",
+  "fetched_at": "2026-08-19T13:09:07Z"
+}

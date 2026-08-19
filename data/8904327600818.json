@@ -1,0 +1,24 @@
+{
+  "barcode": "8904327600818",
+  "name": "Peanut Butter",
+  "brand": "My Fitness",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 640.625,
+    "fat": 50,
+    "saturated_fat": 12.5,
+    "carbohydrates": 21.875,
+    "sugars": 6.25,
+    "fiber": 6.25,
+    "protein": 25,
+    "salt": 0.5625,
+    "sodium": 0.225
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-22T02:56:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

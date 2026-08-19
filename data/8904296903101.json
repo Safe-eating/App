@@ -1,0 +1,29 @@
+{
+  "barcode": "8904296903101",
+  "name": "Lemon pickle",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles",
+    "en:plant-based-pickles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 146.77,
+    "fat": 11.77,
+    "saturated_fat": 3.08,
+    "carbohydrates": 8.33,
+    "sugars": 1.6,
+    "fiber": null,
+    "protein": 1.88,
+    "salt": 10.387975,
+    "sodium": 4.15519
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-18T17:47:09Z",
+  "fetched_at": "2026-08-19T01:41:56Z"
+}

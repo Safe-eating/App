@@ -1,0 +1,35 @@
+{
+  "barcode": "8939116506682",
+  "name": "Yum Nuts Peanut Chikki",
+  "brand": "Yum Nuts",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:nuts-and-their-products",
+    "en:bars",
+    "en:nut-bars",
+    "en:peanut-bars",
+    "xx:chikki"
+  ],
+  "ingredients": "Roasted Peanuts, Jaggery, Sugar \u0026 Liquid Glucose",
+  "per_100g": {
+    "energy_kcal": 546,
+    "fat": 37.5,
+    "saturated_fat": 32.8,
+    "carbohydrates": 35.8,
+    "sugars": 23.5,
+    "fiber": null,
+    "protein": 16.4,
+    "salt": 0.03175,
+    "sodium": 0.0127
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-20T14:28:07Z",
+  "fetched_at": "2026-08-19T13:25:08Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8906002008551",
+  "name": "Pasta \u0026 Pizza Red Sauce",
+  "brand": "Dr. Oetker, Funfood",
+  "quantity": "100g",
+  "categories": [
+    "en:Pasta \u0026 pizaa red souce"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 220.7,
+    "fat": 11,
+    "saturated_fat": 1.9,
+    "carbohydrates": 28.1,
+    "sugars": 22,
+    "fiber": null,
+    "protein": 2.4,
+    "salt": 4515.25,
+    "sodium": 1806.1
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-08T10:38:38Z",
+  "fetched_at": "2026-08-19T01:50:13Z"
+}

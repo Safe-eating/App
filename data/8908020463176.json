@@ -1,0 +1,26 @@
+{
+  "barcode": "8908020463176",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:crax crunchy pipes"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 502,
+    "fat": 24.2,
+    "saturated_fat": 11.2,
+    "carbohydrates": 64.6,
+    "sugars": 2.4,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 2.7825,
+    "sodium": 1.113
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-17T13:45:30Z",
+  "fetched_at": "2026-08-19T13:20:29Z"
+}

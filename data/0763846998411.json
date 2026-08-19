@@ -1,0 +1,36 @@
+{
+  "barcode": "0763846998411",
+  "name": "Classic Pizza Sauce",
+  "brand": "The Gourmet Jar",
+  "quantity": "390g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:pizza-sauces",
+    "en:tomato-sauces-for-pizzas"
+  ],
+  "ingredients": "Tomatoes (84%), Onion, Garlic, Tomato Paste, Salt, Raw Sugar (Khand-1.5%), Olive Oil, Spices and condiments",
+  "per_100g": {
+    "energy_kcal": 91,
+    "fat": 1.7,
+    "saturated_fat": 0.1,
+    "carbohydrates": 19,
+    "sugars": 10.8,
+    "fiber": 1.4375,
+    "protein": 3,
+    "salt": 0.87694140625,
+    "sodium": 0.3505597625
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-23T11:24:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

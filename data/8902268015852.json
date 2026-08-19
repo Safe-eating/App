@@ -1,0 +1,24 @@
+{
+  "barcode": "8902268015852",
+  "name": "Top ROYALE Butter \u0026 CHEESE",
+  "brand": "Anmol",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 504.5,
+    "fat": 23.7,
+    "saturated_fat": 11.8,
+    "carbohydrates": 65.5,
+    "sugars": 10.1,
+    "fiber": null,
+    "protein": 7.3,
+    "salt": 1.3925,
+    "sodium": 0.557
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-27T08:50:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

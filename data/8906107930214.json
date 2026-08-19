@@ -1,0 +1,30 @@
+{
+  "barcode": "8906107930214",
+  "name": "chat-patt fry noodles",
+  "brand": "C-TOP",
+  "quantity": "20g+2g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles",
+    "en:Food"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Edible Vegetable Oil (Palmolein Oil), Edible Starch, Rice Flour, lodized Salt, Sugar, Chilli Powder, Dried Mango Powder, Black Salt, Maltodextrin, Acidity Regulator (INS 330), Flavour Enhancers (INS 627, INS 631), Anticaking Agent (INS 551), Ground Spices \u0026 Condiments (Black Pepper, Clove, Cardamom, Cumin, Nutmeg \u0026 Cinnamon in Powder Form) CONTAINS ADDED FLAVOURS - NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES - TOP *** - TOP *** C-TOP C-TOP C-10P \u0026quot;C-TOP Chat-Patt\u0026quot; is registered trade mark. All rights reserved. Imitation of Packaging Graphics is a Punishable Offence. Please Keep Your C realme P1 5G 27mm f/1.8 1/20s ISO6400 CUROP",
+  "per_100g": {
+    "energy_kcal": 517,
+    "fat": 27.6,
+    "saturated_fat": 12.6,
+    "carbohydrates": 58.6,
+    "sugars": 5.9,
+    "fiber": null,
+    "protein": 8.8,
+    "salt": 0.768,
+    "sodium": 0.3072
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-30T14:44:53Z",
+  "fetched_at": "2026-08-19T12:50:29Z"
+}

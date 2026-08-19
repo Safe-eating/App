@@ -1,0 +1,26 @@
+{
+  "barcode": "8908024057357",
+  "name": "Millet namkeen mango achari",
+  "brand": "Eat better co",
+  "quantity": "32gm",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Peanuts 27%, Jowar flakes 14.3% Jowar,Rice), Ragi crisp 13.4% (Pagi,Rice), Rice crisps, Jowar Crisps 13.4% (Jowar,Rice) Sunflower, *Seasoning - [Chilli powder, Mao powder, Sugar, Acidity reguor(INS 330,INS 296). Flavour enhancers (INS 627, INS 631), Anti caking agent (INS 551), Hydrolysed Vegetable Protein, Natural and Nature Identical Flavoring Substances, lodised salt. *As flavouring agent. Mfd and Mkt by Eat Better A1 \u0026 A2. 100 F Nutritional Informatic Serve Size - 10g dional Data Per 100g gy (kcal) ydrates (g) 455.6 61.8 4 Sugars (g) sugars (g) ry fibre (g) 0 10.2 tein (g) 15 al fat (g) 16.5 ated fat (g) 1.6 ans fat (g) 0 esterol (mg) dium (mg) 0 933.1 Calculation is on the basis of 20 per day and ICMR NTO SHOP RE: 181 4251106 06/11/25 05/05/26 Alle",
+  "per_100g": {
+    "energy_kcal": 455.6,
+    "fat": 16.5,
+    "saturated_fat": 1.6,
+    "carbohydrates": 61.8,
+    "sugars": 4,
+    "fiber": 10.2,
+    "protein": 15,
+    "salt": 2332.5,
+    "sodium": 933
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-22T18:02:11Z",
+  "fetched_at": "2026-08-19T13:22:01Z"
+}

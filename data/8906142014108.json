@@ -1,0 +1,26 @@
+{
+  "barcode": "8906142014108",
+  "name": "Bhel Mix",
+  "brand": "Swetha, Telugu Foods",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Puffed Rice (20 %), Flattened Rice, Refined Peanut Oll, Chickpea, Rice Flour, Peanut, Salt, Chilli Powder, Turmeric Powder, Cumin Powder, Coriander Powder, Curry Leaves, Black Salt, Black Pepper, Cardamom, Ajwain, Clove, Cinnamon, Sugar, Cornflakes. Contains: Peanut.",
+  "per_100g": {
+    "energy_kcal": 433,
+    "fat": 33,
+    "saturated_fat": 11,
+    "carbohydrates": 22,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 7,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-21T08:33:03Z",
+  "fetched_at": "2026-08-19T12:58:12Z"
+}

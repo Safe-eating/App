@@ -1,0 +1,24 @@
+{
+  "barcode": "8904092499419",
+  "name": "Multigrain Bread",
+  "brand": "Kabhi B",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 238,
+    "fat": 4.5,
+    "saturated_fat": 0.6,
+    "carbohydrates": 41,
+    "sugars": 2,
+    "fiber": 6,
+    "protein": 8.5,
+    "salt": 0.7825,
+    "sodium": 0.313
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-24T09:13:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,39 @@
+{
+  "barcode": "8906169990980",
+  "name": "Nendran Banana Chips",
+  "brand": "Sweet Karam Coffee",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:dried-products",
+    "en:fruits-based-foods",
+    "en:crisps",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits",
+    "en:banana-crisps",
+    "en:dried-bananas"
+  ],
+  "ingredients": "Banana, Edible Vegetable Oil (Coconut) \u0026 Edible Common Salt.",
+  "per_100g": {
+    "energy_kcal": 530,
+    "fat": 43.2,
+    "saturated_fat": 35.7,
+    "carbohydrates": 40.9,
+    "sugars": 21.9,
+    "fiber": 4.7,
+    "protein": 2,
+    "salt": 1.248,
+    "sodium": 0.4992
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-20T17:56:21Z",
+  "fetched_at": "2026-08-19T13:02:17Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8906108190167",
+  "name": "Chunky Continental Chicken Spread",
+  "brand": "Licious",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 472,
+    "fat": 44,
+    "saturated_fat": 8,
+    "carbohydrates": 7,
+    "sugars": 1.9,
+    "fiber": 2,
+    "protein": 12,
+    "salt": 0.9375,
+    "sodium": 0.375
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-15T13:14:11Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "26048048",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:baby-foods",
+    "en:snacks-and-desserts-for-babies",
+    "en:baby-fruit-desserts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 13,
+    "fat": 64,
+    "saturated_fat": 27,
+    "carbohydrates": 72,
+    "sugars": 67,
+    "fiber": 13,
+    "protein": 24,
+    "salt": 72,
+    "sodium": 16
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-05T11:59:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

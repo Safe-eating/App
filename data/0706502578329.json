@@ -1,0 +1,29 @@
+{
+  "barcode": "0706502578329",
+  "name": "Jain Misal",
+  "brand": "Eat Easy",
+  "quantity": "85g",
+  "categories": [
+    "en:meals",
+    "en:combination-meals",
+    "en:microwave-meals",
+    "en:ready-to-eat-combination-meals"
+  ],
+  "ingredients": "Dew beans (29%), Edible Vegetable Oil (Palm), Tomato, Peas, Groundnuts, Jaggery, Mustard Seeds, Red Chilli, Edible Common Salt, Tamarind Powder, Sugar, Lemon Powder, Curry Leaves, Other Spices and Condiments",
+  "per_100g": {
+    "energy_kcal": 454.117647058824,
+    "fat": 18.6117647058824,
+    "saturated_fat": 7.90588235294118,
+    "carbohydrates": 63.5294117647059,
+    "sugars": 0.301176470588235,
+    "fiber": 1.70117647058824,
+    "protein": 8.18823529411765,
+    "salt": 2.42352941176471,
+    "sodium": 0.969411764705882
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-05T23:09:47Z",
+  "fetched_at": "2026-08-18T23:55:14Z"
+}

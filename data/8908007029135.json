@@ -1,0 +1,24 @@
+{
+  "barcode": "8908007029135",
+  "name": "Burger Buns",
+  "brand": "English Oven",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 274.17,
+    "fat": 2.17,
+    "saturated_fat": 1.21,
+    "carbohydrates": 53.25,
+    "sugars": 7.1,
+    "fiber": 2.94,
+    "protein": 8.94,
+    "salt": 0.9675,
+    "sodium": 0.387
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T11:50:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

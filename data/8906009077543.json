@@ -1,0 +1,30 @@
+{
+  "barcode": "8906009077543",
+  "name": "Multigrain Cookies",
+  "brand": "Unibic",
+  "quantity": "75g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Cereal Products (45%) (Refined Wheat Flour (Maida), Rice, Ragi, Oats, Corn), Sweetener (INS 965 - Maltitol), Edible Vegetable Oil (Palm), Oat Fibre, Nuts (4%) (Almond \u0026 Cashew), Butter, Desiccated Coconut Powder, Wheat Bran, Leavening Agents (INS 503 ii, INS 500 ii), Emulsifier (INS 322 from Soy), lodised Salt, Vitamins and Minerals, Nature Identical and Artificial Flavouring Substances (Vanillin).",
+  "per_100g": {
+    "energy_kcal": 463,
+    "fat": 19.9,
+    "saturated_fat": 11.6,
+    "carbohydrates": 65,
+    "sugars": 0.5,
+    "fiber": null,
+    "protein": 6,
+    "salt": 0.000625,
+    "sodium": 0.00025
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T09:36:37Z",
+  "fetched_at": "2026-08-19T01:57:27Z"
+}

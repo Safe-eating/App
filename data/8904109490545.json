@@ -1,0 +1,36 @@
+{
+  "barcode": "8904109490545",
+  "name": "Patanjali COW'S GHEE",
+  "brand": "Patanjali",
+  "quantity": "500 ml",
+  "categories": [
+    "en:dairies",
+    "en:spreads",
+    "en:fats",
+    "en:spreadable-fats",
+    "en:animal-fats",
+    "en:dairy-spreads",
+    "en:milkfat",
+    "en:butters",
+    "en:butter-fat",
+    "en:clarified-butter",
+    "en:ghee"
+  ],
+  "ingredients": "Milk fat from cow's milk",
+  "per_100g": {
+    "energy_kcal": 897.3,
+    "fat": 99.7,
+    "saturated_fat": 78.46,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-21T04:58:22Z",
+  "fetched_at": "2026-08-19T01:35:39Z"
+}

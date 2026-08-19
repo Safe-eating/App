@@ -1,0 +1,31 @@
+{
+  "barcode": "8906023416656",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:milkshakes"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 82,
+    "fat": 2,
+    "saturated_fat": 1.2,
+    "carbohydrates": 12,
+    "sugars": 12.4,
+    "fiber": null,
+    "protein": 3.3,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-27T21:39:40Z",
+  "fetched_at": "2026-08-19T02:09:35Z"
+}

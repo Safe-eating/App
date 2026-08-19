@@ -1,0 +1,29 @@
+{
+  "barcode": "8906080348082",
+  "name": "Appu Sabudana",
+  "brand": "Appu",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:starches",
+    "en:tapioca"
+  ],
+  "ingredients": "Sabudana, Edible palm oil. Turmeric Powder, Spices \u0026 lodized Salt",
+  "per_100g": {
+    "energy_kcal": 514,
+    "fat": 26.12,
+    "saturated_fat": 8.36,
+    "carbohydrates": 66.22,
+    "sugars": 0.1,
+    "fiber": 2.1,
+    "protein": 3.58,
+    "salt": 1.03,
+    "sodium": 0.412
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-15T17:41:07Z",
+  "fetched_at": "2026-08-19T12:44:11Z"
+}

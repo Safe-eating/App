@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063142305",
+  "name": "Nutri Choice",
+  "brand": "Britannia",
+  "quantity": "1kg",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "biscuit",
+  "per_100g": {
+    "energy_kcal": 485,
+    "fat": 21,
+    "saturated_fat": 10.2,
+    "carbohydrates": 68.4,
+    "sugars": 14.4,
+    "fiber": 6,
+    "protein": 8.6,
+    "salt": 1.1575,
+    "sodium": 0.463
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-11-06T15:26:04Z",
+  "fetched_at": "2026-08-19T00:31:48Z"
+}

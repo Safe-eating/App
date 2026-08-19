@@ -1,0 +1,26 @@
+{
+  "barcode": "8904004404449",
+  "name": "haldirams Boondi 200g",
+  "brand": "Haldiram's",
+  "quantity": "200g",
+  "categories": [
+    "en:Bengal gram flour balls"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 593,
+    "fat": 41.17,
+    "saturated_fat": 18.97,
+    "carbohydrates": 39.55,
+    "sugars": 0,
+    "fiber": 4.63,
+    "protein": 13.75,
+    "salt": 0.44,
+    "sodium": 0.176
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-06T10:30:35Z",
+  "fetched_at": "2026-08-19T01:25:16Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8901725117504",
+  "name": "No Rulz Curlz masala",
+  "brand": "Bingo",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:crackers-appetizers",
+    "en:puffed-salty-snacks",
+    "en:puffed-salty-snacks-made-from-maize"
+  ],
+  "ingredients": "DEGERMED CORN GRITS AND SEASONING {REFINED PALMOLEIN, *SPICES AND CONDIMENTS, IODIZED SALT, SUGAR, ONION POWDER, MALTODEXTRIN, NATURE IDENTICAL FLAVOURING SUBSTANCES, BLACK SALT, MILK SOLIDS, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, GARLIC POWDER (0.2%) AND HYDROLYZED VEGETABLE PROTEIN}. *USED AS FLAVOURING AGENTS.",
+  "per_100g": {
+    "energy_kcal": 496,
+    "fat": 24.7,
+    "saturated_fat": 11.4,
+    "carbohydrates": 64.3,
+    "sugars": 3.9,
+    "fiber": null,
+    "protein": 6.1,
+    "salt": 2.8405,
+    "sodium": 1.1362
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-16T07:10:11Z",
+  "fetched_at": "2026-08-19T01:06:24Z"
+}

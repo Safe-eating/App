@@ -1,0 +1,37 @@
+{
+  "barcode": "8901058101577",
+  "name": "Tomato Ketchup",
+  "brand": "Maggi",
+  "quantity": "22",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup",
+    "en:tomato-ketchup",
+    "en:Groceries"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 139,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 33.5,
+    "sugars": 30.8,
+    "fiber": null,
+    "protein": 1.2,
+    "salt": 2.565225,
+    "sodium": 1.02609
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2021-12-07T07:01:25Z",
+  "fetched_at": "2026-08-19T00:26:29Z"
+}

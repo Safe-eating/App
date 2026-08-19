@@ -1,0 +1,29 @@
+{
+  "barcode": "8906009501031",
+  "name": "Pasteurised Cow Milk",
+  "brand": "Chitale",
+  "quantity": "500 ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:whole-milks"
+  ],
+  "ingredients": "PASTEURISED COW MILK",
+  "per_100g": {
+    "energy_kcal": 69,
+    "fat": 3.8,
+    "saturated_fat": 2.7,
+    "carbohydrates": 5.1,
+    "sugars": 4.7,
+    "fiber": null,
+    "protein": 3.6,
+    "salt": 0.03775,
+    "sodium": 0.0151
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-06T17:39:15Z",
+  "fetched_at": "2026-08-19T01:58:01Z"
+}

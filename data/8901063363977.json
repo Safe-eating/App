@@ -1,0 +1,29 @@
+{
+  "barcode": "8901063363977",
+  "name": "BRITANNIA Cake Gobbles Fruity Fun",
+  "brand": "Britannia",
+  "quantity": "110g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EGGS, HYDROGENATED VEGETABLE OIL \u0026 REFINED PALMOLEIN OIL, FRUIT PRODUCTS (7.3%) (GLAZED FRUITS (PAPAYA CUTS SUGAR, COLOURS (124 ,110),PINEAPPE CUTS) ,ORANGE PULP), HUMECTANTS(422, 420), HIGH MALTOSE SYRUP,EDIBLE MAKE STARCH, PENTA CAKE (RAISING AGENTS (450(i),500(i), 341(i), 341(iii)), EMULSIFIERS (472e, 466, 435), STABILIZER (412), ACIDITY REGULATOR (330)), RAISING AGENTS (341(i)), 500(ii),450(i)), NATURE IDENTICAL \u0026 ARTIFICIAL FLAVOURING SUBSTANCES(MIXED FRUIT,VANILLA),CAKE GEL(EMULSIFIERS A,STABILIZERS (471,477), HUMECTANT (420(iii)), IODISED SALT, INVERT SUGAR SYRUP, PRESERVATIVES (202,282), BAKING POWDER, ACIDITY REGULATOR (330), STABILIZER (415), COLOUR (102)._CONTAINS WHEAT,EGGS_",
+  "per_100g": {
+    "energy_kcal": 417,
+    "fat": 17.8,
+    "saturated_fat": 8.9,
+    "carbohydrates": 58,
+    "sugars": 27.1,
+    "fiber": null,
+    "protein": 6.1,
+    "salt": 0.21,
+    "sodium": 0.084
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-16T06:03:48Z",
+  "fetched_at": "2026-08-19T00:34:15Z"
+}

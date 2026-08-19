@@ -1,0 +1,26 @@
+{
+  "barcode": "8906065450069",
+  "name": "Choco Fillo",
+  "brand": "Gone Mad",
+  "quantity": "24 g",
+  "categories": [
+    "en:Mini wafer filled with choco cream"
+  ],
+  "ingredients": "Sugar (32%), Refined Wheat Flour (Maida) (27%), Edible Vegetable Oil (Refined Palmolein), Cocoa Solids, Edible Vegetable Fat (Hydrogenated Oils), Dextrose Monohydrate, Milk Powder, Whey Powder, Humectant Glycerol (E422) Starch, Vegetable Emulsifier Soya Lecithin (E322), Common Salt. Contains Permitted Natural Food Colour (Car (E150d)) and Added Flavour (Artificial Flavouring Substances-Vanillin). Hydrogenated Vegetable Fat Used Contains Trans Fats Allergen Information: Contains Milk, Wheat and Soya.",
+  "per_100g": {
+    "energy_kcal": 476,
+    "fat": 18,
+    "saturated_fat": 9,
+    "carbohydrates": 72,
+    "sugars": 28,
+    "fiber": null,
+    "protein": 6,
+    "salt": 0.5875,
+    "sodium": 0.235
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-11-08T10:14:45Z",
+  "fetched_at": "2026-08-19T12:40:02Z"
+}

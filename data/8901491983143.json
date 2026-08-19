@@ -1,0 +1,37 @@
+{
+  "barcode": "8901491983143",
+  "name": "lays potato chips",
+  "brand": "Lay's",
+  "quantity": "28g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:wavy-potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Palmolein Oil, Rice Bran Oil), Sugar (5.5%), Starch, lodised Salt, \u0026quot;Spices \u0026 Condiments (Garlic Powder, Onion Powder, Chilli), Cocoa Solids, Milk Solids. CONTAINS ADDED FLAVOUR (NATURAL, NATURE IDENTICAL \u0026ARTIFICIAL (SOY SAUCE) FLAVOURING SUBSTANCES) \u0026quot;Ued a natural flavouring agent. POTATO CHIPS PROPRIETARY FOOD\u0026quot; Limited perod offer valid in select geographies only.",
+  "per_100g": {
+    "energy_kcal": 544,
+    "fat": 33,
+    "saturated_fat": 13,
+    "carbohydrates": 54.7,
+    "sugars": 6,
+    "fiber": null,
+    "protein": 7,
+    "salt": 1.71704,
+    "sodium": 0.686816
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-02-24T03:31:22Z",
+  "fetched_at": "2026-08-19T00:51:50Z"
+}

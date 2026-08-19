@@ -1,0 +1,33 @@
+{
+  "barcode": "8906084521962",
+  "name": "Low Fat Dahi",
+  "brand": "Desi Farms",
+  "quantity": "400g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:curd"
+  ],
+  "ingredients": "Double Toned Milk \u0026 Milk Solids, DVS (Active Culture)",
+  "per_100g": {
+    "energy_kcal": 49,
+    "fat": 1.7,
+    "saturated_fat": 1.1,
+    "carbohydrates": 4.4,
+    "sugars": 4.4,
+    "fiber": null,
+    "protein": 4,
+    "salt": 0.1375,
+    "sodium": 0.055
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-17T03:16:50Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

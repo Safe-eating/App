@@ -1,0 +1,24 @@
+{
+  "barcode": "8904335603948",
+  "name": "Yogabar Protein Muesli Fruit \u0026 Nuts",
+  "brand": "Yogabar",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 403,
+    "fat": 10.5,
+    "saturated_fat": 2.5,
+    "carbohydrates": 57.2,
+    "sugars": 19.3,
+    "fiber": 7.1,
+    "protein": 23.5,
+    "salt": 0.67125,
+    "sodium": 0.2209
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-30T05:36:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

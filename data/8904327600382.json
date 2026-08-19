@@ -1,0 +1,35 @@
+{
+  "barcode": "8904327600382",
+  "name": "Myfitness Original Peanut Butter (Smooth)",
+  "brand": "Myfitness",
+  "quantity": "510 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "Roasted Peanuts, Brown Sugar, Pink Himalayan Salt, Permitted Stabilizing Agent (INS 471)",
+  "per_100g": {
+    "energy_kcal": 625,
+    "fat": 50,
+    "saturated_fat": 9.375,
+    "carbohydrates": 18.75,
+    "sugars": 9.375,
+    "fiber": 6.25,
+    "protein": 25,
+    "salt": 0.875,
+    "sodium": 0.35
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-17T18:13:25Z",
+  "fetched_at": "2026-08-19T01:43:23Z"
+}

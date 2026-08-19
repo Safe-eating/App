@@ -1,0 +1,32 @@
+{
+  "barcode": "8906090575546",
+  "name": "K-Bomv Ramen",
+  "brand": "Too Yum",
+  "quantity": "80g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 438,
+    "fat": 15.9,
+    "saturated_fat": 4.1,
+    "carbohydrates": 65,
+    "sugars": 6.7,
+    "fiber": null,
+    "protein": 9,
+    "salt": 4800,
+    "sodium": 1920
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-18T06:57:48Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,37 @@
+{
+  "barcode": "8901512144904",
+  "name": "Peanut Butter 100% Natural Crunchy",
+  "brand": "Sundrop",
+  "quantity": "924 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters",
+    "en:pure-peanut-butters",
+    "en:crunchy-peanut-butters"
+  ],
+  "ingredients": "Roasted _Peanuts_",
+  "per_100g": {
+    "energy_kcal": 639,
+    "fat": 53.4,
+    "saturated_fat": 10.1,
+    "carbohydrates": 15.5,
+    "sugars": 4.3,
+    "fiber": 8.4,
+    "protein": 28.3,
+    "salt": 0.01175,
+    "sodium": 0.0047
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-13T03:53:18Z",
+  "fetched_at": "2026-08-19T00:54:27Z"
+}

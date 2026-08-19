@@ -1,0 +1,30 @@
+{
+  "barcode": "8935235302785",
+  "name": "Dowee Donut Strawberry",
+  "brand": "Rebisco",
+  "quantity": "28g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes",
+    "en:doughnuts"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Eggs, Vegetable Oil (Palm), Sugar, Glucose Syrup, Humectants (Sorbitol (E420ii) (3.8%), Glycerine (E422)), Water, Skimmed Milk Powder, Soya Flour, Mono \u0026 Diglycerides (E471) as Emulsifying Agent, Leavening Agents (Sodium Acid Pyrophosphate (E450i), Sodium Bicarbonate (E500ii)), Iodized Salt, Preservatives (Potassium Sorbate (E202), Sorbic Acid (E200)), Artificial Flavors (Milk, Vanilla), Xanthan Gum (E415) as Stabilizer. Coating: Sugar, Non-Hydrogenated Vegetable Fat (Palm Kernel), Skimmed Milk Powder, Dextrose Powder, Artificial Colors (Titanium Dioxide (E171), FD\u0026C Red#40 Lake (Allura Red Lake) (E129)). Emulsifying Agent (Soya Lecithin (E322i)), Sorbic Acid (E200) as Preservative, Artificial Vanillin Flavor. Filling: Glucose Syrup, Water, Sugar, Sorbitol (E420ii) (6.4%) as Humectant, Pectin (E440) as Thickener, Citric Acid (E330) as Acidulant, Artificial Strawberry Flavor, Potassium Sorbate (E202) as Preservative, Caramel Color (E150d) as Natural Color, FD\u0026C Red#40 (Allura Red) (E129) as Artificial Color. String: Sugar, Non-Hydrogenated Vegetable Fat (Palm Kernel), Whey Powder, Emulsifying Agent (Soya Lecithin (E322i)). FD\u0026C Red#40 Lake (Allura Red Lake) (E129) as Artificial Color.",
+  "per_100g": {
+    "energy_kcal": 130,
+    "fat": 7,
+    "saturated_fat": 3.5,
+    "carbohydrates": 16,
+    "sugars": 9,
+    "fiber": 0,
+    "protein": 1,
+    "salt": 0.175,
+    "sodium": 0.07
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-17T19:31:45Z",
+  "fetched_at": "2026-08-19T13:25:01Z"
+}

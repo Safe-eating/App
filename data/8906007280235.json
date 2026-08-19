@@ -1,0 +1,33 @@
+{
+  "barcode": "8906007280235",
+  "name": "Fortune sun lite refined sunflower oil",
+  "brand": "Fortune",
+  "quantity": "435g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fats",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:sunflower-seeds-and-their-products",
+    "en:sunflower-oils",
+    "en:Oil"
+  ],
+  "ingredients": "Refined Sunflower Oil, Antioxidant (INS-319). Vitamin A and Vitamin D. Ⓡ - is the registered trademark of Adani Wilmar Limited. Visit us at: fortunefoods.com FREE FROM ARGEMONE OIL 8906007 280235 FOR ANY SUG PLEASE CONT AT CORPORAT TOLL-FREE N 242025: 68a4e 08:14 10/12/2025 08:14",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 17,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-10T02:55:09Z",
+  "fetched_at": "2026-08-19T01:54:22Z"
+}

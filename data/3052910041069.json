@@ -1,0 +1,24 @@
+{
+  "barcode": "3052910041069",
+  "name": "Honeycomb Syrup",
+  "brand": "Monin",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 323,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 79.3,
+    "sugars": 79.3,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.03,
+    "sodium": 0.012
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T18:45:41Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

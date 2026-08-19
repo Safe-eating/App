@@ -1,0 +1,31 @@
+{
+  "barcode": "09141209",
+  "name": "Bourn Vita 500Gram Pauch",
+  "brand": "Cadbury",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:cocoa-and-its-products",
+    "en:beverage-preparations",
+    "en:cocoa-and-chocolate-powders",
+    "en:instant-beverages",
+    "en:instant-chocolate-powders"
+  ],
+  "ingredients": "glucose syrup, bulking agent (polydextrose), starch, humectant (sorbitol syrup), gelatine, sugar, acids (malic acid, acetic acid), concentrated fruit juices' (1 %) (apple, lime, orange, lemon, strawberry, blackcurrant, raspberry), colours (anthocyanins, vegetable carbon, paprika extract, lutein, curcumin), coconut oil, flavourings, glazing agent (carnauba wa 'equivalent to 6.9% fruit juice.",
+  "per_100g": {
+    "energy_kcal": 283.898305084746,
+    "fat": 0.423728813559322,
+    "saturated_fat": 0.423728813559322,
+    "carbohydrates": 59.3220338983051,
+    "sugars": 35.1694915254237,
+    "fiber": 17.7966101694915,
+    "protein": 5.08474576271186,
+    "salt": 0.0423728813559322,
+    "sodium": 0.0169491525423729
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-10T20:11:09Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

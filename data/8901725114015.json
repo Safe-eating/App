@@ -1,0 +1,26 @@
+{
+  "barcode": "8901725114015",
+  "name": "Aashirvaad Instant Khatta Meetha Poha",
+  "brand": "Aashirvaad",
+  "quantity": "60g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Rice Flakes (62.2%), Sugar (7.6%), Refined Palm Oil, Peanut (5.6%), Raisin, lodized Salt, Dehydrated Onion (2.3%), Green Chilli Paste (1.8%), Dehydrated Potato, Spices and Condiments, Curry Leaves (0.5%), Coriander Leaves (0.5%), Proso Millet (0.5%), Foxtail Millet (0.5%), Barnyard Millet (0.5%), Kodo Millet (0.5%), Quinoa (0.5%),Dried Mango Powder (0.4%) Acidity Regulator (INS 296) and Antioxidant (INS 300).",
+  "per_100g": {
+    "energy_kcal": 397,
+    "fat": 9.3,
+    "saturated_fat": 4,
+    "carbohydrates": 72.6,
+    "sugars": 11,
+    "fiber": null,
+    "protein": 7.2,
+    "salt": 3.408,
+    "sodium": 1.3632
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-23T08:53:39Z",
+  "fetched_at": "2026-08-19T01:05:59Z"
+}

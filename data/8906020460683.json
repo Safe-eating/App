@@ -1,0 +1,30 @@
+{
+  "barcode": "8906020460683",
+  "name": "Harvest Gold 100% Whole Wheat Bread",
+  "brand": "Harvest Gold",
+  "quantity": "450g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour Atta (54%), Sugar, Wheat Protein, Yeast, Wheat Bran (3%), Refined Soyabean Oil, Refined Palmolein Oil, Class 2 Preservative (E282), Permitted Emulsifier, Acidity Regulator, Antioxidant",
+  "per_100g": {
+    "energy_kcal": 251,
+    "fat": 1.19,
+    "saturated_fat": 0.42,
+    "carbohydrates": 51,
+    "sugars": 3.6,
+    "fiber": 6.4,
+    "protein": 9.3,
+    "salt": 1.2,
+    "sodium": 0.48
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2020-06-16T02:40:07Z",
+  "fetched_at": "2026-08-19T02:07:22Z"
+}

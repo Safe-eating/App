@@ -1,0 +1,29 @@
+{
+  "barcode": "8903754000123",
+  "name": "Gluco+ Strawberry Jelly Energy Drink",
+  "brand": "Tata",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:sweetened-beverages",
+    "en:energy-and-soft-drink"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 41,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 10.2,
+    "sugars": 10.2,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-08T07:00:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

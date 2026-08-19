@@ -1,0 +1,30 @@
+{
+  "barcode": "7622201521905",
+  "name": "Fuse bites",
+  "brand": "Cadbury",
+  "quantity": "108.5",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies"
+  ],
+  "ingredients": "filling (72%) [peanuts (19%), sugar, interesterified palm fat, liquid glucose, milk solids, hydrogenated palm oil, cocoa solids, invert sugar, humectant (glycerol), lodised salt, emulsifiers (soya lecithin, mono-and diglycerides of fatty acids), flavouring], chocolate flavoured coating (28%) [sugar, cocoa butter, milk solids, lactose (milk), cocoa nutrient nutrition infor typical value q (pe energy kj/100g energy kcal/100g fat (g)",
+  "per_100g": {
+    "energy_kcal": 547,
+    "fat": 33.1,
+    "saturated_fat": 17.6,
+    "carbohydrates": 54.3,
+    "sugars": 44.2,
+    "fiber": 0,
+    "protein": 7.9,
+    "salt": 0.58,
+    "sodium": 0.232
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-04T15:26:46Z",
+  "fetched_at": "2026-08-19T00:07:56Z"
+}

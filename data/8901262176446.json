@@ -1,0 +1,31 @@
+{
+  "barcode": "8901262176446",
+  "name": "Pista malai kulfi",
+  "brand": "Amul",
+  "quantity": "1,54.6g(60ml)",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:Icecream"
+  ],
+  "ingredients": "Inner Layer - Ice Cream (68%): Milk Solids Sugar, Permitted Emulsifiers (E435, E471) and Stabilizers (E407, E412).Outer Layer - Coating (32%): Coconut Oil,Sugar, Milk Solids, Pistachio Pieces (2%), Permitted Emulsifier (E322). _CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES KULFI, PISTACHIO\u0026CARDAMOM)_",
+  "per_100g": {
+    "energy_kcal": 385,
+    "fat": 27.7,
+    "saturated_fat": 13.5,
+    "carbohydrates": 29.5,
+    "sugars": 22.5,
+    "fiber": 0,
+    "protein": 4.7,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-02T03:11:18Z",
+  "fetched_at": "2026-08-19T00:45:11Z"
+}

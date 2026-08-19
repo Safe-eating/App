@@ -1,0 +1,31 @@
+{
+  "barcode": "8906127551178",
+  "name": "Alpino Super Muesli",
+  "brand": "Alpino",
+  "quantity": "750 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 394.94,
+    "fat": 5.66,
+    "saturated_fat": 0.83,
+    "carbohydrates": 70,
+    "sugars": 13,
+    "fiber": 9,
+    "protein": 16,
+    "salt": 0.768525,
+    "sodium": 0.30741
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T08:08:03Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

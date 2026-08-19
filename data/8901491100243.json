@@ -1,0 +1,32 @@
+{
+  "barcode": "8901491100243",
+  "name": "Rolled Oats",
+  "brand": "Quaker",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 407,
+    "fat": 9.5,
+    "saturated_fat": 1.9,
+    "carbohydrates": 68.5,
+    "sugars": 1.8,
+    "fiber": 10,
+    "protein": 11.8,
+    "salt": 0.02375,
+    "sodium": 0.0095
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-15T11:02:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

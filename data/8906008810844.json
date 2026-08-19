@@ -1,0 +1,43 @@
+{
+  "barcode": "8906008810844",
+  "name": "Gujarati Khichdi",
+  "brand": "Fortune",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:legumes-and-their-products",
+    "en:vegetable-based-foods-and-beverages",
+    "en:cereals-and-potatoes",
+    "en:legumes",
+    "en:seeds",
+    "en:vegetables-based-foods",
+    "en:cereals-and-their-products",
+    "en:legume-seeds",
+    "en:vegetables",
+    "en:cereal-grains",
+    "en:pulses",
+    "en:rices",
+    "en:millet",
+    "en:pearl-millet",
+    "en:vegetables-from-spain"
+  ],
+  "ingredients": "Jeerasar Rice (60%), Green Chilka Moong (30%), Bajra (4%), Jowar (4%), Ragi (1%), Black Sesame Seeds (0.50%), Flax Seeds (0.50%). Masala Mix (Seasoning): Salt, Turmeric, Cumin, Chilli, Ginger, Black Pepper, Clove, Maltodextrine",
+  "per_100g": {
+    "energy_kcal": 362.1,
+    "fat": 3.2,
+    "saturated_fat": 0.7,
+    "carbohydrates": 66.2,
+    "sugars": 0.7,
+    "fiber": null,
+    "protein": 13.5,
+    "salt": 6.57875,
+    "sodium": 2.6315
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-30T16:22:53Z",
+  "fetched_at": "2026-08-19T01:55:31Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906051682207",
+  "name": "Dark Chocolate Compound",
+  "brand": "Morde",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolates"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 558,
+    "fat": 36,
+    "saturated_fat": 34,
+    "carbohydrates": 58,
+    "sugars": 50,
+    "fiber": 5.38,
+    "protein": 3.3,
+    "salt": 0.055,
+    "sodium": 0.022
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-09T12:24:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,35 @@
+{
+  "barcode": "8901808003137",
+  "name": "rolled oats",
+  "brand": "Eco valley",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats"
+  ],
+  "ingredients": "Rolled Oats",
+  "per_100g": {
+    "energy_kcal": 407,
+    "fat": 9.5,
+    "saturated_fat": 1.8,
+    "carbohydrates": 68.5,
+    "sugars": 0,
+    "fiber": 10,
+    "protein": 11.8,
+    "salt": 0.02375,
+    "sodium": 0.0095
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-20T16:06:57Z",
+  "fetched_at": "2026-08-19T01:09:39Z"
+}

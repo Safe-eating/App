@@ -1,0 +1,29 @@
+{
+  "barcode": "8901071211161",
+  "name": "COCOA POWDER MEDIUM FAT COCOA POWDER",
+  "brand": "HERSHEY'S",
+  "quantity": "225 g",
+  "categories": [
+    "en:cocoa-and-its-products",
+    "en:cocoa-and-chocolate-powders",
+    "en:cocoa-powders",
+    "en:powder"
+  ],
+  "ingredients": "100% cacao",
+  "per_100g": {
+    "energy_kcal": 466.666666666667,
+    "fat": 11,
+    "saturated_fat": 6.5,
+    "carbohydrates": 58,
+    "sugars": 1.8,
+    "fiber": 33,
+    "protein": 19.6,
+    "salt": 0.01,
+    "sodium": 0.004
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-10T15:37:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

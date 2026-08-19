@@ -1,0 +1,33 @@
+{
+  "barcode": "8906010090197",
+  "name": "Dlecta Natural Cheddar",
+  "brand": "Dlecta",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:cow-cheeses",
+    "en:cheeses-from-the-united-kingdom",
+    "en:cheeses-from-england",
+    "en:cheddar-cheese"
+  ],
+  "ingredients": "PASTEURIZED MILK, PAST STABILIZER (INS 509), MICROBIAL CULTU CONTAINS NO ADDED FLAVOUR\u0026NO A CONTAINS MILK SURFACE TREATED STORED REFRIGERATED AT BETWEEN 2 USE WITHIN 3 DAYS OF OPENING MANUFACTURED \u0026 MARKETED BY DLEC SURVEY NO. 148/1\u0026148/2, VILLAGE UMBRE TALUKA: KHALAPUR, DIST-RAIGAD-410200 MAHARASHTRA, INDIA. I WEB: WWW.d FOR SUGGESTIONS/COMPLAINTS PLEAS CONSUMER CARE EXECUTIVE AT MARKET EMAIL: consumercare@dlecta.com TEL: 022 42313090 CPCB REG. NO. BO-03-000-08-AAACC2407/22 BATCH NO.: LEROLOLATED ON THE BASS 200 ENERGY FOR AN AVERAGE ADULT MRP INCL OF ALL TAXES USP g DATE OF PACKAGING: 8 906010 090197 2 USE BY: - NN 1 F",
+  "per_100g": {
+    "energy_kcal": 387.26,
+    "fat": 29.5,
+    "saturated_fat": 15.61,
+    "carbohydrates": 6.78,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 23.66,
+    "salt": 0.00083,
+    "sodium": 0.000332
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-17T16:39:05Z",
+  "fetched_at": "2026-08-19T01:59:10Z"
+}

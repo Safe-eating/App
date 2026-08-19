@@ -1,0 +1,36 @@
+{
+  "barcode": "8904043904061",
+  "name": "Tata Sampann Poha",
+  "brand": "Tata Sampann",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rice-flakes",
+    "en:Poha"
+  ],
+  "ingredients": "Poha",
+  "per_100g": {
+    "energy_kcal": 361,
+    "fat": 1.3,
+    "saturated_fat": 0.3,
+    "carbohydrates": 81.4,
+    "sugars": 0.5,
+    "fiber": 7.6,
+    "protein": 6,
+    "salt": 0.01275,
+    "sodium": 0.0051
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-09T06:49:38Z",
+  "fetched_at": "2026-08-19T01:27:54Z"
+}

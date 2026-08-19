@@ -1,0 +1,33 @@
+{
+  "barcode": "8901058015171",
+  "name": "Nestle KitKat",
+  "brand": "Nestlé",
+  "quantity": "22.1",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:candy-chocolate-bars",
+    "en:chocolate-biscuity-bars"
+  ],
+  "ingredients": "Sugar, Milk solids (16.2%), Fractionated vegetable fat, Hydrogenated vegetable fats. Refined Wheat flour (Maida), Cocoa solids (4.5%), Emulsifier (Soya lecithin), Yeast, Raising agent (500(i)). Artificial (Vanilla) flavouring substance, Iodised salt, Flour treatment agent (516) and Nature identical flavouring substance.",
+  "per_100g": {
+    "energy_kcal": 438,
+    "fat": 24.8,
+    "saturated_fat": 24.5,
+    "carbohydrates": 47.4,
+    "sugars": 35.1,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 0.2435,
+    "sodium": 0.0974
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-07T12:01:23Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8902901001730",
+  "name": "Maida",
+  "brand": "Good Life",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:flours",
+    "en:cereal-flours",
+    "en:wheat-flours",
+    "en:white-wheat-flours"
+  ],
+  "ingredients": "Wheat Flour (Maida)",
+  "per_100g": {
+    "energy_kcal": 346,
+    "fat": 0.8,
+    "saturated_fat": 0.1,
+    "carbohydrates": 74.3,
+    "sugars": 1.8,
+    "fiber": 6.8,
+    "protein": 10.4,
+    "salt": 0.00375,
+    "sodium": 0.0015
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T18:54:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

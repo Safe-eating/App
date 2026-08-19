@@ -1,0 +1,36 @@
+{
+  "barcode": "8908009523013",
+  "name": "Badam Flavoured Milk",
+  "brand": "Rango",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:dairy-substitutes",
+    "en:milk-substitutes",
+    "en:nuts-and-their-products",
+    "en:plant-based-beverages",
+    "en:plant-based-milk-alternatives",
+    "en:nut-based-drinks",
+    "en:almond-based-drinks"
+  ],
+  "ingredients": "Toned milk (82%), Badam bits (0.6%), potable water, Milk solids Sugar, Emulsifier(INS 471), Stabilizers (INS 418, INS 407, INS 415), lodized Salt, Acidity Regulators (INS 340 (ii), 340 (iii),452(i) Contains Permitted Synthetic Food Colours (Ins 102, Ins 110) And Added Flavours (Natural Flavors And Nature Identical Flavouring Substance) (Badam)",
+  "per_100g": {
+    "energy_kcal": 109,
+    "fat": 3.2,
+    "saturated_fat": 2,
+    "carbohydrates": 18.05,
+    "sugars": 16.2,
+    "fiber": null,
+    "protein": 3.9,
+    "salt": 0.15,
+    "sodium": 0.06
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-09T14:56:05Z",
+  "fetched_at": "2026-08-19T13:11:39Z"
+}

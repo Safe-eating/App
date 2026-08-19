@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063367319",
+  "name": "Maska Chaska",
+  "brand": "Britannia",
+  "quantity": "38 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:dry-biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), REFINED (PALM \u0026 PALMOLEIN) OIL, SUGAR, LIQUID GLUCOSE, RAISING AGENTS [503(ii), 341(ii), 500(ii) \u0026 450(i)], BUTTER (1.2%), BLACK SALT, MILK SOLIDS, DEHYDRATED VEGETABLE (CHIVES) (1%), IODISED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCE AND DOUGH CONDITIONER (223).",
+  "per_100g": {
+    "energy_kcal": 525,
+    "fat": 26.5,
+    "saturated_fat": 13,
+    "carbohydrates": 63.8,
+    "sugars": 7.5,
+    "fiber": null,
+    "protein": 7.7,
+    "salt": 2.6625,
+    "sodium": 1.065
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-25T13:00:59Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

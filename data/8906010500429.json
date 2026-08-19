@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010500429",
+  "name": "Unknown Product",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:balaji"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 594,
+    "fat": 39.9,
+    "saturated_fat": 17.3,
+    "carbohydrates": 41.1,
+    "sugars": 0.9,
+    "fiber": null,
+    "protein": 13.4,
+    "salt": 0.001975,
+    "sodium": 0.00079
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T19:49:32Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

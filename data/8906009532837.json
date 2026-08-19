@@ -1,0 +1,32 @@
+{
+  "barcode": "8906009532837",
+  "name": "Max protein (7 grain protein snack)",
+  "brand": "RiteBite",
+  "quantity": "60g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips",
+    "en:flavoured-corn-crisps"
+  ],
+  "ingredients": "Millets \u0026 Pulses Blend Flour (55%), (Jowar/Sorghum, Chickpeas, Quinoa, Oats, Ragi, Soy, Urad), Rice Bran Oil, Soy Protein Isolate, Dietary Fiber, Chinese Manchurian Seasoning [Sugar, lodized Salt, Garlic Powder, Mixed Spices (Chilli, Ginger, Bell Pepper, Black Pepper, Celery), Onion powder, Soy Sauce Powder, Hydrolyzed Vegetable Protein (Soy), Anticaking Agent (E551), Yeast extract powder, Flavour Enhancer (E627, 631). Permitted Nature And Natural Identical Flavouring Substances] Black Pepper, Salt. Allergen Declaration: Contains Soy \u0026 Cereals",
+  "per_100g": {
+    "energy_kcal": 476.666666666667,
+    "fat": 23.3333333333333,
+    "saturated_fat": 4.5,
+    "carbohydrates": 49,
+    "sugars": 3,
+    "fiber": 6.66666666666667,
+    "protein": 16.6666666666667,
+    "salt": 2.08333333333333,
+    "sodium": 0.833333333333333
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-15T07:06:44Z",
+  "fetched_at": "2026-08-19T01:58:08Z"
+}

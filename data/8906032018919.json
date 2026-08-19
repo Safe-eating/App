@@ -1,0 +1,37 @@
+{
+  "barcode": "8906032018919",
+  "name": "Nutrela Soya mini chunks",
+  "brand": "Nutrela",
+  "quantity": "50g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:seeds",
+    "en:flours",
+    "en:legume-seeds",
+    "en:soy-beans",
+    "en:legume-flours",
+    "en:soybean-flours",
+    "en:Nutrela-soya-mini-chunks",
+    "en:Soya-chunks"
+  ],
+  "ingredients": "Defatted Soy",
+  "per_100g": {
+    "energy_kcal": 354.14,
+    "fat": 0.82,
+    "saturated_fat": 0.19,
+    "carbohydrates": 33.5,
+    "sugars": 7.18,
+    "fiber": null,
+    "protein": 53.19,
+    "salt": 0.02,
+    "sodium": 0.008
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-08T09:01:51Z",
+  "fetched_at": "2026-08-19T12:33:18Z"
+}

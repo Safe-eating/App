@@ -1,0 +1,36 @@
+{
+  "barcode": "8901725001070",
+  "name": "Aashirvaad Double Roasted Suji Rava",
+  "brand": "ITC",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:cereal-semolinas",
+    "en:wheat-semolinas",
+    "en:wheats",
+    "en:Granulated wheat",
+    "en:Semolina"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 360,
+    "fat": 0.7,
+    "saturated_fat": 0.15,
+    "carbohydrates": 77.5,
+    "sugars": 1.7,
+    "fiber": null,
+    "protein": 11,
+    "salt": 0.00625,
+    "sodium": 0.0025
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-25T03:00:34Z",
+  "fetched_at": "2026-08-19T01:03:19Z"
+}

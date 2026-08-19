@@ -1,0 +1,31 @@
+{
+  "barcode": "8901030900297",
+  "name": "knorr hong kong manchow soup",
+  "brand": "Knorr",
+  "quantity": "",
+  "categories": [
+    "en:meals",
+    "en:dried-products",
+    "en:soups",
+    "en:dried-products-to-be-rehydrated",
+    "en:dried-meals",
+    "en:dehydrated-soups"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 360,
+    "fat": 6.2,
+    "saturated_fat": 3,
+    "carbohydrates": 71.6,
+    "sugars": 14.6,
+    "fiber": null,
+    "protein": 5.2,
+    "salt": 10.935,
+    "sodium": 4.374
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-09T15:20:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8906136651951",
+  "name": "Pintola High Protein Oats Dark Chocolate",
+  "brand": "Pintola",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements"
+  ],
+  "ingredients": "Oats (43%), Protein Blend (26%) {Texturized Soy Protein, Soy Protein Isolate, Whey Protein Concentrate}; Dry Fruit, Nut \u0026 Seeds (12%) (Raisins, Almonds, Pumpkin Seeds, Chia Seeds}; Organic Jaggery, Cocoa Solids (7%), Jowar Flakes, Himalayan Pink Salt. Allergen Information: Contains Oats, Nuts, Soy \u0026 Milk.",
+  "per_100g": {
+    "energy_kcal": 392,
+    "fat": 8,
+    "saturated_fat": 2.1,
+    "carbohydrates": 54.6,
+    "sugars": 14,
+    "fiber": 9.6,
+    "protein": 25,
+    "salt": 0.325,
+    "sodium": 0.13
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T12:23:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8906021401067",
+  "name": "Vanilla Ice Cream",
+  "brand": "HF Super",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:Milk solids"
+  ],
+  "ingredients": "Milk Solids, Sugar, Permitted Emulsifier (INS-471) and Stabilizers (INS-407, INS-410, INS-412 \u0026 INS 466).",
+  "per_100g": {
+    "energy_kcal": 190,
+    "fat": 10,
+    "saturated_fat": 6.4,
+    "carbohydrates": 6.1,
+    "sugars": 21.1,
+    "fiber": null,
+    "protein": 4,
+    "salt": 0.1625,
+    "sodium": 0.065
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-22T14:59:08Z",
+  "fetched_at": "2026-08-19T02:08:59Z"
+}

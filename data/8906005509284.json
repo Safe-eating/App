@@ -1,0 +1,26 @@
+{
+  "barcode": "8906005509284",
+  "name": "Lite Chiwda",
+  "brand": "Bikaji",
+  "quantity": "",
+  "categories": [
+    "en:Namkeen"
+  ],
+  "ingredients": "Rice Flakes (37%), Edible Vegetable Oil (Palmolein Oil, Cottonseed Oil), Roasted Gram (25%), Corn Flakes (6%), Ground Spices \u0026 Condiments (lodised Salt, Red Chilli, Dried Mango Black Salt, Ginger, Clove, Nutmeg, Black Pepper, Long Pepper, Cardamom, Asafoetida, Cumin, Mace, Cinnamon, Coriander, Mint, Fenugreek, Fennel Seeds, Turmeric (Colouring \u0026 Spices), Dehydrated Vegetable Powder (Onion, Garlic), Bishop's Seed, Mustard Seeds), Dried Curry Leaves (0.5%) CONTAINS: MUSTARD ALLERGEN ADVICE: This product is made in a facility that processes food containing peanut, treenut, soy, milk, cereals containing gluten, sesame, mustard and sulphites.",
+  "per_100g": {
+    "energy_kcal": 519,
+    "fat": 28,
+    "saturated_fat": 12,
+    "carbohydrates": 60,
+    "sugars": 3,
+    "fiber": 6,
+    "protein": 6,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-23T16:49:22Z",
+  "fetched_at": "2026-08-19T01:51:43Z"
+}

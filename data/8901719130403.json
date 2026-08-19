@@ -1,0 +1,31 @@
+{
+  "barcode": "8901719130403",
+  "name": "nutriticrunch digestive",
+  "brand": "Parle",
+  "quantity": "75 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "ATTA (36%). REFINED PALM OIL, SUGAR, ROLLED OATS (9.4%), CHOCOLATE (7.3%) [SUGAR COCOA SOLIDS, COCOA BUTTER, DEXTROSE AND EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN). ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA ], INVERT SUGAR SYRUP, CASHEW (3.6%), LIQUID GLUCOSE, RAISING AGENTS [503 (ii), 500 ], IODISED SALT AND EMULSIFIER OF VEGETABLE ORIGIN [472e]. CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA, CHOCOLATE) CONTAINS: WHEAT, OATS, CASHEW AND SOY",
+  "per_100g": {
+    "energy_kcal": 519,
+    "fat": 26.2,
+    "saturated_fat": 11.6,
+    "carbohydrates": 65,
+    "sugars": 27.3,
+    "fiber": 4.7,
+    "protein": 5.8,
+    "salt": 0.56,
+    "sodium": 0.224
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-01T07:45:53Z",
+  "fetched_at": "2026-08-19T01:02:14Z"
+}

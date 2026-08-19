@@ -1,0 +1,26 @@
+{
+  "barcode": "8904063223036",
+  "name": "Mexilla Flaming Hot",
+  "brand": "Haldiram's",
+  "quantity": "79",
+  "categories": [
+    "en:chips"
+  ],
+  "ingredients": "Corn (70%), Edible Vegetable Oil (Palmolein, Cotton Seed, Rice Bran), *Spices and Condiments [(Red/Chilli Powder (1%), Garlic Powder, Onion Powder, Rice Flour, Paprika Extract (INS 160c)], lodised Salt, Sugar Powder, Hydrolysed Vegetable (Soy) Powder, Acidity Regulators (INS 330, INS 296, INS 340), Flavour Enhancers (INS 627, INS 631), Anticaking Agent (INS 551), Stabiliser (INS 414), Natural and Nature Identical Flavouring Substances.",
+  "per_100g": {
+    "energy_kcal": 469.3,
+    "fat": 25.3,
+    "saturated_fat": 11.7,
+    "carbohydrates": 53.9,
+    "sugars": 3.1,
+    "fiber": null,
+    "protein": 6.5,
+    "salt": 2.125,
+    "sodium": 0.85
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-20T12:12:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

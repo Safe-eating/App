@@ -1,0 +1,27 @@
+{
+  "barcode": "8904132912748",
+  "name": "Navaratan mix",
+  "brand": "Snactac",
+  "quantity": "150g",
+  "categories": [
+    "en:snacks",
+    "en:Ready to eat savouries"
+  ],
+  "ingredients": "REFINED VEGETABLE OIL (COTTONSEED, PALMOLEIN), BENGAL GRAM FLOUR (20%), BENGAL GRAM (18%), RED LENTILS (12%), GROUNDNUT (7%), POTATO CHIPS (3%) RICE FLAKES (3%), iODISED SALT, SPICES \u0026 CONDIMENTS, SPINACH POWDER,CONTAINS _GROUNDNUT_.",
+  "per_100g": {
+    "energy_kcal": 576,
+    "fat": 35.1,
+    "saturated_fat": 10.9,
+    "carbohydrates": 39.9,
+    "sugars": 3.3,
+    "fiber": 0,
+    "protein": 18.7,
+    "salt": 2.21625,
+    "sodium": 0.8865
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-21T08:19:13Z",
+  "fetched_at": "2026-08-19T01:36:09Z"
+}

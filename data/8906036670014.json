@@ -1,0 +1,30 @@
+{
+  "barcode": "8906036670014",
+  "name": "Pasteurised Toned Milk",
+  "brand": "Nandini",
+  "quantity": "500 ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:buffalo-milks",
+    "en:toned-milks"
+  ],
+  "ingredients": "Milk Solids, Vitamin A \u0026 Vitamin D Milk Fat: 3.0% (Min.), Milk SNF: 8.5%(Min.)",
+  "per_100g": {
+    "energy_kcal": 60,
+    "fat": 3.1,
+    "saturated_fat": 2,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": null,
+    "protein": 3.3,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-11-01T05:26:25Z",
+  "fetched_at": "2026-08-19T12:34:54Z"
+}

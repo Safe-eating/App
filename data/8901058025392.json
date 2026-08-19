@@ -1,0 +1,27 @@
+{
+  "barcode": "8901058025392",
+  "name": "Masala - a - magic",
+  "brand": "Maggi",
+  "quantity": "20 units * 6 g = 120 g",
+  "categories": [
+    "en:masala",
+    "en:mixed-masala-powder"
+  ],
+  "ingredients": "Mixed spices (35.6%) (\u0026quot;Roasted spice powder (17.8%) (Cumin, Coriander, Turmeric, Aniseed, Black pepper, Fenugreek, Ginger, Clove, Green 6% cardamom powder, Nutmeg), Red chilli powder, Dehydrated onion, Dried garlic, Capsicum extract, Coriander extract, Cumin extract), lodized salt Sugar, Starch, Flavour enhancer (635), Thickener (508), Acidity regulator ES (330), Palm oil, Natural flavouring substance, Mineral and Vitamin. Allergen Note: May contain Wheat, Milk, Mustard and Soy. Spice content above 25%; Salt content above 5%. Markeled D Mectló India Ltd 100/101 World Trade Centre.",
+  "per_100g": {
+    "energy_kcal": 166,
+    "fat": 2.9,
+    "saturated_fat": 1.4,
+    "carbohydrates": 30.7,
+    "sugars": 13.5,
+    "fiber": 9.1,
+    "protein": 0,
+    "salt": 27.29,
+    "sodium": 10.916
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-20T17:11:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8906010502201",
+  "name": "Chana Jor Garam",
+  "brand": "Balaji",
+  "quantity": "250g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers",
+    "en:Namkeen"
+  ],
+  "ingredients": "CHICKPEA (69%), EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN, CORN), SPICES \u0026 CONDIMENTS (CHILLI, DRY MANGO, TURMERIC, CLOVE, CAROM SEED, GINGER, CINNAMON, CARDAMOM, NUTMEG, MACE, BAY LEAVES), EDIBLE COMMON SALT, BLACK SALT",
+  "per_100g": {
+    "energy_kcal": 570,
+    "fat": 30.5,
+    "saturated_fat": 13.7,
+    "carbohydrates": 52.3,
+    "sugars": 1.8,
+    "fiber": 19.5,
+    "protein": 11.9,
+    "salt": 2.36,
+    "sodium": 0.944
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-11T00:44:26Z",
+  "fetched_at": "2026-08-19T02:01:42Z"
+}

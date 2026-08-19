@@ -1,0 +1,26 @@
+{
+  "barcode": "8904071704565",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:Banana chip"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 552,
+    "fat": 34.6,
+    "saturated_fat": 16.7,
+    "carbohydrates": 56.8,
+    "sugars": 4.8,
+    "fiber": 4.8,
+    "protein": 3.4,
+    "salt": 0.425,
+    "sodium": 0.17
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-09T12:23:54Z",
+  "fetched_at": "2026-08-19T01:32:30Z"
+}

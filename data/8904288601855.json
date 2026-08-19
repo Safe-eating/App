@@ -1,0 +1,29 @@
+{
+  "barcode": "8904288601855",
+  "name": "Mustard sauce",
+  "brand": "Tops",
+  "quantity": "300g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:mustards",
+    "en:mustard-sauces"
+  ],
+  "ingredients": "Water, Mustard Powder 19%, lodised Salt, Acidity Regulator (260) Sugar, Turmeric Powder, Preservative (211), Thickener (415). CONTAINS ADDED FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCES).",
+  "per_100g": {
+    "energy_kcal": 102,
+    "fat": 6.23,
+    "saturated_fat": 0.32,
+    "carbohydrates": 7.1,
+    "sugars": 2.68,
+    "fiber": null,
+    "protein": 4.4,
+    "salt": 4.425,
+    "sodium": 1.77
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T15:22:52Z",
+  "fetched_at": "2026-08-19T01:40:22Z"
+}

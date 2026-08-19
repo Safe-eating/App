@@ -1,0 +1,35 @@
+{
+  "barcode": "8906127550010",
+  "name": "Natural Peanut Butter Crunch",
+  "brand": "ALPINO",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:nuts-and-their-products",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "Roasted Peanuts (100%)",
+  "per_100g": {
+    "energy_kcal": 625,
+    "fat": 49,
+    "saturated_fat": 12,
+    "carbohydrates": 18,
+    "sugars": 3,
+    "fiber": 6,
+    "protein": 30,
+    "salt": 0.0625,
+    "sodium": 0.025
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T10:49:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

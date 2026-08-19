@@ -1,0 +1,30 @@
+{
+  "barcode": "8904474000004",
+  "name": "Bonn Brown Bread",
+  "brand": "Bonn",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 264,
+    "fat": 1.95,
+    "saturated_fat": 0.4,
+    "carbohydrates": 49.68,
+    "sugars": 4.48,
+    "fiber": 8.4,
+    "protein": 7.7,
+    "salt": 1.4425,
+    "sodium": 0.577
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-01T02:36:49Z",
+  "fetched_at": "2026-08-19T01:46:34Z"
+}

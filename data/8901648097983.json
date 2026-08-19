@@ -1,0 +1,33 @@
+{
+  "barcode": "8901648097983",
+  "name": "Mother Dairy Ultimate Dahi",
+  "brand": "Mother Dairy",
+  "quantity": "400g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:curd"
+  ],
+  "ingredients": "Standardised Milk, Water, Milk Solids And Active Lactic Culture.",
+  "per_100g": {
+    "energy_kcal": 75,
+    "fat": 4.5,
+    "saturated_fat": 4.5,
+    "carbohydrates": 5,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 3.7,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T07:43:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

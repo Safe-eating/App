@@ -1,0 +1,26 @@
+{
+  "barcode": "8901401000533",
+  "name": "Threptin Diskettes",
+  "brand": "Threptin",
+  "quantity": "",
+  "categories": [
+    "en:Nutrition"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 480,
+    "fat": 16,
+    "saturated_fat": 8,
+    "carbohydrates": 48,
+    "sugars": 32,
+    "fiber": 0,
+    "protein": 32,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T20:27:08Z",
+  "fetched_at": "2026-08-19T00:47:48Z"
+}

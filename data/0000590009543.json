@@ -1,0 +1,32 @@
+{
+  "barcode": "0000590009543",
+  "name": "Mango Sinduri",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruits-based-foods",
+    "en:fruits",
+    "en:tropical-fruits",
+    "en:mangoes"
+  ],
+  "ingredients": "mango",
+  "per_100g": {
+    "energy_kcal": 73.9,
+    "fat": 0.25,
+    "saturated_fat": 0.005,
+    "carbohydrates": 14.3,
+    "sugars": 12.9,
+    "fiber": 1.6,
+    "protein": 0.63,
+    "salt": 0.0063,
+    "sodium": 0.0025
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-29T13:59:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

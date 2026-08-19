@@ -1,0 +1,29 @@
+{
+  "barcode": "8906010501259",
+  "name": "Masala sev murmura",
+  "brand": "Balaji wafers",
+  "quantity": "48g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:namkeen"
+  ],
+  "ingredients": "PUFFED RICE (45%), CHICKPEA FLOUR, EDIBLE VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWINGS: PALMOLEIN, RICE BRAN, CORN, COTTONSEED), RICE FLOUR, **SEASONING [SPICES \u0026 CONDIMENTS 4% (CHILLI, BLACK PEPPER, CURRY LEAVES, OREGANO, COMPOUNDED ASAFOETIDA (WHEAT FLOUR, GUM ACACIA, ASAFOETIDA), CUMIN, DRY MANGO, GINGER), DEHYDRATED VEGETABLE POWDER (GARLIC, TAMARIND, ONION), EDIBLE COMMON SALT, BLACK SALT, SUGAR HYDROLYZED VEGETABLE PROTEIN (SOYA), FLAVOUR (NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES), ACIDITY REGULATOR (INS 330), YEAST EXTRACT, ANTICAKING AGENT (INS 551), FLAVOUR ENHANCER (INS 627, INS 631) **AS FLAVOURING \u0026 SEASONING AGENT",
+  "per_100g": {
+    "energy_kcal": 482,
+    "fat": 23.2,
+    "saturated_fat": 10.5,
+    "carbohydrates": 53.8,
+    "sugars": 9.4,
+    "fiber": 7,
+    "protein": 10.9,
+    "salt": 2.0275,
+    "sodium": 0.811
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T12:01:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8901725132873",
+  "name": "dark fantasy Choc Fills",
+  "brand": "Sunfeast",
+  "quantity": "20",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "choco crème (38%) [sugar, refined palm oil, refined palmolein, cocoa solids, antioxidant (ins 3220)) ,contains added flavour(s) (nature identical flavouring substances - chocolate and artificial flavouring substances ethyl vanillin)], wheat flour, hydrogenated vegetable oil, sugar, invert syrup, liquid glucose, raising agents (ins 503(i), ins 500(i), ins 450()), cocoa solids (0,7%), butter, milk solids, edible common salt and emulsifiers (ins 322(0),  ins 471), contains permitted natural colour(s) (ins 150c, ins 150d) and added flavour(s) (nature identical flavouring substances-chocolate and mal artificial flavouring substances-vanilla, milk) do y da",
+  "per_100g": {
+    "energy_kcal": 504,
+    "fat": 25,
+    "saturated_fat": 11.4,
+    "carbohydrates": 63.9,
+    "sugars": 37.6,
+    "fiber": null,
+    "protein": 5.7,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-19T15:20:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

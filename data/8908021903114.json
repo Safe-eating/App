@@ -1,0 +1,27 @@
+{
+  "barcode": "8908021903114",
+  "name": "Idli Podi Chutney",
+  "brand": "Daishik",
+  "quantity": "80 g",
+  "categories": [
+    "en:condiments",
+    "en:Premix chutney"
+  ],
+  "ingredients": "Bengal Gram, Black Gram Splits, Sesame Seeds, Red Chilli Powder \u0026 Iodized Salt.",
+  "per_100g": {
+    "energy_kcal": 429.2,
+    "fat": 14.24,
+    "saturated_fat": 2.67,
+    "carbohydrates": 52.2,
+    "sugars": 1.95,
+    "fiber": null,
+    "protein": 23.26,
+    "salt": 4.17525,
+    "sodium": 1.6701
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-10T17:20:17Z",
+  "fetched_at": "2026-08-19T13:20:59Z"
+}

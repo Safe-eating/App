@@ -1,0 +1,38 @@
+{
+  "barcode": "8904320002565",
+  "name": "OATS",
+  "brand": "Disano",
+  "quantity": "1 KG",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereal-grains",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats",
+    "en:oat"
+  ],
+  "ingredients": "Rolled Oats",
+  "per_100g": {
+    "energy_kcal": 398,
+    "fat": 7.38,
+    "saturated_fat": 1.31,
+    "carbohydrates": 65.07,
+    "sugars": 1,
+    "fiber": 14.1,
+    "protein": 17.83,
+    "salt": 0.000012625,
+    "sodium": 0.00000505
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-12T09:26:40Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

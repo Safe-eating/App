@@ -1,0 +1,33 @@
+{
+  "barcode": "8906195000011",
+  "name": "Cooked Kabuli Chana",
+  "brand": "FreshCon",
+  "quantity": "250g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:seeds",
+    "en:legume-seeds",
+    "en:pulses",
+    "en:chickpeas"
+  ],
+  "ingredients": "Chick Peas",
+  "per_100g": {
+    "energy_kcal": 130,
+    "fat": 1.5,
+    "saturated_fat": 0.5,
+    "carbohydrates": 22,
+    "sugars": 3,
+    "fiber": null,
+    "protein": 7.2,
+    "salt": 0.075,
+    "sodium": 0.03
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-31T07:05:09Z",
+  "fetched_at": "2026-08-19T13:03:20Z"
+}

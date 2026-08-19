@@ -1,0 +1,28 @@
+{
+  "barcode": "8902579001599",
+  "name": "Frooti",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "WATER, SUGAR, MANGO PULP (11.2%), ACIDITY REGULATORS (INS 330, INS 331(iii)], STABILIZER (INS 466) NATURE-IDENTICAL FLAVOURING SUBSTANCES (MANGO), PRESERVATIVE (INS 211), ANTIOXIDANT (INS 300) AND FOOD COLOUR (INS 110).",
+  "per_100g": {
+    "energy_kcal": 63.2,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 15.8,
+    "sugars": 15.6,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.06525,
+    "sodium": 0.0261
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-14T19:13:07Z",
+  "fetched_at": "2026-08-19T01:15:49Z"
+}

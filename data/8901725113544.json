@@ -1,0 +1,30 @@
+{
+  "barcode": "8901725113544",
+  "name": "Glouse",
+  "brand": "Sunfeast",
+  "quantity": "88",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 437,
+    "fat": 10.4,
+    "saturated_fat": 0.01,
+    "carbohydrates": 78.8,
+    "sugars": 28.5,
+    "fiber": null,
+    "protein": 7.1,
+    "salt": 1.43775,
+    "sodium": 0.5751
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-19T09:58:40Z",
+  "fetched_at": "2026-08-19T01:05:58Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8901063092501",
+  "name": "BRITANN Good day 600 g",
+  "brand": "Britannia",
+  "quantity": "600 g",
+  "categories": [
+    "en:breakfasts",
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:dry-biscuits",
+    "en:breakfast-biscuit"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EDIBLE VEGETABLE OIL (PALM), BUTTER (29%), INVERT SYRUP, MILK SOLIDS RAISING AGENTS (5(130), 500%)), ODISED SALT AND EMULSIFIERS [322, 471, 472e)\r\nCONTAINS ADDED FLAVOURS INATURAL NATURE IDENTICAL AND\r\nARTIFICIAL (BUTTER, VANILLA \u0026 MILK) FLAVOURING SUBSTANCES)",
+  "per_100g": {
+    "energy_kcal": 500,
+    "fat": 21.7,
+    "saturated_fat": 11,
+    "carbohydrates": 69.5,
+    "sugars": 20.8,
+    "fiber": 0,
+    "protein": 6.8,
+    "salt": 0.615,
+    "sodium": 0.246
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-22T07:07:15Z",
+  "fetched_at": "2026-08-19T00:30:42Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8904119607049",
+  "name": "Choco Chips Magic Cone",
+  "brand": "Top N Town",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 206,
+    "fat": 8.65,
+    "saturated_fat": 5.19,
+    "carbohydrates": 29.28,
+    "sugars": 16.2,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.1003,
+    "sodium": 0.00004012
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-05T15:22:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

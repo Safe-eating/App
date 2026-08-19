@@ -1,0 +1,31 @@
+{
+  "barcode": "8901499008213",
+  "name": "Kelloyy's Wheat Flakes",
+  "brand": "Kellogg's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "wheat flakes",
+  "per_100g": {
+    "energy_kcal": 356,
+    "fat": 1.8,
+    "saturated_fat": 0.3,
+    "carbohydrates": 80.3,
+    "sugars": 19.5,
+    "fiber": 12.5,
+    "protein": 11,
+    "salt": 1.2,
+    "sodium": 0.48
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-11T15:55:53Z",
+  "fetched_at": "2026-08-19T00:52:23Z"
+}

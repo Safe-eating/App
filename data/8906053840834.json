@@ -1,0 +1,29 @@
+{
+  "barcode": "8906053840834",
+  "name": "Dry Bhel",
+  "brand": "Kalyan Bhel",
+  "quantity": "",
+  "categories": [
+    "en:sandwiches",
+    "en:baguette-sandwiches",
+    "en:Dry-bhel",
+    "en:healthy-french-bread-sandwiches"
+  ],
+  "ingredients": "Rice flakes, Gram flour, Edible vegetable oil, (Groundnut Oil) Red chilli powder, Papad khar, Iodised salt",
+  "per_100g": {
+    "energy_kcal": 450.909090909091,
+    "fat": 15.4181818181818,
+    "saturated_fat": 7.12727272727273,
+    "carbohydrates": 63.7818181818182,
+    "sugars": 0.545454545454545,
+    "fiber": 2.6,
+    "protein": 14.6,
+    "salt": 1.45663636363636,
+    "sodium": 0.582654545454545
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-25T02:48:06Z",
+  "fetched_at": "2026-08-19T12:38:00Z"
+}

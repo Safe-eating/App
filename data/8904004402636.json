@@ -1,0 +1,27 @@
+{
+  "barcode": "8904004402636",
+  "name": "",
+  "brand": "Haldiram's",
+  "quantity": "30 g",
+  "categories": [
+    "en:Chips",
+    "en:Fast-food"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 556,
+    "fat": 34.17,
+    "saturated_fat": 15.15,
+    "carbohydrates": 53.24,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 7.4,
+    "salt": 0.943,
+    "sodium": 0.377
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-14T09:39:55Z",
+  "fetched_at": "2026-08-19T01:24:48Z"
+}

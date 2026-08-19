@@ -1,0 +1,24 @@
+{
+  "barcode": "8906142560407",
+  "name": "Organic Chickpea Puffs - Tangy Taco",
+  "brand": "Popeas",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 408.56,
+    "fat": 13.96,
+    "saturated_fat": 7.82,
+    "carbohydrates": 50.14,
+    "sugars": 6.55,
+    "fiber": 6.3,
+    "protein": 20.59,
+    "salt": 1.614075,
+    "sodium": 0.64563
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-27T09:41:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

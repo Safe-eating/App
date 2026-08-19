@@ -1,0 +1,33 @@
+{
+  "barcode": "8906082000292",
+  "name": "Chana Papad",
+  "brand": "Parag",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:flatbreads",
+    "en:special-breads",
+    "en:papadum"
+  ],
+  "ingredients": "Bengal Gram Lentil Flour (55%), Black Gram Lentil Flour (35%), Iodized Salt, Red Chilly Flakes, Sugar, Plant Based Sodium Bicarbonate (Saaji), Vegetable Edible Oil (Groundnut Oil), Carom Seeds, Cumin, Asafoetida",
+  "per_100g": {
+    "energy_kcal": 314.29,
+    "fat": 1.43,
+    "saturated_fat": 0.29,
+    "carbohydrates": 55.21,
+    "sugars": 4.43,
+    "fiber": 12.36,
+    "protein": 20.5,
+    "salt": 5.855,
+    "sodium": 2.342
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T05:35:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "0846203081695",
+  "name": "Bakarwadi",
+  "brand": "",
+  "quantity": "500 g",
+  "categories": [
+    "en:food"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 106.4,
+    "fat": 6.8,
+    "saturated_fat": 1,
+    "carbohydrates": 9.4,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 1.4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-24T05:39:07Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

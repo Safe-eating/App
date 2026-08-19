@@ -1,0 +1,36 @@
+{
+  "barcode": "8901491101837",
+  "name": "Lays Classics Salted 20rs",
+  "brand": "Lay's",
+  "quantity": "50g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil\n\n(Palmolein Oil), \u0026quot;Seasoning (Maltodextrin, lodised Salt, \u0026quot;Spices \u0026 Condiments, Sugar, Flavour (Natural and Nature Identical Flavouring Substances), Anticaking Agent (551), Flavour Enhancers (627, 631), Edible Vegetable Oil (Palm)).\n\n\u0026quot;As flavouring agent. \u0026quot;Contains Onion \u0026 Garlic",
+  "per_100g": {
+    "energy_kcal": 554,
+    "fat": 35.5,
+    "saturated_fat": 14,
+    "carbohydrates": 51.7,
+    "sugars": 2.6,
+    "fiber": 0,
+    "protein": 7,
+    "salt": 0.51,
+    "sodium": 0.204
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-15T08:22:27Z",
+  "fetched_at": "2026-08-19T00:50:17Z"
+}

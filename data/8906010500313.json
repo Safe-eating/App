@@ -1,0 +1,30 @@
+{
+  "barcode": "8906010500313",
+  "name": "Balaji Wafers Ratlami Sev",
+  "brand": "Balaji Wafers",
+  "quantity": "50g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "CHICKPEA FLOUR (45%), EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN), MOTH BEAN FLOUR (16%), EDIBLE COMMON SALT, SPICES \u0026 CONDIMENTS (CHILLI, GINGER, CLOVE, PEPPER, CAROM SEED, CUMIN, ASAFOETIDA).",
+  "per_100g": {
+    "energy_kcal": 570,
+    "fat": 36.1,
+    "saturated_fat": 16,
+    "carbohydrates": 42.1,
+    "sugars": 2,
+    "fiber": 8.8,
+    "protein": 14.8,
+    "salt": 2.71,
+    "sodium": 1.084
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-31T18:24:27Z",
+  "fetched_at": "2026-08-19T02:00:37Z"
+}

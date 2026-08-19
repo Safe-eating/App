@@ -1,0 +1,28 @@
+{
+  "barcode": "8906069401739",
+  "name": "Chef’s Special Veg Mayonnaise Eggless",
+  "brand": "Veeba",
+  "quantity": "",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:mayonnaises"
+  ],
+  "ingredients": "Water, Refined Soyabean Oil, Synthetic Vinegar [Water, tic Acid (INS260)], Sugar, Emulsifiers and Stabilizers (INS1442, INS1450, 415), lodised Salt, Spices and Condiments, Acidity Regulator (INS330), servatives (INS211, INS202), Nature-Identical Flavouring Substances tioxidant (INS319) and Sequestrant (INS385). UTRITIONAL INFORMATION (Approx. Values) 8 Servings per pack, erving size: 1 Tbsp. (Approx. 15 g) Per 100 g % RDA Per Serve* 2.08% utrients ergy (kcal) 277.60 tein (g) 0.00 rbohydrate (g) 13.60 Total Sugars (g) 8.40 Added Sugars (g) 8.40 2.52% tal Fat (g) 24.80 5.55% Trans Fat (g) 0.00 Saturated Fat (g) 3.98 2.71% odium (mg) 840.00 0.00% 6.30% VRB Manufactured \u0026 Marketed by: VRB Consumer Products Private Limited Plot SP3-7, RIICO Industrial Area, Keshwana, Tehsil-Kotputli, Jaipur, Rajasthan-303108 (INDIA). For feedback, contact our consumer care executive at the above address; email: hello@veeba.in; call: 0124-465 Connect with us www.veeba.in 1 Store in a cool\u0026dry place. Refrigerate",
+  "per_100g": {
+    "energy_kcal": 277.6,
+    "fat": 24.8,
+    "saturated_fat": 3.98,
+    "carbohydrates": 13.6,
+    "sugars": 8.4,
+    "fiber": null,
+    "protein": 0,
+    "salt": 2.1,
+    "sodium": 0.84
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-24T11:05:44Z",
+  "fetched_at": "2026-08-19T12:41:35Z"
+}

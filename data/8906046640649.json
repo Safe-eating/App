@@ -1,0 +1,31 @@
+{
+  "barcode": "8906046640649",
+  "name": "Cashews",
+  "brand": "Kalbavi",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:cashew-nuts",
+    "en:CASHEWS"
+  ],
+  "ingredients": "CASHEWS",
+  "per_100g": {
+    "energy_kcal": 553,
+    "fat": 44,
+    "saturated_fat": 8,
+    "carbohydrates": 30,
+    "sugars": 6,
+    "fiber": 3,
+    "protein": 18,
+    "salt": 0.03,
+    "sodium": 0.012
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-26T06:26:14Z",
+  "fetched_at": "2026-08-19T12:36:58Z"
+}

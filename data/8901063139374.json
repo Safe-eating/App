@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063139374",
+  "name": "BOURBON",
+  "brand": "Britannia",
+  "quantity": "60g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "EDIBLE MAIZI CH, 122, 110, 13 \u0026 102), COCOA SOLIDS (2.7%), MILK SOUDS, RAISING AGENTS (500) \u0026 503(1) NATURE IDENTICAL \u0026 ARTIFICIAL (VANILU CHOCOLATE MILK \u0026 MILKY COCOA) FLAVOUING SUBSTANCES, EMULSIFIERS [471 \u0026 322(1), M.K CHOCOLATE (0.1%) [EMULSIFIER (322(1) AD IODSED SALT.",
+  "per_100g": {
+    "energy_kcal": 493.5,
+    "fat": 20.3,
+    "saturated_fat": 10.1,
+    "carbohydrates": 72.7,
+    "sugars": 37,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0.2975,
+    "sodium": 0.119
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T09:14:56Z",
+  "fetched_at": "2026-08-19T00:31:45Z"
+}

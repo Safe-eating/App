@@ -1,0 +1,31 @@
+{
+  "barcode": "8901928350456",
+  "name": "Googly biscuit",
+  "brand": "BISK FARM",
+  "quantity": "10 biscuits \u0026 35 gram",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Biscuit sugar"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (61.11%), SUGAR (20.18%), EDIBLE VEGETABLE OIL (PALM, PALMOLEIN), MILK SOLIDS, EDIBLE STARCH (CORN), CUMIN BLACK (KALONJI) (0.73%), CORIANDER (DHANIA), CHILLI POWDER (LAL MIRCHI), DRIED MANGO POWDER, SALT, ACIDITY REGULATOR (330), RAISING AGENTS [500, 503), EMULSIFIERS [322, 414, 472(e)], DOUGH CONDITIONER (223), DISPERSING AGENT (1520). ANTICAKING AGENT (551) AND ANTIOXIDANT (319) CONTAINS ADDED FOOD COLOUR(102) AND ADDED FLAVOUR (FRUIT) (NUMBERS IN BRACKETS ARE AS PER INTERNATIONAL NUMBERING SYSTEM) CONTAINS WHEAT, MILK AND SOY HYPERSENSITIVE INGREDIENTS",
+  "per_100g": {
+    "energy_kcal": 460.11,
+    "fat": 23.94,
+    "saturated_fat": 13.65,
+    "carbohydrates": 68.33,
+    "sugars": 21.49,
+    "fiber": null,
+    "protein": 6.23,
+    "salt": 0.455,
+    "sodium": 0.182
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-27T07:42:58Z",
+  "fetched_at": "2026-08-19T01:10:39Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8906131680635",
+  "name": "Berry Crunch",
+  "brand": "Slurrp Farm",
+  "quantity": "400 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "Supergrain blend (sorghum (jowar), finger millet (ragi)) (25.7%), corn (19.1%), raw unrefined sugar (19%), rice flour (10.2%), strawberry powder, jaggery, rice bran oil, vanilla extract, natural flavours, beetroot powder, natural vitamin E",
+  "per_100g": {
+    "energy_kcal": 331,
+    "fat": 3.2,
+    "saturated_fat": 0.3,
+    "carbohydrates": 48.3,
+    "sugars": 24.1,
+    "fiber": 3,
+    "protein": 4.8,
+    "salt": 0.02075,
+    "sodium": 0.0083
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-26T04:04:16Z",
+  "fetched_at": "2026-08-19T12:56:33Z"
+}

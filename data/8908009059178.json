@@ -1,0 +1,32 @@
+{
+  "barcode": "8908009059178",
+  "name": "Super Multi Grain Bread - Zero Maida Bread",
+  "brand": "The Health Factory",
+  "quantity": "250g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:sliced-breads",
+    "en:multigrain-sliced-breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 238.17,
+    "fat": 1.53,
+    "saturated_fat": 0.22,
+    "carbohydrates": 43.19,
+    "sugars": 4.41,
+    "fiber": 7.37,
+    "protein": 12.91,
+    "salt": 0.8753,
+    "sodium": 0.36591
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-19T02:26:17Z",
+  "fetched_at": "2026-08-19T13:11:10Z"
+}

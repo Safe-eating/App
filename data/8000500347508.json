@@ -1,0 +1,32 @@
+{
+  "barcode": "8000500347508",
+  "name": "",
+  "brand": "Kinder",
+  "quantity": "76,8 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:confectioneries",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "LOSSIPULBER (28%), suhkur, palmiõli, NISUJAHU (15,5%), vähendatud rasvasisaldusega kakaopulber (4%), päevalilleõli, emulgaator: letsitiinid (SOJA), sool, kergitusaine (naatriumvesinikkarbonaat), vanilliin. Võib sisaldada SARAPUUPÄHKLEID.",
+  "per_100g": {
+    "energy_kcal": 510,
+    "fat": 26.3,
+    "saturated_fat": 13.5,
+    "carbohydrates": 55.9,
+    "sugars": 42.9,
+    "fiber": null,
+    "protein": 11.5,
+    "salt": 0.445,
+    "sodium": 0.178
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-08T08:05:32Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

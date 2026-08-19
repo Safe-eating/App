@@ -1,0 +1,34 @@
+{
+  "barcode": "19017648",
+  "name": "The Coca Cola Company",
+  "brand": "Thumbs Up",
+  "quantity": "2.25Litres",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:non-alcoholic-beverages",
+    "en:carbonated-drinks",
+    "en:soft-drinks",
+    "en:artificially-sweetened-beverages",
+    "en:sodas",
+    "en:colas",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, ACIDITY REGULATOR (338) CAFFEINE (8.1 mg/100 g), SWEETENER (960), COLOUR (150 d), FLAVOURS (NATURAL, NATURE-IDENTICAL \u0026 ARTIFICIAL (COLA) FLAVOURING SUBSTANCES).",
+  "per_100g": {
+    "energy_kcal": 39,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 9.7,
+    "sugars": 9.5,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-29T07:11:32Z",
+  "fetched_at": "2026-08-19T00:00:36Z"
+}

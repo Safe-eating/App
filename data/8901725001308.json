@@ -1,0 +1,36 @@
+{
+  "barcode": "8901725001308",
+  "name": "Bingo Potato Chips Cream \u0026 Onion",
+  "brand": "ITC",
+  "quantity": "52.0 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "POTATO (57.9%), REFINED PALMOLEIN, SEASONING MIX [MILK SOLIDS (1.8%), REFINED SUGAR, DEXTROSE, ONION POWDER (1.0%), IODISED SALT, DRIED PARSLEY LEAVES (0.4%), SOY SAUCE POWDER, CHEESE POWDER (0.2%), ACIDITY REGULATOR (INS 330), ANTICAKING AGENT (INS 551) \u0026 FLAVOUR ENHANCER (INS 627, INS 631)] AND IODISED SALT. CONTAINS ADDED FLAVOURS(S) (NATURAL FLAVOURS \u0026 NATURAL FLAVOURING SUBSTANCES - CREAM \u0026 NATURE IDENTICAL FLAOURING SUBSTANCES - CHEESE)",
+  "per_100g": {
+    "energy_kcal": 543,
+    "fat": 32.3,
+    "saturated_fat": 14.1,
+    "carbohydrates": 54.5,
+    "sugars": 4.8,
+    "fiber": 0,
+    "protein": 4.8,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-07-12T12:12:39Z",
+  "fetched_at": "2026-08-19T01:03:23Z"
+}

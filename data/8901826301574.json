@@ -1,0 +1,29 @@
+{
+  "barcode": "8901826301574",
+  "name": "Verka toned homogenized milk",
+  "brand": "Verka",
+  "quantity": "1 l",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:whole-milks"
+  ],
+  "ingredients": "Milk SNF 8.5%, Milk Fat 3.0%",
+  "per_100g": {
+    "energy_kcal": 58.2,
+    "fat": 3,
+    "saturated_fat": 1.9,
+    "carbohydrates": 4.8,
+    "sugars": 0,
+    "fiber": 6.9,
+    "protein": 3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2020-06-16T02:54:03Z",
+  "fetched_at": "2026-08-19T01:10:05Z"
+}

@@ -1,0 +1,37 @@
+{
+  "barcode": "8902080204342",
+  "name": "Pepsi Brand Mirinda orange flv 2ltr",
+  "brand": "Pepsico",
+  "quantity": "18",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:non-alcoholic-beverages",
+    "en:plant-based-beverages",
+    "en:carbonated-drinks",
+    "en:fruit-based-beverages",
+    "en:soft-drinks",
+    "en:sodas",
+    "en:fruit-sodas",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS E330 STABILIZERS (1450, 445), PRESERVATIVE (211), COLOUR (110), FLAVOUR NATURAL FLAVOURING SUBSTANCES",
+  "per_100g": {
+    "energy_kcal": 55,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 13.8,
+    "sugars": 13.8,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.015,
+    "sodium": 0.006
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-09T05:04:32Z",
+  "fetched_at": "2026-08-19T01:13:14Z"
+}

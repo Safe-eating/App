@@ -1,0 +1,30 @@
+{
+  "barcode": "7622201801878",
+  "name": "Oreo Original",
+  "brand": "Cadbury",
+  "quantity": "500 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, FRACTIONATED FAT, PALMOLEIN, INVERT SUGAR, COCOA SOLIDS (2%*), LEAVENING AGENTS (500(ii), 503(ii)), STARCH, IODISED SALT, EMULSIFIER (322), NATURE IDENTICAL FLAVOURING SUBSTANCES. ALLERGEN INFORMATION: CONTAINS WHEAT, SULPHITES, SOY. MAY CONTAIN MILK AND BARLEY.",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 19.6,
+    "saturated_fat": 9.7,
+    "carbohydrates": 71.9,
+    "sugars": 38.8,
+    "fiber": null,
+    "protein": 5.2,
+    "salt": 1.0922,
+    "sodium": 0.43688
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-06-27T18:12:22Z",
+  "fetched_at": "2026-08-19T00:09:15Z"
+}

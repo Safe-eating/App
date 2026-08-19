@@ -1,0 +1,35 @@
+{
+  "barcode": "8903363011350",
+  "name": "Dryfruit Mix",
+  "brand": "Dmart, Premia",
+  "quantity": "500 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:dried-products",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits"
+  ],
+  "ingredients": "Raisins, Almond, Cashew",
+  "per_100g": {
+    "energy_kcal": 524.91,
+    "fat": 32.98,
+    "saturated_fat": 3.48,
+    "carbohydrates": 43.44,
+    "sugars": 24.41,
+    "fiber": null,
+    "protein": 13.58,
+    "salt": 0.0171,
+    "sodium": 0.00684
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-10T15:11:56Z",
+  "fetched_at": "2026-08-19T01:23:05Z"
+}

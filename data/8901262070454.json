@@ -1,0 +1,32 @@
+{
+  "barcode": "8901262070454",
+  "name": "Amul Dark Chocolate",
+  "brand": "Amul",
+  "quantity": "40g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:chocolates",
+    "en:dark-chocolates"
+  ],
+  "ingredients": "SUGAR, COCOA SOLIDS, COCOA BUTTER, PERMITTED EMULSIFIERS (E322, E476), ARTIFICIAL FLAVOURING SUBSTANCES (COCOA, VANILLA)",
+  "per_100g": {
+    "energy_kcal": 521,
+    "fat": 33.1,
+    "saturated_fat": 18.6,
+    "carbohydrates": 51.4,
+    "sugars": 42,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 0.095,
+    "sodium": 0.038
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-27T04:47:57Z",
+  "fetched_at": "2026-08-19T00:42:30Z"
+}

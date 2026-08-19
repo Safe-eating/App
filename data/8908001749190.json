@@ -1,0 +1,35 @@
+{
+  "barcode": "8908001749190",
+  "name": "Rice Bran Oil",
+  "brand": "EnergyMax",
+  "quantity": "1L",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:fats",
+    "en:cereals-and-their-products",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:cereal-oils",
+    "en:rice-bran-oils",
+    "en:Oils"
+  ],
+  "ingredients": "Rice Bran Oil, ADD-03 (Permitted Antioxidant E-319, E-330, Permitted Antifoaming Agent E-900a), Vitamin A \u0026 Vitamin D.",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 31,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-20T11:57:23Z",
+  "fetched_at": "2026-08-19T13:06:57Z"
+}

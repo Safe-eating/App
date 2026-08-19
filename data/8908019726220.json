@@ -1,0 +1,30 @@
+{
+  "barcode": "8908019726220",
+  "name": "Nova nova Waffle Cookies",
+  "brand": "Nova Nova",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 404,
+    "fat": 21.8181818181818,
+    "saturated_fat": 11.2727272727273,
+    "carbohydrates": 46.2727272727273,
+    "sugars": 29,
+    "fiber": 1.63636363636364,
+    "protein": 6,
+    "salt": 0.319318181818182,
+    "sodium": 0.127727272727273
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-29T04:48:17Z",
+  "fetched_at": "2026-08-19T13:19:53Z"
+}

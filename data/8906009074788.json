@@ -1,0 +1,31 @@
+{
+  "barcode": "8906009074788",
+  "name": "Oats Marie Thinz",
+  "brand": "Unibic",
+  "quantity": "58 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Oats biscuits"
+  ],
+  "ingredients": "Whole Wheat Flour(Atta), Sugar, Rolled Oats (10%), Refined Palm Oil, Invert Sugar Syrup, Milk Solids, Raising Agents [INS 503(ii), INS 500 (ii)], Honey, Emulsifier of Vegetable Origin (INS 471e), lodised Salt, Natural, Nature Identical (Honey) and Artificial Flavouring Substances (Milk and Vanilla), Dough Conditioners [INS 223, INS 1101(1)]. Allergen Advice: Contains Wheat, Oats and Milk May contain traces of Nut.",
+  "per_100g": {
+    "energy_kcal": 447,
+    "fat": 12.5,
+    "saturated_fat": 6.3,
+    "carbohydrates": 74.3,
+    "sugars": 21,
+    "fiber": 7.7,
+    "protein": 9.4,
+    "salt": 0.8625,
+    "sodium": 0.345
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-10T10:52:12Z",
+  "fetched_at": "2026-08-19T01:56:34Z"
+}

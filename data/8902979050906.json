@@ -1,0 +1,32 @@
+{
+  "barcode": "8902979050906",
+  "name": "Cavins kaju Butterscotch Milkshake 180ml",
+  "brand": "Cavin's",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:milkshakes",
+    "en:butterscotch-milkshake"
+  ],
+  "ingredients": "Toned Milk (89%), Sugar, Flavor (Nature Identical and Artificial (Kaju Katri) Flavoring Substances), Stabilizers (INS 415, INS 412, INS 407), Sequestrant (INS 451 (i)), lodized Salt, Cashew Powder (0.05%), Emulsifier (INS 436), Mineral and Vitamin premix (Zinc, Vitamin A and D), and Synthetic Food Color (INS 110). Allergen Advice: Contains Milk and Nut.",
+  "per_100g": {
+    "energy_kcal": 108.65,
+    "fat": 4.1,
+    "saturated_fat": 2.73,
+    "carbohydrates": 15,
+    "sugars": 14.8,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.199625,
+    "sodium": 0.07985
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-25T12:31:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

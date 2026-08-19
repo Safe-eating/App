@@ -1,0 +1,32 @@
+{
+  "barcode": "8901058000306",
+  "name": "Maggi noodles masala",
+  "brand": "Nestle",
+  "quantity": "560 gm",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "Noodles: Refined wheat flour (Maida), Palm oil, lodized salt, Wheat gluten, Thickeners (508 \u0026 412), Acidity regulators (501(i) \u0026 500 (i)) and Humectant (451 (i)). Masala *TASTEMAKER®: Mixed spices (25.6%) (Onion powder, Coriander powder, Turmeric powder, Red chilli powder, Garlic powder, Cumin powder, Aniseed powder, Ginger powder, Fenugreek powder, Black pepper powder, Clove powder, Green cardamom powder \u0026 Nutmeg powder), Refined wheat flour (Maida), Hydrolysed groundnut protein, Sugar, Palm oil, Starch, Vodized salt, Thickener (508), Flavour enhancer (635), Toasted onion flakes, Acidity regulator (330), Colour (150d), Mineral and Wheat gluten. Contains Wheat \u0026 Nut. May contains Milk, Mustard, Oats And Soy.",
+  "per_100g": {
+    "energy_kcal": 442.857142857143,
+    "fat": 18.5714285714286,
+    "saturated_fat": 10,
+    "carbohydrates": 60,
+    "sugars": 1.42857142857143,
+    "fiber": 2.85714285714286,
+    "protein": 8.57142857142857,
+    "salt": 2.57142857142857,
+    "sodium": 1.02857142857143
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-02T15:55:44Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

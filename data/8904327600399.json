@@ -1,0 +1,35 @@
+{
+  "barcode": "8904327600399",
+  "name": "Myfitness Peanut butter",
+  "brand": "Myfitness",
+  "quantity": "510g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:nuts-and-their-products",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:nut-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Roasted Peanuts, Brown Sugar, Pink Himalayan Salt, Permitted Stabilizing Agent (INS 471)",
+  "per_100g": {
+    "energy_kcal": 625,
+    "fat": 50,
+    "saturated_fat": 10,
+    "carbohydrates": 19,
+    "sugars": 10,
+    "fiber": 5,
+    "protein": 26,
+    "salt": 0.875,
+    "sodium": 0.35
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-25T18:32:56Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

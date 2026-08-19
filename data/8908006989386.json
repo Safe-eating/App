@@ -1,0 +1,33 @@
+{
+  "barcode": "8908006989386",
+  "name": "nutritius rajgira peanut chikki",
+  "brand": "nutritius",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:nuts-and-their-products",
+    "en:bars",
+    "en:nut-bars",
+    "en:peanut-bars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 499,
+    "fat": 22,
+    "saturated_fat": 3,
+    "carbohydrates": 51,
+    "sugars": 36,
+    "fiber": 4,
+    "protein": 18,
+    "salt": 187.5,
+    "sodium": 75
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-13T14:04:21Z",
+  "fetched_at": "2026-08-19T13:10:34Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8901719117312",
+  "name": "Parle-G Original Gluco Biscuits",
+  "brand": "Parle",
+  "quantity": "800 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:dry-biscuits",
+    "en:plain-biscuit"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA ) (68%), SUGAR, REFINED PALM OU INVERT SUGAR SYRUP* [SUGAR, CITRIC ACID], IODISED SALT, RAISING AGENTS 1503 ( Üi), 500 )),- MILK SOLIDS, FLOUR TREATMENT AGENT [1101 ( i }] AND EMULSIFIER OF VEGETABLE ORIGIN (472e] CONTAINS ADDED FLAVOUR ( ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA) (D-GLUCOSE, LEVULOSE CONTAINS: WHEAT, MILK",
+  "per_100g": {
+    "energy_kcal": 454,
+    "fat": 13,
+    "saturated_fat": 6,
+    "carbohydrates": 77.3,
+    "sugars": 25.5,
+    "fiber": null,
+    "protein": 6.9,
+    "salt": 0.75184,
+    "sodium": 0.300736
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-02-13T14:21:19Z",
+  "fetched_at": "2026-08-19T01:00:10Z"
+}

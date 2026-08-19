@@ -1,0 +1,30 @@
+{
+  "barcode": "8901725013318",
+  "name": "Aashirvaad svasti Paneer Slices",
+  "brand": "Aashirvaad, svasti",
+  "quantity": "200g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer"
+  ],
+  "ingredients": "Milk Solids.",
+  "per_100g": {
+    "energy_kcal": 290,
+    "fat": 23,
+    "saturated_fat": 15.3,
+    "carbohydrates": 2.7,
+    "sugars": 2.7,
+    "fiber": null,
+    "protein": 18,
+    "salt": 0.0625,
+    "sodium": 0.025
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-05T09:55:37Z",
+  "fetched_at": "2026-08-19T01:04:28Z"
+}

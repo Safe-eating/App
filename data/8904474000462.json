@@ -1,0 +1,30 @@
+{
+  "barcode": "8904474000462",
+  "name": "Prime Time White Slice Bread",
+  "brand": "Bonn",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 232,
+    "fat": 0.83,
+    "saturated_fat": 0.24,
+    "carbohydrates": 48.48,
+    "sugars": 4.93,
+    "fiber": 1.55,
+    "protein": 6.89,
+    "salt": 1.1325,
+    "sodium": 0.453
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-15T02:42:34Z",
+  "fetched_at": "2026-08-19T01:46:39Z"
+}

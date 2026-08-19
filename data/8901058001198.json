@@ -1,0 +1,35 @@
+{
+  "barcode": "8901058001198",
+  "name": "Rich tomato ketchup",
+  "brand": "Maggi",
+  "quantity": "485g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup"
+  ],
+  "ingredients": "Water, Tomato paste 24.5%, Sugar, Iodized salt, Acidity regulator 260, Thickeners 1422, Thickeners 415, Dehydrated onion, Dried garlic, Preservative 211, and Mixed spices.",
+  "per_100g": {
+    "energy_kcal": 83,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 19.9,
+    "sugars": 18.7,
+    "fiber": 0,
+    "protein": 0.8,
+    "salt": 1.3835,
+    "sodium": 0.5534
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-30T04:09:21Z",
+  "fetched_at": "2026-08-19T00:24:31Z"
+}

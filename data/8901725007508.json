@@ -1,0 +1,36 @@
+{
+  "barcode": "8901725007508",
+  "name": "Bingo! Potato Chips Chilli Sprinkled",
+  "brand": "ITC",
+  "quantity": "90g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "POTATO (60.0%), REFINED PALMOLEIN, SEASONING (IODIZED SALT, RED CHILLI POWDER (1.1%), MALTODEXTRIN, #SPICES AND CONDIMENTS, ONION POWDER, REFINED WHEAT FLOUR (MAIDA), NATURE IDENTICAL FLAVOURING SUBSTANCES, BLACK SALT, MILK SOLIDS, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, SUGAR, TOMATO POWDER, HYDROLYZED VEGETABLE PROTEIN, GARLIC POWDER AND FLAVOUR ENHANCER (INS 508)} AND IODIZED SALT. #USED AS FLAVOURING AGENTS. CONTAINS SOY, MILK, WHEAT",
+  "per_100g": {
+    "energy_kcal": 531,
+    "fat": 33.4,
+    "saturated_fat": 14.2,
+    "carbohydrates": 50.5,
+    "sugars": 1.5,
+    "fiber": null,
+    "protein": 7.1,
+    "salt": 2.0615,
+    "sodium": 0.8246
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-14T10:57:34Z",
+  "fetched_at": "2026-08-19T01:04:18Z"
+}

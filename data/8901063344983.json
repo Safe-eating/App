@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063344983",
+  "name": "Brown Bread",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "WATER, WHEAT FLOUR (ATTA) (32.2%), REFINED WHEAT FLOUR (MAIDA), YEAST, SUGAR, BAKERY PREMIX, IODISED SALT, VITAL GLUTEN, REFINED SOYABEAN OIL AND VITAMINS*.",
+  "per_100g": {
+    "energy_kcal": 246,
+    "fat": 1.5,
+    "saturated_fat": 0.2,
+    "carbohydrates": 51.8,
+    "sugars": 1.9,
+    "fiber": 2.8,
+    "protein": 7.7,
+    "salt": 1.2315,
+    "sodium": 0.4926
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-10T09:37:03Z",
+  "fetched_at": "2026-08-19T00:33:47Z"
+}

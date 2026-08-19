@@ -1,0 +1,36 @@
+{
+  "barcode": "8903553851612",
+  "name": "Tomato Ketchup",
+  "brand": "Temptin",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup",
+    "en:tomato-ketchup"
+  ],
+  "ingredients": "Water, Sugar, Tomato Paste (28°B) 24.7%, Edible Common Salt, Emulsifying \u0026 Stabilizing Agent (INS 1422 \u0026 INS 415), Acidity Regulator Acetic Acid (INS 260), Onion Powder, Garlic Powder, Mixed Spices (Clove, Cinnamon, Chilli) Preservative (INS 211).",
+  "per_100g": {
+    "energy_kcal": 140,
+    "fat": 0.6,
+    "saturated_fat": 0.5,
+    "carbohydrates": 32.1,
+    "sugars": 27.3,
+    "fiber": 0.5,
+    "protein": 1.5,
+    "salt": 1.9,
+    "sodium": 0.76
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-24T05:43:30Z",
+  "fetched_at": "2026-08-19T01:23:15Z"
+}

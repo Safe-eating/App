@@ -1,0 +1,28 @@
+{
+  "barcode": "7640153867940",
+  "name": "Dana Whole Milk",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 64,
+    "fat": 3.6,
+    "saturated_fat": 2.2,
+    "carbohydrates": 4.8,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 3.2,
+    "salt": 0.1175,
+    "sodium": 0.047
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-23T07:14:55Z",
+  "fetched_at": "2026-08-19T00:11:36Z"
+}

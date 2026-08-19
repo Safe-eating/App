@@ -1,0 +1,31 @@
+{
+  "barcode": "8908002026467",
+  "name": "Jeera Special",
+  "brand": "BTW",
+  "quantity": "400 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Cumin-biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour, Bakery Shortening, Sugar,Common Salt, Glucose Powder, Milk powder, Custard Powder, Cumin Seeds Raising Agent [503ii)] \u0026 Baking Powder [500ii)] \r\nCONTAINS ADDED FLAVOUR (C2101 \u0026 S3294) (NATURAL IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES)",
+  "per_100g": {
+    "energy_kcal": 494,
+    "fat": 28.08,
+    "saturated_fat": 13.47,
+    "carbohydrates": 52.02,
+    "sugars": 7.8,
+    "fiber": 1.78,
+    "protein": 8.26,
+    "salt": 0.8945118,
+    "sodium": 0.35780472
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-04-01T16:19:55Z",
+  "fetched_at": "2026-08-19T13:07:01Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8901071704496",
+  "name": "HERSHEY KISSes",
+  "brand": "SHARES",
+  "quantity": "100.8g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:chocolates-with-almonds",
+    "en:dark-chocolates-with-almonds"
+  ],
+  "ingredients": "Sugar, Cocoa Solids (#29%), Cocoa Bunker Almond Bits (#11%), Milk Solids, Fractionated Vegetable Fat, Emulsifiers (442, 476) and Flavor (Artificial Flavoring Substance-Vanilla) CONTAINS COCOA BUTTER EQUIVALENT/VEGETABLE FAT IN ADDITION TO COCOA BUTTER ALLERGEN INFORMATION: CONTAINS MILK AND NUT MAY CONTAIN WHEAT AND SOY.",
+  "per_100g": {
+    "energy_kcal": 570,
+    "fat": 37.1,
+    "saturated_fat": 19,
+    "carbohydrates": 52,
+    "sugars": 39.8,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 0.1125,
+    "sodium": 0.045
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-20T12:28:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8906125982080",
+  "name": "Crunchy Corn Hawaiian Barbeque",
+  "brand": "4700 BC",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 14,
+    "fat": 14.8,
+    "saturated_fat": 1.9,
+    "carbohydrates": 72.1,
+    "sugars": 3.6,
+    "fiber": 4.5,
+    "protein": 7.6,
+    "salt": 1.125,
+    "sodium": 0.45
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-10T04:13:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

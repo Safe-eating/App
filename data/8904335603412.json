@@ -1,0 +1,32 @@
+{
+  "barcode": "8904335603412",
+  "name": "Super Muesli",
+  "brand": "Yoga Bar",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Whole Grains 68% {Rolled Oats, Brown Rice, Millets 20% (Jowar, Ragi, Bajra, Samai)}, Dehydrated Fruits 17% (Raisins, Strawberry Powder, Cranberry, Blackcurrant), Nuts \u0026 Seeds 8% (Almond, Pumpkin, Flax, Chia), Dates Syrup, Prebiotic Fibre (Fructo-oligosaccharide), Rice Bran Oil, Himalayan Pink Salt.",
+  "per_100g": {
+    "energy_kcal": 389,
+    "fat": 8.5,
+    "saturated_fat": 1.8,
+    "carbohydrates": 70,
+    "sugars": 3,
+    "fiber": 7,
+    "protein": 11.5,
+    "salt": 0.11575,
+    "sodium": 0.0463
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-16T14:07:27Z",
+  "fetched_at": "2026-08-19T01:44:32Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8908015836183",
+  "name": "Ragi Crispies",
+  "brand": "The Healthy Binge",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 463,
+    "fat": 18.55,
+    "saturated_fat": 1.825,
+    "carbohydrates": 60.9,
+    "sugars": 0.5,
+    "fiber": 8.55,
+    "protein": 13.2,
+    "salt": 1.65625,
+    "sodium": 0.6625
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-05T05:10:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

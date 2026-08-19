@@ -1,0 +1,24 @@
+{
+  "barcode": "8901262176132",
+  "name": "Amul Duetz Raspberry",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 174,
+    "fat": 7.8,
+    "saturated_fat": 4.6,
+    "carbohydrates": 23.6,
+    "sugars": 23.6,
+    "fiber": null,
+    "protein": 2.2,
+    "salt": 0.08,
+    "sodium": 0.032
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-22T13:53:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

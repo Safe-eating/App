@@ -1,0 +1,27 @@
+{
+  "barcode": "8906045140843",
+  "name": "Whey protein",
+  "brand": "Nutrabay",
+  "quantity": "500g",
+  "categories": [
+    "en:dairies",
+    "en:whey"
+  ],
+  "ingredients": "MANUFACTURED IN INDU",
+  "per_100g": {
+    "energy_kcal": 357.22,
+    "fat": 0,
+    "saturated_fat": 0.67,
+    "carbohydrates": 5.66,
+    "sugars": 0.00169,
+    "fiber": 0,
+    "protein": 80.63,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-10T07:40:26Z",
+  "fetched_at": "2026-08-19T12:36:55Z"
+}

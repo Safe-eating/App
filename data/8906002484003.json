@@ -1,0 +1,32 @@
+{
+  "barcode": "8906002484003",
+  "name": "Snickers",
+  "brand": "Mars",
+  "quantity": "12g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:chocolates"
+  ],
+  "ingredients": "Sugar, Milk Solids,  Cocoa Butter, Cocoa Solids, Edible vegetable fats \u0026lt; 5% (Sal fat, Palm oil), Dextrose, Emulsifier (E322); Liquid Glucose, Peanuts (14%), Sugar, Hydrogenated vegetable oil (Palm oil), Milk Solids, Iodized Salt, Cocoa Butter, Cocoa Solids, Edible vegetable fats \u0026lt; 5% (Sal fat, Palm oil), Dextrose, Emulsifier (E322).",
+  "per_100g": {
+    "energy_kcal": 477,
+    "fat": 22.65,
+    "saturated_fat": 10.2,
+    "carbohydrates": 61,
+    "sugars": 55.9,
+    "fiber": null,
+    "protein": 7.2,
+    "salt": 0.5775,
+    "sodium": 0.231
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-06T14:43:46Z",
+  "fetched_at": "2026-08-19T01:50:17Z"
+}

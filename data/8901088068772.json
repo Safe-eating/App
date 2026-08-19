@@ -1,0 +1,27 @@
+{
+  "barcode": "8901088068772",
+  "name": "Masala oats",
+  "brand": "Saffola, Marico",
+  "quantity": "38g",
+  "categories": [
+    "en:meals",
+    "fr:cereales-preparees"
+  ],
+  "ingredients": "Rolled Oats (74%), Maltodextrin, lodised Salt, Dried Vegetable [French Beans, Onion (0.69%), Green Peas (0.47%)], Spices and Condiments (1.3%) [Coriander (0.34%), Cumin, Turmeric, Black Pepper (0.3%), Chilly, Ginger, Fennel, Fenugreek, Curry Leaf Powder (0.2%)], Hydrolysed Vegetable Protein, Onion Powder, Garlic, Sugar, Wheat Flour, Flavour Enhancers (INS 627, INS 631), Yeast Extract, Acidity Regulators (INS 330), Natural and Nature - identical Flavouring Substances",
+  "per_100g": {
+    "energy_kcal": 366,
+    "fat": 7.5,
+    "saturated_fat": 1.5,
+    "carbohydrates": 70.8,
+    "sugars": 2.9,
+    "fiber": 12.6,
+    "protein": 10.2,
+    "salt": 3.8025,
+    "sodium": 1.521
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-07T17:56:26Z",
+  "fetched_at": "2026-08-19T00:35:52Z"
+}

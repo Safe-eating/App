@@ -1,0 +1,33 @@
+{
+  "barcode": "8906080600920",
+  "name": "chikki",
+  "brand": "Paper Boat",
+  "quantity": "16 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:nuts-and-their-products",
+    "en:bars",
+    "en:nut-bars",
+    "en:peanut-bars"
+  ],
+  "ingredients": "PEANUTS (50%), JAGGERY, SUGAR AND LIQUID GLUCOSE. \nContains Peanuts. May contains tree nuts.",
+  "per_100g": {
+    "energy_kcal": 497.6,
+    "fat": 24,
+    "saturated_fat": 5.4,
+    "carbohydrates": 56.5,
+    "sugars": 45.3,
+    "fiber": 5,
+    "protein": 13.9,
+    "salt": 0.064,
+    "sodium": 0.0256
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-04T10:21:44Z",
+  "fetched_at": "2026-08-19T12:44:41Z"
+}

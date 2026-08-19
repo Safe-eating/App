@@ -1,0 +1,33 @@
+{
+  "barcode": "8901088704625",
+  "name": "Saffola Oats Multigrain",
+  "brand": "Saffola",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat",
+    "en:Multigrain oats"
+  ],
+  "ingredients": "Oats (60%), Jowar flakes (18%), Wheat flakes (6.5%), Barley flakes (6.5%), Quinoa flakes (3%). Ragi flakes (3%), Flax seeds (2%), Refined Rice bran Oil, Flavor (Natural Flavouring Substance).",
+  "per_100g": {
+    "energy_kcal": 260,
+    "fat": 9.77777777777778,
+    "saturated_fat": 1.77777777777778,
+    "carbohydrates": 70.4444444444444,
+    "sugars": 1.11111111111111,
+    "fiber": 10,
+    "protein": 10.8888888888889,
+    "salt": 0.124444444444444,
+    "sodium": 0.0497777777777778
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-14T15:39:27Z",
+  "fetched_at": "2026-08-19T00:36:49Z"
+}

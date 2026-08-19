@@ -1,0 +1,24 @@
+{
+  "barcode": "8908009059710",
+  "name": "Zero Maida Atta Bread",
+  "brand": "The Health Factory",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 241.407407407407,
+    "fat": 1.31481481481481,
+    "saturated_fat": 0.203703703703704,
+    "carbohydrates": 43.962962962963,
+    "sugars": 4.09259259259259,
+    "fiber": 6.31481481481481,
+    "protein": 13.4074074074074,
+    "salt": 0.852407407407407,
+    "sodium": 0.340962962962963
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-09T14:59:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8901826601100",
+  "name": "Verka Gold",
+  "brand": "Verka",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "MILK SOLIDS",
+  "per_100g": {
+    "energy_kcal": 86.8,
+    "fat": 6,
+    "saturated_fat": 3.9,
+    "carbohydrates": 5,
+    "sugars": 5,
+    "fiber": null,
+    "protein": 3.2,
+    "salt": 0.14625,
+    "sodium": 0.0585
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-26T13:11:55Z",
+  "fetched_at": "2026-08-19T01:10:08Z"
+}

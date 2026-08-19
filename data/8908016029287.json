@@ -1,0 +1,31 @@
+{
+  "barcode": "8908016029287",
+  "name": "Pasta Crunch",
+  "brand": "Crax",
+  "quantity": "53 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:Pasta chips"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Edible Vegetable Oil (Refined Palmolein Oil), Tapioca Starch, Potato Solid, *Seasoning [lodised Salt, Sugar, Corn Starch, Garlic, Chilli (0.51%), Ginger, Soya Sauce Powder, Vinegar Powder, Hydrolysed Soy Protein, Ácidity Regulator (INS 330)], Natural Colour (INS 150 (d)), Flavour(s) (Natural \u0026 Nature Identical Flavouring Substances) *Used as part of flavouring agent Contains Wheat and Soy",
+  "per_100g": {
+    "energy_kcal": 491,
+    "fat": 24,
+    "saturated_fat": 12.1,
+    "carbohydrates": 61.6,
+    "sugars": 2.7,
+    "fiber": null,
+    "protein": 7.1,
+    "salt": 5.6,
+    "sodium": 2.24
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-16T14:24:56Z",
+  "fetched_at": "2026-08-19T13:17:20Z"
+}

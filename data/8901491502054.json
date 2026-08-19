@@ -1,0 +1,36 @@
+{
+  "barcode": "8901491502054",
+  "name": "Lay's West Indies' Hot 'n' Sweet Chilli",
+  "brand": "Lay's",
+  "quantity": "11g(8.6g + 2.4g extra)",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Palmolein, Sunflower Oil), *Seasoning (Sugar, Maltodextrin, lodised Salt, Flavour (Natural and Nature Identical Flavouring Substances), ^Spices \u0026 Condiments, Flavour Enhancers (E627 \u0026 E631), Edible Vegetable Oil (Palm, Sunflower, Peanut), Hydrolysed Vegetable Protein, Anticaking Agent (551), Cocoa Solids, Lactose). *As flavouring agent. ^Contains _Onion_ and _Garlic_ ALLERGEN ADVICE: Contains _Nut_, _Milk_, _Wheat_ May Contain _Sulphite_",
+  "per_100g": {
+    "energy_kcal": 534,
+    "fat": 32,
+    "saturated_fat": 14.3,
+    "carbohydrates": 55.1,
+    "sugars": 6,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 1.6775,
+    "sodium": 0.671
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-11-16T10:23:28Z",
+  "fetched_at": "2026-08-19T00:50:55Z"
+}

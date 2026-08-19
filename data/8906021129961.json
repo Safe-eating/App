@@ -1,0 +1,30 @@
+{
+  "barcode": "8906021129961",
+  "name": "lemon pickle",
+  "brand": "aachi",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles",
+    "en:plant-based-pickles",
+    "en:Lime Pickle"
+  ],
+  "ingredients": "Lemon (79%), Salt, Edible Vegetable Oil - Refined Rice Bran Oil, Red Chilli Powder, Fenugreek, Mustard, Asafoetida, Turmeric Powder, Acidity Regulators - (INS 330 \u0026 INS 260) and Curry Leaves. CONTAINS PERMITTED CLASS II PRESERVATIVE INS 211",
+  "per_100g": {
+    "energy_kcal": 136.8,
+    "fat": 8.8,
+    "saturated_fat": 2.8,
+    "carbohydrates": 11.7,
+    "sugars": 1.4,
+    "fiber": 0,
+    "protein": 2.7,
+    "salt": 13.1575,
+    "sodium": 5.263
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-16T17:16:15Z",
+  "fetched_at": "2026-08-19T02:08:56Z"
+}

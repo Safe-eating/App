@@ -1,0 +1,28 @@
+{
+  "barcode": "8908009918055",
+  "name": "Oziva Protein \u0026 Herbs",
+  "brand": "Oziva",
+  "quantity": "",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders"
+  ],
+  "ingredients": "Ultrafiltered Whey Protein Concentrate (84.70%), Cross Flow Filtered Whey Isolate (1.00%), Alkalized Cocoa (5.50%), Vitamins \u0026 Minerals Blend (2.55%), Added Natural \u0026 Nature - Identical Flavouring Substances (Chocolate others), Herbs Blond [Shatavari Root Extract (0.94%), Flax Seed Extract (0.31%), Green Tea Powder (0.22%), Tulsi Leaf Extract (0.16%), Cinnamon Bark Extract (0.09%), Curcumin Extract (0.06%)], Carica Papaya (Standardised for Papain) (0.30%), Pineapple Stem (Standardised for Bromelain) (0.30%), Xanthan Gum [Thickener (INS 415)], Natural Sweetener [Stevia (INS 960)].",
+  "per_100g": {
+    "energy_kcal": 392.45,
+    "fat": 6.25,
+    "saturated_fat": 4.18,
+    "carbohydrates": 17,
+    "sugars": 4.81,
+    "fiber": 4.25,
+    "protein": 69.7,
+    "salt": 0.37345,
+    "sodium": 0.14938
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-01T05:42:46Z",
+  "fetched_at": "2026-08-19T13:12:03Z"
+}

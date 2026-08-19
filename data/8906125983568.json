@@ -1,0 +1,24 @@
+{
+  "barcode": "8906125983568",
+  "name": "Nachos-Korean Kimchi",
+  "brand": "4700 BC",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 492.857142857143,
+    "fat": 19.6428571428571,
+    "saturated_fat": 4.28571428571429,
+    "carbohydrates": 69.2857142857143,
+    "sugars": 8.92857142857143,
+    "fiber": 3.92857142857143,
+    "protein": 7.85714285714286,
+    "salt": 0.719642857142857,
+    "sodium": 0.287857142857143
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-21T05:58:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,37 @@
+{
+  "barcode": "8901491101813",
+  "name": "Lays american cream onion",
+  "brand": "Lay's, PepsiCo",
+  "quantity": "55 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:flavoured-potato-crisps"
+  ],
+  "ingredients": "Potato (83%). Edible Vegetable Oil\u0026quot;.\n\n*Seasoning (Sugar, lodised Salt, Milk Solids (1.2%), Spices and Condiments, Maltodextrin, Flavour (Natural and Nature Identical Flavouring Substances), Cheese Powder (0.3%), Hydrolysed Vegetable Protein, Flavour Enhancers (627, 631), Edible Vegetable Oil (Palm, Coconut)).\n\nAs flavouring agent.\n\nTo know the specific type of oil used and its saturated fat value, match the symbol or # with the last character of batch number where ◊ denotes Palmolein and # denotes Rice Bran Oil.",
+  "per_100g": {
+    "energy_kcal": 537,
+    "fat": 33.1,
+    "saturated_fat": 12.5,
+    "carbohydrates": 53,
+    "sugars": 3.4,
+    "fiber": null,
+    "protein": 6.7,
+    "salt": 1.6075,
+    "sodium": 0.643
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-29T06:40:04Z",
+  "fetched_at": "2026-08-19T00:49:56Z"
+}

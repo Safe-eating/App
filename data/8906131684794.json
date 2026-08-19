@@ -1,0 +1,28 @@
+{
+  "barcode": "8906131684794",
+  "name": "Plant Protein Coffee Hazelnut bar",
+  "brand": "Mille,Slurrp Farm",
+  "quantity": "38g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 368.421052631579,
+    "fat": 1.31578947368421,
+    "saturated_fat": 1.31578947368421,
+    "carbohydrates": 23.1578947368421,
+    "sugars": 18.9473684210526,
+    "fiber": 63.1578947368421,
+    "protein": 65.5263157894737,
+    "salt": 0.123684210526316,
+    "sodium": 0.0494736842105263
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-23T08:42:58Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

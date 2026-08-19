@@ -1,0 +1,32 @@
+{
+  "barcode": "0360869060011",
+  "name": "Amul Cheese Spread Yummy Plain",
+  "brand": "Amul",
+  "quantity": "200gm",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:spreads",
+    "en:cheeses",
+    "en:salted-spreads",
+    "en:cheese-spreads"
+  ],
+  "ingredients": "Cheese, milk solids, emulsifying salts (452, 339, 331, 471), iodized salt, preservatives (200, 234).",
+  "per_100g": {
+    "energy_kcal": 247,
+    "fat": 21,
+    "saturated_fat": 13,
+    "carbohydrates": 3,
+    "sugars": 3,
+    "fiber": null,
+    "protein": 11.5,
+    "salt": 2.25,
+    "sodium": 0.9
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-19T04:49:24Z",
+  "fetched_at": "2026-08-18T23:54:34Z"
+}

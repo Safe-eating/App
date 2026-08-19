@@ -1,0 +1,30 @@
+{
+  "barcode": "8901030735097",
+  "name": "Vanilla Ice Cream",
+  "brand": "Kwality Walls",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 224.528301886792,
+    "fat": 12.4528301886792,
+    "saturated_fat": 8.30188679245283,
+    "carbohydrates": 24.3396226415094,
+    "sugars": 22.4528301886792,
+    "fiber": 0.188679245283019,
+    "protein": 3.77358490566038,
+    "salt": 0.14622641509434,
+    "sodium": 0.0679245283018868
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-12T09:32:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

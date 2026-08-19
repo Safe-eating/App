@@ -1,0 +1,24 @@
+{
+  "barcode": "8904052504269",
+  "name": "Dark Choco Nut Icecream Triple Layered",
+  "brand": "Dinshaw",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 313.333333333333,
+    "fat": 18.6666666666667,
+    "saturated_fat": 12.1666666666667,
+    "carbohydrates": 32.1666666666667,
+    "sugars": 23.8333333333333,
+    "fiber": null,
+    "protein": 4,
+    "salt": 0.133333333333333,
+    "sodium": 0.0533333333333333
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-20T00:19:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

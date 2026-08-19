@@ -1,0 +1,32 @@
+{
+  "barcode": "8904335602507",
+  "name": "Yoga Bar Muesli+",
+  "brand": "Yoga Bar",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Whole Grains 60% (Rolled Oats, Brown Rice Flakes, Quinoa Flakes), Dried Fruits 17% (Raisins, Apricot, Cranberry, Blackcurrants). Seeds \u0026 Nuts 14% (Pumpkin, Almonds, Chia, Flax), Strawberry Powder, Date Syrup, Jaggery, Rice Bran Oil, Himalayan Pink Salt, CONTAINS ADDED NATURAL FLAVOR: STRAWBERRY, ROSEMARY EXTRACT.",
+  "per_100g": {
+    "energy_kcal": 418,
+    "fat": 9.5,
+    "saturated_fat": 1.9,
+    "carbohydrates": 70,
+    "sugars": 4.8,
+    "fiber": 7.4,
+    "protein": 13,
+    "salt": 0.153,
+    "sodium": 0.0612
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-19T11:41:55Z",
+  "fetched_at": "2026-08-19T01:44:26Z"
+}

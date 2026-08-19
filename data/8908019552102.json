@@ -1,0 +1,30 @@
+{
+  "barcode": "8908019552102",
+  "name": "Waffle Crisps Cookies 'n Cream",
+  "brand": "The Belgian Waffle",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:pastries",
+    "en:waffles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 468,
+    "fat": 16,
+    "saturated_fat": 13.5,
+    "carbohydrates": 72,
+    "sugars": 23.5,
+    "fiber": null,
+    "protein": 8.5,
+    "salt": 1.10125,
+    "sodium": 0.4405
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-11T15:01:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

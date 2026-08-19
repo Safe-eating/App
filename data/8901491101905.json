@@ -1,0 +1,27 @@
+{
+  "barcode": "8901491101905",
+  "name": "Kurkure - Green Chutney Style",
+  "brand": "Inc., PepsiCo",
+  "quantity": "17 g",
+  "categories": [
+    "en:snacks",
+    "en:Namkeen"
+  ],
+  "ingredients": "Cereal Products (57%) (Rice Meal (38%), Corn Meal (19%)), Edible Vegetable Oil (Palmolein), *Seasoning (Spices \u0026 Condiments, lodised Salt, Sugar, Tamarind Powder, Flavour (Natural, Nature Identical and Artificial (Spearmint) Flavouring Substance), Maltodextrin, Acidity Regulator (330), Emulsifier (414), Color (160c), Flavour Enhancers (627, 631)), Gram Meal (6%). *As flavouring agent. ~Contains Onion and Garlic",
+  "per_100g": {
+    "energy_kcal": 561,
+    "fat": 34.7,
+    "saturated_fat": 15.6,
+    "carbohydrates": 56.3,
+    "sugars": 2.1,
+    "fiber": null,
+    "protein": 5.9,
+    "salt": 2.3975,
+    "sodium": 0.959
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-01-15T15:03:47Z",
+  "fetched_at": "2026-08-19T00:50:19Z"
+}

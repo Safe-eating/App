@@ -1,0 +1,30 @@
+{
+  "barcode": "8906005666581",
+  "name": "Narasu's Besh Besh Vermicelli",
+  "brand": "Narasu's",
+  "quantity": "180 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:semiya",
+    "en:wheat-vermicelli"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida)",
+  "per_100g": {
+    "energy_kcal": 348,
+    "fat": 0.888888888888889,
+    "saturated_fat": 0.266666666666667,
+    "carbohydrates": 73.8888888888889,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 11,
+    "salt": 0.0233333333333333,
+    "sodium": 0.00933333333333333
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-29T13:18:36Z",
+  "fetched_at": "2026-08-19T01:52:15Z"
+}

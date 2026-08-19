@@ -1,0 +1,30 @@
+{
+  "barcode": "8904089326643",
+  "name": "Chocolate chip ice cream",
+  "brand": "Havmore",
+  "quantity": "110ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Added water , milk solids , coca , sugar",
+  "per_100g": {
+    "energy_kcal": 154.2,
+    "fat": 7.4,
+    "saturated_fat": 4.7,
+    "carbohydrates": 19.1,
+    "sugars": 17.6,
+    "fiber": 0,
+    "protein": 2.8,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-16T13:17:39Z",
+  "fetched_at": "2026-08-19T01:34:36Z"
+}

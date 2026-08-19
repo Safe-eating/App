@@ -1,0 +1,32 @@
+{
+  "barcode": "8904359402091",
+  "name": "Punjabi Masala Traditional Urad Crisps",
+  "brand": "ol'tymes",
+  "quantity": "200 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:breads",
+    "en:flatbreads",
+    "en:special-breads",
+    "en:papadum"
+  ],
+  "ingredients": "Black gram flour, Asafoetida, Black pepper, Sodium bicarbonate, Edible vegetable oil and other spices",
+  "per_100g": {
+    "energy_kcal": 316,
+    "fat": 2.16666666666667,
+    "saturated_fat": 0.291666666666667,
+    "carbohydrates": 48.75,
+    "sugars": 1.08333333333333,
+    "fiber": 0.708333333333333,
+    "protein": 18.5833333333333,
+    "salt": 3.659375,
+    "sodium": 1.46375
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T17:42:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

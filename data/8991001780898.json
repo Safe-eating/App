@@ -1,0 +1,31 @@
+{
+  "barcode": "8991001780898",
+  "name": "Twister",
+  "brand": "Delfi",
+  "quantity": "320 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 500,
+    "fat": 20,
+    "saturated_fat": 10,
+    "carbohydrates": 70,
+    "sugars": 50,
+    "fiber": 3.33333333333333,
+    "protein": 3.33333333333333,
+    "salt": 0.291666666666667,
+    "sodium": 0.116666666666667
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-16T19:25:19Z",
+  "fetched_at": "2026-08-19T13:25:39Z"
+}

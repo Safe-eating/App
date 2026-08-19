@@ -1,0 +1,24 @@
+{
+  "barcode": "8992696525030",
+  "name": "Chocolate Dancow Forti Grow",
+  "brand": "Nestle",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 421.052631578947,
+    "fat": 13.1578947368421,
+    "saturated_fat": 9.21052631578947,
+    "carbohydrates": 60.5263157894737,
+    "sugars": 44.7368421052632,
+    "fiber": null,
+    "protein": 13.1578947368421,
+    "salt": 0.690789473684211,
+    "sodium": 0.276315789473684
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-27T04:14:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8906005618030",
+  "name": "Winkies chocolate swiss roll",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 407.83,
+    "fat": 15.91,
+    "saturated_fat": 4.21,
+    "carbohydrates": 59.41,
+    "sugars": 28.91,
+    "fiber": null,
+    "protein": 6.75,
+    "salt": 0.25915,
+    "sodium": 0.10366
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-15T13:34:57Z",
+  "fetched_at": "2026-08-19T01:51:50Z"
+}

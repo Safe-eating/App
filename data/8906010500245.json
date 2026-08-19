@@ -1,0 +1,31 @@
+{
+  "barcode": "8906010500245",
+  "name": "Balaji Wafers Masala Sev Murmura",
+  "brand": "Balaji Wafers",
+  "quantity": "40 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 482,
+    "fat": 23.2,
+    "saturated_fat": 10.5,
+    "carbohydrates": 53.8,
+    "sugars": 9.4,
+    "fiber": 7,
+    "protein": 10.9,
+    "salt": 2.0275,
+    "sodium": 0.811
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-13T03:24:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

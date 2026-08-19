@@ -1,0 +1,31 @@
+{
+  "barcode": "8901491365703",
+  "name": "Puffcorn",
+  "brand": "Kurkure",
+  "quantity": "28 10rs",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips"
+  ],
+  "ingredients": "INREDIENTS: Cereal Products (67%) (Corn Meal (53%), Rice Meal (14%)), Edible Vegetable Oil (Palmolein), *Seasoning (Sugar, lodised Salt, Maltodextrin, Spices and Condiments, Milk Solids, Cheese, Salt Replacer (Potassium Chloride), Flavour (Natural and Nature Identical Flavouring Substances), Flavour Enhancers (627, 631), Acidity Regulators (296, 330), Emulsifying \u0026 Stabilising Agent ((331(iii), 471, 327)), Gram Meal (3.6%), Calcium Carbonate (170(i)), lodised Salt. *As flavouring agent. Contains Onion and Garlic ALLERGEN ADVICE: Contains Soy, Milk, Wheat",
+  "per_100g": {
+    "energy_kcal": 536,
+    "fat": 27.1,
+    "saturated_fat": 12.2,
+    "carbohydrates": 66.5,
+    "sugars": 4.5,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 1.925,
+    "sodium": 0.77
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-07T10:26:18Z",
+  "fetched_at": "2026-08-19T00:50:27Z"
+}

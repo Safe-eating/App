@@ -1,0 +1,31 @@
+{
+  "barcode": "8902433003707",
+  "name": "galaxy milk chocolate smooth milk",
+  "brand": "mars International india pvt ltd",
+  "quantity": "56g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:chocolate-milks"
+  ],
+  "ingredients": "Sugar, Milk solids, Cocoa butter, Cocoa solids, Edible vegetable fats \u0026lt;5% (Sal fat, Palm oil), Humectant (422), Emulsifiers (322, 476). CONTAINS VEGETABLE FAT IN ADDITION TO COCOA BUTTER Contains Milk and Soy. May contain Barley, Wheat, Treenuts.",
+  "per_100g": {
+    "energy_kcal": 539,
+    "fat": 32.3,
+    "saturated_fat": 20.1,
+    "carbohydrates": 55.2,
+    "sugars": 54.7,
+    "fiber": 0.36,
+    "protein": 6.8,
+    "salt": 0.1875,
+    "sodium": 0.075
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-20T22:59:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

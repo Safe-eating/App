@@ -1,0 +1,28 @@
+{
+  "barcode": "0011433137065",
+  "name": "Momo Dumplings Chicken Curry",
+  "brand": "Deep Indian Kitchen",
+  "quantity": "221g",
+  "categories": [
+    "en:snacks",
+    "en:frozen-foods",
+    "en:frozen-snacks-and-starters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 88.5416666666667,
+    "fat": 2.08333333333333,
+    "saturated_fat": 0.78125,
+    "carbohydrates": 12.5,
+    "sugars": 1.5625,
+    "fiber": 1.5625,
+    "protein": 4.6875,
+    "salt": 0.807291666666667,
+    "sodium": 0.322916666666667
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-29T21:55:02Z",
+  "fetched_at": "2026-08-18T23:53:30Z"
+}

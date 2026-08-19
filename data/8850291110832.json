@@ -1,0 +1,30 @@
+{
+  "barcode": "8850291110832",
+  "name": "Roasted Sunflower Kernels",
+  "brand": "Tong garden",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:sunflower-seeds-and-their-products",
+    "en:sunflower-seeds"
+  ],
+  "ingredients": "Pumpkin Kernels. Iodised Salt. Packaging gas (Nitrogen (E941))",
+  "per_100g": {
+    "energy_kcal": 533.333333333333,
+    "fat": 33.3333333333333,
+    "saturated_fat": 3.33333333333333,
+    "carbohydrates": 43.3333333333333,
+    "sugars": 13.3333333333333,
+    "fiber": 6.66666666666667,
+    "protein": 20,
+    "salt": 0.791666666666667,
+    "sodium": 0.316666666666667
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-26T07:13:31Z",
+  "fetched_at": "2026-08-19T00:12:49Z"
+}

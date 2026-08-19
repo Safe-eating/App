@@ -1,0 +1,33 @@
+{
+  "barcode": "8901548310403",
+  "name": "DoodhShakti",
+  "brand": "Nutralite",
+  "quantity": "500gms",
+  "categories": [
+    "en:dairies",
+    "en:fats",
+    "en:spreads",
+    "en:spreadable-fats",
+    "en:animal-fats",
+    "en:dairy-spreads",
+    "en:milkfat",
+    "en:butters"
+  ],
+  "ingredients": "Butter (82.5%), Water, Common Salt, Emulsifiers (INS 471, INS 322), Preservatives (INS 202, INS 200), Acidity Regulator (INS 330), Nature Identical (Butter) Flavouring Substances, Probiotics (L. rhamnosus UALr-06, L. reuteri UALre-16), Starch, Vitamins, Sequestering Agent (INS 385), Antioxidant (INS 319), Natural Colour (INS 160a (ii)). ALLERGENS: CONTAINS MILK AND SOY. Contains probiotics* 10 CFU/g",
+  "per_100g": {
+    "energy_kcal": 632,
+    "fat": 70,
+    "saturated_fat": 48,
+    "carbohydrates": 0.1,
+    "sugars": 0.04,
+    "fiber": null,
+    "protein": 0.5,
+    "salt": 2.4575,
+    "sodium": 0.983
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-25T11:57:12Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

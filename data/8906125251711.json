@@ -1,0 +1,26 @@
+{
+  "barcode": "8906125251711",
+  "name": "Puffed Rice Balls",
+  "brand": "Arcot Mani Mark",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Jaggery, Roasted Puffed Rice and liquid Glucose.",
+  "per_100g": {
+    "energy_kcal": 389,
+    "fat": 1,
+    "saturated_fat": 0,
+    "carbohydrates": 90,
+    "sugars": 55,
+    "fiber": 1,
+    "protein": 3.5,
+    "salt": 0.7,
+    "sodium": 0.28
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-30T06:46:09Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

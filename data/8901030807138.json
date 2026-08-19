@@ -1,0 +1,28 @@
+{
+  "barcode": "8901030807138",
+  "name": "Horlicks Classic Malt",
+  "brand": "Horlicks",
+  "quantity": "200g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:energy drink mix"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 377,
+    "fat": 2,
+    "saturated_fat": 1.4,
+    "carbohydrates": 79,
+    "sugars": 46,
+    "fiber": null,
+    "protein": 11,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-13T02:16:40Z",
+  "fetched_at": "2026-08-19T00:15:20Z"
+}

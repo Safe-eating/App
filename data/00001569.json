@@ -1,0 +1,28 @@
+{
+  "barcode": "00001569",
+  "name": "Shakemate",
+  "brand": "Herbalife",
+  "quantity": "",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 382,
+    "fat": 3,
+    "saturated_fat": 1,
+    "carbohydrates": 4,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 83,
+    "salt": 82.5,
+    "sodium": 33
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-02T14:56:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,35 @@
+{
+  "barcode": "8906127551437",
+  "name": "high protein super oats",
+  "brand": "Alpino",
+  "quantity": "2.5 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereal-grains",
+    "en:dietary-supplements",
+    "en:oat"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 457.77,
+    "fat": 18.6,
+    "saturated_fat": 3.1,
+    "carbohydrates": 51.34,
+    "sugars": 5,
+    "fiber": 11.02,
+    "protein": 22,
+    "salt": 33.1,
+    "sodium": 13.24
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T12:47:56Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

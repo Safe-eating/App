@@ -1,0 +1,33 @@
+{
+  "barcode": "8906059635014",
+  "name": "Greek Yogurt Mango Flavour",
+  "brand": "Epigamia",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:greek-style-yogurts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 100,
+    "fat": 1.64705882352941,
+    "saturated_fat": 1.17647058823529,
+    "carbohydrates": 14.1176470588235,
+    "sugars": 14.1176470588235,
+    "fiber": null,
+    "protein": 6.11764705882353,
+    "salt": 0.117647058823529,
+    "sodium": 0.0470588235294118
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T11:20:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8901719105913",
+  "name": "parle hide \u0026 seek 120g",
+  "brand": "PARLE",
+  "quantity": "120g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "Refined wheat flour (maida), chocolate 23% (sugar, cocoa solids, cocoa butter, dextrose), sugar, refined palm oil, invert sugar syrup, raising agent, cocoa solids, iodised salts",
+  "per_100g": {
+    "energy_kcal": 479,
+    "fat": 18,
+    "saturated_fat": 9.4,
+    "carbohydrates": 73.4,
+    "sugars": 32.2,
+    "fiber": 0,
+    "protein": 5.9,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-19T11:19:07Z",
+  "fetched_at": "2026-08-19T00:59:39Z"
+}

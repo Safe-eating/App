@@ -1,0 +1,24 @@
+{
+  "barcode": "8901063004221",
+  "name": "Good Day Chocochip cookies",
+  "brand": "Britania",
+  "quantity": "111g",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 511,
+    "fat": 23.9,
+    "saturated_fat": 14.5,
+    "carbohydrates": 68.5,
+    "sugars": 32,
+    "fiber": null,
+    "protein": 5.6,
+    "salt": 0.5,
+    "sodium": 0.2
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T14:10:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

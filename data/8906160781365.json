@@ -1,0 +1,27 @@
+{
+  "barcode": "8906160781365",
+  "name": "Black Truffle Brown Rice Crisps",
+  "brand": "Asmita",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:rice crisps"
+  ],
+  "ingredients": "Organic Brown Rice, Foxtail Millet, Red Gram (Split), Sunflower Oil, Black Truffle Seasoning* Black Truffle Extract, Black Truffle Oil, Natural Identical Flavouring substances (Truffle, Butter, Mushroom), Iodized Salt Flavour Enhancer (INS 627), Anticaking Agent (INS 341).",
+  "per_100g": {
+    "energy_kcal": 484.1,
+    "fat": 20.84,
+    "saturated_fat": 6.46,
+    "carbohydrates": 65.47,
+    "sugars": 0,
+    "fiber": 18.32,
+    "protein": 8.66,
+    "salt": 3.07425,
+    "sodium": 1.2297
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-16T03:41:52Z",
+  "fetched_at": "2026-08-19T13:01:13Z"
+}

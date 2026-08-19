@@ -1,0 +1,30 @@
+{
+  "barcode": "8906080603006",
+  "name": "smoked and roasted mix nuts",
+  "brand": "paperboat",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:mixed-nuts"
+  ],
+  "ingredients": "ALMONDS (48%), CASHEWS (48 ARABIC) AND EDIBLE COMMON SALT (HIMALAYAN PINK SALT 1.5%), STABILIZER (GÜM ARABIC) AND CANE SUGAR. Contains Nuts \u0026quot;BEST BEFORE SIX MONTHS FROM MANUFACTURE\u0026quot; WHEN STORED IN COOL, DRY AND HYGIENIC CONDITIONS, KEEP THE PACK AWAY FROM DIRECT SUNLIGHT AND HEAT.",
+  "per_100g": {
+    "energy_kcal": 594,
+    "fat": 46,
+    "saturated_fat": 0.0000058,
+    "carbohydrates": 26,
+    "sugars": 5.4,
+    "fiber": 7.9,
+    "protein": 19,
+    "salt": 1.2625,
+    "sodium": 0.505
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-27T12:20:43Z",
+  "fetched_at": "2026-08-19T12:45:08Z"
+}

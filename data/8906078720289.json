@@ -1,0 +1,26 @@
+{
+  "barcode": "8906078720289",
+  "name": "Masala Sev Murmura",
+  "brand": "Gopal Namkeen",
+  "quantity": "250 g",
+  "categories": [
+    "en:Snakes and savouries"
+  ],
+  "ingredients": "PUFFED RICE (32%), GRAM FLOUR (26%), EDIBLE VEGETABLE OIL (PALMOLEIN OIL) (35%), SPICES \u0026 CONDIMENTS (RED CHILLI POWDER (3%), GARLIC (2%)) AND EDIBLE COMMON SALT.",
+  "per_100g": {
+    "energy_kcal": 569,
+    "fat": 37.9,
+    "saturated_fat": 17.5,
+    "carbohydrates": 48,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 9,
+    "salt": 1.303,
+    "sodium": 0.5212
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-12T01:45:34Z",
+  "fetched_at": "2026-08-19T12:43:42Z"
+}

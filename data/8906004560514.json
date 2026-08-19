@@ -1,0 +1,26 @@
+{
+  "barcode": "8906004560514",
+  "name": "Chulbule Chatpata Masala",
+  "brand": "Chulbule",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 545.5,
+    "fat": 32,
+    "saturated_fat": 13.6,
+    "carbohydrates": 57.1,
+    "sugars": 2.58,
+    "fiber": 0,
+    "protein": 7.2,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-06T13:11:32Z",
+  "fetched_at": "2026-08-19T01:50:42Z"
+}

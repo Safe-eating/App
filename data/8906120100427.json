@@ -1,0 +1,36 @@
+{
+  "barcode": "8906120100427",
+  "name": "Premium Figs (Anjeer)",
+  "brand": "Farmley",
+  "quantity": "200 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:dried-products",
+    "en:fruits",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits",
+    "en:dried-figs",
+    "en:figs"
+  ],
+  "ingredients": "Figs (Anjeer)",
+  "per_100g": {
+    "energy_kcal": 320,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 72.5,
+    "sugars": 42.8,
+    "fiber": 9.2,
+    "protein": 3.3,
+    "salt": 0.0075,
+    "sodium": 0.003
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-19T06:10:14Z",
+  "fetched_at": "2026-08-19T12:54:32Z"
+}

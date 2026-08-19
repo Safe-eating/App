@@ -1,0 +1,26 @@
+{
+  "barcode": "8906069612272",
+  "name": "Jolliz Namkeen Harissa Chilli Potato Chips",
+  "brand": "Anand",
+  "quantity": "135g",
+  "categories": [
+    "en:namkeen"
+  ],
+  "ingredients": "Potatoes (88%), Edible Vegetable Oil (Palmolein), Sugar, Iodized Salt, Spices \u0026 Condiments (Chilli Powder, Fennel Powder, Coriander), Rice Flour, Dehydrated Vegetables Powder (Garlic Powder, Onion Powder), Acidity Regulator (Ins 330), Hydrolyzed Vegetable Protein (Soya), Refined Vegetable Oil, Anticaking Agent (Ins 551), Flavour Enhancer (Ins 627, Ins 631), Contains Permitted Natural Colour (E / Ins 160c) And Added Flavour – Natural And Nature Identical Flavouring Substances.",
+  "per_100g": {
+    "energy_kcal": 541,
+    "fat": 31,
+    "saturated_fat": 16,
+    "carbohydrates": 57,
+    "sugars": 7,
+    "fiber": 7,
+    "protein": 8,
+    "salt": 1.42,
+    "sodium": 0.568
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-09T09:56:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,34 @@
+{
+  "barcode": "8901071705646",
+  "name": "Milk Chocolate",
+  "brand": "Hershey's",
+  "quantity": "38 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:chocolates",
+    "en:milk-chocolates",
+    "en:candy-chocolate-bars"
+  ],
+  "ingredients": "Sugar, Milk solids (#28%), Cocoa solids (#17.7%), Cocoa butter, Edible vegetable oil (Sunflower and Palm), Emulsifiers (322 (i), 476) and Flavour (Artificial Flavouring Substance-Vanillin)",
+  "per_100g": {
+    "energy_kcal": 553,
+    "fat": 32,
+    "saturated_fat": 19,
+    "carbohydrates": 53.4,
+    "sugars": 51.8,
+    "fiber": null,
+    "protein": 8.8,
+    "salt": 0.26775,
+    "sodium": 0.1071
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-04T11:50:23Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

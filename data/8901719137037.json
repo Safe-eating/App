@@ -1,0 +1,24 @@
+{
+  "barcode": "8901719137037",
+  "name": "parle hide serk",
+  "brand": "Parle Platina",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 521,
+    "fat": 26.6,
+    "saturated_fat": 15.8,
+    "carbohydrates": 65.2,
+    "sugars": 31.7,
+    "fiber": null,
+    "protein": 5.3,
+    "salt": 0.5,
+    "sodium": 0.2
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-10T09:49:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

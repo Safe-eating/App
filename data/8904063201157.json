@@ -1,0 +1,31 @@
+{
+  "barcode": "8904063201157",
+  "name": "Chips - Pudina Treat",
+  "brand": "Haldiram's",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:Namkeen"
+  ],
+  "ingredients": "Potatoes (89%), Edible Vegetable Oil (Palmolein, Cotton Seed, Rice Bran), *Spices \u0026 Condiments [Garlic Powder, Coriander Powder, Cumin Powder, Cinnamon Powder, Turmeric Powder, Black Pepper Powder, Fenugreek Powder, Nutmeg Powder, Ginger Powder, Cardamom Powder, Amomum Seeds Powder, Cassia Powder, Fennel Powder, Orion Powder, Mace Powder, Asafoetida Powder, Amchur Powder, Tamarind Powder, Mint Leaves Powder (0.7%), Mustard Seed Powder], lodised Salt, Maltodextrin, Kidity Regulator (INS 330), Mint Leaves Extract, Natural \u0026 Nature Identical Flavouring Substances. *Used as Natural Flavouring Agent.",
+  "per_100g": {
+    "energy_kcal": 528.3,
+    "fat": 30.6,
+    "saturated_fat": 14.9,
+    "carbohydrates": 55.6,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 7.6,
+    "salt": 3.24975,
+    "sodium": 1.2999
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-05T03:24:34Z",
+  "fetched_at": "2026-08-19T01:29:28Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8906027713034",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:desserts",
+    "en:dairy-desserts",
+    "xx:shrikhand"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 265,
+    "fat": 5.6,
+    "saturated_fat": 3.64,
+    "carbohydrates": 48.4,
+    "sugars": 45,
+    "fiber": null,
+    "protein": 5.3,
+    "salt": 0.0945,
+    "sodium": 0.0378
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-11T16:22:48Z",
+  "fetched_at": "2026-08-19T12:32:14Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8906059637605",
+  "name": "Turbo Protein Milk",
+  "brand": "Epigamia",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Ultrafiltered Skimmed Milk, Lactase Enzyme",
+  "per_100g": {
+    "energy_kcal": 63.6,
+    "fat": 0.32,
+    "saturated_fat": 0.08,
+    "carbohydrates": 5.2,
+    "sugars": 5.2,
+    "fiber": null,
+    "protein": 10,
+    "salt": 0.075,
+    "sodium": 0.03
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T11:33:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

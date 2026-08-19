@@ -1,0 +1,32 @@
+{
+  "barcode": "8997011930612",
+  "name": "Ladaku merica bubuk",
+  "brand": "LADAKU",
+  "quantity": "2.5gr",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:spices",
+    "en:peppers",
+    "en:white-peppers"
+  ],
+  "ingredients": "100% Pure White Pepper",
+  "per_100g": {
+    "energy_kcal": 310,
+    "fat": 2.11,
+    "saturated_fat": 0.63,
+    "carbohydrates": 48.3,
+    "sugars": 3.1,
+    "fiber": 26.2,
+    "protein": 11.4,
+    "salt": 0.013,
+    "sodium": 0.005
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-21T04:16:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

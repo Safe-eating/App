@@ -1,0 +1,31 @@
+{
+  "barcode": "7622202252396",
+  "name": "OREO 30/-",
+  "brand": "Oreo",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:filled-biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 482,
+    "fat": 19.7,
+    "saturated_fat": 9.8,
+    "carbohydrates": 71.2,
+    "sugars": 36.5,
+    "fiber": null,
+    "protein": 5.3,
+    "salt": 1.05,
+    "sodium": 0.42
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-08T10:35:16Z",
+  "fetched_at": "2026-08-19T00:10:18Z"
+}

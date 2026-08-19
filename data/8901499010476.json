@@ -1,0 +1,32 @@
+{
+  "barcode": "8901499010476",
+  "name": "",
+  "brand": "Kellogg's",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "MULTIGRAIN MIX (79.5%), WHEAT (19.9%), CORN GRITS \u0026 CORN MEAL (D6.7%), RICE (13.9%), ROLLED BARLEY (13%), ROLLED OATS (10%), RAGI MILLET FLOUR (3%), SORCHUM MILLET DOWARI FLOUR (3%), DRY FRUITS, NUT \u0026 SEED (17.3%), BROWN RAISINS (8.3%), BLACK CURRANTS (3%), ALMONDS (3%), PUMPKIN SEEDS (3%), CEREAL EXTRACT, OLIGOFRUCTOSE, WHEAT BRAN, IODIZED SALT, VITAMINS, ANTIOXIDANT (INS 307b) AND MINERAL",
+  "per_100g": {
+    "energy_kcal": 382,
+    "fat": 5.2,
+    "saturated_fat": 0.8,
+    "carbohydrates": 77.6,
+    "sugars": 10.7,
+    "fiber": 6.4,
+    "protein": 9.3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T23:59:48Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

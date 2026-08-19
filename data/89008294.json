@@ -1,0 +1,26 @@
+{
+  "barcode": "89008294",
+  "name": "Munch",
+  "brand": "Nestlé",
+  "quantity": "10.4g",
+  "categories": [
+    "en:+approximate values"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 481.481481481481,
+    "fat": 22.2222222222222,
+    "saturated_fat": 22.2222222222222,
+    "carbohydrates": 70.3703703703704,
+    "sugars": 40.7407407407407,
+    "fiber": 3.7037037037037,
+    "protein": 3.7037037037037,
+    "salt": 0.277777777777778,
+    "sodium": 0.111111111111111
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-09T19:01:06Z",
+  "fetched_at": "2026-08-19T00:13:34Z"
+}

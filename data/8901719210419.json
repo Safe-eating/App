@@ -1,0 +1,33 @@
+{
+  "barcode": "8901719210419",
+  "name": "Mango bite",
+  "brand": "Parle",
+  "quantity": "333.8g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:fruits-based-foods",
+    "en:candies"
+  ],
+  "ingredients": "SUCRE, GLUCOSE LIQUIDE, REGULATEUR D'ACIDITÉ (E330), POUDRE DE MANGUE, AROME MANGUE ARTIFICIEL, COULEUR [E100 - (i)].",
+  "per_100g": {
+    "energy_kcal": 391,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 97.8,
+    "sugars": 79.3,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-11T22:56:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

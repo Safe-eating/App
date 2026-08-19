@@ -1,0 +1,29 @@
+{
+  "barcode": "8906009531236",
+  "name": "RiteBite Nutrition Bar",
+  "brand": "RiteBite",
+  "quantity": "35g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars",
+    "en:cereal-bars"
+  ],
+  "ingredients": "Cereals (Whole Grain Rolled Dats (12%) Brown Rice Crispy, Quinoa Crispy (3%), Brown Rice Syrup (Liquid Glucose), White Compound (15%) (Sugar, Edible Vegetable Oil (Hydrogenated) Milk Solids, Cocoa Solids, Emulsifier (Soy Lecithin), Pumpkin Seeds, Watermelon Seeds, Cranberries (6%), Black Currants (6%), Edible Vegetable Oil, Raisins, Humectant (Glycerine). Yogurt Powder (2%), Flaxseeds, Amaranth Seeds, Chia Seeds, Emulsifier (Soy Lecithin), Soy Protein Isolate, Binding Agent (Guar Gum). Banana Powder, Tribasic Calcium Phosphate, Salt and Citric Acid, Antioxidant (Vitamin C), Vitamin A \u0026 E",
+  "per_100g": {
+    "energy_kcal": 385.714285714286,
+    "fat": 11.1428571428571,
+    "saturated_fat": 2.85714285714286,
+    "carbohydrates": 58.8571428571429,
+    "sugars": 24.2857142857143,
+    "fiber": 3.42857142857143,
+    "protein": 9.42857142857143,
+    "salt": 0.337857142857143,
+    "sodium": 0.135142857142857
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-06T16:07:16Z",
+  "fetched_at": "2026-08-19T01:58:06Z"
+}

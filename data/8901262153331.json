@@ -1,0 +1,37 @@
+{
+  "barcode": "8901262153331",
+  "name": "Amul Protein Blueberry Shake",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:milks-liquid-and-powder",
+    "en:dairy-drinks",
+    "en:fermented-drinks",
+    "en:milks",
+    "en:fermented-milk-drinks",
+    "en:lassi",
+    "en:flavoured-lassi"
+  ],
+  "ingredients": "Milk solids, water, sweetener (965, 960), blueberry fruit preparation (3.5%) [blueberry fruit, water, nature identical flavouring substances, stabilizer (440), acidity regulator (330), colours (133, 122)], acidity regulator (330), stabilizers (440, 418), artificial flavouring substances (blueberry).",
+  "per_100g": {
+    "energy_kcal": 69,
+    "fat": 0.75,
+    "saturated_fat": 0.5,
+    "carbohydrates": 9.5,
+    "sugars": 1.65,
+    "fiber": null,
+    "protein": 10,
+    "salt": 0.025,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-08T15:23:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

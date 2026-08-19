@@ -1,0 +1,27 @@
+{
+  "barcode": "8901233029900",
+  "name": "Cadbury Bournvita Nutrition Drink",
+  "brand": "Cadbury Bournvita",
+  "quantity": "14.4g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "Cereal Extract 51%* (Barley, Wheat), Sugar, Cocoa Solids, Caramel colour (150c), Liquid Glucose, Protein Isolate, Maltodextrin, Milk Solids, Vitamins, Emulsifiers (322, 471), Raising Agent (500(i)), Minerals, Edible Salt.",
+  "per_100g": {
+    "energy_kcal": 393,
+    "fat": 1.8,
+    "saturated_fat": 0.9,
+    "carbohydrates": 85.2,
+    "sugars": 73.1,
+    "fiber": 3.6,
+    "protein": 7,
+    "salt": 0.00034,
+    "sodium": 0.000136
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-21T10:29:45Z",
+  "fetched_at": "2026-08-19T00:39:57Z"
+}

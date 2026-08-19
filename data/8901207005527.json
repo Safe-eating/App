@@ -1,0 +1,33 @@
+{
+  "barcode": "8901207005527",
+  "name": "Honey Squeezy",
+  "brand": "Dabur",
+  "quantity": "400g",
+  "categories": [
+    "en:breakfasts",
+    "en:spreads",
+    "en:sweet-spreads",
+    "en:bee-products",
+    "en:farming-products",
+    "en:sweeteners",
+    "en:honeys",
+    "en:food"
+  ],
+  "ingredients": "Honey (100%)",
+  "per_100g": {
+    "energy_kcal": 320,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 80,
+    "sugars": 80,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.0425,
+    "sodium": 0.017
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-23T19:10:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

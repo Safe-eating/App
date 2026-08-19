@@ -1,0 +1,26 @@
+{
+  "barcode": "8901242203902",
+  "name": "Sevai Kheer",
+  "brand": "Bambino, Bambino Agro Industries Ltd",
+  "quantity": "",
+  "categories": [
+    "en:kheer"
+  ],
+  "ingredients": "Sugar, Vermicelli (29%), Almond (6%), Interesterified vegetable fat (Palm oil, Sesame oil), Raisins (3%), Starch, Cardamom (0.5%) and Artificial flavouring substance (Almond)",
+  "per_100g": {
+    "energy_kcal": 408,
+    "fat": 6,
+    "saturated_fat": 1.8,
+    "carbohydrates": 86,
+    "sugars": 69,
+    "fiber": null,
+    "protein": 4,
+    "salt": 5.5,
+    "sodium": 2.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-23T15:00:42Z",
+  "fetched_at": "2026-08-19T00:40:24Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8906036675163",
+  "name": "Milk Peda",
+  "brand": "Nandini",
+  "quantity": "250g",
+  "categories": [
+    "en:snacks",
+    "en:desserts",
+    "en:sweet-snacks",
+    "en:confectioneries"
+  ],
+  "ingredients": "Milk solids, Sugar",
+  "per_100g": {
+    "energy_kcal": 454,
+    "fat": 19.9,
+    "saturated_fat": 12.9,
+    "carbohydrates": 55,
+    "sugars": 55,
+    "fiber": 0,
+    "protein": 13.7,
+    "salt": 0.51,
+    "sodium": 0.204
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-07-18T13:44:39Z",
+  "fetched_at": "2026-08-19T12:35:49Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8906051562837",
+  "name": "Flexi creame analogue",
+  "brand": "Flexi",
+  "quantity": "1000 ml / 1 litre",
+  "categories": [
+    "en:dairies",
+    "en:dairy-by-products"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 248,
+    "fat": 25,
+    "saturated_fat": 0.68,
+    "carbohydrates": 3.47,
+    "sugars": 1.46,
+    "fiber": null,
+    "protein": 1.2,
+    "salt": 0.233,
+    "sodium": 0.0932
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-27T14:06:43Z",
+  "fetched_at": "2026-08-19T12:37:57Z"
+}

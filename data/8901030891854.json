@@ -1,0 +1,28 @@
+{
+  "barcode": "8901030891854",
+  "name": "Choco Vanilla Cornetto",
+  "brand": "Kwality Walls",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 272.58064516129,
+    "fat": 11.9354838709677,
+    "saturated_fat": 7.74193548387097,
+    "carbohydrates": 37.0967741935484,
+    "sugars": 24.6774193548387,
+    "fiber": 1.93548387096774,
+    "protein": 5.16129032258065,
+    "salt": 0.278225806451613,
+    "sodium": 0.111290322580645
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-04T11:46:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

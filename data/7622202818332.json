@@ -1,0 +1,30 @@
+{
+  "barcode": "7622202818332",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:cadbury"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 524,
+    "fat": 27.7,
+    "saturated_fat": 18.7,
+    "carbohydrates": 62.8,
+    "sugars": 58.9,
+    "fiber": 0,
+    "protein": 6.8,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T03:24:58Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

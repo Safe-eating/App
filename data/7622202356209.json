@@ -1,0 +1,24 @@
+{
+  "barcode": "7622202356209",
+  "name": "Milkini",
+  "brand": "Cadbury",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 547,
+    "fat": 32.4,
+    "saturated_fat": 20,
+    "carbohydrates": 54.4,
+    "sugars": 52.7,
+    "fiber": null,
+    "protein": 9.7,
+    "salt": 0.425,
+    "sodium": 0.17
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-04T11:28:19Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

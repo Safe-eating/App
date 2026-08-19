@@ -1,0 +1,35 @@
+{
+  "barcode": "8901058023787",
+  "name": "Maggi 140g",
+  "brand": "Maggi",
+  "quantity": "Variety of packet sizes. The one I scanned and gave details of has Net Quantity of 140g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles",
+    "en:tastemaker"
+  ],
+  "ingredients": "Noodles: Refined wheat flour (Maida), Palm oil, lodized salt, Iron (mg) 1000.0 700.0 6.90 4.83 Wheat gluten, Thickeners (508 #Guideline Daily Amounts of an average adult (200 \u0026412), Acidity regulators (501 (i) \u0026 500 (i)) and Humectant (451(i)). Masala TASTEMAKER®: Mixed Spices (26.2%) (Onion powder Coriander powder, Red chilli powder, Turmeric powder, Garlic powder, Cumin powder, Aniseed powder, Ginger powder, Fenugreek powder, Black pepper powder, Toasted onion powder, Clove powder, Green cardamom powder, Nutmeg powder), Hydrolysed ground protein, Refined wheat flour (Maida), Sugar, Starch, Palm oil, lodized salt, Thickener (508), Acidity regulator (330), Flavour enhancer Colour (150d), Mineral and Wheat gluten. Allergen Note: Contains Wheat \u0026 Nut. May contain Milk, Oats and Soy. fssa Lic. No. 100120110001",
+  "per_100g": {
+    "energy_kcal": 269,
+    "fat": 12.57143,
+    "saturated_fat": 8.28571,
+    "carbohydrates": 59.57143,
+    "sugars": 1.85714,
+    "fiber": null,
+    "protein": 5.7,
+    "salt": 2500,
+    "sodium": 1000
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-30T05:45:44Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

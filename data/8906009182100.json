@@ -1,0 +1,38 @@
+{
+  "barcode": "8906009182100",
+  "name": "California Pistachios Roasted \u0026 Salted",
+  "brand": "HansRaj Superia",
+  "quantity": "250 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:salty-snacks",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:shelled-nuts",
+    "en:pistachios",
+    "en:pistachio-kernels",
+    "en:roasted-pistachios",
+    "en:salted-nuts",
+    "en:pistachios-roasted-and-salted",
+    "en:salted-pistachios"
+  ],
+  "ingredients": "Pistachios, Common Salt",
+  "per_100g": {
+    "energy_kcal": 568,
+    "fat": 46,
+    "saturated_fat": 6,
+    "carbohydrates": 27,
+    "sugars": 8,
+    "fiber": 10,
+    "protein": 21,
+    "salt": 1.0125,
+    "sodium": 0.405
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-21T10:51:17Z",
+  "fetched_at": "2026-08-19T01:57:37Z"
+}

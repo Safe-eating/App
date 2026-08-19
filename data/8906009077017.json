@@ -1,0 +1,30 @@
+{
+  "barcode": "8906009077017",
+  "name": "UNIBIC Fruit \u0026 Nut Cookies",
+  "brand": "Unibic",
+  "quantity": "75 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm), Dry Fruits (8%) [Black Currant, Papaya (Papaya Cubes, Sugar Acidity Regulator (INS 330)), Cranberry), Nuts (4%) (Cashew Bits, Almond Bits), Butter, Liquid Glucose, Date Syrup, Milk Solids, Leavening Agents (INS 503 ii, INS 500 ii), Emulsifier (INS 322 from Soy), iodized Salt, Spices (Clove and Nutmeg). Allergen Advice: Contains Wheat, Milk, Soy and Nut.",
+  "per_100g": {
+    "energy_kcal": 448.6,
+    "fat": 19,
+    "saturated_fat": 8.6,
+    "carbohydrates": 63,
+    "sugars": 24,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 0.5225,
+    "sodium": 0.209
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-26T16:32:24Z",
+  "fetched_at": "2026-08-19T01:57:04Z"
+}

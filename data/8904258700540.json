@@ -1,0 +1,34 @@
+{
+  "barcode": "8904258700540",
+  "name": "alphonso mango juice",
+  "brand": "Raw Pressery",
+  "quantity": "1 liter",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars",
+    "en:fruit-juices",
+    "en:Mango juice"
+  ],
+  "ingredients": "ALPHONSO MANGO PULP (51%), WATER, FRUCTOSE, ANTIOXIDANTS [(VITAMIN C-INS 300), INS 224]",
+  "per_100g": {
+    "energy_kcal": 41.7,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 10.43,
+    "sugars": 3.41,
+    "fiber": 0.91,
+    "protein": 0.45,
+    "salt": 0.0026,
+    "sodium": 0.00104
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-27T09:59:33Z",
+  "fetched_at": "2026-08-19T01:39:45Z"
+}

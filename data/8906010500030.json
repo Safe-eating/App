@@ -1,0 +1,41 @@
+{
+  "barcode": "8906010500030",
+  "name": "Malasa Masti",
+  "brand": "Balaji Wafers",
+  "quantity": "30g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:sweet-snacks",
+    "en:appetizers",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:biscuits",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:wafers"
+  ],
+  "ingredients": "POTATO (87%), EDIBLE VEGETABLE OIL (PALMOLEIN), SUGAR, SPICES \u0026 CONDIMENTS 1% (CHILLI, DRY MANGO, CORIANDER, CUMIN, BLACK PEPPER, GINGER, CLOVE), EDIBLE COMMON SALT, BLACK SALT",
+  "per_100g": {
+    "energy_kcal": 539,
+    "fat": 29.5,
+    "saturated_fat": 14,
+    "carbohydrates": 56.9,
+    "sugars": 5.2,
+    "fiber": 8.5,
+    "protein": 7.4,
+    "salt": 1.9,
+    "sodium": 0.76
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-18T11:56:00Z",
+  "fetched_at": "2026-08-19T02:00:08Z"
+}

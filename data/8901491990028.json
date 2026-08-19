@@ -1,0 +1,32 @@
+{
+  "barcode": "8901491990028",
+  "name": "Doritos Sweet Chilli Flavour",
+  "brand": "Doritos, PepsiCo",
+  "quantity": "39 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips",
+    "en:Namkeen"
+  ],
+  "ingredients": "Corn (79%), Edible Vegetable Oil (Palmolein Oil), Sugar, Spices \u0026 Condiments (Onion Powder, Chilli, Ginger Powder, Garlic Powder, Spice Extract), Salt, Fructose, Malic Acid (INS 296), Citric Acid (INS 330), Tomato Powder, Wheat Maltodextrin. CONTAINS ADDED FLAVOURS (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "per_100g": {
+    "energy_kcal": 501,
+    "fat": 23.9,
+    "saturated_fat": 11.1,
+    "carbohydrates": 65.2,
+    "sugars": 5.5,
+    "fiber": null,
+    "protein": 6.3,
+    "salt": 1.43764,
+    "sodium": 0.575056
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T15:39:24Z",
+  "fetched_at": "2026-08-19T00:51:54Z"
+}

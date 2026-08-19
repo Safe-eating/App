@@ -1,0 +1,30 @@
+{
+  "barcode": "8903363008688",
+  "name": "Choco Blast Sandwich Biscuits",
+  "brand": "Bisky Bites",
+  "quantity": "500g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, HYDROGENATED VEGETABLE FAT (PALM \u0026 PALM KERNEL), REFINED PALM OIL, COCOA SOLIDS (4.7%), INVERT SUGAR SYRUP MILK SOLIDS, RAISING AGENTS [INS 500(ii), INS 503(ii)l, CORN STARCH, IODIZED SALT, ARTIFICIAL FLAVOURING SUBSTANCES - CHOCOLATE AND VANILLA, EMULSIFIER (INS 322).",
+  "per_100g": {
+    "energy_kcal": 469.1,
+    "fat": 19.5,
+    "saturated_fat": 9.5,
+    "carbohydrates": 68.5,
+    "sugars": 35.8,
+    "fiber": null,
+    "protein": 4.9,
+    "salt": 1.04675,
+    "sodium": 0.4187
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-08T07:38:13Z",
+  "fetched_at": "2026-08-19T01:22:35Z"
+}

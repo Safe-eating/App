@@ -1,0 +1,24 @@
+{
+  "barcode": "8906081123657",
+  "name": "Salted Roasted Almonds",
+  "brand": "Happilo",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 647.7,
+    "fat": 53.3,
+    "saturated_fat": 6.7,
+    "carbohydrates": 19.3,
+    "sugars": 2.7,
+    "fiber": 9.3,
+    "protein": 22.7,
+    "salt": 0.7675,
+    "sodium": 0.307
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-06T13:38:11Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8901468119780",
+  "name": "Pitambari Ruchiyana Jaggery Powder",
+  "brand": "Pitambari, Ruchiyana",
+  "quantity": "500g",
+  "categories": [
+    "en:sweeteners",
+    "en:sugars",
+    "en:cane-sugars",
+    "en:jaggery"
+  ],
+  "ingredients": "Jaggery Powder",
+  "per_100g": {
+    "energy_kcal": 383.6,
+    "fat": 0.05,
+    "saturated_fat": 0,
+    "carbohydrates": 95.5,
+    "sugars": 84.69,
+    "fiber": 0,
+    "protein": 0.1,
+    "salt": 0.152075,
+    "sodium": 0.06083
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-09T02:31:04Z",
+  "fetched_at": "2026-08-19T00:48:21Z"
+}

@@ -1,0 +1,34 @@
+{
+  "barcode": "8908002396805",
+  "name": "Gingelly Oil",
+  "brand": "Mr. GOLD",
+  "quantity": "1 l (914 g)",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:fats",
+    "en:cereals-and-their-products",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:cereal-oils",
+    "en:sesame-oils"
+  ],
+  "ingredients": "Gingelly Oil",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 16.86,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-28T19:12:52Z",
+  "fetched_at": "2026-08-19T13:07:25Z"
+}

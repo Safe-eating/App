@@ -1,0 +1,33 @@
+{
+  "barcode": "8901262010016",
+  "name": "Amul Pasteurized Butter",
+  "brand": "Amul",
+  "quantity": "100.0 g",
+  "categories": [
+    "en:dairies",
+    "en:spreads",
+    "en:fats",
+    "en:spreadable-fats",
+    "en:animal-fats",
+    "en:dairy-spreads",
+    "en:milkfat",
+    "en:butters"
+  ],
+  "ingredients": "Butter, common salt. CONTAINS PERMITTED NATURAL COLOUR [ANNATTO]",
+  "per_100g": {
+    "energy_kcal": 714.28571,
+    "fat": 78.57143,
+    "saturated_fat": 50,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 2.05357,
+    "sodium": 0.821428
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-29T16:25:04Z",
+  "fetched_at": "2026-08-19T00:41:04Z"
+}

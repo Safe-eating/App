@@ -1,0 +1,24 @@
+{
+  "barcode": "8909106042872",
+  "name": "Red lebel",
+  "brand": "hul",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 407.692307692308,
+    "fat": 8.46153846153846,
+    "saturated_fat": 5.38461538461539,
+    "carbohydrates": 73.0769230769231,
+    "sugars": 40,
+    "fiber": 3.07692307692308,
+    "protein": 11.5384615384615,
+    "salt": 0.653846153846154,
+    "sodium": 0.261538461538462
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-08T08:31:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

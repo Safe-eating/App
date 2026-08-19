@@ -1,0 +1,30 @@
+{
+  "barcode": "8906076132381",
+  "name": "Dark Chocolate Cookies",
+  "brand": "The Baker's Dozen",
+  "quantity": "25g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Dark Chocolate (31%), Refined Wheat Flour (Maida), Sugar, Butter, Apple Cider Vinegar, Raising Agent (INS500(ii)). CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAMURING SUBSTANCE (VANILLA)). Allergen Declaration : CONTAINS WHEAT AND MILK",
+  "per_100g": {
+    "energy_kcal": 480,
+    "fat": 21,
+    "saturated_fat": 5,
+    "carbohydrates": 66,
+    "sugars": 29,
+    "fiber": 4,
+    "protein": 7,
+    "salt": 0.225,
+    "sodium": 0.09
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-05-20T10:08:35Z",
+  "fetched_at": "2026-08-19T12:43:36Z"
+}

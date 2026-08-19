@@ -1,0 +1,33 @@
+{
+  "barcode": "8906032010296",
+  "name": "Mahakosh Refined Soyabean Oil",
+  "brand": "Mahakosh",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:fats",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:legume-oils",
+    "en:soybean-oils"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 15.33,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-23T04:44:17Z",
+  "fetched_at": "2026-08-19T12:32:51Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8906151232289",
+  "name": "Ragi Chips Chatpata Crunch",
+  "brand": "Snackible",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 501.929824561404,
+    "fat": 24.5087719298246,
+    "saturated_fat": 7.94736842105263,
+    "carbohydrates": 62.4385964912281,
+    "sugars": 1.31578947368421,
+    "fiber": 5.71929824561404,
+    "protein": 7.89473684210526,
+    "salt": 2.35899122807018,
+    "sodium": 0.94359649122807
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-01T22:45:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

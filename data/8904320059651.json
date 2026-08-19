@@ -1,0 +1,33 @@
+{
+  "barcode": "8904320059651",
+  "name": "DiSano Peanut Butter Crunchy",
+  "brand": "DiSano",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 639,
+    "fat": 49,
+    "saturated_fat": 7,
+    "carbohydrates": 18,
+    "sugars": 3,
+    "fiber": 9,
+    "protein": 28.3,
+    "salt": 0.0475,
+    "sodium": 0.019
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-07T10:27:57Z",
+  "fetched_at": "2026-08-19T01:42:59Z"
+}

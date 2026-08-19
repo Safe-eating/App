@@ -1,0 +1,36 @@
+{
+  "barcode": "8901491983198",
+  "name": "MAXX MACHO CHILLI FLAVOUR",
+  "brand": "Lay's",
+  "quantity": "20g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 537,
+    "fat": 33,
+    "saturated_fat": 14.8,
+    "carbohydrates": 53.4,
+    "sugars": 3.5,
+    "fiber": null,
+    "protein": 6.7,
+    "salt": 1.8675,
+    "sodium": 0.747
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-29T13:58:28Z",
+  "fetched_at": "2026-08-19T00:51:51Z"
+}

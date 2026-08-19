@@ -1,0 +1,26 @@
+{
+  "barcode": "8906001024637",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:gowardhan-topp-up-flavoured-milk"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 187,
+    "fat": 6,
+    "saturated_fat": 3.6,
+    "carbohydrates": 27.4,
+    "sugars": 18,
+    "fiber": null,
+    "protein": 6,
+    "salt": 0.25,
+    "sodium": 0.1
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-23T09:58:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

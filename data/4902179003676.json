@@ -1,0 +1,34 @@
+{
+  "barcode": "4902179003676",
+  "name": "Smoodh",
+  "brand": "Smoodh",
+  "quantity": "150ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:dairies",
+    "en:plant-based-beverages",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:smoothies",
+    "en:Chocolate-juice"
+  ],
+  "ingredients": "Sugar, milk, chocolate, wheat, millet, Barley,iooised salt",
+  "per_100g": {
+    "energy_kcal": 81.3333333333333,
+    "fat": 1.8,
+    "saturated_fat": 1.2,
+    "carbohydrates": 14.2,
+    "sugars": 13.7333333333333,
+    "fiber": null,
+    "protein": 2.2,
+    "salt": 0.175333333333333,
+    "sodium": 0.0701333333333333
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-20T16:43:52Z",
+  "fetched_at": "2026-08-19T00:04:44Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "0793591862453",
+  "name": "Kerala Banana Chips",
+  "brand": "Byond Snack",
+  "quantity": "75gram",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:banana-crisps"
+  ],
+  "ingredients": "Raw Banana (72%) Refined Vegetable Oil (Palmolein), lodised Salt, Anticaking agent (E551) and Antioxidant (E319). Contains permitted natural colors \u0026 added natural and natural identical flavoring substances. Allergen Declaration: May contain traces of Soy, Milk solids and Mustard. Pack filled with Nitrogen to keep the product fresh.",
+  "per_100g": {
+    "energy_kcal": 509.89,
+    "fat": 25.01,
+    "saturated_fat": 11.63,
+    "carbohydrates": 66.17,
+    "sugars": 3.14,
+    "fiber": 6.12,
+    "protein": 5.03,
+    "salt": 0.77535,
+    "sodium": 0.31014
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-20T14:16:12Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

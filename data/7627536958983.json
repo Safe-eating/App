@@ -1,0 +1,24 @@
+{
+  "barcode": "7627536958983",
+  "name": "Lait noisettes",
+  "brand": "Coop Prix Garantie",
+  "quantity": "100g",
+  "categories": null,
+  "ingredients": "Zucker, Haselnüsse 27%* (Türkei), Kakaobutter 15%, Vollmilchpulver, Kakaomasse 8%, Molkenpulver, Magermilchpulver, Emulgator (E 322 aus Soja), eingesottene Butter, Haselnusspaste* 0,1% (Türkei), fettarmes Ka - kaopulver 0,1%, Vanilleschoten, natürliches Aroma. Kann Spuren von Mandeln enthalten. Kakao: 31%",
+  "per_100g": {
+    "energy_kcal": 583,
+    "fat": 39,
+    "saturated_fat": 15,
+    "carbohydrates": 48,
+    "sugars": 42,
+    "fiber": 4,
+    "protein": 7.9,
+    "salt": 0.12,
+    "sodium": 0.048
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T22:19:00Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

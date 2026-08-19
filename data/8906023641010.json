@@ -1,0 +1,36 @@
+{
+  "barcode": "8906023641010",
+  "name": "Ghee",
+  "brand": "Thirumala",
+  "quantity": "1L",
+  "categories": [
+    "en:dairies",
+    "en:spreads",
+    "en:fats",
+    "en:spreadable-fats",
+    "en:animal-fats",
+    "en:dairy-spreads",
+    "en:milkfat",
+    "en:butters",
+    "en:butter-fat",
+    "en:clarified-butter",
+    "en:ghee"
+  ],
+  "ingredients": "Milk fat",
+  "per_100g": {
+    "energy_kcal": 897.3,
+    "fat": 99.7,
+    "saturated_fat": 62.3,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-26T07:09:30Z",
+  "fetched_at": "2026-08-19T02:09:59Z"
+}

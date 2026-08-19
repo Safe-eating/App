@@ -1,0 +1,24 @@
+{
+  "barcode": "8908013172214",
+  "name": "Chocolate Brownie 21g Protein Bar",
+  "brand": "Phab",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 380.615384615385,
+    "fat": 11.6923076923077,
+    "saturated_fat": 5.53846153846154,
+    "carbohydrates": 42.4615384615385,
+    "sugars": 13.2307692307692,
+    "fiber": 12.1538461538462,
+    "protein": 32.3076923076923,
+    "salt": 0.557307692307692,
+    "sodium": 0.222923076923077
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-14T10:04:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

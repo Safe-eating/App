@@ -1,0 +1,28 @@
+{
+  "barcode": "8904355403559",
+  "name": "Whey Protein Chocolate Flavour",
+  "brand": "Apollo Life",
+  "quantity": "",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders"
+  ],
+  "ingredients": "Whey Protein Isolate (46.88%), Whey Protein Concentrate (46.60%), Cocoa Powder, Chocolate Flavour, Creatine Monohydrate, Natural Caramel Colour (INS150, INS 415), Sweetener (INS 955 \u0026 INS 950). Inositol, di-Alpha-Tocopheryl, L-Ascorbic Acid, Retinyl Acetate, Calcium Pantothenate, Pyridoxine Hydroxide, Thiamine Hydrochloride, Cyanocobalamin \u0026 Ergocalciferol",
+  "per_100g": {
+    "energy_kcal": 365.04,
+    "fat": 3,
+    "saturated_fat": 1.74,
+    "carbohydrates": 5.57,
+    "sugars": 2.63,
+    "fiber": null,
+    "protein": 78.94,
+    "salt": 0.289975,
+    "sodium": 0.11599
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-25T09:54:57Z",
+  "fetched_at": "2026-08-19T01:45:06Z"
+}

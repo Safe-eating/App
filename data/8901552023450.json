@@ -1,0 +1,35 @@
+{
+  "barcode": "8901552023450",
+  "name": "Chana Pulao",
+  "brand": "Ashoka",
+  "quantity": "280g (10oz)",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetables-based-foods",
+    "en:meals",
+    "en:vegetables",
+    "en:rice-dishes",
+    "en:spanish-vegetables",
+    "en:rice",
+    "en:indian"
+  ],
+  "ingredients": "Water, Basmati Rice, Chickpeas, Potatoes, Onions, Tomato, Sunflower Oil, Tomato Paste, Salt, Garlic, Ginger, Green chilli, Coriander leaves, Mint Leaves, Red Chilli Powder, Spices (Coriander Powder, Black Pepper, Aniseeds, Cinnamon, Nutmeg, Sesame Seeds, Black Cardamom, Green Cardamom, Clove, Bay Leaves, Star anise, Caraway Seeds, Ajwain Seeds, Mace, Stone Flower), Cumin, Turmeric Powder, Turmeric, Oleoresin",
+  "per_100g": {
+    "energy_kcal": 160,
+    "fat": 4.2,
+    "saturated_fat": 0.5,
+    "carbohydrates": 26.4,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 4,
+    "salt": 1.1,
+    "sodium": 0.44
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-09T10:54:28Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

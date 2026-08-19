@@ -1,0 +1,30 @@
+{
+  "barcode": "8906020581876",
+  "name": "High Protein Paneer",
+  "brand": "iD",
+  "quantity": "200g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer"
+  ],
+  "ingredients": "Milk, lemon concentrate.",
+  "per_100g": {
+    "energy_kcal": 163,
+    "fat": 3,
+    "saturated_fat": 2.5,
+    "carbohydrates": 4.88,
+    "sugars": 0,
+    "fiber": 0.0625,
+    "protein": 28,
+    "salt": 0.306,
+    "sodium": 0.1224
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-23T15:39:41Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

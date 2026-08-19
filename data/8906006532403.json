@@ -1,0 +1,30 @@
+{
+  "barcode": "8906006532403",
+  "name": "Cashews Cheese",
+  "brand": "DCC",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:cashew-nuts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 640,
+    "fat": 52.4,
+    "saturated_fat": 10.1,
+    "carbohydrates": 24.66,
+    "sugars": 5.8,
+    "fiber": 2.8,
+    "protein": 17.68,
+    "salt": 0.78,
+    "sodium": 0.312
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-01T18:14:56Z",
+  "fetched_at": "2026-08-19T01:52:47Z"
+}

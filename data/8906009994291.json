@@ -1,0 +1,30 @@
+{
+  "barcode": "8906009994291",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 388,
+    "fat": 22.86,
+    "saturated_fat": 6.84,
+    "carbohydrates": 40.98,
+    "sugars": 41.5,
+    "fiber": null,
+    "protein": 3.75,
+    "salt": 127,
+    "sodium": 50.8
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-09T10:39:44Z",
+  "fetched_at": "2026-08-19T01:59:06Z"
+}

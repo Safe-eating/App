@@ -1,0 +1,26 @@
+{
+  "barcode": "8901042971162",
+  "name": "Kandi Podi",
+  "brand": "MTR",
+  "quantity": "100g",
+  "categories": [
+    "en:condiments"
+  ],
+  "ingredients": "Redgram splits (60%), Bengalgram splits, lodised low sodium salt, Garlic powder (7%), Cumin (4%), Red chilli (4%), Refined palmolein oil, Natural flavouring substance.",
+  "per_100g": {
+    "energy_kcal": 313,
+    "fat": 4.2,
+    "saturated_fat": 0.8,
+    "carbohydrates": 49,
+    "sugars": 2.7,
+    "fiber": null,
+    "protein": 19.9,
+    "salt": 5.9575,
+    "sodium": 2.383
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-06T10:12:55Z",
+  "fetched_at": "2026-08-19T00:22:55Z"
+}

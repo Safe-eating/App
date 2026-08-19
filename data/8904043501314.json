@@ -1,0 +1,30 @@
+{
+  "barcode": "8904043501314",
+  "name": "Oatmeal Bread",
+  "brand": "Baker's Loaf",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 238,
+    "fat": 1.14,
+    "saturated_fat": 0.24,
+    "carbohydrates": 43.6,
+    "sugars": 8,
+    "fiber": 7.6,
+    "protein": 9.4,
+    "salt": 1.13,
+    "sodium": 0.452
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-10T16:26:28Z",
+  "fetched_at": "2026-08-19T01:27:20Z"
+}

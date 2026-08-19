@@ -1,0 +1,29 @@
+{
+  "barcode": "8901595853908",
+  "name": "Chings noodles",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 353,
+    "fat": 0.8,
+    "saturated_fat": 0.1,
+    "carbohydrates": 75.6,
+    "sugars": 1.3,
+    "fiber": 8.6,
+    "protein": 10.8,
+    "salt": 1750,
+    "sodium": 700
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-13T10:04:17Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

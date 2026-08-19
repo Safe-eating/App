@@ -1,0 +1,28 @@
+{
+  "barcode": "8906036675248",
+  "name": "Double Toned Milk",
+  "brand": "Nandini",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk Solids, Vitamin A \u0026 Vitamin D Milk Fat: 1.3% (Min.), Milk SNF: 9,0% (Min.)",
+  "per_100g": {
+    "energy_kcal": 46,
+    "fat": 1.3,
+    "saturated_fat": 0.8,
+    "carbohydrates": 5.1,
+    "sugars": 5.1,
+    "fiber": null,
+    "protein": 3.5,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-18T23:46:31Z",
+  "fetched_at": "2026-08-19T12:35:50Z"
+}

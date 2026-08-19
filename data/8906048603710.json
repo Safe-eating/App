@@ -1,0 +1,28 @@
+{
+  "barcode": "8906048603710",
+  "name": "Aloo Fariyali Kali Mirch",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers"
+  ],
+  "ingredients": "Potato (42%), Peanuts (21%), Edible Vegetable Oil: Sugar (13%), Rock Salt, Black Pepper (0.73%), Coriander Seeds, Coriander Leaves, Poppy Seed Raisin, Curry Leaves, Citric Acid, Spices \u0026 Condiments. (Jeera Powder, Dhaniya Powder, Black Salt, Red Chilli Pouder, Black Pepper Powder, Asafoetida).",
+  "per_100g": {
+    "energy_kcal": 558.04,
+    "fat": 35.88,
+    "saturated_fat": 13.4,
+    "carbohydrates": 49.18,
+    "sugars": 10.05,
+    "fiber": 1.96,
+    "protein": 9.6,
+    "salt": 1.7,
+    "sodium": 0.68
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-21T19:37:04Z",
+  "fetched_at": "2026-08-19T12:37:51Z"
+}

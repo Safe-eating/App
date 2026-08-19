@@ -1,0 +1,34 @@
+{
+  "barcode": "8901491001038",
+  "name": "Lays Spanish 50",
+  "brand": "Lays",
+  "quantity": "90g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:potato-crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 525,
+    "fat": 31.9,
+    "saturated_fat": 12,
+    "carbohydrates": 53.1,
+    "sugars": 5.6,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 1.6475,
+    "sodium": 0.659
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-15T11:24:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

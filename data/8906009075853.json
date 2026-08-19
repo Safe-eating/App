@@ -1,0 +1,27 @@
+{
+  "barcode": "8906009075853",
+  "name": "Unibic Swaadesi Navratan Mixture",
+  "brand": "Unibic",
+  "quantity": "165g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks"
+  ],
+  "ingredients": "‎Gram Flour, Edible Vegetable Oil (Rice Bran Oil, Sunflower Oil \u0026 Groundnut Oil), Bengal Gram, Lentil, Rice Flour, Rice Flakes, Peanut, Arrowroot Powder, Corn Flakes, Green Peas, Potato, Spice \u0026 Condiments (Spinach Powder, Red Chilli Powder, Kashmiri Chilli Powder, Turmeric Powder, Black Pepper, Ginger Powder, Dry Mango Powder, Clove Powder, Mace Powder, Nutmeg Powder, Cumin Powder, Fenugreek Seeds Powder, Coriander Seeds, Bay Leaf \u0026 Cardamom), Iodised Salt \u0026 Acidity Regulator (INS 330).",
+  "per_100g": {
+    "energy_kcal": 566.4,
+    "fat": 36.2,
+    "saturated_fat": 11.7,
+    "carbohydrates": 45.2,
+    "sugars": 1.3,
+    "fiber": 5.3,
+    "protein": 12.4,
+    "salt": 1.22575,
+    "sodium": 0.4903
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-30T04:57:01Z",
+  "fetched_at": "2026-08-19T01:57:00Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8901719135767",
+  "name": "Parle-G ROYALE",
+  "brand": "Parle",
+  "quantity": "4 Biscuits and 48g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:dry-biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (61%), SUGAR REFINED PALM OIL, INVERT SUGAR SYRUP* [SUGAR, CITRIC ACID], RAISING AGENTS [503(ii), 500(ii)], MILK SOLIDS, IODISED SALT, EMULSIFIER OF VEGETABLE ORIGIN [472e] AND FLOUR TREATMENT AGENT [1101(ii)] CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA) (D-GLUCOSE, LEVULOSE) CONTAINS: WHEAT, MILK",
+  "per_100g": {
+    "energy_kcal": 469,
+    "fat": 16.5,
+    "saturated_fat": 7.6,
+    "carbohydrates": 73.6,
+    "sugars": 27.3,
+    "fiber": 0,
+    "protein": 6.4,
+    "salt": 0.67,
+    "sodium": 0.268
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-08T23:20:32Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

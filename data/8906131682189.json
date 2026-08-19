@@ -1,0 +1,31 @@
+{
+  "barcode": "8906131682189",
+  "name": "Mille Jowar Puff",
+  "brand": "Mille",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:crackers-appetizers",
+    "en:puffed-salty-snacks"
+  ],
+  "ingredients": "Puff 88%: Supergrain Blend (Jowar, Foxtail Millet, Corn, Rice)(72%), Rice Bran Oil (16%). Seasoning 12%: Vegetables and Spices (Onion, Garlic, Tomato, Chilli, Amchur, Tamarind), Salt, Natural and Nature Identical Flavours, Raw Sugar, Acidity Regulators (INS330, INS296, INS334), Potassium Chloride - Salt Substitute (INS 508). Rosemary Extract - Antioxidant (INS 392).",
+  "per_100g": {
+    "energy_kcal": 438.3,
+    "fat": 18.6,
+    "saturated_fat": 3.6,
+    "carbohydrates": 61.4,
+    "sugars": 2.7,
+    "fiber": 3.8,
+    "protein": 6.7,
+    "salt": 2.54025,
+    "sodium": 1.0161
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-17T00:23:25Z",
+  "fetched_at": "2026-08-19T12:56:37Z"
+}

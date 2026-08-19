@@ -1,0 +1,36 @@
+{
+  "barcode": "8906008811766",
+  "name": "Punjabi Khichdi",
+  "brand": "Fortune",
+  "quantity": "60g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:meals",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:rices",
+    "en:plant-based-meals",
+    "en:paddy-rices"
+  ],
+  "ingredients": "Rice (54%), Moong Dal (27%), Bajra (4%), Jowar (4%), lodized Salt, Spices and Condiments (3%), Edible Vegetable Oil (Rice Bran Oil), Sugar, Ragi (1%), Sesame Seeds (0.45%), Flax Seeds (0.45%), Milk Solids, and Edible Vegetable Fat (Palm)",
+  "per_100g": {
+    "energy_kcal": 356,
+    "fat": 4,
+    "saturated_fat": 1,
+    "carbohydrates": 68,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 12,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-01T08:06:58Z",
+  "fetched_at": "2026-08-19T01:55:57Z"
+}

@@ -1,0 +1,34 @@
+{
+  "barcode": "8906009010434",
+  "name": "Toor Dal",
+  "brand": "Parry's",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:seeds",
+    "en:legume-seeds",
+    "en:pulses",
+    "en:lentils",
+    "en:toor-dal"
+  ],
+  "ingredients": "Toor Dal",
+  "per_100g": {
+    "energy_kcal": 322,
+    "fat": 1.6,
+    "saturated_fat": 0.1,
+    "carbohydrates": 55.2,
+    "sugars": 2.1,
+    "fiber": 9.1,
+    "protein": 21.7,
+    "salt": 0.045,
+    "sodium": 0.018
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-11T15:03:01Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8906009533148",
+  "name": "Max Protein GrainBreakfast Cookie",
+  "brand": "RiteBite",
+  "quantity": "weight 55g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits",
+    "en:drop-cookies",
+    "en:chocolate-chip-cookies"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 478.181818181818,
+    "fat": 24.9090909090909,
+    "saturated_fat": 14.7272727272727,
+    "carbohydrates": 45.0909090909091,
+    "sugars": 18.1818181818182,
+    "fiber": 7.27272727272727,
+    "protein": 18.1818181818182,
+    "salt": 0.55,
+    "sodium": 0.22
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-18T14:07:44Z",
+  "fetched_at": "2026-08-19T01:58:36Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8906059639784",
+  "name": "50g Paneer",
+  "brand": "Epigamia Turbo",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 229,
+    "fat": 13,
+    "saturated_fat": 8.4,
+    "carbohydrates": 3,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 25,
+    "salt": 0.06,
+    "sodium": 0.024
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-23T12:14:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

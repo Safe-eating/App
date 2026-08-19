@@ -1,0 +1,28 @@
+{
+  "barcode": "8906069400008",
+  "name": "Veeba Olive Oil Mayonnaise",
+  "brand": "Veeba",
+  "quantity": "",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:mayonnaises"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 248.5,
+    "fat": 20.5,
+    "saturated_fat": 3.2,
+    "carbohydrates": 14,
+    "sugars": 8.7,
+    "fiber": null,
+    "protein": 2,
+    "salt": 2.26,
+    "sodium": 0.904
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-08T08:25:29Z",
+  "fetched_at": "2026-08-19T12:40:59Z"
+}

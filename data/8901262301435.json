@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262301435",
+  "name": "Berry Dazzle",
+  "brand": "Amul",
+  "quantity": "125ml / 67g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Milk solids, sugar, wild berry fruit preparation (14%) [sugar, strawberry dices (18.5%), raspberry whole (10.5%), black currant whole (5.5%), red currant dices (5.5%), water stabilizer (440), colours (122, 133), nature identical flavouring substances], wild berry fruit compound (3%) [water, sugar, red grape juice concentrate (8.2%), pear juice concentrate (8.8%), apple juice concentrate (7.9%), strawberry pulp concentrate (0.03%), nature identical flavouring substances, acidity regulator (330), colours (122, 133), emulsifier (471), stabilizers (407, 466, 415, 412), artificial flavouring substances (wild berry), colour (127)",
+  "per_100g": {
+    "energy_kcal": 145,
+    "fat": 7.1,
+    "saturated_fat": 4.3,
+    "carbohydrates": 17.7,
+    "sugars": 17.3,
+    "fiber": null,
+    "protein": 2.3,
+    "salt": 0.0825,
+    "sodium": 0.033
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-02T13:59:03Z",
+  "fetched_at": "2026-08-19T00:47:14Z"
+}

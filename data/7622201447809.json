@@ -1,0 +1,28 @@
+{
+  "barcode": "7622201447809",
+  "name": "Cadbury Dairy Milk Oreo chocolate bar",
+  "brand": "Cadbury is sold by Mondelez International",
+  "quantity": "12.5g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 520,
+    "fat": 27.3333333333333,
+    "saturated_fat": 16,
+    "carbohydrates": 63.3333333333333,
+    "sugars": 54,
+    "fiber": 0,
+    "protein": 6.66666666666667,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-23T00:37:33Z",
+  "fetched_at": "2026-08-19T00:07:44Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8906036670090",
+  "name": "Shubham",
+  "brand": "Nandini",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 74,
+    "fat": 4.6,
+    "saturated_fat": 3,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": null,
+    "protein": 3.3,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-21T11:22:51Z",
+  "fetched_at": "2026-08-19T12:35:16Z"
+}

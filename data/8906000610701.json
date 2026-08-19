@@ -1,0 +1,28 @@
+{
+  "barcode": "8906000610701",
+  "name": "Smiles",
+  "brand": "Mc Cain",
+  "quantity": "750 g",
+  "categories": [
+    "en:snacks",
+    "en:frozen-foods",
+    "en:frozen-fried-potatoes"
+  ],
+  "ingredients": "Potato 62.84%, Potato Flakes (13.76%), Palmolein Oil, Corn Flour, Edile Common Salt",
+  "per_100g": {
+    "energy_kcal": 192,
+    "fat": 7.73,
+    "saturated_fat": 3.54,
+    "carbohydrates": 27.58,
+    "sugars": 0.4,
+    "fiber": 1.58943,
+    "protein": 2.97,
+    "salt": 0.0400385,
+    "sodium": 0.0158622
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-25T12:29:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

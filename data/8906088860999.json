@@ -1,0 +1,27 @@
+{
+  "barcode": "8906088860999",
+  "name": "current hot lemon",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:Edible vegetable oil",
+    "en:Food"
+  ],
+  "ingredients": "Rice Meal, Edible Vegetable Oil (Palmolein Oil), Corn Meal, *Spices and Condiments (Red Chilli Powder, Amchur Powder, Coriander Powder, Onion Powder, Garlic Powder, Ginger Powder, Black Pepper, Turmeric Powder, Fenugreek), Gram Meal, Salt, Sugar, Tomato Powder, Acidity Regulator (INS 330) Starch Powder, SMP Powder, Dextrose, Paprika (INS 160c), Flavour Enhancer INS 6211 and Natural Flavour (Lemon).",
+  "per_100g": {
+    "energy_kcal": 557.8,
+    "fat": 34.6,
+    "saturated_fat": 15.6,
+    "carbohydrates": 55.2,
+    "sugars": 1.48,
+    "fiber": 3.8,
+    "protein": 6.1,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-22T09:25:35Z",
+  "fetched_at": "2026-08-19T12:48:50Z"
+}

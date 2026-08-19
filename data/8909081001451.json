@@ -1,0 +1,29 @@
+{
+  "barcode": "8909081001451",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 457,
+    "fat": 19.1,
+    "saturated_fat": 10,
+    "carbohydrates": 64.5,
+    "sugars": 3.1,
+    "fiber": null,
+    "protein": 9,
+    "salt": 2955.5,
+    "sodium": 1182.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-12T05:28:31Z",
+  "fetched_at": "2026-08-19T13:22:57Z"
+}

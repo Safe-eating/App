@@ -1,0 +1,30 @@
+{
+  "barcode": "8908001588560",
+  "name": "Wheat Chapati",
+  "brand": "Asal",
+  "quantity": "200 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:breads",
+    "en:frozen-chapatis"
+  ],
+  "ingredients": "Whole Wheat Flour (Atta) (57.4%), Refined Sunflower oil (3.5%), Wheat gluten, RO-purified Water, Preservative (INS 202), Stabilizer (INS 412), Baking powder, lodized Salt",
+  "per_100g": {
+    "energy_kcal": 276.060606060606,
+    "fat": 4.24242424242424,
+    "saturated_fat": 1.21212121212121,
+    "carbohydrates": 50.9090909090909,
+    "sugars": 0,
+    "fiber": 19.0909090909091,
+    "protein": 8.48484848484848,
+    "salt": 0.625,
+    "sodium": 0.65
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-17T01:37:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

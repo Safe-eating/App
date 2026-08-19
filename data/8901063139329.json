@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063139329",
+  "name": "bourbon",
+  "brand": "britannia",
+  "quantity": "50g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Flavoured\nSandwich BiscuitsINGREDIENTS: REFINED WHEAT FLOUR (MAIDAL SUGAR (331 Nutr\nREFINED PALM OIL, EDIBLE MAIZE STARCH, COCOA SOLIDS (2:7% Per 1\nMILK SOLIDS, RAISING AGENTS (500i)\u0026 503(0)1, EMULSIRERS r\n(471\u0026 322(0)) AND IODISED SALT,\nCONTAINS PERMITTED HATURAL (150a\u0026150d)\u0026SYNTHETIC\n(122,110, 133\u0026102) FOOD COLOURS AND ADDED FLAVOURS\n(NATURE IDENTICAL\u0026ARTIFICIAL (VANILLA, CHOCOLATE MILK\nMILKY COCOA) FLAVOURING SUBSTANCES\n(Numbers in brackets as per International Numbering System\nCONTAINS WHEAT, MILK AND SOYA\nSTORE IN A CO00L, HYGIENIC AND DRY PLACE TRANSFER wChole\nCONTENTS T0 A CLEAN AIRTIGHT CONTAINER ONCE OPENEDof wFatEner",
+  "per_100g": {
+    "energy_kcal": 492,
+    "fat": 19.9,
+    "saturated_fat": 7.7,
+    "carbohydrates": 73.4,
+    "sugars": 37,
+    "fiber": null,
+    "protein": 4.7,
+    "salt": 295,
+    "sodium": 118
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-24T08:05:49Z",
+  "fetched_at": "2026-08-19T00:31:42Z"
+}

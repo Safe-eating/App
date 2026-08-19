@@ -1,0 +1,34 @@
+{
+  "barcode": "8901246003591",
+  "name": "Extra Virgin Olive oil",
+  "brand": "Del Monte",
+  "quantity": "250 ml",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fats",
+    "en:vegetable-fats",
+    "en:olive-tree-products",
+    "en:vegetable-oils",
+    "en:olive-oils",
+    "en:virgin-olive-oils",
+    "en:extra-virgin-olive-oils"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 824,
+    "fat": 91.6,
+    "saturated_fat": 13,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-28T13:02:06Z",
+  "fetched_at": "2026-08-19T00:40:30Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8906059635069",
+  "name": "Greek yogurt wild raspberry",
+  "brand": "Epigamia",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:greek-style-yogurts"
+  ],
+  "ingredients": "Greek yogurt (pasteurized double toned milk, milk solids, permitted starter cultures), processed raspberry pulp(raspberry puree, sugar, water, pectin (INS 440), malic acid (INS 296)). Total Fruit Content : 11%",
+  "per_100g": {
+    "energy_kcal": 94.1176470588235,
+    "fat": 1.88235294117647,
+    "saturated_fat": 1.17647058823529,
+    "carbohydrates": 12.9411764705882,
+    "sugars": 12.9411764705882,
+    "fiber": null,
+    "protein": 6.47058823529412,
+    "salt": 0.129411764705882,
+    "sodium": 0.0517647058823529
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T11:59:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

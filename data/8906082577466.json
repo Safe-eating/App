@@ -1,0 +1,26 @@
+{
+  "barcode": "8906082577466",
+  "name": "Cornitos Crusties Italian Cheese Potato Puffs",
+  "brand": "Cornitos",
+  "quantity": "50g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Rice Grits, Potato Flakes (28%), Corn Grits, Potato Starch, Edible Common Salt, Edible Vegetable Oil (Corn/Rice Bran), Maltodextrin, Sugar, Milk Solids, lodised Salt, Spices \u0026 Condiments (Onion, Garlic, Chilli), Cheese Powder, Hydrolysed Vegetable Protein (Soya), Yeast Extract Powder, Acidity Regulator (NS 270), Anticaking Agent (INS 551, INS 170(1)), Flavour Enhancer (INS 627, INS 631).",
+  "per_100g": {
+    "energy_kcal": 129,
+    "fat": 5,
+    "saturated_fat": 1,
+    "carbohydrates": 19,
+    "sugars": 5,
+    "fiber": 1,
+    "protein": 2,
+    "salt": 0.33,
+    "sodium": 0.132
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-29T16:10:12Z",
+  "fetched_at": "2026-08-19T12:47:50Z"
+}

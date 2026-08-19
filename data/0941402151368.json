@@ -1,0 +1,28 @@
+{
+  "barcode": "0941402151368",
+  "name": "Moti UHT Treated Homogenized Toned Milk",
+  "brand": "Amul",
+  "quantity": "450ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Toned milk",
+  "per_100g": {
+    "energy_kcal": 58.2,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": null,
+    "protein": 3,
+    "salt": 92.5,
+    "sodium": 37
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-15T12:29:58Z",
+  "fetched_at": "2026-08-18T23:59:17Z"
+}

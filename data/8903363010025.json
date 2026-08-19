@@ -1,0 +1,31 @@
+{
+  "barcode": "8903363010025",
+  "name": "Nutri Delite Muesli",
+  "brand": "Nutri Delite",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "OATS (16.9%), SUGAR, WHEAT FLAKES (14.3%), CORN GRITS (10.5%), DRIED PAPAYA (8.5%), BARLEY FLAKES (6.8%), RICE (6.3%), LIQUID GLUCOSE, BLACK RAISINS (5%), SLICED ALMONDS (5%), DRIED APPLE (4%), MALT, IODIZED SALT, NATURE DENTICAL FLAVOUR HONEY, CITRIC ACID (INS 330), SOYA LECITHIN (INS 322 (i), TOCOPHEROL (INS 307b).",
+  "per_100g": {
+    "energy_kcal": 413.1,
+    "fat": 7.9,
+    "saturated_fat": 3.5,
+    "carbohydrates": 76.8,
+    "sugars": 23.3,
+    "fiber": null,
+    "protein": 8.7,
+    "salt": 0.35825,
+    "sodium": 0.1433
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-02T13:38:05Z",
+  "fetched_at": "2026-08-19T01:22:39Z"
+}

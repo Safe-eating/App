@@ -1,0 +1,35 @@
+{
+  "barcode": "8901088081320",
+  "name": "Peanut Butter Creamy",
+  "brand": "Saffola",
+  "quantity": "850 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "Roasted Peanuts (84%), Cane Jaggery Powder (13%), Stabilizer (INS471), Iodised Salt, Natural and Nature-Identical Flavouring Substance.",
+  "per_100g": {
+    "energy_kcal": 629,
+    "fat": 50.9,
+    "saturated_fat": 11.2,
+    "carbohydrates": 21.4,
+    "sugars": 13.9,
+    "fiber": 6,
+    "protein": 24.3,
+    "salt": 0.345,
+    "sodium": 0.138
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-03T16:56:38Z",
+  "fetched_at": "2026-08-19T00:36:20Z"
+}

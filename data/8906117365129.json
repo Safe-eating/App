@@ -1,0 +1,26 @@
+{
+  "barcode": "8906117365129",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:Bhujia"
+  ],
+  "ingredients": "Potato Flakes (47%), Edible Vegetable Oil (Sunflower/Rice Bran), Bengal Gram Flour, Tapioca Flour, Rice Flour, Corn Flour, Himalayan Pink Salt, lodized Salt, Spices \u0026 Condiments, Yeast Extract, Mango Powder, Lime Juice, Mint Powder \u0026 Natural Flavours. Allergen Information: May contain Milk, Wheat, Celery, Soy \u0026 Nets.",
+  "per_100g": {
+    "energy_kcal": 530,
+    "fat": 34.9,
+    "saturated_fat": 4.2,
+    "carbohydrates": 47.1,
+    "sugars": 0.3,
+    "fiber": null,
+    "protein": 8.7,
+    "salt": 1968,
+    "sodium": 787.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-12T14:41:35Z",
+  "fetched_at": "2026-08-19T12:54:28Z"
+}

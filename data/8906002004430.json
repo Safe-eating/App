@@ -1,0 +1,31 @@
+{
+  "barcode": "8906002004430",
+  "name": "Veg mayonnaise",
+  "brand": "Dr. Oetker",
+  "quantity": "100g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:vegetarian-sauces",
+    "en:mayonnaises",
+    "en:vegan-sauces",
+    "en:egg-free-mayonnaises"
+  ],
+  "ingredients": "Refined Soyabean Oil, Water, Sugar, Milk Solids, iodised Salt, Lemon Juice, Emulsifiers and Stabilizers (INS415, INS1442), Acidity Regulators (INS260, INS330), Preservatives (INS211, INS202), Antioxidant (INS319).  CONTAINS MILK.",
+  "per_100g": {
+    "energy_kcal": 502.2,
+    "fat": 51.8,
+    "saturated_fat": 9.2,
+    "carbohydrates": 8.6,
+    "sugars": 7.3,
+    "fiber": 0,
+    "protein": 0.5,
+    "salt": 1.80467,
+    "sodium": 0.721868
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-15T13:12:59Z",
+  "fetched_at": "2026-08-19T01:49:16Z"
+}

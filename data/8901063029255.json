@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063029255",
+  "name": "Jimjam 57g (57)",
+  "brand": "Britannia",
+  "quantity": "57 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR (24%), REFINED PALM OIL \u0026 INTERESTERIFIED VEGETABLE FAT, INVERT SUGAR SYRUP, DEXTROSE, MILK PRODUCTS (MILK SOLIDS \u0026 SWEETENED CONDENSED MILK), EDIBLE MAIZE STARCH, MALTODEXTRIN, FRUIT PRODUCTS (0.7%) (APPLE JUICE CONCENTRATE, BANANA POWDER \u0026 PLUM JUICE CONCENTRATE), IODISED SALT, EMULSIFIERS [322(i) \u0026 471], RAISING AGENTS [503(ii) \u0026 500(ii)], NATURE IDENTICAL AND ARTIFICIAL (MIXED FRUIT, VANILLA \u0026 BUTTER) FLAVOURING SUBSTANCES, ACIDITY REGULATORS (330 \u0026 331), GELLING AGENT (440) AND COLOUR (122). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SOYA. ydrate-73g, of which Total 31 Total Fat-19g/141 no unsaturated fatty acids-7.29 fss Lic. No. 10015 100120260N For Mfg unit address \u0026 Lic. No. read the last two characters of CWALIOR 474005, MADHYA PRADESH Lic. No. the \u0026quot;Lot No. and see address panel. 06-1.8. MANGHARAM FOODS 01129",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 19,
+    "saturated_fat": 9.5,
+    "carbohydrates": 73,
+    "sugars": 32.9,
+    "fiber": 0,
+    "protein": 5,
+    "salt": 0,
+    "sodium": 211
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-03T13:55:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8908021982072",
+  "name": "Bell Fresh Wheat Parota",
+  "brand": "Bell Fresh",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Wheat Flour (Atta),  RO Purified Water, Edible Vegetable Oil, Edible Vegetable Fat and Low Sodium Salt.",
+  "per_100g": {
+    "energy_kcal": 318,
+    "fat": 15.92,
+    "saturated_fat": 5.63,
+    "carbohydrates": 30.12,
+    "sugars": 0,
+    "fiber": 3.17,
+    "protein": 11.54,
+    "salt": 0.744275,
+    "sodium": 0.29771
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-04T06:58:07Z",
+  "fetched_at": "2026-08-19T13:21:23Z"
+}

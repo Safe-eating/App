@@ -1,0 +1,36 @@
+{
+  "barcode": "8906010500764",
+  "name": "balaji wafers chataka pataka",
+  "brand": "Balaji",
+  "quantity": "25g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:sweet-snacks",
+    "en:appetizers",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:chips-and-fries",
+    "en:biscuits",
+    "en:crisps",
+    "en:crackers-appetizers",
+    "en:namkeen"
+  ],
+  "ingredients": "RICE MEAL (43%), EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN), CORN MEAL (3%), CHICKPEA FLOUR, EDIBLE COMMON SALT, SPICES \u0026 CONDIMENTS 2% (CUMIN, CHILLI BLACK PEPPER, DRY MANGO), DEHYDRATED VEGETABLE POWDER (ONION, GARLIC) SUGAR, ACIDITY REGULATOR (INS 330), ANTICAKING AGENT (INS 551), FLAVOUR ENHANCER (INS 627, INS 631), NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES (GARLIC, BLACK PEPPER), PAPRIKA EXTRACT (INS 160C)",
+  "per_100g": {
+    "energy_kcal": 514,
+    "fat": 25,
+    "saturated_fat": 12,
+    "carbohydrates": 63.3,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 7,
+    "salt": 0.868,
+    "sodium": 0.3472
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-19T22:51:24Z",
+  "fetched_at": "2026-08-19T02:01:10Z"
+}

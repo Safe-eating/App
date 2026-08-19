@@ -1,0 +1,31 @@
+{
+  "barcode": "8908006628483",
+  "name": "Sour Cream",
+  "brand": "Nutoras",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:creams",
+    "en:fermented-creams",
+    "en:sour-creams"
+  ],
+  "ingredients": "Milk fat, INS234, INS200, Carob gum",
+  "per_100g": {
+    "energy_kcal": 492.7,
+    "fat": 51.5,
+    "saturated_fat": 31.2,
+    "carbohydrates": 5.3,
+    "sugars": 3.5,
+    "fiber": null,
+    "protein": 2.1,
+    "salt": 0.065,
+    "sodium": 0.026
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-15T10:07:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

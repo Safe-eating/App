@@ -1,0 +1,29 @@
+{
+  "barcode": "8902351333146",
+  "name": "Sobisco Desire Vanilla Cream",
+  "brand": "Sobisco",
+  "quantity": "18g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (26.07%), HYDROGENATED VEGETABLE OIL/REFINED PALMOLEIN OIL, SUGAR, EGG LIQUID, WATER, CORN STARCH, HUMECTANTS (E420, E422), MILK SOLIDS, SALT, EMULSIFIERS (E471, E477), STABILIZERS [E341(0)], RAISING AGENT [E500 (ii)]. BAKING POWDER AND CLASS II PRESERVATIVES (E319, E200). ADDED ARTIFICIAL FLAVOUR (VANILLA).",
+  "per_100g": {
+    "energy_kcal": 96.35,
+    "fat": 6.15,
+    "saturated_fat": 3.06,
+    "carbohydrates": 9.29,
+    "sugars": 4.32,
+    "fiber": null,
+    "protein": 0.96,
+    "salt": 0.275,
+    "sodium": 0.11
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-17T14:47:50Z",
+  "fetched_at": "2026-08-19T01:15:14Z"
+}

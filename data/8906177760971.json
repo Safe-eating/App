@@ -1,0 +1,30 @@
+{
+  "barcode": "8906177760971",
+  "name": "High Protein Paneer",
+  "brand": "Akshayakalpa Organic",
+  "quantity": "200g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer"
+  ],
+  "ingredients": "Organic Milk Solids (Cow Milk, Curd).",
+  "per_100g": {
+    "energy_kcal": 213,
+    "fat": 11,
+    "saturated_fat": 7.66,
+    "carbohydrates": 0.5,
+    "sugars": 0.5,
+    "fiber": null,
+    "protein": 28,
+    "salt": 0.079,
+    "sodium": 0.0316
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-23T09:29:05Z",
+  "fetched_at": "2026-08-19T13:02:50Z"
+}

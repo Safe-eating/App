@@ -1,0 +1,30 @@
+{
+  "barcode": "8906076133111",
+  "name": "Milk Bread",
+  "brand": "The Baker's Dozen",
+  "quantity": "230g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 307,
+    "fat": 2,
+    "saturated_fat": 1,
+    "carbohydrates": 65,
+    "sugars": 6,
+    "fiber": 3,
+    "protein": 8,
+    "salt": 1.0975,
+    "sodium": 0.439
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-24T10:24:32Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

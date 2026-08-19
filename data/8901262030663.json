@@ -1,0 +1,33 @@
+{
+  "barcode": "8901262030663",
+  "name": "amul cow ghee",
+  "brand": "amul",
+  "quantity": "200 ml",
+  "categories": [
+    "en:dairies",
+    "en:spreads",
+    "en:fats",
+    "en:spreadable-fats",
+    "en:animal-fats",
+    "en:dairy-spreads",
+    "en:milkfat",
+    "en:butters"
+  ],
+  "ingredients": "fresh cream",
+  "per_100g": {
+    "energy_kcal": 897,
+    "fat": 99.7,
+    "saturated_fat": 65,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2022-04-01T16:22:26Z",
+  "fetched_at": "2026-08-19T00:42:00Z"
+}

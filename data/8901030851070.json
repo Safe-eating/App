@@ -1,0 +1,33 @@
+{
+  "barcode": "8901030851070",
+  "name": "Kissan Jam",
+  "brand": "Kissan",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:sweet-spreads",
+    "en:fruit-and-vegetable-preserves",
+    "en:jams"
+  ],
+  "ingredients": "SUGAR, MIXED FRUIT PULP BLEND-60% (PAPAYA PULP, PEAR PULP, APPLE JUICE, BANANA PULP, PINEAPPLE JUICE, ORANGE JUICE, MANGO PULP, GRAPE JUICE), ACIDITY REGULATOR-E330, THICKENER - E440, IODISED SALT, VITAMINS \u0026 MINERAL, PRESERVATIVE E202, NATURAL FLAVOURING SUBSTANCES, FOOD COLOUR-E122.",
+  "per_100g": {
+    "energy_kcal": 285,
+    "fat": 0.1,
+    "saturated_fat": 0.01,
+    "carbohydrates": 70.5,
+    "sugars": 62.6,
+    "fiber": 0.8,
+    "protein": 0.3,
+    "salt": 0.1275,
+    "sodium": 0.051
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-07T16:04:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8929752286352",
+  "name": "SUPERKAKI",
+  "brand": "WHEAT FLOUR",
+  "quantity": "5 KG",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:flours",
+    "en:cereal-flours",
+    "en:wheat-flours"
+  ],
+  "ingredients": "Atta",
+  "per_100g": {
+    "energy_kcal": 340,
+    "fat": 1.5,
+    "saturated_fat": 0.27,
+    "carbohydrates": 68.6,
+    "sugars": 1.6,
+    "fiber": 6.8,
+    "protein": 9.61,
+    "salt": 0.063,
+    "sodium": 0.0025
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-15T10:04:51Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

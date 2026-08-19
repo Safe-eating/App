@@ -1,0 +1,24 @@
+{
+  "barcode": "7622201636012",
+  "name": "Tang Lemon",
+  "brand": "The Natural",
+  "quantity": "500g",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 331,
+    "fat": 0.1,
+    "saturated_fat": 0.1,
+    "carbohydrates": 78,
+    "sugars": 64,
+    "fiber": null,
+    "protein": 2.8,
+    "salt": 0.0001,
+    "sodium": 0.00004
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-18T12:32:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

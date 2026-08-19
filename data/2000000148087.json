@@ -1,0 +1,32 @@
+{
+  "barcode": "2000000148087",
+  "name": "Pecan \u0026 almond grain-free granola",
+  "brand": "The Paleo Foods Co",
+  "quantity": "285 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Coconut (28%), Almonds (25%), Sunflower Seeds (20%), Pumpkin Seeds (8.5%), Organic Coconut Blossom Nectar (7%), Chicory Root Fibre (4%), Pecans (3%), Cashews (2%), Linseeds (1.5%), Chia Seeds (1%)",
+  "per_100g": {
+    "energy_kcal": 635,
+    "fat": 53,
+    "saturated_fat": 20.75,
+    "carbohydrates": 19.75,
+    "sugars": 9.25,
+    "fiber": 11.25,
+    "protein": 15.25,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T21:32:28Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

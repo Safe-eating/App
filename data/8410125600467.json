@@ -1,0 +1,26 @@
+{
+  "barcode": "8410125600467",
+  "name": "Figaro",
+  "brand": "",
+  "quantity": "200ml",
+  "categories": [
+    "en:oil"
+  ],
+  "ingredients": "olive oil",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 99.9,
+    "saturated_fat": 15.2,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0.25,
+    "salt": 0.0063,
+    "sodium": 0.0025
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-11T06:14:56Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8901262260374",
+  "name": "Amul Cow Milk",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk",
+  "per_100g": {
+    "energy_kcal": 68,
+    "fat": 4,
+    "saturated_fat": 2.4,
+    "carbohydrates": 4.9,
+    "sugars": 4.9,
+    "fiber": 0,
+    "protein": 3.1,
+    "salt": 0.1175,
+    "sodium": 0.047
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-15T15:15:05Z",
+  "fetched_at": "2026-08-19T00:46:47Z"
+}

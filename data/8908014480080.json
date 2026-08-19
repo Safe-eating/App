@@ -1,0 +1,29 @@
+{
+  "barcode": "8908014480080",
+  "name": "Bovonto",
+  "brand": "Kali Mark",
+  "quantity": "1.5 l",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:carbonated-drinks",
+    "en:sodas"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, COLOUR (INS 150d, INS 122, INS 102, INS 124, INS 133), NATURAL, NATURE IDENTICAL \u0026 ARTIFICIAL FLAVOURING SUBSTANCES, ACIDITY REGULATOR (INS 330), PRESERVATIVE (INS 21.1), SWEETENER (INS 955). CONTAINS NO FRUIT JUICE OR PULP.",
+  "per_100g": {
+    "energy_kcal": 44,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 11,
+    "sugars": 11,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 2.48,
+    "sodium": 2.48
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-09T01:11:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

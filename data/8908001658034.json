@@ -1,0 +1,27 @@
+{
+  "barcode": "8908001658034",
+  "name": "Ocean Fruit drink pink guava fruit flavour",
+  "brand": "Ocean",
+  "quantity": "500ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 42,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 10,
+    "sugars": 10,
+    "fiber": null,
+    "protein": 0.5,
+    "salt": 0.0125,
+    "sodium": 0.005
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-21T15:36:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

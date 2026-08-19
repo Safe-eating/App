@@ -1,0 +1,30 @@
+{
+  "barcode": "8906084414233",
+  "name": "Roasted Peri Peri Makhana",
+  "brand": "MOM - Meal of the Moment",
+  "quantity": "64 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:fox-nuts",
+    "en:lotus-seeds"
+  ],
+  "ingredients": "Makhana (Fox - Nuts 70%), Edible Vegetable Oil (Sunflower), Seasoning [Sugar, lodised Salt, Onion Powder, Tomato Powder, Flavours [Natural (Spice), Nature Identical (Tomato)], Spice \u0026 Condiments (0.8%) (Chilli (0.6%), Ginger), Garlic Powder (0.5%), Acidity Regulator (INS 330), Yeast Extract, Black Salt, Hydrolysed Vegetable Protein, Lemon Powder, Flavour Enhancers (INS 627, INS 631) and Anticaking Agent (INS 551)]. \nALLERGEN ADVICE: Soy \u0026 Sulphite",
+  "per_100g": {
+    "energy_kcal": 480,
+    "fat": 20,
+    "saturated_fat": 3,
+    "carbohydrates": 69,
+    "sugars": 6,
+    "fiber": 5,
+    "protein": 7,
+    "salt": 2.15,
+    "sodium": 0.86
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-19T14:47:02Z",
+  "fetched_at": "2026-08-19T12:48:20Z"
+}

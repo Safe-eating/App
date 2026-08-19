@@ -1,0 +1,24 @@
+{
+  "barcode": "8908018651677",
+  "name": "Protein Puff Tomato",
+  "brand": "Troovy",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 411,
+    "fat": 17,
+    "saturated_fat": 3.7,
+    "carbohydrates": 52,
+    "sugars": 9,
+    "fiber": 5.5,
+    "protein": 15,
+    "salt": 1.225,
+    "sodium": 0.49
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-04T11:18:15Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

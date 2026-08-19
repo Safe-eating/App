@@ -1,0 +1,30 @@
+{
+  "barcode": "8906010502041",
+  "name": "",
+  "brand": "Balaji Wafers",
+  "quantity": "22g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN, CORN), CHICKPEA FLOUR, PUFFED RICE (27%), SUGAR, SPICES \u0026 CONDIMENTS 2% (CHILLI, CUMIN, CLOVE, CINNAMON, CORIANDER DRY MANGO, GINGER, CARDAMOM, BLACK PEPPER, MUSTARD, FENNEL, TURMERIC), EDIBLE COMMON SALT, DEHYDRATED VEGETABLE POWDER (GARLIC, LIME, GREEN CHILLI, ONION, TAMARIND), ACIDITY REGULATOR (INS 330), FLAVOUR ENHANCER (INS 635), ANTICAKING AGENT (INS 551), NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES (CHILLI, LIME).\nALLERGEN ADVICE: CONTAINS MUSTARD.",
+  "per_100g": {
+    "energy_kcal": 538,
+    "fat": 27.5,
+    "saturated_fat": 12.8,
+    "carbohydrates": 60.2,
+    "sugars": 4.4,
+    "fiber": 6.1,
+    "protein": 9.5,
+    "salt": 1.9325,
+    "sodium": 0.773
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-17T14:20:46Z",
+  "fetched_at": "2026-08-19T02:01:38Z"
+}

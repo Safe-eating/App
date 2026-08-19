@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063142022",
+  "name": "Britannia Nutrichoice Digestive",
+  "brand": "britannnia",
+  "quantity": "250g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits",
+    "en:digestive-biscuite"
+  ],
+  "ingredients": "WHEAT FLOUR (ATTA) (63%), REFINED PALM OIL, SUGAR, WHEAT BRAN (4.7%), LIQUID GLUCOSE, MILK SOLIDS, MALTODEXTRIN, RAISING AGENTS [500(ii) \u0026 503(ii)], IODISED SALT, EMULSIFIERS (322(i), 471 \u0026 472e], NATURAL, NATURE IDENTICAL \u0026 ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES, MALT EXTRACT AND DOUGH CONDITIONER (223).",
+  "per_100g": {
+    "energy_kcal": 481,
+    "fat": 20.9,
+    "saturated_fat": 10.4,
+    "carbohydrates": 68,
+    "sugars": 13.1,
+    "fiber": 7.3,
+    "protein": 9.1,
+    "salt": 0.92,
+    "sodium": 0.368
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-21T06:34:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

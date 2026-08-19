@@ -1,0 +1,30 @@
+{
+  "barcode": "8901972006040",
+  "name": "Nice Sugar sprinkled coconut biscuits",
+  "brand": "Dukes",
+  "quantity": "150g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, SPRINKLED SUGAR (4.7 %), DESICCATED COCONUT (3.8 %), INVERT SYRUP, MILK SOLIDS, RAISING AGENTS [INS 503 (ii), INS 500 (ii)], IODIZED SALT, EMULSIFIERS [INS 471, INS 322(i)] AND ARTIFICIAL FLAVOURING SUBSTANCES (COCONUT, MILK).",
+  "per_100g": {
+    "energy_kcal": 454,
+    "fat": 14.5,
+    "saturated_fat": 7.5,
+    "carbohydrates": 74,
+    "sugars": 28.2,
+    "fiber": null,
+    "protein": 7.4,
+    "salt": 0.625,
+    "sodium": 0.25
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-05T12:46:29Z",
+  "fetched_at": "2026-08-19T01:11:05Z"
+}

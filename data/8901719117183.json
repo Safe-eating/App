@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719117183",
+  "name": "Hide \u0026 Seek",
+  "brand": "Parle",
+  "quantity": "100g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 470,
+    "fat": 18.6,
+    "saturated_fat": 9.4,
+    "carbohydrates": 73.4,
+    "sugars": 32.5,
+    "fiber": null,
+    "protein": 5.9,
+    "salt": 0.285,
+    "sodium": 0.114
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-24T09:31:41Z",
+  "fetched_at": "2026-08-19T00:59:47Z"
+}

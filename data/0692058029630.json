@@ -1,0 +1,31 @@
+{
+  "barcode": "0692058029630",
+  "name": "Jeera Cookies",
+  "brand": "Global Choice",
+  "quantity": "400 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:indian-snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 750,
+    "fat": 40,
+    "saturated_fat": 20,
+    "carbohydrates": 90,
+    "sugars": 65,
+    "fiber": 0,
+    "protein": 10,
+    "salt": 0.0125,
+    "sodium": 0.005
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T18:50:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8908001017046",
+  "name": "Cornitos nacho crips",
+  "brand": "",
+  "quantity": "10",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 0,
+    "fat": 100,
+    "saturated_fat": 1000,
+    "carbohydrates": null,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 15,
+    "sodium": 6
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-18T12:58:31Z",
+  "fetched_at": "2026-08-19T13:05:30Z"
+}

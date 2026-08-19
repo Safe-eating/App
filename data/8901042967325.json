@@ -1,0 +1,31 @@
+{
+  "barcode": "8901042967325",
+  "name": "MTR POHA 60 g",
+  "brand": "MTR",
+  "quantity": "60g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 249,
+    "fat": 7.2,
+    "saturated_fat": 3,
+    "carbohydrates": 40.3,
+    "sugars": 2.7,
+    "fiber": 1.8,
+    "protein": 4.8,
+    "salt": 0.8,
+    "sodium": 0.32
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-26T04:41:40Z",
+  "fetched_at": "2026-08-19T00:22:26Z"
+}

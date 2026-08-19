@@ -1,0 +1,32 @@
+{
+  "barcode": "8906055440568",
+  "name": "Organic Peanuts",
+  "brand": "Organic Tattva",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:peanuts"
+  ],
+  "ingredients": "peanuts",
+  "per_100g": {
+    "energy_kcal": 620,
+    "fat": 50,
+    "saturated_fat": 9,
+    "carbohydrates": 17,
+    "sugars": 4,
+    "fiber": 9,
+    "protein": 25,
+    "salt": 0.0125,
+    "sodium": 0.005
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-06-27T18:21:03Z",
+  "fetched_at": "2026-08-19T12:38:23Z"
+}

@@ -1,0 +1,35 @@
+{
+  "barcode": "8904132928640",
+  "name": "Oats",
+  "brand": "Aarambh",
+  "quantity": "1.5kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats"
+  ],
+  "ingredients": "Oats",
+  "per_100g": {
+    "energy_kcal": 406,
+    "fat": 9.3,
+    "saturated_fat": 1.7,
+    "carbohydrates": 68.7,
+    "sugars": 0.7,
+    "fiber": 10.6,
+    "protein": 11.7,
+    "salt": 0.00775,
+    "sodium": 0.0031
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-20T10:53:17Z",
+  "fetched_at": "2026-08-19T01:36:40Z"
+}

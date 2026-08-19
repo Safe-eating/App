@@ -1,0 +1,30 @@
+{
+  "barcode": "8906062129005",
+  "name": "Mango Juice",
+  "brand": "Water Delight",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:juices-and-nectars"
+  ],
+  "ingredients": "Mango Juice (97%), Mango Pulp 3%",
+  "per_100g": {
+    "energy_kcal": 45.9375,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 11.5,
+    "sugars": 11,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.0625,
+    "sodium": 0.025
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T12:47:25Z",
+  "fetched_at": "2026-08-19T12:39:00Z"
+}

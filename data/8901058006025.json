@@ -1,0 +1,29 @@
+{
+  "barcode": "8901058006025",
+  "name": "Maggi Masala CUPPA Noodles",
+  "brand": "Maggi",
+  "quantity": "70.5g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 387.234042553192,
+    "fat": 17.1631205673759,
+    "saturated_fat": 12.1985815602837,
+    "carbohydrates": 52.4822695035461,
+    "sugars": 3.26241134751773,
+    "fiber": 2.97872340425532,
+    "protein": 7.09219858156028,
+    "salt": 2.36063829787234,
+    "sodium": 0.944255319148936
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-18T09:59:52Z",
+  "fetched_at": "2026-08-19T00:25:25Z"
+}

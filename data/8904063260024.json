@@ -1,0 +1,26 @@
+{
+  "barcode": "8904063260024",
+  "name": "Snac Lite! Soya Katori Masala Dhamaka",
+  "brand": "Haldiram's",
+  "quantity": "21g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 511,
+    "fat": 27,
+    "saturated_fat": 12,
+    "carbohydrates": 58,
+    "sugars": 1.5,
+    "fiber": 5.18,
+    "protein": 9,
+    "salt": 4.1,
+    "sodium": 1.64
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-18T11:28:25Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

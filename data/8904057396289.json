@@ -1,0 +1,33 @@
+{
+  "barcode": "8904057396289",
+  "name": "Hatsun Curd",
+  "brand": "Hatsun",
+  "quantity": "200 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:curd"
+  ],
+  "ingredients": "Pasteurized Toned Milk \u0026 Starter Culture  Allergen Information: Contains Milk",
+  "per_100g": {
+    "energy_kcal": 76,
+    "fat": 4,
+    "saturated_fat": 2.5,
+    "carbohydrates": 6,
+    "sugars": 6,
+    "fiber": 0,
+    "protein": 4,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T11:08:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

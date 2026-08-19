@@ -1,0 +1,31 @@
+{
+  "barcode": "8906017862520",
+  "name": "Burst",
+  "brand": "Bisk Farm",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (42.6%), SUGAR, EDIBLE VEGETABLE OIL (PALM, PALMOLEIN), MILK SOLIDS, EDIBLE STARCHE (CORN), SALT, EMULSIFIER (322), DISPERSING AGENT (1520) AND ANTIOXIDANT (319) STRAWBERRY FLAVOURED FILLING (35.23%) [HYDROGENATED VEGETABLE OIL (PALM, PALMOLEIN), EDIBLE VEGETABLE OIL (PALM, PALMOLEIN), EMULSIFIER (322), SALT, SUGAR, WHEY POWDER, MILK SOLIDS, DEXTROSE MONOHYDRATE, EDIBLE STARCHE (CORN), EMULSIFIER (322), DISPERSING AGENT (1520) \u0026 ANTIOXIDANT (319)",
+  "per_100g": {
+    "energy_kcal": 425.2,
+    "fat": 16.91,
+    "saturated_fat": 9.57,
+    "carbohydrates": 74.28,
+    "sugars": 44.82,
+    "fiber": null,
+    "protein": 6.31,
+    "salt": 0.345,
+    "sodium": 0.138
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-16T08:32:43Z",
+  "fetched_at": "2026-08-19T02:06:22Z"
+}

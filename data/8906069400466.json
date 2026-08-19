@@ -1,0 +1,27 @@
+{
+  "barcode": "8906069400466",
+  "name": "Veeba sandwich spread",
+  "brand": "1",
+  "quantity": "250",
+  "categories": [
+    "en:sandwiches",
+    "en:Sandwich spread"
+  ],
+  "ingredients": "refined soyabean oil, water, synthetic vinegar , sugar, cheese cheese, milk solid,",
+  "per_100g": {
+    "energy_kcal": 386.3,
+    "fat": 37.5,
+    "saturated_fat": 6.5,
+    "carbohydrates": 10,
+    "sugars": 9.5,
+    "fiber": 0,
+    "protein": 2.2,
+    "salt": 2.05,
+    "sodium": 0.82
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-06T14:46:11Z",
+  "fetched_at": "2026-08-19T12:41:06Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8906010362621",
+  "name": "Soan Papdi",
+  "brand": "GRB",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks"
+  ],
+  "ingredients": "Sugar, Bengal Gram Flour, Refined Wheat Flour, Refined Palmolein Oil, Vegetable Fat (Interesterified), Liquid Glucose, Cardamom, Almond \u0026 Pistachio.",
+  "per_100g": {
+    "energy_kcal": 526.4,
+    "fat": 26,
+    "saturated_fat": 15,
+    "carbohydrates": 68.3,
+    "sugars": 50,
+    "fiber": null,
+    "protein": 4.8,
+    "salt": 0.0275,
+    "sodium": 0.011
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-16T14:13:04Z",
+  "fetched_at": "2026-08-19T01:59:37Z"
+}

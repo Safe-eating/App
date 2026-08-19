@@ -1,0 +1,26 @@
+{
+  "barcode": "8906004562044",
+  "name": "Masala Matar",
+  "brand": "Diamond",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Green Peas (80%), Edible Vegetable Oil (Palmolein Oil / Cotton Seed Oil), Iodised Salt, \u0026quot;Spice and Condiments (Red Chilli Powder, Cumin, Coriander Powder Black Pepper Powder, Black Salt, Clove Powder), Dehydrated Vegetable Powder (Dry Mango), Colour (INS 133) and Acidity Regulator (INS 300).",
+  "per_100g": {
+    "energy_kcal": 456.93,
+    "fat": 16.53,
+    "saturated_fat": 7.43,
+    "carbohydrates": 56.47,
+    "sugars": 3.34,
+    "fiber": null,
+    "protein": 20.57,
+    "salt": 1.9496,
+    "sodium": 0.77984
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-07T03:24:26Z",
+  "fetched_at": "2026-08-19T01:50:46Z"
+}

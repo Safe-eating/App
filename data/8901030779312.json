@@ -1,0 +1,33 @@
+{
+  "barcode": "8901030779312",
+  "name": "Lipton Green Tea",
+  "brand": "Pepsico, Unilever, lipton",
+  "quantity": "25N",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:hot-beverages",
+    "en:plant-based-beverages",
+    "en:teas",
+    "en:green-teas",
+    "en:flavored-teas"
+  ],
+  "ingredients": "FLAVOURED TEA TULSI MAX 2% W/W .CONTAINS ADDED NATURAL FLAVOURS CONTENTS: FLAVOURED TEA Unilever BEVERAGES L ZERO CALORIES: When enjoyed without milk and sugar REDUCE WAIST CIRCUMFERENCE WITH THE POWER OF CATECHINS: Basis literature, having 7-8 cups of Green tea/day (-600 mg catechins) for 8-12 weeks  helps reduce waist circumference. Note: Lipton Green Tea has =20-30 mg caffeine/cup.",
+  "per_100g": {
+    "energy_kcal": 0,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-25T08:25:36Z",
+  "fetched_at": "2026-08-19T00:15:15Z"
+}

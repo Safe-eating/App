@@ -1,0 +1,34 @@
+{
+  "barcode": "8906010851798",
+  "name": "TURBO",
+  "brand": "CAMPCO",
+  "quantity": "22 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:candy-chocolate-bars",
+    "en:chocolate-covered-bars-with-milk-and-cereals",
+    "en:Sugar-boiled-confectionery"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 439,
+    "fat": 14.2,
+    "saturated_fat": 12.8,
+    "carbohydrates": 73,
+    "sugars": 53,
+    "fiber": 0,
+    "protein": 4.2,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-03T11:02:16Z",
+  "fetched_at": "2026-08-19T02:02:42Z"
+}

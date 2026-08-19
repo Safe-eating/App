@@ -1,0 +1,30 @@
+{
+  "barcode": "8904043500263",
+  "name": "Baker's Loaf High Protein Bread",
+  "brand": "Bimbo,Modern",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat (Atta)(51.2%), Protein Mix (7.7%) (Wheat gluten, wilk powder, Soya protein isolate, Brown Rice Protein Pea Protein, Emulsifiers (481(i), 472e), Antioxidant (300), Stabilizers (412)). Gluten, Sugar, Yeast, Edible Vegetable Oil (Refined Soyabean Oil), Iodized Salt, Milk Solid (0.51%), Preservatives (282, 200), Acdity Regulators (270, 330, 297), Emulsifier (471), Malt Product, Natural Flavouring substances, Antioxidant (300)",
+  "per_100g": {
+    "energy_kcal": 241.64,
+    "fat": 2.71,
+    "saturated_fat": 0.61,
+    "carbohydrates": 39.12,
+    "sugars": 4.04,
+    "fiber": 6.2,
+    "protein": 15.19,
+    "salt": 0.968525,
+    "sodium": 0.38741
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-11T16:47:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8906108305158",
+  "name": "Pumpkin Seeds (RAW)",
+  "brand": "Popular Fit - Eats",
+  "quantity": "100g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:pumpkin-and-squash-plant-products",
+    "en:cucurbitacea-seeds",
+    "en:pumpkin-seeds-and-their-products",
+    "en:pumpkin-seeds"
+  ],
+  "ingredients": "Pumpkin seeds",
+  "per_100g": {
+    "energy_kcal": 613.535714285714,
+    "fat": 49.7142857142857,
+    "saturated_fat": 9.03571428571428,
+    "carbohydrates": 7.21428571428571,
+    "sugars": 1.42857142857143,
+    "fiber": 11.7857142857143,
+    "protein": 34.3214285714286,
+    "salt": 0.00178571428571429,
+    "sodium": 0.000714285714285714
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-01T17:21:27Z",
+  "fetched_at": "2026-08-19T12:50:52Z"
+}

@@ -1,0 +1,40 @@
+{
+  "barcode": "8906001050742",
+  "name": "Mixed pickle",
+  "brand": "Mother's Recipe",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:canned-foods",
+    "en:vegetables-based-foods",
+    "en:canned-plant-based-foods",
+    "en:pickles",
+    "en:canned-vegetables",
+    "en:plant-based-pickles",
+    "en:prepared-vegetables",
+    "en:pickled-vegetables",
+    "en:pickled-cucumbers",
+    "en:plant-based-mixed-pickles",
+    "en:Pick"
+  ],
+  "ingredients": "Moxed Fruits \u0026 Vegetable Pieces (Mango, Spices and Condiments, Acidity Regulator (INS 260) and . Iodized Salt, Water, Cottonseed Oil, Chilli Powder. Caror Lime, Green Chilli, Green Tomato and Amba Halder)",
+  "per_100g": {
+    "energy_kcal": 140,
+    "fat": 9.33333333333333,
+    "saturated_fat": 2,
+    "carbohydrates": 12,
+    "sugars": 5.33333333333333,
+    "fiber": 0,
+    "protein": 2,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-09T16:58:40Z",
+  "fetched_at": "2026-08-19T01:48:40Z"
+}

@@ -3,7 +3,6 @@ import { Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
 import { Food, QuantityGuidance, Verdict } from '../types';
 import { colors, radius, space, verdictStyle } from '../theme';
 import { assessIntake, intakeBreakdown, safeQuantity } from '../lib/quantity';
-import { useCart } from '../lib/cart';
 import { intakeFootnote, IntakeVerdictBox, NutrientTable } from './IntakePanel';
 
 /**
@@ -11,26 +10,17 @@ import { intakeFootnote, IntakeVerdictBox, NutrientTable } from './IntakePanel';
  *   1. How much of it is safe in a day?   (the limit card)
  *   2. If I eat THIS much, what do I take in, and is that amount harmful?
  *
- * The amount typed here is also what gets added to the basket, so the two
- * features share one number rather than asking twice.
+ * Everything downstream deals in weight, so a piece count is converted before
+ * it reaches the scoring and intake maths.
  */
-export function QuantityCalculator({
-  food,
-  verdict,
-  onViewCart,
-}: {
-  food: Food;
-  verdict: Verdict;
-  onViewCart: () => void;
-}) {
+export function QuantityCalculator({ food, verdict }: { food: Food; verdict: Verdict }) {
   const guidance = useMemo(() => safeQuantity(food, verdict), [food, verdict]);
-  const cart = useCart();
   const piece = food.piece;
 
   /**
    * Two ways to say the same thing. `text` always holds whatever is in the box,
    * and `amount` is the weight in the food's own unit — so everything
-   * downstream (scoring, the table, the basket) only ever deals in weight.
+   * downstream (scoring and the intake table) only ever deals in weight.
    */
   // Countable foods open in piece mode, because that is how people actually
   // think — "one apple", "two gulab jamun" — not "180 g".
@@ -38,7 +28,6 @@ export function QuantityCalculator({
   const [text, setText] = useState(
     String(piece ? Math.max(1, Math.round(food.serving.amount / piece.amount)) : food.serving.amount)
   );
-  const [justAdded, setJustAdded] = useState(false);
 
   const typed = clampAmount(text);
   const amount = mode === 'piece' && piece ? Math.round(typed * piece.amount) : typed;
@@ -48,7 +37,6 @@ export function QuantityCalculator({
     const next =
       mode === 'piece' && piece ? Math.max(1, Math.round(grams / piece.amount)) : Math.round(grams);
     setText(String(next));
-    setJustAdded(false);
   };
 
   const switchMode = (next: 'weight' | 'piece') => {
@@ -60,7 +48,6 @@ export function QuantityCalculator({
         : String(Math.max(1, amount))
     );
     setMode(next);
-    setJustAdded(false);
   };
 
   const rows = useMemo(() => intakeBreakdown(food, amount), [food, amount]);
@@ -93,12 +80,6 @@ export function QuantityCalculator({
       return true;
     });
   }, [food.serving.amount, guidance.amount, unit, piece]);
-
-  const handleAdd = () => {
-    if (amount <= 0) return;
-    cart.add(food, amount);
-    setJustAdded(true);
-  };
 
   return (
     <View>
@@ -151,8 +132,7 @@ export function QuantityCalculator({
             value={text}
             onChangeText={(t) => {
               setText(t);
-              setJustAdded(false);
-            }}
+                      }}
             keyboardType="numeric"
             selectTextOnFocus
             maxLength={5}
@@ -204,32 +184,6 @@ export function QuantityCalculator({
       <View style={styles.verdictWrap}>
         <IntakeVerdictBox intake={intake} />
       </View>
-
-      {/* ---- basket ---- */}
-      <Pressable
-        onPress={handleAdd}
-        disabled={amount <= 0}
-        style={({ pressed }) => [
-          styles.addButton,
-          pressed && styles.addButtonPressed,
-          amount <= 0 && styles.addButtonDisabled,
-        ]}
-        accessibilityRole="button"
-        accessibilityLabel={`Add ${amount} ${unit} of ${food.name} to basket`}
-      >
-        <Text style={styles.addButtonText}>
-          {cart.has(food.id) ? `Add another ${amount} ${unit}` : `Add ${amount} ${unit} to basket`}
-        </Text>
-      </Pressable>
-
-      {justAdded && (
-        <Pressable onPress={onViewCart} style={styles.addedRow} accessibilityRole="button">
-          <Text style={styles.addedText}>
-            Added. Basket has {cart.count} item{cart.count === 1 ? '' : 's'} —{' '}
-            <Text style={styles.addedLink}>view basket</Text>
-          </Text>
-        </Pressable>
-      )}
 
       {/* ---- what you actually take in ---- */}
       <Text style={styles.tableTitle}>
@@ -404,20 +358,6 @@ const styles = StyleSheet.create({
   presetTextActive: { color: '#FFFFFF' },
 
   verdictWrap: { marginTop: space(4) },
-
-  addButton: {
-    marginTop: space(4),
-    backgroundColor: colors.primary,
-    borderRadius: radius.md,
-    paddingVertical: space(4),
-    alignItems: 'center',
-  },
-  addButtonPressed: { backgroundColor: colors.primaryDark },
-  addButtonDisabled: { opacity: 0.4 },
-  addButtonText: { color: '#FFFFFF', fontSize: 15, fontWeight: '800' },
-  addedRow: { paddingVertical: space(3), alignItems: 'center' },
-  addedText: { fontSize: 13, color: colors.textMuted },
-  addedLink: { color: colors.primaryDark, fontWeight: '800' },
 
   tableTitle: {
     fontSize: 15,

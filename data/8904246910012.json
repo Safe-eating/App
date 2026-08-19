@@ -1,0 +1,30 @@
+{
+  "barcode": "8904246910012",
+  "name": "Amla pickle",
+  "brand": "Priya",
+  "quantity": "300g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles",
+    "en:Amla pickle",
+    "en:Indian Gooseberry"
+  ],
+  "ingredients": "Amla Berries (48%), Refined Rice Bran Oil, Tamarind Paste (Tamarind, Water), Chilli Powder, Lime Juice, Mixed spices Mustard Seeds, Dry Chillies, Acidity Regulator-Acetic Acid,  Curry Leaves and Asafoetida",
+  "per_100g": {
+    "energy_kcal": 209,
+    "fat": 17.1,
+    "saturated_fat": 3.2,
+    "carbohydrates": 12.1,
+    "sugars": 2.6,
+    "fiber": null,
+    "protein": 1.7,
+    "salt": 12.825,
+    "sodium": 5.13
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-17T11:10:12Z",
+  "fetched_at": "2026-08-19T01:38:47Z"
+}

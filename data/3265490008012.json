@@ -1,0 +1,32 @@
+{
+  "barcode": "3265490008012",
+  "name": "",
+  "brand": "Roger Vidal",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:spreads",
+    "en:salted-spreads",
+    "en:coffees",
+    "en:coffee-beans",
+    "en:roasted-coffee-beans"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 416,
+    "fat": 40,
+    "saturated_fat": 15,
+    "carbohydrates": 1.4,
+    "sugars": 0.5,
+    "fiber": null,
+    "protein": 13,
+    "salt": 1.8,
+    "sodium": 0.72
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-20T08:13:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8906009010854",
+  "name": "Gold Premium Brown Sugar",
+  "brand": "Parry’s",
+  "quantity": "",
+  "categories": [
+    "en:sweeteners",
+    "en:sugars",
+    "en:brown-sugars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 400,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 99.88,
+    "sugars": 99.88,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.003925,
+    "sodium": 0.00157
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-30T08:50:51Z",
+  "fetched_at": "2026-08-19T01:56:25Z"
+}

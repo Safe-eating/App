@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063093638",
+  "name": "Good Day",
+  "brand": "",
+  "quantity": "52.5 g + 7.6 g EXTRA = 60.1 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, SUGAR, INVERT SUGAR SYRUP, CASHEW (1.4%), MILK PRODUCTS [MILK SOLIDS \u0026 BUTTER (0.1%)], RAISING AGENTS [503(ii) \u0026 500(ii)], IODISED SALT, EMULSIFIERS [322(i), 471 \u0026 472e] AND NATURE IDENTICAL \u0026 ARTIFICIAL (VANILLA \u0026 MILK) FLAVOURING SUBSTANCES. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, NUT, MILK AND SOY.",
+  "per_100g": {
+    "energy_kcal": 250.719897727273,
+    "fat": 26.1106818181818,
+    "saturated_fat": 0.139442727272727,
+    "carbohydrates": 54.5485340909091,
+    "sugars": 19.7098995454545,
+    "fiber": 3.59169090909091,
+    "protein": 5.20672818181818,
+    "salt": 0.131633370454545,
+    "sodium": 0.0409117128409091
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-22T07:33:25Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

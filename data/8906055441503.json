@@ -1,0 +1,33 @@
+{
+  "barcode": "8906055441503",
+  "name": "Foxtail Millet",
+  "brand": "Organic Tattva",
+  "quantity": "500 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:millet",
+    "en:foxtail-millet"
+  ],
+  "ingredients": "Organic Foxtail Millet",
+  "per_100g": {
+    "energy_kcal": 408.79,
+    "fat": 5.93,
+    "saturated_fat": 0.7,
+    "carbohydrates": 69.98,
+    "sugars": 0.62,
+    "fiber": 13.01,
+    "protein": 12.37,
+    "salt": 0.002725,
+    "sodium": 0.00109
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-07T10:50:11Z",
+  "fetched_at": "2026-08-19T12:38:24Z"
+}

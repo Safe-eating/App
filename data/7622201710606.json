@@ -1,0 +1,35 @@
+{
+  "barcode": "7622201710606",
+  "name": "5 star chocolate",
+  "brand": "5star",
+  "quantity": "22g",
+  "categories": [
+    "en:snacks",
+    "en:desserts",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolates",
+    "en:pastries",
+    "en:charlottes",
+    "en:chocolate-charlottes"
+  ],
+  "ingredients": "Sugar, Liquid Glucose, Invert Sugar, Milk Solids, Hydrogenated Oil, Cocoa Butter, Cocoa Solids, Rich Deproteinized Whey Permeate Por der, Emulsifiers (442, 471, 476), Hydralyzed Vegetable Protein, lodised Salt atural, Nature Identical and Artificial (Caramel and Varilla) Flavouring Substances). Merginformation: Contains Milk, Soy, Sulphites. May Contain Peanut, Wheat, Barley and Tree nut ading Material Mid. By: Uffer Ltd. Registration No.: PR-21-JAM-10-AFACF0109J-22 Mondelez India Foods Priva 2001, 20th Foor, Tower-3 (Wing C), One International Center, Parel, Mumbai-400 013. unit address, read the first character of the code and see below: Foods Privee Limit fssa 20159356 Rs. 0.45 per g Lic. No. 10014022002711 fssat fssat 7 62220 Lic. No. 10015044000995 For Code, PKD and U Net Wt.: 22 Lic. No. 10012026000351 MRP Rs. 10.00 Mondelez hic Foods Private Limited, 6055, Central Exyesway, Sector-25, Sricity, Chittoor District-517 544, Andhra Pradesh. Hadbast - Vilage: Sandholi, P.O. \u0026 Tehsil: Bat, Dist. Solan, H.P.-173 205. Lic. No. 10013062000214 .25, Malanpur Inda ja Area Vllage: Gurkha, Tehsil - Gohal Fist: Bhind, Madhya Pradesh-477 117. Issat Period Offer. Of valid til stocks last. ds Private Limited, Ples to eat bar 19.5 g pat. Limite СИНЯ MEN",
+  "per_100g": {
+    "energy_kcal": 444,
+    "fat": 15.9,
+    "saturated_fat": 10.1,
+    "carbohydrates": 72.9,
+    "sugars": 55.5,
+    "fiber": null,
+    "protein": 3.3,
+    "salt": 0.425,
+    "sodium": 0.17
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-04T18:33:40Z",
+  "fetched_at": "2026-08-19T00:08:02Z"
+}

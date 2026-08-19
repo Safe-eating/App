@@ -1,0 +1,31 @@
+{
+  "barcode": "8901725016296",
+  "name": "Dark Fantasy Bourbon Biscuit",
+  "brand": "Sunfeast",
+  "quantity": "108g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "MAIDA (REFINED WHEAT FLOUR), SUGAR (35.0%), REFINED PALM OIL, COLOURS (150a, 150c, 150d, 129), STARCH, COCOA SOLIDS (1.8%), RAISING AGENTS [503(ii), 500(ii), 450(i)], ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA, CHOCOLATE), EMULSIFIERS [MONO AND DIGLYCERIDES OF FATTY ACIDS (FROM PALM OIL), LECITHIN (SOY), POLYSORBATE 60 (FROM PALM)], IODIZED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES (CHOCOLATE), PLAIN CHOCOLATE (0.01%).",
+  "per_100g": {
+    "energy_kcal": 469,
+    "fat": 17.9,
+    "saturated_fat": 8.9,
+    "carbohydrates": 72.3,
+    "sugars": 38.4,
+    "fiber": null,
+    "protein": 5.9,
+    "salt": 0.1375,
+    "sodium": 0.055
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-26T12:32:44Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

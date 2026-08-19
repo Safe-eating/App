@@ -1,0 +1,27 @@
+{
+  "barcode": "8904004405514",
+  "name": "Orange Soan Treat",
+  "brand": "Haldiram's",
+  "quantity": "250g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks"
+  ],
+  "ingredients": "Refined Sugar, Refined Wheat Flour(Maida). Refined Palmolein Oil, Bengal Gram Flour (Besan), Hydrogenated Vegetable Oil (Vanaspati), Liquid Glucose, Almond, Pistachio Nuts, Colour (INS 110), Natural Flavouring Substances \u0026 Nature Identical Flavouring Substances Allergen: Contains Almonds, Pistachios \u0026 Wheat May Contains Coconut, Cashew, Milk, Soy, Peanut \u0026 Sesame Seed.",
+  "per_100g": {
+    "energy_kcal": 504,
+    "fat": 23.1,
+    "saturated_fat": 8.53,
+    "carbohydrates": 66.54,
+    "sugars": 46.22,
+    "fiber": 4.81,
+    "protein": 7.46,
+    "salt": 0.2,
+    "sodium": 0.08
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-03T03:04:06Z",
+  "fetched_at": "2026-08-19T01:25:19Z"
+}

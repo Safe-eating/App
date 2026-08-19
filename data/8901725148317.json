@@ -1,0 +1,27 @@
+{
+  "barcode": "8901725148317",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:food",
+    "en:toffee"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 412,
+    "fat": 5.1,
+    "saturated_fat": 0.3,
+    "carbohydrates": 91.1,
+    "sugars": 67.7,
+    "fiber": null,
+    "protein": 0.3,
+    "salt": 0.39775,
+    "sodium": 0.1591
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-06T16:50:03Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

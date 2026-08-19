@@ -1,0 +1,26 @@
+{
+  "barcode": "8901030736797",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:low-fat-froxen-dessert"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 79,
+    "fat": 2.9,
+    "saturated_fat": 1.8,
+    "carbohydrates": 12.2,
+    "sugars": 8.1,
+    "fiber": 0.8,
+    "protein": 1.4,
+    "salt": 0.11,
+    "sodium": 0.044
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T08:17:59Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

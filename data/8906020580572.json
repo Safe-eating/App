@@ -1,0 +1,30 @@
+{
+  "barcode": "8906020580572",
+  "name": "Paneer",
+  "brand": "iD",
+  "quantity": "200g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer"
+  ],
+  "ingredients": "MILK AND LEMON CONCENTRATE",
+  "per_100g": {
+    "energy_kcal": 301.72,
+    "fat": 23,
+    "saturated_fat": 15.37,
+    "carbohydrates": 1.18,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 18,
+    "salt": 0.0525,
+    "sodium": 0.021
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-22T06:16:57Z",
+  "fetched_at": "2026-08-19T02:08:01Z"
+}

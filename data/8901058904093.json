@@ -1,0 +1,26 @@
+{
+  "barcode": "8901058904093",
+  "name": "Munch Max",
+  "brand": "Nestlé",
+  "quantity": "42g",
+  "categories": [
+    "en:Coated  chocolate wafer"
+  ],
+  "ingredients": "Sugar, Refined Wheat flour (Maida), Hydrogenated vegetable fat, Fractionated vegetable fat. Milk solids, Cocoa solids (4%), Emulsifier (Soya lecithin), Raising agent (500(i)), Yeast, lodised salt. Flour-treatment agent (516), Artificial (Vanilla) and Nature-Identical flavouring substances. Contains Wheat, Sesame, Milk and Soy.",
+  "per_100g": {
+    "energy_kcal": 430,
+    "fat": 23.2,
+    "saturated_fat": 22.6,
+    "carbohydrates": 49.8,
+    "sugars": 34.3,
+    "fiber": 0,
+    "protein": 5.6,
+    "salt": 0.1985,
+    "sodium": 0.0794
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-31T13:21:58Z",
+  "fetched_at": "2026-08-19T00:27:33Z"
+}

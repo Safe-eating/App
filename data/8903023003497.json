@@ -1,0 +1,31 @@
+{
+  "barcode": "8903023003497",
+  "name": "Besan",
+  "brand": "More",
+  "quantity": "500 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:flours",
+    "en:legume-flours",
+    "en:chickpea-flours"
+  ],
+  "ingredients": "Besan (Chickpea flour)",
+  "per_100g": {
+    "energy_kcal": 377.41,
+    "fat": 2.81,
+    "saturated_fat": 0.61,
+    "carbohydrates": 76.86,
+    "sugars": 0.2,
+    "fiber": null,
+    "protein": 11.17,
+    "salt": 0.0206,
+    "sodium": 0.00824
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-01T10:27:30Z",
+  "fetched_at": "2026-08-19T01:19:35Z"
+}

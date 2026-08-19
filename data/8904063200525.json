@@ -1,0 +1,30 @@
+{
+  "barcode": "8904063200525",
+  "name": "Salted Banana Chips",
+  "brand": "Haldiram's",
+  "quantity": "200g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "Banana (60%), Edible Vegetable Oil (Palmolein/Cotton Seed), Iodised Salt.",
+  "per_100g": {
+    "energy_kcal": 568,
+    "fat": 40,
+    "saturated_fat": 16,
+    "carbohydrates": 49,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 3,
+    "salt": 1.8,
+    "sodium": 0.72
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-02T08:55:41Z",
+  "fetched_at": "2026-08-19T01:29:27Z"
+}

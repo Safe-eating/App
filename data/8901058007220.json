@@ -1,0 +1,32 @@
+{
+  "barcode": "8901058007220",
+  "name": "Maggie masala magic",
+  "brand": "Maggi",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:spices",
+    "en:spice-blends",
+    "en:masalas"
+  ],
+  "ingredients": "Wo MI For the KRIDIENTS: Mixed spices, (35.3%) M Rossed Spice powder (17.5%) (Cumin, oriander, Turmeric, Aniseed, Black epper, Fenugreek, Ginger, Clove, Green ardamom powder, Nutmeg), Red chilli owder, Dehydrated onion, Dried garlic, US apsicum extract, Coriander extract, umin extract), lodized salt, Sugar, arch, Flavour enhancer (635), Thickener 08), Palm oil, Acidity regulator (330), atural flavouring substance, Mineral, c) i olour (150d) B) G) D) H)",
+  "per_100g": {
+    "energy_kcal": 166,
+    "fat": 2.9,
+    "saturated_fat": 1.4,
+    "carbohydrates": 30.7,
+    "sugars": 13.5,
+    "fiber": 9.1,
+    "protein": 4.2,
+    "salt": 27.29,
+    "sodium": 10.916
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-12T14:22:29Z",
+  "fetched_at": "2026-08-19T00:25:29Z"
+}

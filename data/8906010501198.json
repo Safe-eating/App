@@ -1,0 +1,31 @@
+{
+  "barcode": "8906010501198",
+  "name": "Crunchem Pizzy Masala",
+  "brand": "Balaji",
+  "quantity": "30 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:Chips"
+  ],
+  "ingredients": "POTATO (88%), EDIBLE VEGETABLE OIL (PALMOLEIN), SUGAR EDIBLE COMMON SALT, DEHYDRATED VEGETABLE POWDER 0.6% (ONION, GARLIC, TOMATO), MILK SOLIDS (WHEY (0.1%) SPICES \u0026 CONDIMENTS (CHILLI, PEPPER, OREGANO), PARSLEY ANTICAKING AGENT (INS 551, INS 414), NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES (PIZZA). PROPRIETARY FOOD POTATO WAFERS INDIAN SNACKS \u0026 SAVOURIES ALLERGEN ADVICE: CONTAINS MILK SOLID",
+  "per_100g": {
+    "energy_kcal": 575,
+    "fat": 37.8,
+    "saturated_fat": 18.1,
+    "carbohydrates": 47.4,
+    "sugars": 2.3,
+    "fiber": 7,
+    "protein": 7.7,
+    "salt": 1960,
+    "sodium": 784
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-30T08:38:54Z",
+  "fetched_at": "2026-08-19T02:01:13Z"
+}

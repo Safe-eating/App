@@ -1,0 +1,28 @@
+{
+  "barcode": "8901725000738",
+  "name": "Charliee till laddu",
+  "brand": "Charliee",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries"
+  ],
+  "ingredients": "Til (Sesame) (53%), Jaggery (25%), Sugar (15%), Liquid Glucose (7%).",
+  "per_100g": {
+    "energy_kcal": 530,
+    "fat": 29.4,
+    "saturated_fat": 3.8,
+    "carbohydrates": 52,
+    "sugars": 41.2,
+    "fiber": 7.1,
+    "protein": 14.25,
+    "salt": 0.2003125,
+    "sodium": 0.080125
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-22T02:29:41Z",
+  "fetched_at": "2026-08-19T01:03:16Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8901058847482",
+  "name": "Maggie Pazzta Chese Macaroni",
+  "brand": "Maggi",
+  "quantity": "",
+  "categories": [
+    "en:meals",
+    "en:pasta-dishes",
+    "en:instant-pasta",
+    "en:instant-pasta-with-cheese"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 351,
+    "fat": 3.5,
+    "saturated_fat": 1.7,
+    "carbohydrates": 68.3,
+    "sugars": 2.5,
+    "fiber": null,
+    "protein": 11.5,
+    "salt": 1.347,
+    "sodium": 0.5388
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-21T05:13:43Z",
+  "fetched_at": "2026-08-19T00:26:35Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "0631656260281",
+  "name": "NitroTech Whey Gold Double Rich Chocolate",
+  "brand": "MuscleTech",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 378.787878787879,
+    "fat": 5.15151515151515,
+    "saturated_fat": 3.03030303030303,
+    "carbohydrates": 11.5151515151515,
+    "sugars": 5.15151515151515,
+    "fiber": 1.21212121212121,
+    "protein": 72.7272727272727,
+    "salt": 1.06060606060606,
+    "sodium": 0.424242424242424
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-27T18:29:17Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

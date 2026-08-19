@@ -1,0 +1,32 @@
+{
+  "barcode": "8901764952029",
+  "name": "Honest Tea with organic green tea Mango flavoured",
+  "brand": "Honest Tea",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:hot-beverages",
+    "en:plant-based-beverages",
+    "en:teas",
+    "en:green-teas"
+  ],
+  "ingredients": "WATER, SUGAR, GREEN TEA POWDER (0.1% ORGANIC ACIDITY REGULATORS (330, 331 (iii)), ANTIOXIDANT (300), MANGO FLAVOURS (NATURE-IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES).",
+  "per_100g": {
+    "energy_kcal": 25,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 6.3,
+    "sugars": 6,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.03125,
+    "sodium": 0.0125
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-17T14:31:41Z",
+  "fetched_at": "2026-08-19T01:09:32Z"
+}

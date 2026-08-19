@@ -1,0 +1,24 @@
+{
+  "barcode": "5056185786920",
+  "name": "MyProtein Micellar Casein Protein Chocolate Flavour",
+  "brand": "MyProtein",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 360,
+    "fat": 2.66,
+    "saturated_fat": 0.66,
+    "carbohydrates": 10,
+    "sugars": 2.66,
+    "fiber": null,
+    "protein": 73.3,
+    "salt": 0.66,
+    "sodium": 0.264
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-27T15:58:51Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

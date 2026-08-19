@@ -1,0 +1,26 @@
+{
+  "barcode": "8904071708778",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:Banana chips"
+  ],
+  "ingredients": "Plantain Banana (64%), Edible Vegetable Oil (Palmolein), Rock Salt, Allergy Advice: This product is packed in a factory that handles peanut, tree nuts, milk, wheat, mustard, sesame and soya. Serving Size 30g",
+  "per_100g": {
+    "energy_kcal": 534,
+    "fat": 30,
+    "saturated_fat": 9.1,
+    "carbohydrates": 64.2,
+    "sugars": 1.7,
+    "fiber": 4.3,
+    "protein": 1.8,
+    "salt": 0.315,
+    "sodium": 0.126
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-11T11:46:53Z",
+  "fetched_at": "2026-08-19T01:32:32Z"
+}

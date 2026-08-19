@@ -1,0 +1,32 @@
+{
+  "barcode": "8801073115378",
+  "name": "Buldak HOT Chicken Flavor Ramen",
+  "brand": "Samyang",
+  "quantity": "140g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "WHEAT FLOUR, MODIFIED TAPIOCA STARCH, REFINED PALM OIL, WHEAT GLUTEN, SALT, EMULSIFIER[SOY LECITHIN(E322 (1)], ACIDITY REGULATOR ARBONATE (E5010. SODIUM CARBONATE(E500(i)), SODIUM PHOSPHATE DIBASIC(E339 (ii))], THICKENER[GUAR GUM(E412)], TOCOPHEROLS(E306), VOR OIL, RIBOFLAVIN(E101), CITRIC ACID(E330). WATER, WHITE SUGAR, ARTIFICIAL CHICKEN FLAVOR POWDER(SOY, WHEAT, CELERY), CHEESE SAUCE(MILK, GARLIC, SOY, WHEAT), WHOLE MILK ARTIFICIAL CHICKEN FLAVOR(SOY, WHEAT), SOYBEAN OIL, RED PEPPER POWDER(SOY), CHILI PEPPER POWDER(SOY), YEAST POWDER, ONION, THICKENER ATO STARCH(E1420), GARLIC, SALT, DECOLORIZED CHILI EXTRACT, COLOUR[PAPRIKA EXTRACT(E160c)], PEPPER POWDER(SOY), CURRY POWDER(CELERY). 6%): WHOLE MILK POWDER(SOY), MILK POWDER, YEAST EXTRACT POWDER(SOY), GARLIC POWDER(SESAME SEEDS), PARSLEY CURLY. WHEAT, GLUTEN, SOY, MILK, CELERY, SESAME SEEDS. I",
+  "per_100g": {
+    "energy_kcal": 407.142857142857,
+    "fat": 14.2857142857143,
+    "saturated_fat": 6,
+    "carbohydrates": 60,
+    "sugars": 8.57142857142857,
+    "fiber": 2.42857142857143,
+    "protein": 10,
+    "salt": 2.03571428571429,
+    "sodium": 0.814285714285714
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-20T11:17:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

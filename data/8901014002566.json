@@ -1,0 +1,37 @@
+{
+  "barcode": "8901014002566",
+  "name": "Top Ramen",
+  "brand": "Nissin",
+  "quantity": "500 grams",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:meats-and-their-products",
+    "en:meats",
+    "en:chicken-and-its-products",
+    "en:dried-products",
+    "en:pastas",
+    "en:poultries",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:chickens",
+    "en:instant-noodles"
+  ],
+  "ingredients": "NOODLES (90.57%): Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), Iodised Salt, Acidity Regulators [INS 451(i) \u0026 INS 500(i)], Mixed Spices 0.17% (Turmeric, Coriander, Cumin \u0026 Red Chilli), Antioxidant (INS 319) \u0026 Thickener (INS 412). SEASONING MIX (9.43%): lodised Salt, Sugar, Flavours (Natural \u0026 Nature Identical), Textured Soya, Onion Powder, Hydrolysed Vegetable Protein Powder (Soya), Noodle Powder (Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), lodised Salt, Acidity Regulators [INS 451(i) \u0026 INS 500(i)], Mixed Spices 0.17% (Turmeric, Coriander, Cumin \u0026 Red Chilli), Antioxidant (INS 319) \u0026 Thickener (INS 412), Edible Vegetable Oil (Palm Oil), Corn Starch, Mixed Spices 3.15% (Red Chilli, Ginger, Turmeric, Black Pepper \u0026 Nutmeg), Garlic Chips, Skimmed Milk Powder, Flavour Enhancers (INS 631 \u0026 INS 627) Dehydrated Chicken Powder, Chilli Flakes, Dehydrated Chicken Bits, Acidity Regulator (INS 330), Egg Powder, Garlic Powder, Dried Fenugreek Leaves, Antioxidant (INS 551), Thickener (INS 415) \u0026 Colour [INS 160c(i)]",
+  "per_100g": {
+    "energy_kcal": 459.01,
+    "fat": 16.2,
+    "saturated_fat": 8.22,
+    "carbohydrates": 66.85,
+    "sugars": 1.91,
+    "fiber": null,
+    "protein": 9.25,
+    "salt": 3.855575,
+    "sodium": 1.54223
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-07T03:12:12Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "0943029944019",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks"
+  ],
+  "ingredients": "Water, Sugar, Skimmed Milk Powder, Glucose, Probiotic-Lactobacillus casei strain Shirota, CONTAINS NATURAL \u0026 NATURAL IDENTICAL FLAVOURS ALLERGEN INFORMATION: CONTAINS MILK",
+  "per_100g": {
+    "energy_kcal": 50,
+    "fat": 0.1,
+    "saturated_fat": 0,
+    "carbohydrates": 11.5,
+    "sugars": 10.5,
+    "fiber": 0,
+    "protein": 0.8,
+    "salt": 0.0105,
+    "sodium": 0.0042
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-09-18T06:22:27Z",
+  "fetched_at": "2026-08-18T23:59:29Z"
+}

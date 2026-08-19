@@ -1,0 +1,24 @@
+{
+  "barcode": "8906112662155",
+  "name": "Nuts \u0026 Berries Muesli",
+  "brand": "True Elements",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 436.25,
+    "fat": 12.5,
+    "saturated_fat": 1.75,
+    "carbohydrates": 67.5,
+    "sugars": 17,
+    "fiber": 10,
+    "protein": 13.25,
+    "salt": 0.3325,
+    "sodium": 0.133
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-24T07:22:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

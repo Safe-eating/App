@@ -1,0 +1,27 @@
+{
+  "barcode": "8906048500361",
+  "name": "Protinex Original",
+  "brand": "Danone",
+  "quantity": "400 g",
+  "categories": [
+    "en:dietary-supplements",
+    "en:health-drink"
+  ],
+  "ingredients": "Peanut protein hydrolysate (56%), Sugar, Malt extract, Maltodextrin, Minerals (Tribasic calcium phosphate, Ferrous gluconate), Vitamins (Choline bitartrate, Ascorbic acid, Niacinamide, dl-alpha Tocopheryl acetate, Riboflavin, Pantothenol, Thiamine mononitrate, Retinyl palmitate, Pyridoxine hydrochloride, Folic acid, Ergocalciferol, Phytomenadione, d-Biotin, Cyanocobalamin), Natural colour (INS 150a), Artificial flavouring substances (chocolate)",
+  "per_100g": {
+    "energy_kcal": 354,
+    "fat": 0.5,
+    "saturated_fat": 0.42,
+    "carbohydrates": 53.3,
+    "sugars": 32,
+    "fiber": null,
+    "protein": 34,
+    "salt": 612.5,
+    "sodium": 245
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-05T07:49:38Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

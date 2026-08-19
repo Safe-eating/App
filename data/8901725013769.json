@@ -1,0 +1,31 @@
+{
+  "barcode": "8901725013769",
+  "name": "Mad Angles Tomato Madness",
+  "brand": "Bingo",
+  "quantity": "66gm",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 530,
+    "fat": 29.9,
+    "saturated_fat": 13.9,
+    "carbohydrates": 60.1,
+    "sugars": 3.9,
+    "fiber": null,
+    "protein": 6.6,
+    "salt": 1.58075,
+    "sodium": 0.6323
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-01T10:28:40Z",
+  "fetched_at": "2026-08-19T01:04:52Z"
+}

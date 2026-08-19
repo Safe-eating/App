@@ -1,0 +1,36 @@
+{
+  "barcode": "8908017674080",
+  "name": "Dates",
+  "brand": "Nick Mics",
+  "quantity": "500gm",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:dried-products",
+    "en:fruits",
+    "en:dried-plant-based-foods",
+    "en:dates-and-their-products",
+    "en:dried-fruits",
+    "en:dates"
+  ],
+  "ingredients": "Date (wet)",
+  "per_100g": {
+    "energy_kcal": 321.64,
+    "fat": 0.034,
+    "saturated_fat": 0.011,
+    "carbohydrates": 77.59,
+    "sugars": 35.55,
+    "fiber": 8.31,
+    "protein": 2.74,
+    "salt": 0.075875,
+    "sodium": 0.03035
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-01T15:40:10Z",
+  "fetched_at": "2026-08-19T13:17:54Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "7622201761738",
+  "name": "Dairy Milk Silk Hazelnut",
+  "brand": "Cadbury",
+  "quantity": "58g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates"
+  ],
+  "ingredients": "Sugar, Milk Solids (21%*), Hazelnuts (16%*), Cocoa Butter, Cocoa Solids, Emulsifiers (442, 476), Flavours (Natural, Nature identical and Artificial (Vanilla) Flavouring Substances).",
+  "per_100g": {
+    "energy_kcal": 566,
+    "fat": 36.8,
+    "saturated_fat": 19.2,
+    "carbohydrates": 51.4,
+    "sugars": 46.6,
+    "fiber": null,
+    "protein": 8.7,
+    "salt": 0.104,
+    "sodium": 0.0416
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-14T12:38:27Z",
+  "fetched_at": "2026-08-19T00:08:58Z"
+}

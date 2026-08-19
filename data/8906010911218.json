@@ -1,0 +1,31 @@
+{
+  "barcode": "8906010911218",
+  "name": "Bada Cup Vanilla Ice Cream",
+  "brand": "Dairy Day",
+  "quantity": "80ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-in-individual-cup"
+  ],
+  "ingredients": "Milk Solids, Water, Sugar, Emulsifiers (INS 471, 477), Stabilizers (INS 412, 410)",
+  "per_100g": {
+    "energy_kcal": 207.425,
+    "fat": 9.375,
+    "saturated_fat": 7.6875,
+    "carbohydrates": 26.175,
+    "sugars": 26.175,
+    "fiber": null,
+    "protein": 4.5875,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-26T09:43:48Z",
+  "fetched_at": "2026-08-19T02:02:45Z"
+}

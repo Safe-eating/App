@@ -1,0 +1,24 @@
+{
+  "barcode": "8906009533155",
+  "name": "RiteBite Max Protein 7 Grain Breakfast Cookie Oats \u0026 Raisins",
+  "brand": "RiteBite",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 450.909090909091,
+    "fat": 20.9090909090909,
+    "saturated_fat": 11.0909090909091,
+    "carbohydrates": 47.6363636363636,
+    "sugars": 20.5454545454545,
+    "fiber": 7.27272727272727,
+    "protein": 18.1818181818182,
+    "salt": 0.568181818181818,
+    "sodium": 0.227272727272727
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-28T15:33:07Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

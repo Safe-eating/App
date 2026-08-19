@@ -1,0 +1,32 @@
+{
+  "barcode": "8906136651982",
+  "name": "High Protein Muesli",
+  "brand": "Pintola",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 390,
+    "fat": 8,
+    "saturated_fat": 1.6,
+    "carbohydrates": 56,
+    "sugars": 17,
+    "fiber": 10,
+    "protein": 24,
+    "salt": 0.395,
+    "sodium": 0.158
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-09T13:11:59Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

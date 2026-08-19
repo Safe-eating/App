@@ -1,0 +1,33 @@
+{
+  "barcode": "7622201150419",
+  "name": "Cadbury 5 Star",
+  "brand": "Mondelez",
+  "quantity": "40 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:chocolates",
+    "en:candy-chocolate-bars"
+  ],
+  "ingredients": "Sugar, Liquid Glucose, Invert Sugar, Milk Solids, Hydrogenated Oil, Cocoa Butter, Cocoa Solids, Fractionated Fat, Lactose-rich Deproteinized Whey Permeate Powder, Emulsifiers (442, 471, 476), Hydrolyzed Vegetable Protein, lodised Salt, Flavours (Natural, Nature Identical and Artificial (Caramel and Vanilla) Flavouring Substances)",
+  "per_100g": {
+    "energy_kcal": 525,
+    "fat": 22.5,
+    "saturated_fat": 12.5,
+    "carbohydrates": 75,
+    "sugars": 70,
+    "fiber": 2.5,
+    "protein": 7.5,
+    "salt": 0.1875,
+    "sodium": 0.075
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-25T19:30:37Z",
+  "fetched_at": "2026-08-19T00:07:05Z"
+}

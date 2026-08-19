@@ -1,0 +1,30 @@
+{
+  "barcode": "8906117360032",
+  "name": "Country Delight Brown Bread",
+  "brand": "Country Delight",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Wheat Flour (Atta) (28%), Refined wheat flour (21.3%), water, Sugar, Yeast, Gluten, Butter (2%), Edible Vegetable Oil (Sunflower Oil), Iodized Salt, Fermented Wheat Flour, Malt Flour, Soya Flour Allergen: Contains Wheat, Milk (Butter), Soy and May Contain Tree Nuts.",
+  "per_100g": {
+    "energy_kcal": 280.7,
+    "fat": 2.9,
+    "saturated_fat": 1.1,
+    "carbohydrates": 52.1,
+    "sugars": 7.2,
+    "fiber": 6.1,
+    "protein": 8.2,
+    "salt": 1.03975,
+    "sodium": 0.4159
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-26T01:34:05Z",
+  "fetched_at": "2026-08-19T12:53:25Z"
+}

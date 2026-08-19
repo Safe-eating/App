@@ -1,0 +1,31 @@
+{
+  "barcode": "8906021121859",
+  "name": "Kulambu Chilli Masala",
+  "brand": "Aachi",
+  "quantity": "50g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:spices",
+    "en:spice-mix"
+  ],
+  "ingredients": "Spice Content - 84% (Red Chilli powder (40%), Coriander, Turmeric Powder, Mustard,   Black Pepper, Fenugreek, Cumin and Curry Leaves),Gram Dhal, Toor Dhal and Rice",
+  "per_100g": {
+    "energy_kcal": 439.3,
+    "fat": 16.5,
+    "saturated_fat": 11,
+    "carbohydrates": 55.7,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 17,
+    "salt": 0.13875,
+    "sodium": 0.0555
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-23T15:34:07Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

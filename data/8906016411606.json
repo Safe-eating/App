@@ -1,0 +1,28 @@
+{
+  "barcode": "8906016411606",
+  "name": "Godrej Jersey Doodh Peda",
+  "brand": "Godrej Jersey",
+  "quantity": "200g",
+  "categories": [
+    "en:dairies",
+    "en:desserts",
+    "en:dairy-desserts"
+  ],
+  "ingredients": "Milk solids \u0026 Sugar",
+  "per_100g": {
+    "energy_kcal": 425.7,
+    "fat": 20.9,
+    "saturated_fat": 14.6,
+    "carbohydrates": 48.1,
+    "sugars": 48.1,
+    "fiber": 0,
+    "protein": 11.3,
+    "salt": 0.05975,
+    "sodium": 0.0239
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-30T08:13:15Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

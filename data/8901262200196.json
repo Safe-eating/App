@@ -1,0 +1,31 @@
+{
+  "barcode": "8901262200196",
+  "name": "Amul Masti Spiced Buttermilk 200ml",
+  "brand": "Amul",
+  "quantity": "200mL",
+  "categories": [
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:milks",
+    "en:buttermilks"
+  ],
+  "ingredients": "Milk solids, water, iodised salt, spices \u0026 condiments (1%), stabilizer [460(i)]. Allergen Information: Contains milk.",
+  "per_100g": {
+    "energy_kcal": 28.5,
+    "fat": 1.5,
+    "saturated_fat": 0.95,
+    "carbohydrates": 1.8,
+    "sugars": 1.8,
+    "fiber": null,
+    "protein": 1.5,
+    "salt": 0.625,
+    "sodium": 0.25
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-14T07:41:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

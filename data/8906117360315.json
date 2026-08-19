@@ -1,0 +1,24 @@
+{
+  "barcode": "8906117360315",
+  "name": "Low Fat Cow Milk",
+  "brand": "Country Delight",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 50,
+    "fat": 1.5,
+    "saturated_fat": 0.9,
+    "carbohydrates": 5.5,
+    "sugars": 5.5,
+    "fiber": null,
+    "protein": 3.6,
+    "salt": 0.1125,
+    "sodium": 0.045
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-18T03:01:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

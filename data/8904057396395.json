@@ -1,0 +1,30 @@
+{
+  "barcode": "8904057396395",
+  "name": "Paneer",
+  "brand": "Hatsun Agro Product Limited",
+  "quantity": "200 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer"
+  ],
+  "ingredients": "Milk Solids, Citric Acid",
+  "per_100g": {
+    "energy_kcal": 279,
+    "fat": 23,
+    "saturated_fat": 14,
+    "carbohydrates": 3,
+    "sugars": 3,
+    "fiber": null,
+    "protein": 15,
+    "salt": 0.2375,
+    "sodium": 0.095
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-31T13:13:08Z",
+  "fetched_at": "2026-08-19T01:29:20Z"
+}

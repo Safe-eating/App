@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719120732",
+  "name": "Krack Jack",
+  "brand": "Parle",
+  "quantity": "250g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:snacks",
+    "en:Sweet\u0026saltycrackers"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), REFINED OILS (PALMOLEIN AND PALM), SUGAR (19.1%), RAISING AGENTS [503( ii ), 500(ii) ,341(1), INVERT SUGAR SYRUP, IODISED SALT(0.9%), YEAST, ACIDITY REGULATORS [ 270, 296 1, FLOUR TREATMENT AGENTS [223, 1101(ii), 1100(1)1, EMULSIFIER OF VEGETABLE ORIGIN [472e]",
+  "per_100g": {
+    "energy_kcal": 489,
+    "fat": 19.9,
+    "saturated_fat": 9.4,
+    "carbohydrates": 70.5,
+    "sugars": 19.6,
+    "fiber": null,
+    "protein": 6.8,
+    "salt": 0.9275,
+    "sodium": 0.371
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-05-13T14:13:43Z",
+  "fetched_at": "2026-08-19T01:00:16Z"
+}

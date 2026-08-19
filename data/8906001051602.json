@@ -1,0 +1,26 @@
+{
+  "barcode": "8906001051602",
+  "name": "mother's",
+  "brand": "Mother's Recipe",
+  "quantity": "70",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Potato (67%), Tapioca (Sago), Rock Salt, Red Chilli Powder, Cumin and Sunflower Oil.",
+  "per_100g": {
+    "energy_kcal": 172,
+    "fat": 0.4,
+    "saturated_fat": 0.1,
+    "carbohydrates": 40.5,
+    "sugars": 1.5,
+    "fiber": null,
+    "protein": 1.5,
+    "salt": 1.75,
+    "sodium": 0.7
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-17T09:43:48Z",
+  "fetched_at": "2026-08-19T01:48:41Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "0035988971028",
+  "name": "Amul Cool KoKo",
+  "brand": "Amul",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:dairies",
+    "en:plant-based-beverages",
+    "en:dairy-drinks",
+    "en:fruit-based-beverages",
+    "en:fruit-and-milk-beverages"
+  ],
+  "ingredients": "Double toned milk, sugar, cocoa solids (6.5%), nature identical and artificial flavouring substances (cocoa, vanilla)",
+  "per_100g": {
+    "energy_kcal": 181,
+    "fat": 5.9,
+    "saturated_fat": 3.9,
+    "carbohydrates": 26,
+    "sugars": 25.2,
+    "fiber": null,
+    "protein": 6,
+    "salt": 0.18,
+    "sodium": 0.072
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-29T16:44:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8901512540409",
+  "name": "chilli surprise",
+  "brand": "ACT II",
+  "quantity": "35",
+  "categories": [
+    "en:snacks",
+    "en:popcorn"
+  ],
+  "ingredients": "Popping Corn (66.7%), Refined Edible Palmolein Oil (TBHQ), lodized Salt, Spices \u0026 Condiments (Chilli Powder (0.1%), Pepper Black Powder, Cumin Powder, Fennel Powder, Ginger Powder), Sugar, Dehydrated Vegetables (Onion Powder Garlic Powder), Stabilizer (Hydrolyzed Vegetable Protein), Maltodextrin, Soya Sauce Powder, Acidity Regulator (Cric Acid), Anticaking Agent (Silicon Dioxide), Flavour Enhancers (Disodium Guanylate, Disodium Inosinate), Refined Edible Sunflower Oil, Natural Flavour (Pepper) \u0026 Nature Identical Ravour (Onion). Contains Soy and its products.",
+  "per_100g": {
+    "energy_kcal": 506,
+    "fat": 30,
+    "saturated_fat": 16,
+    "carbohydrates": 59,
+    "sugars": 0,
+    "fiber": 12,
+    "protein": 6,
+    "salt": 1.5,
+    "sodium": 0.6
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-10T16:01:31Z",
+  "fetched_at": "2026-08-19T00:54:32Z"
+}

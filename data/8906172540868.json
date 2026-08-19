@@ -1,0 +1,31 @@
+{
+  "barcode": "8906172540868",
+  "name": "Hazelnut Mudslide Cone",
+  "brand": "Hocco",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-cones"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 256,
+    "fat": 16.4444444444444,
+    "saturated_fat": 9.11111111111111,
+    "carbohydrates": 23.4074074074074,
+    "sugars": 18.0740740740741,
+    "fiber": null,
+    "protein": 3.33333333333333,
+    "salt": 0.0701851851851852,
+    "sodium": 0.0280740740740741
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-04T13:30:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

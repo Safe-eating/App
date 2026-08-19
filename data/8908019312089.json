@@ -1,0 +1,26 @@
+{
+  "barcode": "8908019312089",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:Cup cake"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 371,
+    "fat": 12.47,
+    "saturated_fat": 5.34,
+    "carbohydrates": 1,
+    "sugars": 22.56,
+    "fiber": null,
+    "protein": 6.85,
+    "salt": 1022.5,
+    "sodium": 409
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-30T14:51:04Z",
+  "fetched_at": "2026-08-19T13:19:27Z"
+}

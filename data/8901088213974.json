@@ -1,0 +1,31 @@
+{
+  "barcode": "8901088213974",
+  "name": "Creamy Oats",
+  "brand": "Saffola Oats",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 370,
+    "fat": 8,
+    "saturated_fat": 1.5,
+    "carbohydrates": 66.75,
+    "sugars": 0.5,
+    "fiber": 10.5,
+    "protein": 12.5,
+    "salt": 0.0125,
+    "sodium": 0.005
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-29T10:03:25Z",
+  "fetched_at": "2026-08-19T00:36:47Z"
+}

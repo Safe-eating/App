@@ -1,0 +1,35 @@
+{
+  "barcode": "8901088072236",
+  "name": "Saffola Soya Chunks",
+  "brand": "Saffola",
+  "quantity": "200 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:meat-alternatives",
+    "en:breaded-products",
+    "en:flakes",
+    "en:meat-analogues",
+    "en:rolled-flakes",
+    "en:vegetarian-nuggets",
+    "en:meat-analogues-from-soy-or-wheat-proteins",
+    "en:nuggets-from-soy-and-wheat-proteins"
+  ],
+  "ingredients": "Defatted Soya",
+  "per_100g": {
+    "energy_kcal": 312,
+    "fat": 1,
+    "saturated_fat": 0.3,
+    "carbohydrates": 30.2,
+    "sugars": 2.9,
+    "fiber": 15.5,
+    "protein": 53,
+    "salt": 1.10275,
+    "sodium": 0.4411
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-06T14:46:57Z",
+  "fetched_at": "2026-08-19T00:35:55Z"
+}

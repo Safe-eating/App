@@ -1,0 +1,24 @@
+{
+  "barcode": "8906131681847",
+  "name": "Penne Protein Pasta",
+  "brand": "Mille",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 370.6,
+    "fat": 4.3,
+    "saturated_fat": 0.6,
+    "carbohydrates": 61.1,
+    "sugars": 6,
+    "fiber": 9.1,
+    "protein": 21.7,
+    "salt": 0.3005,
+    "sodium": 0.1202
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-07T09:23:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

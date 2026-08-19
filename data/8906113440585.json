@@ -1,0 +1,33 @@
+{
+  "barcode": "8906113440585",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 578,
+    "fat": 40.8,
+    "saturated_fat": 7.1,
+    "carbohydrates": 23.6,
+    "sugars": 11.8,
+    "fiber": 3.5,
+    "protein": 30.6,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-01T10:24:31Z",
+  "fetched_at": "2026-08-19T12:51:58Z"
+}

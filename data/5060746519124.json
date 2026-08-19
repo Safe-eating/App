@@ -1,0 +1,24 @@
+{
+  "barcode": "5060746519124",
+  "name": "Impact Whey Protein, Caramel Brownie",
+  "brand": "Myprotein",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 367,
+    "fat": 6.56,
+    "saturated_fat": 4.03,
+    "carbohydrates": 10.03,
+    "sugars": 4.35,
+    "fiber": null,
+    "protein": 64.39,
+    "salt": 0.77,
+    "sodium": 0.308
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-22T09:38:49Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

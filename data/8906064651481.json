@@ -1,0 +1,27 @@
+{
+  "barcode": "8906064651481",
+  "name": "Cheesy Jalapeno Sauce",
+  "brand": "Wingreens Farms",
+  "quantity": "180g",
+  "categories": [
+    "en:condiments",
+    "en:sauces"
+  ],
+  "ingredients": "Refined Sunflower Oil (48%), Water, Sugar, Cheese Powder (3%), Liquid Glucose, Jalapeno (2%), Milk Solids, iodized Salt, Chilli Paste (1%), Thickeners (INS 1442 \u0026 INS 415), Acidity Regulators (INS 260 \u0026 INS 330), Yeast Powder, Mixed Spices, Preservatives (INS 200 \u0026 INS 211), Antioxidant (INS 386), Nature-Identical Flavouring Substances.",
+  "per_100g": {
+    "energy_kcal": 473.8,
+    "fat": 48.5,
+    "saturated_fat": 8.2,
+    "carbohydrates": 8.1,
+    "sugars": 6.4,
+    "fiber": null,
+    "protein": 1.1,
+    "salt": 2.2725,
+    "sodium": 0.909
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-03T12:27:16Z",
+  "fetched_at": "2026-08-19T12:39:25Z"
+}

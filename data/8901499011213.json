@@ -1,0 +1,32 @@
+{
+  "barcode": "8901499011213",
+  "name": "OATS",
+  "brand": "Kellogg's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "Rolled Oats (100%)",
+  "per_100g": {
+    "energy_kcal": 377.5,
+    "fat": 9,
+    "saturated_fat": 1.75,
+    "carbohydrates": 67.75,
+    "sugars": 1.25,
+    "fiber": 10,
+    "protein": 11.5,
+    "salt": 0.0175,
+    "sodium": 0.007
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-22T16:15:09Z",
+  "fetched_at": "2026-08-19T00:53:29Z"
+}

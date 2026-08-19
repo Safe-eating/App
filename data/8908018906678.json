@@ -1,0 +1,26 @@
+{
+  "barcode": "8908018906678",
+  "name": "Millet Coconut Bites",
+  "brand": "Troo Good",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 404,
+    "fat": 9.6,
+    "saturated_fat": 8.49,
+    "carbohydrates": 76.5,
+    "sugars": 16.1,
+    "fiber": 3.74,
+    "protein": 2.84,
+    "salt": 0.201,
+    "sodium": 0.0804
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-24T05:43:51Z",
+  "fetched_at": "2026-08-19T13:18:57Z"
+}

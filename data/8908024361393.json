@@ -1,0 +1,28 @@
+{
+  "barcode": "8908024361393",
+  "name": "High Protein Milk",
+  "brand": "Provilac",
+  "quantity": "250ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 64,
+    "fat": 0.16,
+    "saturated_fat": 0.08,
+    "carbohydrates": 5.2,
+    "sugars": 5.2,
+    "fiber": null,
+    "protein": 10.4,
+    "salt": 0.075,
+    "sodium": 0.03
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-20T02:04:14Z",
+  "fetched_at": "2026-08-19T13:22:26Z"
+}

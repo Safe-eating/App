@@ -1,0 +1,31 @@
+{
+  "barcode": "8906075800915",
+  "name": "Fruit biscuits",
+  "brand": "Sangam",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:fruit-biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour, Sugar, Edible Vegetable Oil, Raising Agents, Milk Solids, Glucose Liquid, Cashews, Papaya Cubes, Cherries.",
+  "per_100g": {
+    "energy_kcal": 450,
+    "fat": 25,
+    "saturated_fat": 11,
+    "carbohydrates": 52,
+    "sugars": 19,
+    "fiber": 5,
+    "protein": 6,
+    "salt": 0.0125,
+    "sodium": 0.005
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-02T00:49:58Z",
+  "fetched_at": "2026-08-19T12:43:12Z"
+}

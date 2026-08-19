@@ -1,0 +1,30 @@
+{
+  "barcode": "4906400744024",
+  "name": "Kulfi",
+  "brand": "The Brooklyn Creamery",
+  "quantity": "100 ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Water, Milk Solids, Sweetener (Maltitol), Fructose Oligo Saccharide, Caramel Confectionery, Water, Sweetener (Maltitol), Milk Solids, Fructose Oligo Saccharide, Stabilizers (440), Acidity Regulators (331,500), Pistachio, Cardamom Powder, Stabilizers (410, 412), Emulsifiers (471, 477), CONTAINS PERMITTED NATURAL FOOD COLORS [160(b), 150(c)] AND ADDED ARTIFICIAL FLAVORING SUBSTANCES (KULFI, CONDENSED MILK, ROSE).",
+  "per_100g": {
+    "energy_kcal": 75,
+    "fat": 3.2,
+    "saturated_fat": 1.6,
+    "carbohydrates": 14.9,
+    "sugars": 3.1,
+    "fiber": 2.8,
+    "protein": 2.5,
+    "salt": 0.07925,
+    "sodium": 0.0317
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-02T13:58:11Z",
+  "fetched_at": "2026-08-19T00:04:56Z"
+}

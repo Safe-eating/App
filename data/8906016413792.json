@@ -1,0 +1,30 @@
+{
+  "barcode": "8906016413792",
+  "name": "Badam Flavoured Milk",
+  "brand": "Godrej Jersey",
+  "quantity": "185 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks"
+  ],
+  "ingredients": "Double Toned Milk, Sugar, Natural and Synthetic Food colours (INS 150a, INS 102), Flavour (Badam), Vitamin A (Retinyl palmitate), Vitamin D2 (Ergocalciferol)",
+  "per_100g": {
+    "energy_kcal": 82.7,
+    "fat": 1.5,
+    "saturated_fat": 1.1,
+    "carbohydrates": 13.9,
+    "sugars": 13.9,
+    "fiber": null,
+    "protein": 3.4,
+    "salt": 0.12075,
+    "sodium": 0.0483
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-25T06:25:31Z",
+  "fetched_at": "2026-08-19T02:04:47Z"
+}

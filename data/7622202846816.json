@@ -1,0 +1,31 @@
+{
+  "barcode": "7622202846816",
+  "name": "Cadbury Fuse",
+  "brand": "Cadbury",
+  "quantity": "43g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:chocolate-bar-with-dried-fruits"
+  ],
+  "ingredients": "Centre Filling 72% Peanuts (25%), Sugar, Interesterified Vegetable Fat, Liquid Glucose, Milk Solids, Hydrogenated Vegetable Oil, Cocoa Solids, Invert Sugar, Humectant (422), lodised Salt, Emulsifiers (322,471), Flavours (Nature Identical and Artificial (Vanilla) Flavouring Substances); Milk Chocolate 28% Sugar, Cocoa Butter, Milk Solids (4%*), Lactose, Cocoa Solids, Fractionated Fat, Emulsifiers (442, 476), Flavours (Natural, Nature Identical and Artificial (Vanilla and Caramel) Flavouring Substances)",
+  "per_100g": {
+    "energy_kcal": 549,
+    "fat": 34.6,
+    "saturated_fat": 18.4,
+    "carbohydrates": 51.6,
+    "sugars": 39.9,
+    "fiber": null,
+    "protein": 9.5,
+    "salt": 0.55,
+    "sodium": 0.22
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-03T04:30:09Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

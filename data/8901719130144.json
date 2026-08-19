@@ -1,0 +1,34 @@
+{
+  "barcode": "8901719130144",
+  "name": "Parle Hide \u0026 Seek Cookies",
+  "brand": "Parle Biscuits PVT Ltd",
+  "quantity": "412.5g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:confectioneries",
+    "en:biscuits",
+    "en:candies",
+    "en:chocolate-biscuits",
+    "en:Choco chips"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, CHOCO CHIPS (17.3%) ISUGAR, EDIBLE VEGETABLE FAT (HYDROGENATED OILS), COCOA SOLIDS, DEXTROSE, EMULSIFIER (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA)], REFINED PALM OIL, CHOCOLATE (5.8%) ISUGAR, COCOA SOLIDS, COCOA BUTTER, DEXTROSE, EMULSIFIER (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA], INVERT SUGAR SYRUP, RAISING AGENTS (508(1), 500], COCOA SOLIDS, IODISED SALT, ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES AND EMULSIFIER OF VEGETABLE ORIGIN (472e]. CONTAINS: WHEAT, SOY",
+  "per_100g": {
+    "energy_kcal": 474,
+    "fat": 17,
+    "saturated_fat": 11.4,
+    "carbohydrates": 74.2,
+    "sugars": 32.6,
+    "fiber": null,
+    "protein": 5.8,
+    "salt": 0.3,
+    "sodium": 0.12
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-19T10:15:05Z",
+  "fetched_at": "2026-08-19T01:01:50Z"
+}

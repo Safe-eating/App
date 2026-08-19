@@ -1,0 +1,26 @@
+{
+  "barcode": "8906131682059",
+  "name": "sorghum puff",
+  "brand": "slurrp farm",
+  "quantity": "20g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Ingredients Puff (90%) (millets (38%) (jowar, foxtail millet), corn (21%), rice (15%), rice bran oil (16%), antioxidant (rosemary) [INS 392]), seasoning (10%) (amchur, cumin, dried pomegranate seeds, garam masala, black pepper, chilli, desi khand, iodised salt, fructose, black salt, acidity regulator (citric acid) (INS 330), natural colors). Allergen Note: Made in a facility that processes wheat. May contain trace elements. Salety Advice: When feeding a child, please ensure they are sitting down and are supervised to reduce the risk of choking.",
+  "per_100g": {
+    "energy_kcal": 440.8,
+    "fat": 18.3,
+    "saturated_fat": 3.5,
+    "carbohydrates": 63.4,
+    "sugars": 6.9,
+    "fiber": 3.9,
+    "protein": 5.9,
+    "salt": 1.92625,
+    "sodium": 0.7705
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-26T12:39:49Z",
+  "fetched_at": "2026-08-19T12:56:35Z"
+}

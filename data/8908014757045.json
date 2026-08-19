@@ -1,0 +1,31 @@
+{
+  "barcode": "8908014757045",
+  "name": "Mumbai Bhaji",
+  "brand": "Hocco",
+  "quantity": "300g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:meals",
+    "en:prepared-vegetables",
+    "en:cooked-vegetables",
+    "en:microwave-meals"
+  ],
+  "ingredients": "Potato (28%), Tomato (28%), Water, Capsicum, Cotton Seed Oil, Clarified Butter, Onion, Green Peas, Coriander, Red Chilli, Salt, Garlic, Cabbage, Cumin, Seasoning, (White Pepper, Coriander, Kashmiri Chilli Powder, Cinnamon, Clove, Turmeric), Black Pepper",
+  "per_100g": {
+    "energy_kcal": 148,
+    "fat": 8,
+    "saturated_fat": 6,
+    "carbohydrates": 17,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 2,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-02T19:33:53Z",
+  "fetched_at": "2026-08-19T13:15:50Z"
+}

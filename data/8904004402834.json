@@ -1,0 +1,26 @@
+{
+  "barcode": "8904004402834",
+  "name": "Panchathanthra mix",
+  "brand": "Haldiram's",
+  "quantity": "",
+  "categories": [
+    "en:b"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 142.208413001912,
+    "fat": 10.52,
+    "saturated_fat": 2.69,
+    "carbohydrates": 10.52,
+    "sugars": 2.06,
+    "fiber": null,
+    "protein": 1.32,
+    "salt": 0.24,
+    "sodium": 0.096
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-07T11:32:57Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

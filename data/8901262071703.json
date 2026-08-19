@@ -1,0 +1,33 @@
+{
+  "barcode": "8901262071703",
+  "name": "Twilight Tryst Single Origin Dark Chocolate",
+  "brand": "Amul",
+  "quantity": "125",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:dark-chocolate-bar"
+  ],
+  "ingredients": "Cocoa solids, sugar, cocoa butter, emulsifiers (322, 476), artificial flavouring substances (cocoa, vanilla).",
+  "per_100g": {
+    "energy_kcal": 554,
+    "fat": 34,
+    "saturated_fat": 20.8,
+    "carbohydrates": 55.8,
+    "sugars": 44.2,
+    "fiber": null,
+    "protein": 6.2,
+    "salt": 0.0125,
+    "sodium": 0.005
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-21T11:21:53Z",
+  "fetched_at": "2026-08-19T00:42:38Z"
+}

@@ -1,0 +1,37 @@
+{
+  "barcode": "8906143890107",
+  "name": "dark chocolate peanut butter",
+  "brand": "The Whole Truth",
+  "quantity": "325 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:sweet-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "fr:pates-a-tartiner",
+    "en:chocolate-spreads"
+  ],
+  "ingredients": "Peanuts, Dates, Cocoa",
+  "per_100g": {
+    "energy_kcal": 590.285714285714,
+    "fat": 39.1428571428571,
+    "saturated_fat": 5.71428571428571,
+    "carbohydrates": 42,
+    "sugars": 14,
+    "fiber": 10,
+    "protein": 17.7142857142857,
+    "salt": 0.26,
+    "sodium": 0.104
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-03T05:18:10Z",
+  "fetched_at": "2026-08-19T12:59:05Z"
+}

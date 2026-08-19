@@ -1,0 +1,30 @@
+{
+  "barcode": "8901648019725",
+  "name": "Ghee",
+  "brand": "Mother Dairy",
+  "quantity": "200ml",
+  "categories": [
+    "en:fats",
+    "en:animal-fats",
+    "en:butter-fat",
+    "en:clarified-butter",
+    "en:ghee"
+  ],
+  "ingredients": "Milk Fat",
+  "per_100g": {
+    "energy_kcal": 897,
+    "fat": 99.7,
+    "saturated_fat": 70,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-20T03:03:48Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

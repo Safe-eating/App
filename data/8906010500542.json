@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010500542",
+  "name": "Balaji Wafers Sev Murmura",
+  "brand": "Balaji Wafers",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "PUFFED RICE (50%), CHICKPEA FLOUR (24%), EDIBLE VEGETABLE OI (PALMOLEIN, RICE BRAN, CORN), RICE FLOUR, EDIBLE COMMON SALT, SPICES \u0026 CONDIMENTS (TURMERIC, CHILLI, CLOVE, GINGER, ASAFOETIDA CURRY LEAVES), REFINED WHEAT FLOUR (MAIDA), GUM ACACIA",
+  "per_100g": {
+    "energy_kcal": 507,
+    "fat": 23.4,
+    "saturated_fat": 11,
+    "carbohydrates": 60.6,
+    "sugars": 9,
+    "fiber": 5,
+    "protein": 10.9,
+    "salt": 2.0225,
+    "sodium": 0.809
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-08T11:04:02Z",
+  "fetched_at": "2026-08-19T02:00:45Z"
+}

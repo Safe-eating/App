@@ -1,0 +1,30 @@
+{
+  "barcode": "8906004563539",
+  "name": "Pipes - Salted Crunch",
+  "brand": "Yellow Diamond",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 513.82,
+    "fat": 26.66,
+    "saturated_fat": 12.97,
+    "carbohydrates": 60.99,
+    "sugars": 2.4,
+    "fiber": null,
+    "protein": 7.48,
+    "salt": 3.8946,
+    "sodium": 1.55784
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-09T12:23:11Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

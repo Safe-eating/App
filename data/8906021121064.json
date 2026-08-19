@@ -1,0 +1,31 @@
+{
+  "barcode": "8906021121064",
+  "name": "Mixed Masala Powder",
+  "brand": "Aachi",
+  "quantity": "50g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:spices",
+    "en:spice-mix"
+  ],
+  "ingredients": "Spice Content - 76% (Red Chilli Powder, Coriander, Cumin, Garlic Flakes, Mustard, Fenugreek, Black Pepper, Tamarind Powder, Turmeric Powder, Curry Leaves) Rice and Salt-7%.",
+  "per_100g": {
+    "energy_kcal": 382.9,
+    "fat": 9.7,
+    "saturated_fat": 2.2,
+    "carbohydrates": 62,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 11.9,
+    "salt": 6.055,
+    "sodium": 2.422
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T13:58:40Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

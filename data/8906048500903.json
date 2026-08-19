@@ -1,0 +1,26 @@
+{
+  "barcode": "8906048500903",
+  "name": "protinex mama",
+  "brand": "Danone, protinex",
+  "quantity": "250 g",
+  "categories": [
+    "en:dietary-supplements"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 360,
+    "fat": 1.5,
+    "saturated_fat": 0.3,
+    "carbohydrates": 57,
+    "sugars": 30.5,
+    "fiber": null,
+    "protein": 32,
+    "salt": 420,
+    "sodium": 168
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-23T04:02:33Z",
+  "fetched_at": "2026-08-19T12:37:27Z"
+}

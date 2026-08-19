@@ -1,0 +1,35 @@
+{
+  "barcode": "8906008350470",
+  "name": "Oats",
+  "brand": "Manna",
+  "quantity": "500 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 382,
+    "fat": 10,
+    "saturated_fat": 2,
+    "carbohydrates": 67,
+    "sugars": 1.5,
+    "fiber": 10,
+    "protein": 11,
+    "salt": 15,
+    "sodium": 6
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-12T07:37:17Z",
+  "fetched_at": "2026-08-19T01:55:25Z"
+}

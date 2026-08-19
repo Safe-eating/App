@@ -1,0 +1,30 @@
+{
+  "barcode": "3258831003982",
+  "name": "Dijon Mustard",
+  "brand": "Delouis, Delouis Fils",
+  "quantity": "200g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:mustards",
+    "en:dijon-mustards",
+    "en:Groceries"
+  ],
+  "ingredients": "Mustard seeds (32%), vinegar (31%), water (31%), salt (6%).",
+  "per_100g": {
+    "energy_kcal": 198,
+    "fat": 16,
+    "saturated_fat": 1,
+    "carbohydrates": 2,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 8,
+    "salt": 6.096,
+    "sodium": 2.4384
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2022-04-01T16:02:55Z",
+  "fetched_at": "2026-08-19T00:03:58Z"
+}

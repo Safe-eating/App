@@ -1,0 +1,26 @@
+{
+  "barcode": "8906162071310",
+  "name": "Khara / Chekkalu",
+  "brand": "Almond House",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Rice Flour, Ginger Refined Groundnut Oil, Clarified Butter Sesame Seed, Tapioca, Roasted Gram, Onion",
+  "per_100g": {
+    "energy_kcal": 349.206349206349,
+    "fat": 15.5555555555556,
+    "saturated_fat": 5.55555555555556,
+    "carbohydrates": 47.6190476190476,
+    "sugars": 0,
+    "fiber": 3.49206349206349,
+    "protein": 4.28571428571429,
+    "salt": 0.527777777777778,
+    "sodium": 0.211111111111111
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-15T07:49:09Z",
+  "fetched_at": "2026-08-19T13:01:20Z"
+}

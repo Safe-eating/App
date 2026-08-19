@@ -1,0 +1,26 @@
+{
+  "barcode": "8906005502513",
+  "name": "Chatpata matar",
+  "brand": "Bikaji",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Dehydrated Green Peas (75%), Vegetable Oil (Palmolein Oil Cottonseed Oil), lodised Salt, Ground Spices (Red Chilli, Black Pepper, Clove, Dry Mango, Black Salt, Cumin, Acidity Regulator (INS 330), Coriander, Mint, Bay Leaves, Yellow Chilli, Dried Ginger, Asafoetida, Nutmeg, Mace, Fenugreek, Cardamom)",
+  "per_100g": {
+    "energy_kcal": 470,
+    "fat": 20,
+    "saturated_fat": 5,
+    "carbohydrates": 60,
+    "sugars": 35,
+    "fiber": 5,
+    "protein": 20,
+    "salt": 1.0375,
+    "sodium": 0.415
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-14T19:39:15Z",
+  "fetched_at": "2026-08-19T01:51:19Z"
+}

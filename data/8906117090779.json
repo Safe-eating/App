@@ -1,0 +1,24 @@
+{
+  "barcode": "8906117090779",
+  "name": "Rice Popped Chips",
+  "brand": "BRB",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 438.8,
+    "fat": 14,
+    "saturated_fat": 3.2,
+    "carbohydrates": 68.4,
+    "sugars": 2.4,
+    "fiber": 4,
+    "protein": 10,
+    "salt": 2.492,
+    "sodium": 0.9968
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-30T11:56:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

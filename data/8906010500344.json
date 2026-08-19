@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010500344",
+  "name": "Aloo Sev",
+  "brand": "Balaji",
+  "quantity": "48g",
+  "categories": [
+    "en:Food"
+  ],
+  "ingredients": "EDIBLE VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWINGS: PALMOLEIN, RICE BRAN, CORN, COTTONSEED), CHICKPEA FLOUR, POTATO FLAKES (21%), **SEASONING MALTODEXTRIN, EDIBLE COMMON SALT, SPICES \u0026 CONDIMENTS (DRY MANGO, CUMIN, FENNEL, CHILLI, CORIANDER, CLOVE, TURMERIC, PEPPER, CARDAMOM, GINGER), DEHYDRATED VEGETABLE POWDER (MINT 0.2%, GARLIC, TAMARIND), FLAVOUR (NATURAL\u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES), ACIDITY REGULATOR (INS 330, INS 296), FLAVOUR ENHANCER (INS 635), ANTICAKING AGENT (INS 551, INS 341 (1), RICE FLOUR, AS FLAVOURING \u0026 SEASONING AGENT NAMKEEN READY-TO-EAT SAVOURIES | PROPRIETARY FOOD INDIAN SNACKS \u0026 SAVOURIES PRODUCT OF INDIA",
+  "per_100g": {
+    "energy_kcal": 594,
+    "fat": 39.9,
+    "saturated_fat": 20.8,
+    "carbohydrates": 45.7,
+    "sugars": 0.9,
+    "fiber": 8.5,
+    "protein": 8.8,
+    "salt": 0.9045,
+    "sodium": 0.3618
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-15T05:43:41Z",
+  "fetched_at": "2026-08-19T02:00:39Z"
+}

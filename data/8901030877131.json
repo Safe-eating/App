@@ -1,0 +1,31 @@
+{
+  "barcode": "8901030877131",
+  "name": "Real Mayonnaise",
+  "brand": "Hellmann's",
+  "quantity": "85 g",
+  "categories": [
+    "en:snacks",
+    "en:condiments",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:sauces",
+    "en:mayonnaises"
+  ],
+  "ingredients": "Refined Soybean Oil (Fortified with Vitamin A \u0026 D), Water, Sugar, Thickeners-E 1442, E 1450, Natural Vinegar, iodised Salt, Spices \u0026 Condiments, Lemon Juice Concentrate, Preservative-E 202, Nature Identical and Natural Flavouring Substances, Sequestrant-E 385.",
+  "per_100g": {
+    "energy_kcal": 500,
+    "fat": 52.6,
+    "saturated_fat": 8.4,
+    "carbohydrates": 6.6,
+    "sugars": 4,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 1.80375,
+    "sodium": 0.7215
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-25T08:02:04Z",
+  "fetched_at": "2026-08-19T00:20:20Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8901719135330",
+  "name": "Monaco Cheeslings",
+  "brand": "",
+  "quantity": "150 g",
+  "categories": [
+    "en:Biscuit with cheese"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 492,
+    "fat": 20.7,
+    "saturated_fat": 9.6,
+    "carbohydrates": 67.7,
+    "sugars": 7.8,
+    "fiber": null,
+    "protein": 8.8,
+    "salt": 2.935,
+    "sodium": 1.174
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T09:39:59Z",
+  "fetched_at": "2026-08-19T01:02:23Z"
+}

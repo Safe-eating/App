@@ -1,0 +1,31 @@
+{
+  "barcode": "8901719130014",
+  "name": "Happy happy biscuit - Parle - Parle",
+  "brand": "Parle",
+  "quantity": "63gr",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Happy happy"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 489,
+    "fat": 20.1,
+    "saturated_fat": 10.6,
+    "carbohydrates": 71.5,
+    "sugars": 31,
+    "fiber": 0,
+    "protein": 5.5,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-27T14:58:36Z",
+  "fetched_at": "2026-08-19T01:01:49Z"
+}

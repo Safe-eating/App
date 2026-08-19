@@ -1,0 +1,36 @@
+{
+  "barcode": "8904272600017",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:coconuts-and-their-products",
+    "en:coconut-waters"
+  ],
+  "ingredients": "Water and Coconut Water Concentrate (9.6%) (Equivalent to 100% Coconut water)(Reconstituted) CONTAINS PERMITTED CLASS II PRESERVATIVES (INS202)",
+  "per_100g": {
+    "energy_kcal": 20,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 4.9,
+    "sugars": 4.9,
+    "fiber": null,
+    "protein": 0.1,
+    "salt": 0.0525,
+    "sodium": 0.021
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-01T15:41:48Z",
+  "fetched_at": "2026-08-19T01:39:49Z"
+}

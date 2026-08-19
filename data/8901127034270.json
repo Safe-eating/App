@@ -1,0 +1,29 @@
+{
+  "barcode": "8901127034270",
+  "name": "Prohance - HP Vanilla Flavour",
+  "brand": "Prohance",
+  "quantity": "400 g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders"
+  ],
+  "ingredients": "Whey protein concentrate, Skimmed milk powder, Maltodextrin, Medium chain triglycerides, Inulin, Fructo-oligosaccharides, Minerals, Nature-identical flavouring substance, Choline bitartrate, Emulsifiers (Soya lecithin, 472e), Sodium caseinate, Vitamins, Artificial sweetener (Sucralose), Antioxidant (Ascorbyl Palmitate).",
+  "per_100g": {
+    "energy_kcal": 370.4,
+    "fat": 7,
+    "saturated_fat": 6.5,
+    "carbohydrates": 28.8,
+    "sugars": 20,
+    "fiber": 6.1,
+    "protein": 45,
+    "salt": 0.375,
+    "sodium": 0.15
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-08T09:51:39Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

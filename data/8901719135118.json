@@ -1,0 +1,33 @@
+{
+  "barcode": "8901719135118",
+  "name": "MONACO",
+  "brand": "Parle",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:sweet-snacks",
+    "en:appetizers",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Monaco-biscuit"
+  ],
+  "ingredients": "Biscuit",
+  "per_100g": {
+    "energy_kcal": 492,
+    "fat": 20.9,
+    "saturated_fat": 9.7,
+    "carbohydrates": 68,
+    "sugars": 8.4,
+    "fiber": 0,
+    "protein": 7.9,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T09:39:35Z",
+  "fetched_at": "2026-08-19T01:02:22Z"
+}

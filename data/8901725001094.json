@@ -1,0 +1,34 @@
+{
+  "barcode": "8901725001094",
+  "name": "Bansi Rava",
+  "brand": "Aashirvaad",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:wheats",
+    "en:durum-wheats",
+    "en:Granulated wheat"
+  ],
+  "ingredients": "Durum Wheat",
+  "per_100g": {
+    "energy_kcal": 382,
+    "fat": 1.1,
+    "saturated_fat": 0.23,
+    "carbohydrates": 76,
+    "sugars": 1.7,
+    "fiber": null,
+    "protein": 11.1,
+    "salt": 0.00525,
+    "sodium": 0.0021
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-04T07:49:49Z",
+  "fetched_at": "2026-08-19T01:03:22Z"
+}

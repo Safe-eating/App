@@ -1,0 +1,26 @@
+{
+  "barcode": "8901123005397",
+  "name": "Lotte Choco Pie",
+  "brand": "Lotte",
+  "quantity": "168 g",
+  "categories": [
+    "en:pies"
+  ],
+  "ingredients": "CHOCO COVERING(25%) [SUGAR, HYDROGENATED VEGETABLE FAT (PALM), COCOA SOLIDS, MILK SOLIDS, EMULSIFIERS (322,476), ARTIFICIAL FLAVOUR (VANILLA)], REFINED LIQUID WHEAT FLOUR (MAIDA), SUGAR, GLUCOSE, INTERESTERIFIED \u0026 HYDROGENATED VEGETABLE FAT (PALM), HUMECTANTS (420, 422), RAISING AGENTS [500(ii), 503(ii)], MILK SOLIDS, DEXTROSE, PRESERVATIVES (202, 281), IODISED SALT, STABILIZERS (407, 406, 440, 401, 461, 415), ACIDITY REGULATOR [341(i)] AND ARTIFICIAL FLAVOUR (MILK).",
+  "per_100g": {
+    "energy_kcal": 433,
+    "fat": 17,
+    "saturated_fat": 13,
+    "carbohydrates": 66,
+    "sugars": 37,
+    "fiber": null,
+    "protein": 4,
+    "salt": 0.4625,
+    "sodium": 0.185
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-02T16:19:17Z",
+  "fetched_at": "2026-08-19T00:37:21Z"
+}

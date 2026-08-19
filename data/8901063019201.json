@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063019201",
+  "name": "8901063019201",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 486,
+    "fat": 19.5,
+    "saturated_fat": 9.4,
+    "carbohydrates": 70,
+    "sugars": 24,
+    "fiber": null,
+    "protein": 7.4,
+    "salt": 0.7725,
+    "sodium": 0.309
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-20T18:36:56Z",
+  "fetched_at": "2026-08-19T00:29:10Z"
+}

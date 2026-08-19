@@ -1,0 +1,29 @@
+{
+  "barcode": "8901826305008",
+  "name": "Verka Ghee",
+  "brand": "",
+  "quantity": "500g",
+  "categories": [
+    "en:fats",
+    "en:animal-fats",
+    "en:butter-fat",
+    "en:clarified-butter"
+  ],
+  "ingredients": "Milk Fat",
+  "per_100g": {
+    "energy_kcal": 897,
+    "fat": 99.7,
+    "saturated_fat": 64.8,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-30T13:30:37Z",
+  "fetched_at": "2026-08-19T01:10:07Z"
+}

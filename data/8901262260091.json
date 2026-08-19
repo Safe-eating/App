@@ -1,0 +1,29 @@
+{
+  "barcode": "8901262260091",
+  "name": "Amul Taaza",
+  "brand": "Amul",
+  "quantity": "1L",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:whole-milks"
+  ],
+  "ingredients": "Pasteurized Homogenized Toned Milk",
+  "per_100g": {
+    "energy_kcal": 58,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 4.7,
+    "sugars": 4.7,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-15T13:30:28Z",
+  "fetched_at": "2026-08-19T00:46:40Z"
+}

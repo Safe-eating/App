@@ -1,0 +1,31 @@
+{
+  "barcode": "0793591862460",
+  "name": "Kerala Banana Chips",
+  "brand": "Beyond Snacks",
+  "quantity": "75g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:banana-crisps"
+  ],
+  "ingredients": "Raw Banana (72%) Refined vegetable oil (Palmolein), iodised Salt, Spices and Condiments (Chilli, Garlic, Onion, Tamarind), Sugar, Rice powder, Hydrolysed Vegetable protein, dehydrated herbs, Acidity regulator (E330), Anticaking agent (E551), Flavour Enhancers (E627, E631),Antioxidant (E319),natural colors,natural and natural identical flavoring substances, _soy_,_milk solids_,_Mustard_",
+  "per_100g": {
+    "energy_kcal": 518.65,
+    "fat": 27.49,
+    "saturated_fat": 12.71,
+    "carbohydrates": 60.97,
+    "sugars": 6.15,
+    "fiber": 6.88,
+    "protein": 6.84,
+    "salt": 0.34915,
+    "sodium": 0.13966
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-19T20:23:02Z",
+  "fetched_at": "2026-08-18T23:55:52Z"
+}

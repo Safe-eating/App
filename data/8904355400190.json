@@ -1,0 +1,28 @@
+{
+  "barcode": "8904355400190",
+  "name": "Omega-3 Fish Oil",
+  "brand": "Apollo",
+  "quantity": "",
+  "categories": [
+    "en:fats",
+    "en:animal-fats",
+    "en:fish-oils"
+  ],
+  "ingredients": "Fish Oil, Food Grade Gelatin Shell (Gelatin (INS 428), Humectant (INS 422), Stabilizer, Anti-Oxidant (INS 320), Preservatives (INS 217 \u0026 INS 219) and Purified Water",
+  "per_100g": {
+    "energy_kcal": 9.706,
+    "fat": 0.873,
+    "saturated_fat": 0.173,
+    "carbohydrates": 0.442,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0.019,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-01T00:04:39Z",
+  "fetched_at": "2026-08-19T01:45:05Z"
+}

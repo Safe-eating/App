@@ -1,0 +1,31 @@
+{
+  "barcode": "8906009809663",
+  "name": "Waffy orange flavour",
+  "brand": "Dukes",
+  "quantity": "1X (100g)",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers"
+  ],
+  "ingredients": "SUGAR, REFINED WHEAT FLOUR (MAIDA), MALTODEXTRIN, REFINED PALM OIL, HYDROGENATED OILS, EMULSIFIER [INS 322(i)], NATURE IDENTICAL \u0026 ARTIFICIAL FLAVOURING SUBSTANCES (ORANGE), ORANGE FRUIT POWDER (0.01%), IODIZED SALT, COLOUR (INS 110), RAISING AGENT [INS 500(ii)], FLOUR TREATMENT AGENTS (INS 223, INS 1100, INS 1101) AND ACIDITY REGULATOR (INS 296), _Wheat_, _Milk_, _Soy_, _Sulphites_, _Nuts_",
+  "per_100g": {
+    "energy_kcal": 516.2,
+    "fat": 25.1,
+    "saturated_fat": 12.8,
+    "carbohydrates": 69.5,
+    "sugars": 38.2,
+    "fiber": null,
+    "protein": 3.1,
+    "salt": 0.0736,
+    "sodium": 0.02944
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-22T09:03:48Z",
+  "fetched_at": "2026-08-19T01:59:03Z"
+}

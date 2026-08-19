@@ -1,0 +1,32 @@
+{
+  "barcode": "8540291180309",
+  "name": "Salted Pumpkins",
+  "brand": "Tong Garden",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:pumpkin-and-squash-plant-products",
+    "en:cucurbitacea-seeds",
+    "en:pumpkin-seeds-and-their-products",
+    "en:pumpkin-seeds"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 606.666666666667,
+    "fat": 46.6666666666667,
+    "saturated_fat": 8.33333333333333,
+    "carbohydrates": 10,
+    "sugars": 3.33333333333333,
+    "fiber": 3.33333333333333,
+    "protein": 36.6666666666667,
+    "salt": 0.583333333333333,
+    "sodium": 0.233333333333333
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-02T17:28:47Z",
+  "fetched_at": "2026-08-19T00:12:21Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8908013735365",
+  "name": "Instant China Grass (Vanilla Flavour)",
+  "brand": "FiveStar",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 395,
+    "fat": 0.35,
+    "saturated_fat": 0.15,
+    "carbohydrates": 95,
+    "sugars": 95,
+    "fiber": null,
+    "protein": 1.85,
+    "salt": 0.027125,
+    "sodium": 0.01085
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-19T10:29:58Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

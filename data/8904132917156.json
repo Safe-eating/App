@@ -1,0 +1,28 @@
+{
+  "barcode": "8904132917156",
+  "name": "Besan Ladoo",
+  "brand": "Snactac",
+  "quantity": "500 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries"
+  ],
+  "ingredients": "SUGAR (SUCROSE), CHICKPEA FLOUR (34.2%), REFINED PALMOLEIN OIL, SPLIT BENGAL GRAM (6.1%), GUM ACACIA, ALMOND (0.7%), CASHEW (0.7%), CUCUMBER SEEDS (0.7%).",
+  "per_100g": {
+    "energy_kcal": 484.2,
+    "fat": 24.6,
+    "saturated_fat": 10.8,
+    "carbohydrates": 57.3,
+    "sugars": 37.5,
+    "fiber": null,
+    "protein": 8.4,
+    "salt": 0.045,
+    "sodium": 0.018
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-01T07:11:10Z",
+  "fetched_at": "2026-08-19T01:36:11Z"
+}

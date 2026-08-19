@@ -1,0 +1,33 @@
+{
+  "barcode": "8901262010207",
+  "name": "Butter School Pack",
+  "brand": "Amul",
+  "quantity": "100 g",
+  "categories": [
+    "en:dairies",
+    "en:fats",
+    "en:spreads",
+    "en:spreadable-fats",
+    "en:animal-fats",
+    "en:dairy-spreads",
+    "en:milkfat",
+    "en:butters"
+  ],
+  "ingredients": "Butter, iodized salt, natural colour (annatto). Allergen Information: Contains milk.",
+  "per_100g": {
+    "energy_kcal": 724,
+    "fat": 80,
+    "saturated_fat": 48,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 1,
+    "salt": 2.3875,
+    "sodium": 0.955
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-19T15:54:11Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

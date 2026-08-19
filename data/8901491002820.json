@@ -1,0 +1,32 @@
+{
+  "barcode": "8901491002820",
+  "name": "Oats Muesli Fruit \u0026 Nut",
+  "brand": "Pepsico, Quaker",
+  "quantity": "160g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Multigrain (55%) (Rolled Oat 26%, Rice \u0026 Rice Flour 14%, Corn Grit \u0026 Flour 7%, Rolled Barley 5%, Wheat 3%, Refined Wheat Flour (Maida) 1.4%), Candied \u0026 Dry Fruit and Nut \u0026 Seed (22%) (Raisin 10%, Candied Papaya 5%, Almond 4%, Pumpkin Seed 3%), Sugar, Palmolein Oil, Maltodextrin, Invert Syrup, Stabiliser (1422, 170i, 322), Liquid Glucose, lodised Salt, Cereal Extract. Flavour (Natural and Nature Identical Flavouring Substances), Colour (150d), Antioxidant (307b).",
+  "per_100g": {
+    "energy_kcal": 434,
+    "fat": 12,
+    "saturated_fat": 3,
+    "carbohydrates": 74,
+    "sugars": 21,
+    "fiber": 6,
+    "protein": 8,
+    "salt": 0.59,
+    "sodium": 0.236
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-22T12:24:36Z",
+  "fetched_at": "2026-08-19T00:49:46Z"
+}

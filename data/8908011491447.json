@@ -1,0 +1,29 @@
+{
+  "barcode": "8908011491447",
+  "name": "Mini Nut \u0026 Seed Mix",
+  "brand": "ProV",
+  "quantity": "18 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts"
+  ],
+  "ingredients": "Almond Kernels (28%), Cashew Kernels (20%), Pistachio Kernels (20%), Pumpkin Seeds (16%) \u0026 Black Raisins (16%).",
+  "per_100g": {
+    "energy_kcal": 608.888888888889,
+    "fat": 48.3333333333333,
+    "saturated_fat": 21.1111111111111,
+    "carbohydrates": 22.2222222222222,
+    "sugars": 12.2222222222222,
+    "fiber": 9.44444444444444,
+    "protein": 18.3333333333333,
+    "salt": 1.5625,
+    "sodium": 0.625
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-26T12:08:12Z",
+  "fetched_at": "2026-08-19T13:13:41Z"
+}

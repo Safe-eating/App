@@ -1,0 +1,37 @@
+{
+  "barcode": "8906008813845",
+  "name": "Long Grain Rice",
+  "brand": "Charminar",
+  "quantity": "5kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:vegetables-based-foods",
+    "en:cereals-and-their-products",
+    "en:vegetables",
+    "en:cereal-grains",
+    "en:rices",
+    "en:vegetables-from-spain"
+  ],
+  "ingredients": "Rice",
+  "per_100g": {
+    "energy_kcal": 345,
+    "fat": 0.5,
+    "saturated_fat": 0.15,
+    "carbohydrates": 79,
+    "sugars": 0.1,
+    "fiber": null,
+    "protein": 6.5,
+    "salt": 7.5,
+    "sodium": 3
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-19T15:01:03Z",
+  "fetched_at": "2026-08-19T01:56:01Z"
+}

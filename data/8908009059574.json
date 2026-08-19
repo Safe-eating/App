@@ -1,0 +1,24 @@
+{
+  "barcode": "8908009059574",
+  "name": "Super Protein Bread",
+  "brand": "The Health Factory",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 266.303571428571,
+    "fat": 4.94642857142857,
+    "saturated_fat": 0.607142857142857,
+    "carbohydrates": 39.3928571428571,
+    "sugars": 1.67857142857143,
+    "fiber": 6.01785714285714,
+    "protein": 20.6071428571429,
+    "salt": 0.973883928571429,
+    "sodium": 0.389553571428571
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-14T16:05:51Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

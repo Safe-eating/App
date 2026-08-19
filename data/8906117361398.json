@@ -1,0 +1,33 @@
+{
+  "barcode": "8906117361398",
+  "name": "Curd",
+  "brand": "Country Delight",
+  "quantity": "400g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:curd"
+  ],
+  "ingredients": "Pasteurized Cow Milk \u0026 Active Lactic Culture",
+  "per_100g": {
+    "energy_kcal": 77,
+    "fat": 3.2,
+    "saturated_fat": 2.3,
+    "carbohydrates": 4.5,
+    "sugars": 4.5,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T06:58:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

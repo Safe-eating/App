@@ -1,0 +1,29 @@
+{
+  "barcode": "8906008591354",
+  "name": "Ganesh kesaria Thandai",
+  "brand": "Ganesh",
+  "quantity": "200 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages"
+  ],
+  "ingredients": "Sugar, Water, Thandai 10% (mixture of Almond, Poppy Seeds, Cucumber Seeds, White Pepper, Black Pepper, Cardamom), Rose Water, Citric Acid (330) \u0026 Saffron.",
+  "per_100g": {
+    "energy_kcal": 60.11,
+    "fat": 0.07,
+    "saturated_fat": 0,
+    "carbohydrates": 14.68,
+    "sugars": 14.35,
+    "fiber": null,
+    "protein": 0.19,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-06T18:40:08Z",
+  "fetched_at": "2026-08-19T01:55:29Z"
+}

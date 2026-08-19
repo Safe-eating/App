@@ -1,0 +1,27 @@
+{
+  "barcode": "8906021122627",
+  "name": "Aachi Sambhar Powder",
+  "brand": "Aachi",
+  "quantity": "100g",
+  "categories": [
+    "en:condiments",
+    "en:mixtures-of-herbs-and-spices"
+  ],
+  "ingredients": "Spice Content - 70% (Coriander, Red Chilli Powder, Black Pepper, Cumin, Turmeric Powder, Mustard, Fenugreek, Compounded Asafoetida, Dry Ginger, Curry Leaves), Toor Dhal, Gram Dhal, Rice and Salt - 5.5%.",
+  "per_100g": {
+    "energy_kcal": 405,
+    "fat": 13.4,
+    "saturated_fat": 1.4,
+    "carbohydrates": 56.6,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 14.7,
+    "salt": 5.3225,
+    "sodium": 2.129
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-23T08:14:07Z",
+  "fetched_at": "2026-08-19T02:08:32Z"
+}

@@ -1,0 +1,37 @@
+{
+  "barcode": "8901491103442",
+  "name": "Kurkure Naughty Tomato",
+  "brand": "PepsiCo",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:flavoured-potato-crisps"
+  ],
+  "ingredients": "Rice Meal (37.6%), Edible Vegetable Oil (Palmolein Oil), Corn Meal (18.8%), Gram Meal (6.2%), Sugar, Salt, Tomato Powder (1.2%), *Spices \u0026 Condiments (Chilli Powder, Onion Powder, Spices Extract, Black Pepper Powder, Cinnamon Powder, Clove Powder, Ginger Powder, Garlic Powder, Nutmeg Powder), Beetroot Powder, Citric Acid (INS 330). CONTAINS ADDED FLAVOURS (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES) *Used as natural flavouring agent.",
+  "per_100g": {
+    "energy_kcal": 565,
+    "fat": 35.1,
+    "saturated_fat": 16.1,
+    "carbohydrates": 56.4,
+    "sugars": 4.4,
+    "fiber": null,
+    "protein": 5.8,
+    "salt": 1.4175,
+    "sodium": 0.567
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-15T14:08:55Z",
+  "fetched_at": "2026-08-19T00:50:23Z"
+}

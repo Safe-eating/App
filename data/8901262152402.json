@@ -1,0 +1,31 @@
+{
+  "barcode": "8901262152402",
+  "name": "Butterscotch milkshake",
+  "brand": "Amul",
+  "quantity": "180 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:milkshakes"
+  ],
+  "ingredients": "Standardized milk, sugar, milk solids, stabilizers (407, 466), emulsifiers [460(i), 471], nature identical and artificial flavouring substances (butter scotch). Allergen Information: Contains milk.",
+  "per_100g": {
+    "energy_kcal": 141.111111111111,
+    "fat": 4.5,
+    "saturated_fat": 2.72222222222222,
+    "carbohydrates": 21,
+    "sugars": 21,
+    "fiber": null,
+    "protein": 4,
+    "salt": 0.13,
+    "sodium": 0.052
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-30T07:39:12Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

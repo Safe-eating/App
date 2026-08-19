@@ -1,0 +1,28 @@
+{
+  "barcode": "8908015184017",
+  "name": "Milchy Milk Toned Milk",
+  "brand": "Milchy Milk",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "MILK, MILK SOLIDS, VITAMIN A \u0026 D",
+  "per_100g": {
+    "energy_kcal": 59,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 4.7,
+    "sugars": 4.7,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.1375,
+    "sodium": 0.055
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-24T11:50:04Z",
+  "fetched_at": "2026-08-19T13:16:48Z"
+}

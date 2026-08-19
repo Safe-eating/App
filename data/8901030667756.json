@@ -1,0 +1,37 @@
+{
+  "barcode": "8901030667756",
+  "name": "Fresh Tomato Ketchup",
+  "brand": "Kissan",
+  "quantity": "950 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup",
+    "en:tomato-ketchup",
+    "en:Groceries"
+  ],
+  "ingredients": "WATER, TOMATO PASTE (28%), SUGAR, IODISED SALT, ACIDITY REGULATOR - 260, STABILISERS - 1422, 415, PRESERVATIVES - 211, ONION POWDER, GARLIC POWDER, SPICES AND CONDIMENTS.",
+  "per_100g": {
+    "energy_kcal": 133.333333333333,
+    "fat": 0.666666666666667,
+    "saturated_fat": 0,
+    "carbohydrates": 30.6666666666667,
+    "sugars": 29.3333333333333,
+    "fiber": 0.666666666666667,
+    "protein": 1.33333333333333,
+    "salt": 2.4,
+    "sodium": 0.96
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-01-03T13:10:14Z",
+  "fetched_at": "2026-08-19T00:14:41Z"
+}

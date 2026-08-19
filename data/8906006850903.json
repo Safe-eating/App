@@ -1,0 +1,24 @@
+{
+  "barcode": "8906006850903",
+  "name": "Black Currant Ice Cream",
+  "brand": "Baskin Robbins",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 129.4,
+    "fat": 6.7,
+    "saturated_fat": 4.1,
+    "carbohydrates": 14.9,
+    "sugars": 13.2,
+    "fiber": null,
+    "protein": 2.3,
+    "salt": 0.08825,
+    "sodium": 0.0353
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-10T19:56:09Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

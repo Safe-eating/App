@@ -1,0 +1,26 @@
+{
+  "barcode": "8901719128288",
+  "name": "Parle",
+  "brand": "Parle",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), REFINED DILS (PALM AND PALMOLEIN), MILLED POTATO FLAKES (11.3%), SEASONING 3.2% ISPICES\u0026quot; (CHILLI, ONION, GARLIC), TOMATO, TAMARIND, SOY SAUCE, ACIDITY REGULATORS (330.296), YEAST EXTRACT, FLAVOR ENHANCERS (627, 631), ANTICAKING AGENT (551). ANTIOXIDANT (319)), EMULSIFIERS 1471 433.339(0.414), SUGAR, INVERT SUGAR SYRUP, WHEY POWDER, RAISING AGENTS (5030), 500 (C) 3410. TAPIOCA STARCH, IODISED SALT, FLOUR TREATMENT AGENTS 1223, 1101 (0)1, EMULSIFIER OF VEGETABLE ORIGIN (472e). CONTAINS ADDED FLAVOURS (NATURAL AND ARTIFICIAL FLAVOURING SUBSTANCES-POTATO, BARBEQUE AND TOMATO) \u0026quot;SPICES AS NATURAL FLAVOURING AGENT CONTAINS: WHEAT, MILK, SOY, SULPHITE · (In",
+  "per_100g": {
+    "energy_kcal": 489,
+    "fat": 20.1,
+    "saturated_fat": 9.4,
+    "carbohydrates": 70.4,
+    "sugars": 7.7,
+    "fiber": 0,
+    "protein": 6.4,
+    "salt": 0.813,
+    "sodium": 0.3252
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-05T03:39:51Z",
+  "fetched_at": "2026-08-19T01:01:42Z"
+}

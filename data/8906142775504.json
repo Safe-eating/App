@@ -1,0 +1,30 @@
+{
+  "barcode": "8906142775504",
+  "name": "Bolas cashews",
+  "brand": "Bolas",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:cashew-nuts"
+  ],
+  "ingredients": "Cashew",
+  "per_100g": {
+    "energy_kcal": 570,
+    "fat": 43.85,
+    "saturated_fat": 7.78,
+    "carbohydrates": 30.19,
+    "sugars": 5.91,
+    "fiber": 3.3,
+    "protein": 18.27,
+    "salt": 30,
+    "sodium": 12
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-28T12:58:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

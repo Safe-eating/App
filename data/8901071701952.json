@@ -1,0 +1,31 @@
+{
+  "barcode": "8901071701952",
+  "name": "Hershy's Kisses cookies 'n' creme",
+  "brand": "Hershey's",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:chocolate-molds",
+    "en:chocolate-sculptures"
+  ],
+  "ingredients": "White Chocolate 89% (Milk Solids 33.3%, Sugar, Cocoa Butter, Cookies 11% (Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm Oil), Cocoa Solids 1.1%, Emulsifier (322(i)), Acidity Regulator (500(ii))), Emulsifiers (322(i), 476), Flavoring)",
+  "per_100g": {
+    "energy_kcal": 534,
+    "fat": 29.7,
+    "saturated_fat": 17.5,
+    "carbohydrates": 60,
+    "sugars": 54.4,
+    "fiber": 0,
+    "protein": 6.6,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-03T04:53:18Z",
+  "fetched_at": "2026-08-19T00:35:16Z"
+}

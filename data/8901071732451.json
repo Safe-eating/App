@@ -1,0 +1,32 @@
+{
+  "barcode": "8901071732451",
+  "name": "Hershey's milk shake almond flavor",
+  "brand": "Hershey's",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:dairy-drinks",
+    "en:milks",
+    "en:flavoured-milks"
+  ],
+  "ingredients": "Water, Milk Solids (#11%), Sugar, Emulsifiers (4600), 466, 471), Mineral Calcium carbonate) Flavours (Nature Identical Flavouring Substances) Sequestraint (339) Thickeners (415, 407), Mineral (Zinc Sulphate), Vitamin E (Acetate), Vitamin A (Acetate) Vitamin D2 (Ergocalciferol), Vitamin B1 (Thiamine Chloride Hydrochlonde), Vitamin B2 (Riboflavin), Edible Common Salt and Almond Paste (#0.002%)",
+  "per_100g": {
+    "energy_kcal": 88.3333333333333,
+    "fat": 1.77777777777778,
+    "saturated_fat": 1.38888888888889,
+    "carbohydrates": 16.1111111111111,
+    "sugars": 16.1111111111111,
+    "fiber": 0,
+    "protein": 1.66666666666667,
+    "salt": 0.143055555555556,
+    "sodium": 0.0572222222222222
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-25T16:05:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

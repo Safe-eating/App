@@ -1,0 +1,33 @@
+{
+  "barcode": "8902901224108",
+  "name": "Good Life Fig Anjeer 100g",
+  "brand": "Good Life",
+  "quantity": "100g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruits-based-foods",
+    "en:dried-products",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits",
+    "en:dried-figs"
+  ],
+  "ingredients": "Fig(Anjeer)",
+  "per_100g": {
+    "energy_kcal": 69.4,
+    "fat": 0.25,
+    "saturated_fat": 0.005,
+    "carbohydrates": 13.5,
+    "sugars": 12.2,
+    "fiber": 4.1,
+    "protein": 1.19,
+    "salt": 0.013,
+    "sodium": 0.005
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-10T10:44:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

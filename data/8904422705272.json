@@ -1,0 +1,30 @@
+{
+  "barcode": "8904422705272",
+  "name": "Patanjali nariyal",
+  "brand": "Patanjali",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Wheat flour (Atta-55.5%), Sugar, Refined palm oil, Invert syrup, Desiccated Coconut powder (1.85%), Milk solids, Raising agents [INS 503(i), INS 500(ii), INS 341}], lodized Salt, Honey, Emulsifier INS 322(1), Desi ghee, Dough conditioner (INS 223), Nature Identical flavouring substances (Elaichi \u0026 Coconut).",
+  "per_100g": {
+    "energy_kcal": 494.7,
+    "fat": 21.3,
+    "saturated_fat": 11.17,
+    "carbohydrates": 66.85,
+    "sugars": 20.1,
+    "fiber": 4.23,
+    "protein": 3.31,
+    "salt": 0.225,
+    "sodium": 0.09
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-26T01:53:33Z",
+  "fetched_at": "2026-08-19T01:46:08Z"
+}

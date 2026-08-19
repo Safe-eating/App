@@ -1,0 +1,35 @@
+{
+  "barcode": "7622202324260",
+  "name": "Dairy Milk Chocolate",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:chocolates",
+    "en:milk-chocolates",
+    "en:candy-chocolate-bars",
+    "en:ch"
+  ],
+  "ingredients": "Sugar, Milk Solids (23%), Cocoa Butter, Cocoa Solids, Fractionated Fat, Emulsifiers (442,476), Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances). CONTAINS COCOA BUTTER EQUIVALENT IN ADDITION TO COCOA BUTTER. Allergen Information: Contains Milk, Soy. May Contain Tree Nuts, Wheat, Barley Serving size:21g No. of servings per package: 1.",
+  "per_100g": {
+    "energy_kcal": 531,
+    "fat": 29,
+    "saturated_fat": 19.6,
+    "carbohydrates": 60.4,
+    "sugars": 57,
+    "fiber": null,
+    "protein": 7.9,
+    "salt": 0.3225,
+    "sodium": 0.129
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-20T17:00:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

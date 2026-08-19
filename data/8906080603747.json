@@ -1,0 +1,24 @@
+{
+  "barcode": "8906080603747",
+  "name": "Classic salted cashews",
+  "brand": "Paperboat",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 583.6,
+    "fat": 44,
+    "saturated_fat": 8,
+    "carbohydrates": 29.4,
+    "sugars": 5.8,
+    "fiber": 3.2,
+    "protein": 17.5,
+    "salt": 1.4925,
+    "sodium": 0.597
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-20T15:09:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

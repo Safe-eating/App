@@ -1,0 +1,30 @@
+{
+  "barcode": "8906019771400",
+  "name": "Californian Almond",
+  "brand": "Nutraj",
+  "quantity": "500 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:almonds"
+  ],
+  "ingredients": "Californian Almonds",
+  "per_100g": {
+    "energy_kcal": 597.19,
+    "fat": 48.11,
+    "saturated_fat": 9.62,
+    "carbohydrates": 21.72,
+    "sugars": 5.41,
+    "fiber": 0,
+    "protein": 19.33,
+    "salt": 0.00625,
+    "sodium": 0.0025
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T20:32:20Z",
+  "fetched_at": "2026-08-19T02:06:55Z"
+}

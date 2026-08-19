@@ -1,0 +1,32 @@
+{
+  "barcode": "8906112662759",
+  "name": "Muesli",
+  "brand": "True Elements",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Rolled Oats (35.7%), Wheat Flakes (29%), Millets (16.2% Jowar Flakes), Almonds (5.5%), Seeds (4.5%-Chia, Pumpkin), Jaggery Powder, Dried Blackcurrant (3%), Freeze Dried Fruits (2.1% - Chikoo, Banana, Pineapple), Rosemary Extract.",
+  "per_100g": {
+    "energy_kcal": 414.9,
+    "fat": 8.6,
+    "saturated_fat": 1.1,
+    "carbohydrates": 71.1,
+    "sugars": 11,
+    "fiber": 10.9,
+    "protein": 13.1,
+    "salt": 0.5,
+    "sodium": 0.2
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-23T15:52:34Z",
+  "fetched_at": "2026-08-19T12:51:24Z"
+}

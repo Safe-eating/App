@@ -1,0 +1,36 @@
+{
+  "barcode": "8908015676215",
+  "name": "Purple Sweet Potato with Panipuri Masala",
+  "brand": "To Be Honest Crunchies",
+  "quantity": "75g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:sweet-potatoes-and-their-products",
+    "en:sweet-potato-crisps",
+    "en:Sweet pot"
+  ],
+  "ingredients": "Purple Sweet Potato, Palmolein Oil, Spices and Condiments (Coriander, Dry Raw Mango Powder, Cumin, Green Chilli, Ginger, Garam Masala, Black Pepper), Salt, Dextrose, Tamarind Powder, Dehydrated Mint.",
+  "per_100g": {
+    "energy_kcal": 438,
+    "fat": 12.8,
+    "saturated_fat": 9.2,
+    "carbohydrates": 78,
+    "sugars": 6,
+    "fiber": 17.55,
+    "protein": 2.16,
+    "salt": 0.5275,
+    "sodium": 0.211
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-18T20:45:05Z",
+  "fetched_at": "2026-08-19T13:16:53Z"
+}

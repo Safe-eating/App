@@ -1,0 +1,35 @@
+{
+  "barcode": "8906112660519",
+  "name": "Rolled Oats",
+  "brand": "True Elements",
+  "quantity": "40g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats"
+  ],
+  "ingredients": "Rolled Oats",
+  "per_100g": {
+    "energy_kcal": 410.9,
+    "fat": 10,
+    "saturated_fat": 2.9,
+    "carbohydrates": 68.3,
+    "sugars": 0,
+    "fiber": 9.5,
+    "protein": 12,
+    "salt": 0.0135,
+    "sodium": 0.0054
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-07T12:17:09Z",
+  "fetched_at": "2026-08-19T12:51:00Z"
+}

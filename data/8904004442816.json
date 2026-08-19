@@ -1,0 +1,26 @@
+{
+  "barcode": "8904004442816",
+  "name": "Minute Khana Rajma Raseela",
+  "brand": "Haldiram's",
+  "quantity": "300 g",
+  "categories": [
+    "en:ready-to-eat curry"
+  ],
+  "ingredients": "Water, Red Kidney Beans, Tomato, Onion, Refined Sunflower Oil, Butter, Red Chilli, lodised Salt, Mixed Spices (Coriander Powder, lodised Salt, Dried Mango Powder, Pomegranate Seed, Red Chilli Powder, Cumin, Black Pepper, Black Salt, Cinnamon, Clove, Dried Ginger Powder, Nutmeg, Mint Leaves Powder, Bay leaf, Green Cardamom, Fenugreek Leaves \u0026 Mace), Ginger, Garlic, Coriander Leaves, Cumin, Clove, Cinnamon, Bay Leaves, Nutmeg, Large Cardamom \u0026 Green Cardamom. Contains Milk May Contains Almond, Cashew, Peanut, Pistachio, Coconut, Hazelnut, Soy, Wheat, Mustard Seed, Sesame Seed \u0026 Sulphite.",
+  "per_100g": {
+    "energy_kcal": 166.666666666667,
+    "fat": 12,
+    "saturated_fat": 5.33333333333333,
+    "carbohydrates": 11.3333333333333,
+    "sugars": 0,
+    "fiber": 2,
+    "protein": 4,
+    "salt": 0.5,
+    "sodium": 0.2
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-09T10:55:35Z",
+  "fetched_at": "2026-08-19T01:26:12Z"
+}

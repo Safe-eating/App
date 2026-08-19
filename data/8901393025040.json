@@ -1,0 +1,29 @@
+{
+  "barcode": "8901393025040",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:Toffees"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 386,
+    "fat": 1.8,
+    "saturated_fat": 1.8,
+    "carbohydrates": 91.5,
+    "sugars": 72,
+    "fiber": 0,
+    "protein": 0.05,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-17T02:36:37Z",
+  "fetched_at": "2026-08-19T00:47:44Z"
+}

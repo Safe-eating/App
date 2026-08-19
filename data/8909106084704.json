@@ -1,0 +1,24 @@
+{
+  "barcode": "8909106084704",
+  "name": "Horlicks Protein",
+  "brand": "Horlicks",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 71.25,
+    "fat": 1.5,
+    "saturated_fat": 1,
+    "carbohydrates": 7.08333333333333,
+    "sugars": 3.33333333333333,
+    "fiber": 1.45833333333333,
+    "protein": 8.33333333333333,
+    "salt": 0.15625,
+    "sodium": 0.0625
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-11T19:30:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

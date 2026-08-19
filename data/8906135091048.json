@@ -1,0 +1,36 @@
+{
+  "barcode": "8906135091048",
+  "name": "apis Corn Flakes",
+  "brand": "apis",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:extruded-cereals",
+    "en:extruded-flakes",
+    "en:corn-flakes"
+  ],
+  "ingredients": "Corn (90.1%), Sugar (5.3%), lodized Salt, Malt Extract and Antioxidant (INS 320)",
+  "per_100g": {
+    "energy_kcal": 388,
+    "fat": 0.79,
+    "saturated_fat": 0.14,
+    "carbohydrates": 88.4,
+    "sugars": 7.8,
+    "fiber": 2.86,
+    "protein": 6.8,
+    "salt": 2.2147,
+    "sodium": 0.88588
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-02T13:10:56Z",
+  "fetched_at": "2026-08-19T12:57:10Z"
+}

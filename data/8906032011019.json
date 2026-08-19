@@ -1,0 +1,27 @@
+{
+  "barcode": "8906032011019",
+  "name": "Nutrela Soya chunks  220gm",
+  "brand": "Nutrela",
+  "quantity": "220g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods"
+  ],
+  "ingredients": "Defatted Soy",
+  "per_100g": {
+    "energy_kcal": 354,
+    "fat": 0.8,
+    "saturated_fat": 0.2,
+    "carbohydrates": 34,
+    "sugars": 7.2,
+    "fiber": null,
+    "protein": 53,
+    "salt": 0.02,
+    "sodium": 0.008
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-11T16:18:40Z",
+  "fetched_at": "2026-08-19T12:33:12Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "0787099803988",
+  "name": "Sid's Farm Skim Milk",
+  "brand": "Sid's Farm",
+  "quantity": "500 ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk",
+  "per_100g": {
+    "energy_kcal": 41,
+    "fat": 0.3,
+    "saturated_fat": 0.2,
+    "carbohydrates": 5.7,
+    "sugars": 5.1,
+    "fiber": null,
+    "protein": 3.6,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-20T03:24:34Z",
+  "fetched_at": "2026-08-18T23:55:40Z"
+}

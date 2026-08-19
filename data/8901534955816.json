@@ -1,0 +1,32 @@
+{
+  "barcode": "8901534955816",
+  "name": "Nilon's Imlee Tamarind Chutney",
+  "brand": "Nilon's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:spreads",
+    "en:condiments",
+    "en:plant-based-spreads",
+    "en:sauces",
+    "en:chutneys"
+  ],
+  "ingredients": "Sugar, Tamarind Paste (22%), Water, Iodised Salt,  Spices, Corn Starch and Preservative (INS 211)",
+  "per_100g": {
+    "energy_kcal": 308,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 76,
+    "sugars": 47,
+    "fiber": null,
+    "protein": 1,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-14T11:37:13Z",
+  "fetched_at": "2026-08-19T00:55:30Z"
+}

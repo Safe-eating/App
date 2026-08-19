@@ -1,0 +1,33 @@
+{
+  "barcode": "8901725121747",
+  "name": "Superior MP Atta",
+  "brand": "Aashirvaad, ITC",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:flours",
+    "en:cereal-flours",
+    "en:wheat-flours",
+    "en:whole-wheat-flours"
+  ],
+  "ingredients": "WHOLE WHEAT",
+  "per_100g": {
+    "energy_kcal": 338,
+    "fat": 1.3,
+    "saturated_fat": 0.3,
+    "carbohydrates": 76,
+    "sugars": 3.6,
+    "fiber": 10.4,
+    "protein": 10.7,
+    "salt": 0.00375,
+    "sodium": 0.0015
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-24T11:12:22Z",
+  "fetched_at": "2026-08-19T01:06:29Z"
+}

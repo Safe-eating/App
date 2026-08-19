@@ -1,0 +1,36 @@
+{
+  "barcode": "8904320015398",
+  "name": "Peanut butter Creamy",
+  "brand": "Disano",
+  "quantity": "924g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:nuts-and-their-products",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters",
+    "en:creamy-peanut-butters"
+  ],
+  "ingredients": "Roasted Peanuts (91%), Sugar, Stabilizer(INS471), lodised Salt.",
+  "per_100g": {
+    "energy_kcal": 612.5,
+    "fat": 49,
+    "saturated_fat": 9,
+    "carbohydrates": 19,
+    "sugars": 9,
+    "fiber": 4.1875,
+    "protein": 25,
+    "salt": 0.33125,
+    "sodium": 0.1325
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-07T19:55:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8901058006148",
+  "name": "maggie chicken noodles",
+  "brand": "nestle",
+  "quantity": "71g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:dried-products-to-be-rehydrated",
+    "en:pastas",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 401.408450704225,
+    "fat": 11.830985915493,
+    "saturated_fat": 7.6056338028169,
+    "carbohydrates": 66.056338028169,
+    "sugars": 1.12676056338028,
+    "fiber": null,
+    "protein": 7.74647887323944,
+    "salt": 2.49964788732394,
+    "sodium": 0.999859154929577
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T04:58:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

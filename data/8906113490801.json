@@ -1,0 +1,38 @@
+{
+  "barcode": "8906113490801",
+  "name": "Masala Oats and Millets",
+  "brand": "Tata Soulfull",
+  "quantity": "35g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereal-grains",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:millet",
+    "en:rolled-oats"
+  ],
+  "ingredients": "Rolled Oats (50%), Foxtail Millet (Navane) (20%), Mixed Masala Powder (20%) (Maltodextrin, lodised Salt, Mixed Spices, Refined Sugar), Natural Flavor, Hydrolyzed Vegetable Protein, Anticaking Agent(INS 551),Stabilizer (INS 414), Nature-Identical Flavor Substances, Flavor Enhancers (INS 627, INS 631)), Jowar (5%) Dried Vegetables (Carrots-1.2%, Onion-0.8%, Peas-0.6%), Palm oil, Dried Coriander Leaves (0.2%), Antioxidant (INS 320)",
+  "per_100g": {
+    "energy_kcal": 400,
+    "fat": 10.4,
+    "saturated_fat": 4.1,
+    "carbohydrates": 64.6,
+    "sugars": 6.3,
+    "fiber": 10.8,
+    "protein": 11.3,
+    "salt": 4.75,
+    "sodium": 1.9
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-27T02:18:36Z",
+  "fetched_at": "2026-08-19T12:52:00Z"
+}

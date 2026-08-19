@@ -1,0 +1,30 @@
+{
+  "barcode": "8902027006121",
+  "name": "Real Bake White Sliced Bread",
+  "brand": "Bimbo, Kitty",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida) (64.4%), Yeast, Sugar, lodized Salt, Soya Flour, Preservatives (282,200), Edible Vegetable Fat (Hydrogenated Vegetable Oil), Gluten, Emulsifiers (481(i), 472e), Acidity Regulators (270,297), Antioxidant (300).",
+  "per_100g": {
+    "energy_kcal": 246.99,
+    "fat": 0.99,
+    "saturated_fat": 0.25,
+    "carbohydrates": 51.87,
+    "sugars": 4.62,
+    "fiber": 2.15,
+    "protein": 7.65,
+    "salt": 1.152225,
+    "sodium": 0.46089
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-27T11:10:56Z",
+  "fetched_at": "2026-08-19T01:11:09Z"
+}

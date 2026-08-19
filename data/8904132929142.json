@@ -1,0 +1,36 @@
+{
+  "barcode": "8904132929142",
+  "name": "Arabian Dates",
+  "brand": "Good Life",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:dried-products",
+    "en:fruits",
+    "en:dried-plant-based-foods",
+    "en:dates-and-their-products",
+    "en:dried-fruits",
+    "en:dates"
+  ],
+  "ingredients": "Wet Dates (Unpitted)",
+  "per_100g": {
+    "energy_kcal": 312,
+    "fat": 0.3,
+    "saturated_fat": 0.1,
+    "carbohydrates": 72.7,
+    "sugars": 68.8,
+    "fiber": 9.1,
+    "protein": 2.4,
+    "salt": 0.00775,
+    "sodium": 0.0031
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-18T13:05:59Z",
+  "fetched_at": "2026-08-19T01:36:44Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8909081001147",
+  "name": "bounce",
+  "brand": "Good Life",
+  "quantity": "29",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:cashew-nuts",
+    "en:unsalted-nuts",
+    "en:unsalted-cashews"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 467,
+    "fat": 15.5,
+    "saturated_fat": 7.4,
+    "carbohydrates": 76.5,
+    "sugars": 36.5,
+    "fiber": 0,
+    "protein": 5.4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-23T18:25:31Z",
+  "fetched_at": "2026-08-19T13:22:34Z"
+}

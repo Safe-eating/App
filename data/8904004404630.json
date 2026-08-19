@@ -1,0 +1,32 @@
+{
+  "barcode": "8904004404630",
+  "name": "salted peanuts",
+  "brand": "haldiram's",
+  "quantity": "25g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:peanuts"
+  ],
+  "ingredients": "CHR Haldiram's SALTE PEANUT REDIENTS: Groundnut (Peanuts) (93%), Edil etable Oil (Palmolein, Cotton Seed, Corn, Sun Cran), Rock Salt (1%) \u0026 Refined Sugar. LERGEN: Contains Nut Contains Wheat, Milk \u0026 Soy. 1904004 404630 tritional Information (approx NET QUANTITY: SERVING PER POUCH:",
+  "per_100g": {
+    "energy_kcal": 637,
+    "fat": 51.91,
+    "saturated_fat": 21.8,
+    "carbohydrates": 21.85,
+    "sugars": 0.9,
+    "fiber": 3.33,
+    "protein": 20.62,
+    "salt": 1.0625,
+    "sodium": 0.425
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-21T06:58:32Z",
+  "fetched_at": "2026-08-19T01:25:18Z"
+}

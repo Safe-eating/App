@@ -1,0 +1,26 @@
+{
+  "barcode": "8901058000252",
+  "name": "8901058000252",
+  "brand": "Maggi",
+  "quantity": "420",
+  "categories": [
+    "en:Food"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 442.857142857143,
+    "fat": 18.5714285714286,
+    "saturated_fat": 10,
+    "carbohydrates": 61.4285714285714,
+    "sugars": 2.85714285714286,
+    "fiber": 2.85714285714286,
+    "protein": 8.57142857142857,
+    "salt": 3.46428571428571,
+    "sodium": 1.38571428571429
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-22T03:43:01Z",
+  "fetched_at": "2026-08-19T00:24:25Z"
+}

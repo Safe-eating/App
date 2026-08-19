@@ -1,0 +1,24 @@
+{
+  "barcode": "8908020463664",
+  "name": "Choco Rings",
+  "brand": "Crax",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 530,
+    "fat": 28.3,
+    "saturated_fat": 12.34,
+    "carbohydrates": 65.1,
+    "sugars": 25.6,
+    "fiber": null,
+    "protein": 3.7,
+    "salt": 0.36125,
+    "sodium": 0.1445
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-02T16:53:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

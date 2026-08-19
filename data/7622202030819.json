@@ -1,0 +1,31 @@
+{
+  "barcode": "7622202030819",
+  "name": "Cranberry",
+  "brand": "Cadbury Bournville",
+  "quantity": "80 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:Chocolates with cranberry"
+  ],
+  "ingredients": "Sugar, Cocoa Solids, Dried Sweetened Cranberries (11%*) (Cranberries, Sugar), Cocoa Butter, Almonds (5%*), Milk Solids, Emulsifiers (442, 476), Flavours (Natural and Nature Identical Flavouring Substances). Allergen Information: Contains Milk, Almond. May Contain Other Tree Nuts, Soy.",
+  "per_100g": {
+    "energy_kcal": 523.2,
+    "fat": 31.1,
+    "saturated_fat": 19.3,
+    "carbohydrates": 58.8,
+    "sugars": 45.6,
+    "fiber": null,
+    "protein": 5.8,
+    "salt": 0.035,
+    "sodium": 0.014
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-11T13:32:55Z",
+  "fetched_at": "2026-08-19T00:09:38Z"
+}

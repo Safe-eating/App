@@ -1,0 +1,29 @@
+{
+  "barcode": "5425024150107",
+  "name": "Caulier Tripel 33 CL Fles",
+  "brand": "",
+  "quantity": "33 cl",
+  "categories": [
+    "en:beverages",
+    "en:alcoholic-beverages",
+    "en:beers",
+    "en:strong-beers"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 1,
+    "fat": 0.5,
+    "saturated_fat": 0.1,
+    "carbohydrates": 0.5,
+    "sugars": 0.02,
+    "fiber": null,
+    "protein": 0.01,
+    "salt": 0.01,
+    "sodium": 0.004
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-14T00:59:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

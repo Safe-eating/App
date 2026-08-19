@@ -1,0 +1,32 @@
+{
+  "barcode": "4906537989848",
+  "name": "High Protein Oats (Dark Chocolate)",
+  "brand": "MuscleBlaze",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "Rolled Oats 47.4%), Texturized Soy Protein (20%), Fruit \u0026 Seeds (13.5%) (Raisins, Chia Seeds, Pumpkin Seeds), Raw Sugar (11%), Cocoa Solids (7%). Artificial (Chocolate) Flavouring Substance, Pink Salt, Probiotic (Bacillus coagulans MTCC 5856) \u0026 Antioxidant (INS 320)",
+  "per_100g": {
+    "energy_kcal": 385.05,
+    "fat": 8.13,
+    "saturated_fat": 3.43,
+    "carbohydrates": 56.06,
+    "sugars": 10.22,
+    "fiber": 11.52,
+    "protein": 21.91,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-11-03T10:53:31Z",
+  "fetched_at": "2026-08-19T00:05:13Z"
+}

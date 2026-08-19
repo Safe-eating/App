@@ -1,0 +1,34 @@
+{
+  "barcode": "8904335603429",
+  "name": "26g High Protein Oats Dark Chocolate",
+  "brand": "Yogabar",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "Whole Grains 46% (Instant Oats), Protein Blend 26.6% (Texturised Soy Protein Flakes, Whey Powder), Dehydrated Fruits, Nuts \u0026 Seeds 12% (Raisins, Chia Seeds, Sunflower Seeds, Almonds 0.5%, Pumpkin Seeds), Cocoa Powder 7%, Fructooligosaccharides, Natural Flavors, Rice Bran Oil, Himalayan Pink Salt, Steviol Glycosides, Bacillus coagulans",
+  "per_100g": {
+    "energy_kcal": 354,
+    "fat": 7.2,
+    "saturated_fat": 1.8,
+    "carbohydrates": 52,
+    "sugars": 12.3,
+    "fiber": 11.2,
+    "protein": 26,
+    "salt": 0.23,
+    "sodium": 0.0998
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-11T09:52:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

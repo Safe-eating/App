@@ -1,0 +1,26 @@
+{
+  "barcode": "8902901031195",
+  "name": "Crystal Sugar",
+  "brand": "Good Life",
+  "quantity": "1 kg",
+  "categories": [
+    "en:sweetners"
+  ],
+  "ingredients": "Plantation White Sugar",
+  "per_100g": {
+    "energy_kcal": 392,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 98,
+    "sugars": 98,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T06:02:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

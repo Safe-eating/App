@@ -1,0 +1,26 @@
+{
+  "barcode": "8901389000013",
+  "name": "meetha masala",
+  "brand": "rajnigandha",
+  "quantity": "",
+  "categories": [
+    "en:Pan Masala"
+  ],
+  "ingredients": "Betelnut, Sugar, Dates, Catechu, Lime, Maize Starch, Herbs Extract, Cardamom Seeds, Natural Flavours and Natural Flavouring Substances. Nature Identical Flavouring Substances.",
+  "per_100g": {
+    "energy_kcal": 398,
+    "fat": 4.2,
+    "saturated_fat": 3.2,
+    "carbohydrates": 86.7,
+    "sugars": 49,
+    "fiber": null,
+    "protein": 3.3,
+    "salt": 0.07125,
+    "sodium": 0.0285
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-26T17:57:09Z",
+  "fetched_at": "2026-08-19T00:47:18Z"
+}

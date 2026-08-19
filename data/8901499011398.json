@@ -1,0 +1,37 @@
+{
+  "barcode": "8901499011398",
+  "name": "Kellogg's Museli Nuts delight",
+  "brand": "Kellogg's",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:sweet-snacks",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:bars",
+    "en:flakes",
+    "en:mueslis",
+    "en:cereal-flakes"
+  ],
+  "ingredients": "MULTIGRAIN MIX (67.6%) (CORN GRITS (21.2%), WHEAT (16.8%), ROLLED BARLEY (10.5%), ROLLED OATS (10.5%), RICE (8.6%), DRY FRUITS \u0026 NUT (20%) (BROWN RAISINS (10%), ALMONDS (6%), BLACK RAISINS (4%)), SUGAR, CEREAL EXTRACT, WHEAT BRAN, HONEY, OLIGOFRUCTOSE, IODIZED SALT, COCOA SOLIDS, VITAMINS. FLAVOURS (NATURE IDENTICAL \u0026 ARTIFICIAL (COCONUT)), ANTIOXIDANT (INS 307b), MINERAL AND COLOUR (INS 150d). ALLERGEN DECLARATION: CONTAINS WHEAT, BARLEY, OATS, NUT (ALMONDS) AND SULPHITE. MAY CONTAIN OTHER NUTS, SOY AND MILK. SOME DRY FRUITS CONTAIN SULPHITE TO MAINTAIN COLOUR.",
+  "per_100g": {
+    "energy_kcal": 389,
+    "fat": 5.9,
+    "saturated_fat": 1,
+    "carbohydrates": 79.3,
+    "sugars": 21.7,
+    "fiber": 6.8,
+    "protein": 8,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-29T13:07:49Z",
+  "fetched_at": "2026-08-19T00:53:31Z"
+}

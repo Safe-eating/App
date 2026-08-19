@@ -1,0 +1,31 @@
+{
+  "barcode": "8906023413501",
+  "name": "Fantasia Ice Cream Sandwich",
+  "brand": "Cream Bell",
+  "quantity": "80 ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-sandwiches"
+  ],
+  "ingredients": "Inner Layer (59%): Water, Milk Solids, Sugar, Maltodextrin, Permitted Emulsifying Agents (433, 471) \u0026 Stabilizing Agents (407,412) Outer Layer (41%): Choco Biscuit: Wheat Flour, Sugar, Edible Vegetable Oil (Refined Palm Kernel Oil), Cocoa Powder, Milk Solids, Salt, Raising Agents [500 (ii), 503 (ii)], Emulsifier (322) \u0026 Antioxidant (INS 319) CONTAINS PERMITTED NATURAL FOOD COLOUR (150c) AND ADDED NATURE IDENTICAL AND ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES",
+  "per_100g": {
+    "energy_kcal": 291.724137931034,
+    "fat": 10,
+    "saturated_fat": 5,
+    "carbohydrates": 45.1724137931034,
+    "sugars": 22.5862068965517,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0.131034482758621,
+    "sodium": 0.0524137931034483
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-10T07:04:13Z",
+  "fetched_at": "2026-08-19T02:09:33Z"
+}

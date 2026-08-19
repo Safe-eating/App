@@ -1,0 +1,24 @@
+{
+  "barcode": "8934328842795",
+  "name": "Classic Butter Croissant",
+  "brand": "The Bkry",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 418,
+    "fat": 24.5,
+    "saturated_fat": 15.2,
+    "carbohydrates": 42.8,
+    "sugars": 8.4,
+    "fiber": 1.6,
+    "protein": 7.2,
+    "salt": 1.4625,
+    "sodium": 0.585
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-05T14:57:00Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

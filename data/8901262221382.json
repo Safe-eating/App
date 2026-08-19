@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262221382",
+  "name": "Butter Nankhatai",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Wheat flour (atta), white butter (27%), sugar, milk solids, semolina, elaichi (0.7%), lodised salt, raising agent [500(I)], colour (150d).",
+  "per_100g": {
+    "energy_kcal": 511,
+    "fat": 27,
+    "saturated_fat": 16,
+    "carbohydrates": 63,
+    "sugars": 27.5,
+    "fiber": null,
+    "protein": 6.5,
+    "salt": 0.375,
+    "sodium": 0.15
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-24T12:12:06Z",
+  "fetched_at": "2026-08-19T00:46:17Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8901764031250",
+  "name": "Sprite Lemon drink 300ml can",
+  "brand": "Sprite",
+  "quantity": "300ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:non-alcoholic-beverages",
+    "en:carbonated-drinks",
+    "en:soft-drinks",
+    "en:sodas",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "Carbonated Water, Sugar, Acidity Regulators (330, 331(iii)), Preservative (211), Sweetener(960), Flavours (Natural Flavouring Substances)",
+  "per_100g": {
+    "energy_kcal": 40,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 10,
+    "sugars": 9.8,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.035,
+    "sodium": 0.014
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-11T10:38:05Z",
+  "fetched_at": "2026-08-19T01:07:33Z"
+}

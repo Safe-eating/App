@@ -1,0 +1,26 @@
+{
+  "barcode": "8906020491656",
+  "name": "Motichur Laddoo",
+  "brand": "Lal",
+  "quantity": "200 g",
+  "categories": [
+    "en:pulses based sweets"
+  ],
+  "ingredients": "Sugar, Bengal Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Refined Wheat Flour (Maida), Edible Vgetable Fat (Palm Oil, Palm Kernel Oil), Preservatives (INS 202, INS 200) and Synthetic Food Colours (INS 110, INS 102) \n\nAllergen Information: Contains Wheat.\nMade in a facility that processes Peanuts, Tree Nuts, Milk, Wheat and Sesame.",
+  "per_100g": {
+    "energy_kcal": 383,
+    "fat": 15,
+    "saturated_fat": 7,
+    "carbohydrates": 62,
+    "sugars": 50,
+    "fiber": null,
+    "protein": 1,
+    "salt": 0.0325,
+    "sodium": 0.013
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-11T12:59:34Z",
+  "fetched_at": "2026-08-19T02:07:30Z"
+}

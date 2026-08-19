@@ -1,0 +1,26 @@
+{
+  "barcode": "8906009071800",
+  "name": "Choco chip cookies",
+  "brand": "UNIBIC",
+  "quantity": "135 g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Choco Chips (22%)[Sugar, Edible Vegetable Fat, Cocoa Solids, Dextrose, Emulsifiers (INS 322 from Soy, INS 476), Nature Identical \u0026 Artificial Flavouring Substances (Vanilla, Chocolate)], Edible Vegetable Oil (Palm), Desiccated Coconut Powder, Milk Solids, Butter, Leavening Agents (INS 500 ii, INS 503 ii), Iodised Salt, Emulsifier (INS 322 from Soy), Natural, Nature Identical \u0026 Artificial Flavouring Substances (Butter, Vanillin, Chocolate)",
+  "per_100g": {
+    "energy_kcal": 480,
+    "fat": 19.5,
+    "saturated_fat": 12.2,
+    "carbohydrates": 68,
+    "sugars": 28,
+    "fiber": 6,
+    "protein": 5.8,
+    "salt": 6,
+    "sodium": 0.213
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T00:51:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

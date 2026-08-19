@@ -1,0 +1,34 @@
+{
+  "barcode": "8906008350050",
+  "name": "Manna Health Mix",
+  "brand": "Manna",
+  "quantity": "250 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:porridge",
+    "en:kanji",
+    "en:sathu maavu"
+  ],
+  "ingredients": "Millets and Cereals 82.8% (Ragi, Bajra, Corn, Jowar, Wheat, Red Rice, Barley \u0026 Sago), Pulses \u0026 Nuts 16% (Bengal Gram and Green Gram, Groundnut, Almond \u0026 Cashewnut), Cardamom 1.2%.\nAllergen Advice: Contains Wheat, Barley and Nuts",
+  "per_100g": {
+    "energy_kcal": 360,
+    "fat": 4,
+    "saturated_fat": 0.8,
+    "carbohydrates": 76,
+    "sugars": 2.1,
+    "fiber": 10,
+    "protein": 10,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-10T15:25:47Z",
+  "fetched_at": "2026-08-19T01:55:22Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8908007422127",
+  "name": "Et MI Doodhwala Ice Cream Mix",
+  "brand": "EtMi",
+  "quantity": "100g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:Ice-cream-mix",
+    "en:Ice-cream-powder"
+  ],
+  "ingredients": "Sugar, Starch, Milk Solids, Gelling Agent Agar Powder (E406), E102, Contains Permitted Artificial Flavouring Substances Pistachio and Vanilla, Salt.",
+  "per_100g": {
+    "energy_kcal": 88,
+    "fat": 1,
+    "saturated_fat": 1,
+    "carbohydrates": 4,
+    "sugars": 8,
+    "fiber": 5,
+    "protein": 58,
+    "salt": 8,
+    "sodium": 3.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-28T12:52:56Z",
+  "fetched_at": "2026-08-19T13:10:38Z"
+}

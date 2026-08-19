@@ -1,0 +1,30 @@
+{
+  "barcode": "8906120100830",
+  "name": "Farmley Makhana Peri Peri",
+  "brand": "Farmley",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:seeds",
+    "en:fox-nuts"
+  ],
+  "ingredients": "Foxnut (Makhana), Olive Oil, Spices \u0026 Condiments (Red Chilli Powder, Cumin, Carom Seeds, Onion Powder, Garlic Powder), lodised Salt, Black Salt, Sugar, Acidity Regulators (Citric Acid, Malic Acid), Corn Starch, Anticaking Agent (INS 551), Colour (Paprika Extract), Flavour Enhancer (INS 635).",
+  "per_100g": {
+    "energy_kcal": 475,
+    "fat": 19.8,
+    "saturated_fat": 9.5,
+    "carbohydrates": 63.4,
+    "sugars": 1.8,
+    "fiber": 11.2,
+    "protein": 7.8,
+    "salt": 0.65,
+    "sodium": 0.26
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-18T12:26:59Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

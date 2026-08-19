@@ -1,0 +1,29 @@
+{
+  "barcode": "4897036695678",
+  "name": "Monster Energy Pipeline Punch",
+  "brand": "Monster Energy",
+  "quantity": "350ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:energy-drinks",
+    "en:energy-drink-with-sugar"
+  ],
+  "ingredients": "CARBONATE WATER, SUCROSE, GLUCOSE, ACIDITY REGULATORS (CITRIC ACID, SON CITRATE), TAURINE (400 mg/100 ml), NATURE-IDENTICAL MIXED FRUIT FLAMI PRESERVATIVES (POTASSIUM SORBATE, SODIUM BENZOATE), CAFFENED 100 ml (300 ppm), SWEETENER (SUCRALOSE), VITAMINS (B3, B2, B INOSITOL (2 mg/100 ml), COLOURS (ALLURA RED AC, TARTRAZINE, NUTR INFORMATION PER 1 SERVING IN 1 CONTAINER (350 ml): ENERGY 125 6% RDA), PROTEIN 0 g (0% RDA), CARBOHYDRATE 31 g, TOTAL SUGARS ADDED SUGARS 31 g (61% RDA), TOTAL FAT 0 g (0% RDA), CHOLESTER Omg (0% RDA), SODIUM 51 mg (3% RDA), VITAMIN B2 2.9 mg, 83) 8.8 mg, VITAMIN B6 1.2 mg, VITAMIN B12 0.52 μg THIS CONTAINS SUCRALOSE FOR MANIE SEE THE FIRST",
+  "per_100g": {
+    "energy_kcal": 36,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 8.85714285714286,
+    "sugars": 8.85714285714286,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.0364285714285714,
+    "sodium": 0.0145714285714286
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T07:31:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

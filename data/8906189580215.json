@@ -1,0 +1,26 @@
+{
+  "barcode": "8906189580215",
+  "name": "Chilli Guava juice",
+  "brand": "Pluckk",
+  "quantity": "250ml",
+  "categories": [
+    "en:juices"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 60,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 15,
+    "sugars": 14.5,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.2705,
+    "sodium": 0.1082
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-10T14:27:07Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

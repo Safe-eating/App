@@ -1,0 +1,26 @@
+{
+  "barcode": "8908019319804",
+  "name": "Bhadang",
+  "brand": "Chakote",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 474,
+    "fat": 19.2,
+    "saturated_fat": 5.37,
+    "carbohydrates": 65.1,
+    "sugars": 5.64,
+    "fiber": null,
+    "protein": 10.19,
+    "salt": 2.54,
+    "sodium": 1.016
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-16T14:22:49Z",
+  "fetched_at": "2026-08-19T13:19:50Z"
+}

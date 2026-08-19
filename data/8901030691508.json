@@ -1,0 +1,31 @@
+{
+  "barcode": "8901030691508",
+  "name": "Sandwich Chocolate and Vanilla",
+  "brand": "Kwality Wall's",
+  "quantity": "57 g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-sandwiches"
+  ],
+  "ingredients": "WATER BISCUIT (37.2%) (WHEAT FLOUR, SUGAR, PALM OIL LIQUID GLUCOSE, BARLEY MALT EXTRACT, WATER, MILK SOLIDS, SALT, LEAVENING AGENTS - E500(lI), E503(II), EMULSIFIER - E1520 AND CONTAINS PERMITTED NATURAL FOOD COLOUR E150a and ADDED ARTIFICIAL VANILLA FLAVOURING SUBSTANCES (CONTAINS GLUTEN AND MILK), SUGAR, EDIBLE PALM OIL, MILK SOLID, LIQUID GLUCOSE, VEGETABLE PROTEIN (SOY), COCOA SOLIDS.",
+  "per_100g": {
+    "energy_kcal": 282.456140350877,
+    "fat": 7.89473684210526,
+    "saturated_fat": 3.50877192982456,
+    "carbohydrates": 48.0701754385965,
+    "sugars": 24.0350877192982,
+    "fiber": 0.87719298245614,
+    "protein": 5.43859649122807,
+    "salt": 0.240631578947368,
+    "sodium": 0.0962526315789474
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-02-11T11:19:55Z",
+  "fetched_at": "2026-08-19T00:14:42Z"
+}

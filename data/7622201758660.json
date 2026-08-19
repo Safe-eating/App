@@ -1,0 +1,26 @@
+{
+  "barcode": "7622201758660",
+  "name": "Perk Double",
+  "brand": "Cadbury",
+  "quantity": "22 g",
+  "categories": [
+    "en:Choco-coated wafers"
+  ],
+  "ingredients": "Sugar, Interesterified Vegetable Fat, Flour (Maida), Lactose-Rich Deprotienized Whey Powder, Starch, Cocoa Solids (5%), Palmolien, Emulsifiers (442 322, 476), lodised Salt, Yeast, Flavours (Natural, Natural Identical and Artificial (Caramel and Vanilla) Flavouring Substances, Raising Agent (500), Improver (1101)",
+  "per_100g": {
+    "energy_kcal": 512,
+    "fat": 25.4,
+    "saturated_fat": 20,
+    "carbohydrates": 67.9,
+    "sugars": 44.9,
+    "fiber": null,
+    "protein": 3.7,
+    "salt": 0.2475,
+    "sodium": 0.099
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-06T11:38:47Z",
+  "fetched_at": "2026-08-19T00:08:42Z"
+}

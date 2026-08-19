@@ -1,0 +1,26 @@
+{
+  "barcode": "8902901001747",
+  "name": "Semolina Suji Rawa",
+  "brand": "(Reliance)",
+  "quantity": "1kg",
+  "categories": [
+    "en:Semolina"
+  ],
+  "ingredients": "Wheat",
+  "per_100g": {
+    "energy_kcal": 334,
+    "fat": 0.7,
+    "saturated_fat": 0.1,
+    "carbohydrates": 70.4,
+    "sugars": 1.6,
+    "fiber": null,
+    "protein": 11.4,
+    "salt": 0.00575,
+    "sodium": 0.0023
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-18T09:16:35Z",
+  "fetched_at": "2026-08-19T01:17:23Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "0890601561023",
+  "name": "Lokenath Bhujiyawala chana dal",
+  "brand": "Lokenath Bhujiyawala",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Chana Pulse, Peanut, Salt, Chillies, Spices, Edible Vegetable Oil (Soybean Oil /Palmolein Oil)",
+  "per_100g": {
+    "energy_kcal": 485.46,
+    "fat": 22.18,
+    "saturated_fat": 18.52,
+    "carbohydrates": 54.23,
+    "sugars": 1.38,
+    "fiber": null,
+    "protein": 17.23,
+    "salt": 0.98,
+    "sodium": 0.392
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-01T01:07:10Z",
+  "fetched_at": "2026-08-18T23:59:00Z"
+}

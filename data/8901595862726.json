@@ -1,0 +1,28 @@
+{
+  "barcode": "8901595862726",
+  "name": "Dark Soy Sauce",
+  "brand": "Ching's Secret",
+  "quantity": "210 g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:soy-sauces"
+  ],
+  "ingredients": "water, sugar, lodised salt, natural colour (ins 150c), soybeans (10%), wheat, acidity regulator (ins 260), preservative (ins 202),",
+  "per_100g": {
+    "energy_kcal": 142.85714285714,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 28.571428571429,
+    "sugars": 14.285714285714,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 12.5,
+    "sodium": 5
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-05T20:01:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

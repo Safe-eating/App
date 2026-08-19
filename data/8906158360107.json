@@ -1,0 +1,30 @@
+{
+  "barcode": "8906158360107",
+  "name": "Cardamom fresh",
+  "brand": "",
+  "quantity": "125 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 494.1,
+    "fat": 21.3,
+    "saturated_fat": 10.7,
+    "carbohydrates": 65.7,
+    "sugars": 18.1,
+    "fiber": null,
+    "protein": 9.3,
+    "salt": 0.062,
+    "sodium": 0.0248
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-29T14:13:11Z",
+  "fetched_at": "2026-08-19T13:00:46Z"
+}

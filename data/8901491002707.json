@@ -1,0 +1,26 @@
+{
+  "barcode": "8901491002707",
+  "name": "Chaat Fills Bhel Chutney Twist",
+  "brand": "Kurkure, Pepsico",
+  "quantity": "",
+  "categories": [
+    "en:Fried Snacks"
+  ],
+  "ingredients": "Cereal Products (Corn Meal, Rice Meal, Rice Flour Wheat Fibre), Edible Vegetable Oil (Palmolein, Palm Oil), Sugar, Maltodextrin, Milk Solids, *Spices, Condiments \u0026 Herb, lodised Salt, Emulsifier (471, 322), Acidity Regulator (334, 330, 296), Tamarind Powder, Flavours (Natural \u0026 Nature Identical Flavouring Substances, Color (150d, 160c), Hydrogenated Vegetable Fat, Firming Agent (170i), Tomato Powder (0.1%), Antioxidant (307). As Flavouring Agent; Contains Onion and Garlic Allergen Advice: Contains Wheat, Milk \u0026 Soy",
+  "per_100g": {
+    "energy_kcal": 517,
+    "fat": 27.3,
+    "saturated_fat": 13.4,
+    "carbohydrates": 62.8,
+    "sugars": 19.1,
+    "fiber": null,
+    "protein": 5.1,
+    "salt": 1.225,
+    "sodium": 0.49
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-10-09T09:38:30Z",
+  "fetched_at": "2026-08-19T00:49:24Z"
+}

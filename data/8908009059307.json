@@ -1,0 +1,30 @@
+{
+  "barcode": "8908009059307",
+  "name": "Milk Bread",
+  "brand": "The Health Factory",
+  "quantity": "250 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "100% Whole Wheat Flour (Chakki Fresh Atta Milk Solids, Cane Sugar, Yeast, Vinegar, Gluten, Sunflower Oil, Iodised Salt, Cultured Wheat Flour, Vitamin C.",
+  "per_100g": {
+    "energy_kcal": 252.4,
+    "fat": 3.16,
+    "saturated_fat": 0.54,
+    "carbohydrates": 44.44,
+    "sugars": 9.26,
+    "fiber": 6.14,
+    "protein": 11.58,
+    "salt": 0.637,
+    "sodium": 0.2548
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-19T03:19:13Z",
+  "fetched_at": "2026-08-19T13:11:33Z"
+}

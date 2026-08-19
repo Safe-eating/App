@@ -1,0 +1,32 @@
+{
+  "barcode": "8901764042270",
+  "name": "Thumbs Up 750ml",
+  "brand": "Coca Cola Company",
+  "quantity": "24",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:non-alcoholic-beverages",
+    "en:carbonated-drinks",
+    "en:soft-drinks",
+    "en:sodas",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, ACIDITY REGULATOR (338), CAFFEINE (8.3 mg/100 g), COLOUR (1506) FLAVOURS (NATURAL, NATURE-IDENTICAL \u0026 ARTIFICIAL (COLA) FLAVOURING SUBSTANCES). \u0026quot;CONTAINS CAFFEINE\u0026quot;",
+  "per_100g": {
+    "energy_kcal": 36,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 9,
+    "sugars": 9,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-03T21:12:54Z",
+  "fetched_at": "2026-08-19T01:07:58Z"
+}

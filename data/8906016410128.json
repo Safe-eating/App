@@ -1,0 +1,28 @@
+{
+  "barcode": "8906016410128",
+  "name": "Godrej Jersey Rich Toned Milk",
+  "brand": "Godrej, Jersey",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk solids",
+  "per_100g": {
+    "energy_kcal": 58.6,
+    "fat": 3,
+    "saturated_fat": 2.1,
+    "carbohydrates": 4.9,
+    "sugars": 4.9,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.1015,
+    "sodium": 0.0406
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-05T06:25:23Z",
+  "fetched_at": "2026-08-19T02:04:21Z"
+}

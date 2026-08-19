@@ -1,0 +1,27 @@
+{
+  "barcode": "8906090574495",
+  "name": "Karare Twisties Masala Blast",
+  "brand": "Too Yumm",
+  "quantity": "65g",
+  "categories": [
+    "en:biscuits-aperitifs",
+    "en:chips-et-frites"
+  ],
+  "ingredients": "Corn Flour, Edible Vegetable Oil (Rice Bran), Seasoning [Sugar, Spices and Condiments (Contains Chili), lodised Salt, Maltodextrin, Natural and Nature Identical Flavouring Substances, Hydrolysed Vegetable Protein, Stabilizer (INS 414), Anticaking Agent (INS 551), Flavour Enhancers (INS 627, INS 631)], Whole Wheat Flour (Atta), Oats, Semolina, Anticaking Agent (INS 170), lodised Salt *Used as natural flavouring agent",
+  "per_100g": {
+    "energy_kcal": 471,
+    "fat": 19.5,
+    "saturated_fat": 4.5,
+    "carbohydrates": 68,
+    "sugars": 4.7,
+    "fiber": 3.4,
+    "protein": 5.9,
+    "salt": 2.425,
+    "sodium": 0.97
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-21T00:08:22Z",
+  "fetched_at": "2026-08-19T12:49:18Z"
+}

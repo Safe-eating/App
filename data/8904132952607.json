@@ -1,0 +1,33 @@
+{
+  "barcode": "8904132952607",
+  "name": "Campa cola 2ltr pet",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:non-alcoholic-beverages",
+    "en:carbonated-drinks",
+    "en:soft-drinks",
+    "en:sodas",
+    "en:colas",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS(E 338,E 331(i)), CAFFEINE(9.4 mg/100ml), COLOR(E 150d), PRESERVATIVE(E 211), NATURAL FLAVOURING SUBSTANCES",
+  "per_100g": {
+    "energy_kcal": 42,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 10.6,
+    "sugars": 10.6,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.025,
+    "sodium": 0.01
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-14T09:04:32Z",
+  "fetched_at": "2026-08-19T01:37:17Z"
+}

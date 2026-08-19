@@ -1,0 +1,36 @@
+{
+  "barcode": "8901071732796",
+  "name": "soya drink",
+  "brand": "sofit",
+  "quantity": "180 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:dairy-substitutes",
+    "en:milk-substitutes",
+    "en:plant-based-beverages",
+    "en:plant-based-milk-alternatives",
+    "en:legume-based-drinks",
+    "en:soy-based-drinks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 34.4444444444444,
+    "fat": 1.66666666666667,
+    "saturated_fat": 0.166666666666667,
+    "carbohydrates": 1.77777777777778,
+    "sugars": 0,
+    "fiber": 1.11111111111111,
+    "protein": 3.22222222222222,
+    "salt": 0.0455555555555556,
+    "sodium": 0.0182222222222222
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-28T08:46:35Z",
+  "fetched_at": "2026-08-19T00:35:22Z"
+}

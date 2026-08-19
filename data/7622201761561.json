@@ -1,0 +1,31 @@
+{
+  "barcode": "7622201761561",
+  "name": "Dairy Milk Silk Fruit \u0026 Nut",
+  "brand": "Cadbury",
+  "quantity": "137g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolates",
+    "en:milk-chocolates"
+  ],
+  "ingredients": "Composite Chocolate gredients: Sugar, Milk Solids (20%), Cocoa Butter, Cocoa Solids, Raisins (9%), Cashew Nuts (5%),Apricot Kernels (3%), Emulsifiers (E 442,E 476),Natural Flavouring Substances,Nature Identical Flavouring Substances,Artificial Flavouring Substances(Vanilla). _Contains Milk,Cashew Nut.May Contain Wheat, Barley, Soy ,Other Tree Nuts_",
+  "per_100g": {
+    "energy_kcal": 532,
+    "fat": 30.4,
+    "saturated_fat": 18.7,
+    "carbohydrates": 58.1,
+    "sugars": 50.9,
+    "fiber": 0,
+    "protein": 7.8,
+    "salt": 0.26,
+    "sodium": 0.104
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-03T11:36:44Z",
+  "fetched_at": "2026-08-19T00:08:53Z"
+}

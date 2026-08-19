@@ -1,0 +1,33 @@
+{
+  "barcode": "7622201464486",
+  "name": "Oreo",
+  "brand": "Oreo",
+  "quantity": "7",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:filled-biscuits",
+    "en:sandwich-biscuits",
+    "en:chocolate-sandwich-cookies"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 480,
+    "fat": 19.5,
+    "saturated_fat": 9.7,
+    "carbohydrates": 70.7,
+    "sugars": 38.6,
+    "fiber": null,
+    "protein": 5.3,
+    "salt": 1.245,
+    "sodium": 0.498
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2023-06-08T08:23:29Z",
+  "fetched_at": "2026-08-19T00:07:51Z"
+}

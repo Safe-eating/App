@@ -1,0 +1,32 @@
+{
+  "barcode": "8908010900636",
+  "name": "Pintola Wholegrain brown rice cakes unsalted",
+  "brand": "Pintola",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:puffed-cereal-cakes",
+    "en:puffed-rice-cakes",
+    "en:rice-cake"
+  ],
+  "ingredients": "Organic Whole Grain Brown Rice (100%)",
+  "per_100g": {
+    "energy_kcal": 378,
+    "fat": 2.2,
+    "saturated_fat": 0.5,
+    "carbohydrates": 81,
+    "sugars": 0,
+    "fiber": 7.1,
+    "protein": 7.9,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-18T12:40:15Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

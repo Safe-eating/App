@@ -1,0 +1,24 @@
+{
+  "barcode": "8902268014688",
+  "name": "anmol swiss roll",
+  "brand": "",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "Refined Wheat flour (Maida) (20%), Sugar, Eggs, Invert Syrup, Edible vegetable fat (Hydrogenated oils) \u0026 Refined Palmolein oil, Humectants (INS 422, INS 420, INS 1520), Starch, HMCS, Emulsifiers [INS 471, INS 475, INS 472e, INS 477, INS 491, INS 470(i), INS 322], Milk Solids, lodised Salt, Class II Preservatives (INS 200, INS 202), Acidity Regulators (INS 330, INS 260), Stabilizer (INS 415), Colour (INS 122)\u0026 Nature Identical \u0026 Artificial Flavouring Substances Strawberry \u0026 Vanilla) Allergen Declaration: Contains Wheat, Milk, Soya \u0026 Eggs Energy (kcal) Carbohydrates (g) Protein (g) Total Sugars (g) Added Sugars (g) *Percent RDA value",
+  "per_100g": {
+    "energy_kcal": 328.089697437965,
+    "fat": 3.47180635649583,
+    "saturated_fat": 1.2020606163288,
+    "carbohydrates": 65.9638733237571,
+    "sugars": 30.9722780541921,
+    "fiber": 3.52025862068965,
+    "protein": 6.50509420460668,
+    "salt": 0.0717017801413248,
+    "sodium": 0.0169521501290336
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-25T16:03:13Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

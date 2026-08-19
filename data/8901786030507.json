@@ -1,0 +1,26 @@
+{
+  "barcode": "8901786030507",
+  "name": "Everest Pani Puri Masala",
+  "brand": "Everest",
+  "quantity": "50g",
+  "categories": [
+    "en:Taste"
+  ],
+  "ingredients": "Rock Salt, Dried Mango, Cumin, Chilli, Black Salt, Mint Leaf, Black Pepper, Dried Ginger, Tamarind and Citric Acid.Contain Mustard",
+  "per_100g": {
+    "energy_kcal": 17.25,
+    "fat": 0.36,
+    "saturated_fat": 0.05,
+    "carbohydrates": 3.02,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0.44,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-25T08:17:27Z",
+  "fetched_at": "2026-08-19T01:09:37Z"
+}

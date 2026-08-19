@@ -1,0 +1,30 @@
+{
+  "barcode": "8906001388319",
+  "name": "Bread",
+  "brand": "English oven",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Yeast, Edible Vegetable Oil (Rice Bran), Iodized Salt, Soya Flour, Wheat Gluten, Class II Preservative (282), Emulsifiers [471, 472e, 481], Improvers [170 (1), 510, 923, 1100].e Acidity Regulator (260) and Antioxidant (300)",
+  "per_100g": {
+    "energy_kcal": 273.93,
+    "fat": 1.05,
+    "saturated_fat": 0.43,
+    "carbohydrates": 54.14,
+    "sugars": 5.91,
+    "fiber": 3,
+    "protein": 10.48,
+    "salt": 0.90615,
+    "sodium": 0.36246
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-07T10:49:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

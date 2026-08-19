@@ -1,0 +1,31 @@
+{
+  "barcode": "8906127550294",
+  "name": "Alpino unsweetened super oats",
+  "brand": "Alpino",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "Rolled Oats (66%), Unsweetened Peanut Butter (34%)",
+  "per_100g": {
+    "energy_kcal": 479.8,
+    "fat": 19.5,
+    "saturated_fat": 2.7,
+    "carbohydrates": 55.1,
+    "sugars": 2.6,
+    "fiber": 18,
+    "protein": 24,
+    "salt": 0.09575,
+    "sodium": 0.0383
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-19T06:58:54Z",
+  "fetched_at": "2026-08-19T12:56:00Z"
+}

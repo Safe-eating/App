@@ -1,0 +1,26 @@
+{
+  "barcode": "8906049060086",
+  "name": "Nakoda Ratlam Sev",
+  "brand": "Nakoda",
+  "quantity": "",
+  "categories": [
+    "en:Namkeen"
+  ],
+  "ingredients": "Gram Flour (60%), Edible Vegetable Oil (Pamolein Oil and/or Cotton Seed Oil), lodized Salt, Chilli Powder, Black Pepper Powder, Cloves Powder, Ajwain \u0026 Hing.",
+  "per_100g": {
+    "energy_kcal": 607.43,
+    "fat": 45.99,
+    "saturated_fat": 9.81,
+    "carbohydrates": 36.46,
+    "sugars": 1,
+    "fiber": 0.68,
+    "protein": 11.92,
+    "salt": 2.17675,
+    "sodium": 0.8707
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-08T05:29:30Z",
+  "fetched_at": "2026-08-19T12:37:53Z"
+}

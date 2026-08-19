@@ -1,0 +1,26 @@
+{
+  "barcode": "8908006461035",
+  "name": "Amba Bhadang",
+  "brand": "Amba",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Puffed Rice, Edible Oil, Peanuts, Sugar, Garlic, Red Chilli Powder, Salt, Turmeric Powder, Curry Leaves",
+  "per_100g": {
+    "energy_kcal": 553,
+    "fat": 33,
+    "saturated_fat": 7,
+    "carbohydrates": 56,
+    "sugars": 6,
+    "fiber": null,
+    "protein": 8,
+    "salt": 0.95,
+    "sodium": 0.38
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-11T02:18:43Z",
+  "fetched_at": "2026-08-19T13:10:06Z"
+}

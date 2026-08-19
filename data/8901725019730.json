@@ -1,0 +1,33 @@
+{
+  "barcode": "8901725019730",
+  "name": "Aashirvaad Organic Whole Wheat Atta",
+  "brand": "Aashirvaad",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:flours",
+    "en:cereal-flours",
+    "en:wheat-flours",
+    "en:whole-wheat-flours"
+  ],
+  "ingredients": "Organic Whole Wheat",
+  "per_100g": {
+    "energy_kcal": 343,
+    "fat": 1.6,
+    "saturated_fat": 0.34,
+    "carbohydrates": 77.6,
+    "sugars": 4.7,
+    "fiber": 10.6,
+    "protein": 10.6,
+    "salt": 0.00525,
+    "sodium": 0.0021
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-20T19:17:47Z",
+  "fetched_at": "2026-08-19T01:05:28Z"
+}

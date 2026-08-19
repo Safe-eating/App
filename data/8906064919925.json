@@ -1,0 +1,33 @@
+{
+  "barcode": "8906064919925",
+  "name": "Zahidi Dates",
+  "brand": "Candor Dates",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:fruits",
+    "en:dates-and-their-products",
+    "en:dates"
+  ],
+  "ingredients": "Dates",
+  "per_100g": {
+    "energy_kcal": 280,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 68,
+    "sugars": 60,
+    "fiber": 8,
+    "protein": 4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-14T06:33:49Z",
+  "fetched_at": "2026-08-19T12:39:56Z"
+}

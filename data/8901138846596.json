@@ -1,0 +1,26 @@
+{
+  "barcode": "8901138846596",
+  "name": "Himalaya Quista Active",
+  "brand": "Himalaya",
+  "quantity": "",
+  "categories": [
+    "en:dietary-supplements"
+  ],
+  "ingredients": "Protein Blend (48%) (Skimmed Milk Powder, Soy Protein Isolate and Pea Protein Concentrate), Maltodextrin, Sucrose, Whey Powder, High Oleic Sunflower Oil Powder [Emulsifier (INS 471) and Antioxidant (INS 304)], Inulin - Prebiotic Fiber (3.6%), Minerals, Shankhapushpi Extract (0.28%), Hadjod Extract (0.24%), Guduchi Extract (0.24%), Ginger Juice Powder (0.24%), Stabilizer (INS 415), Licorice Extract, Moringa Extract (0.20%), Vitamins, Thickener (INS 412), Taurine and Anticaking Agent (INS 551)",
+  "per_100g": {
+    "energy_kcal": 378,
+    "fat": 3.5,
+    "saturated_fat": 0.5,
+    "carbohydrates": 61,
+    "sugars": 14.5,
+    "fiber": 3,
+    "protein": 24,
+    "salt": 0.875,
+    "sodium": 0.35
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-07T02:25:50Z",
+  "fetched_at": "2026-08-19T00:37:27Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8901414016415",
+  "name": "all time mixture",
+  "brand": "bikano",
+  "quantity": "1kg",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks"
+  ],
+  "ingredients": "Edible Vegetable Oil (Refined Palmolein Oil, Refined Ricebran Oil, Refined Cottonseed Oil), Chickpea Flour (21%), Rice Flakes (13.9%) , Cornflakes (13.5%), Peanuts (9.5%), Sugar (Sucrose), Rice Flour, Split Bengal Gram, Curry Leaves, Husked Dew Moth Bean Flour, lodized Salt, Carom Seeds, Red Chilli Powder, Turmeric, Yellow Chilli Powder, Black Salt, Raising Agent.",
+  "per_100g": {
+    "energy_kcal": 537.9,
+    "fat": 33.1,
+    "saturated_fat": 12.7,
+    "carbohydrates": 46.5,
+    "sugars": 5.8,
+    "fiber": 0,
+    "protein": 13,
+    "salt": 1.91,
+    "sodium": 0.764
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-01T07:39:30Z",
+  "fetched_at": "2026-08-19T00:48:16Z"
+}

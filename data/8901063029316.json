@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063029316",
+  "name": "brittania Jimjam pops",
+  "brand": "Britannia",
+  "quantity": "350g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL \u0026 INTERESTERIFIED VEGETABLE FAT, INVERT SUGAR SYRUP, MILK SOLIDS, EDIBLE MAIZE STARCH, FRUIT PRODUCTS (1%) (APPLE JUICE CONCENTRATE, BANANA POWDER, PLUM JUICE CONCENTRATE), EMULSIFIERS [322(i) \u0026 471], IODISED SALT, ARTIFICIAL (VANILLA, RASPBERRY, PINEAPPLE, APRICOT) \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES, ACIDITY REGULATORS [330 \u0026 331(iii)], GELLING AGENT (440), RAISING AGENTS [500(ii) \u0026 503(ii)] AND COLOUR (122). (Numbers in brackets as per International Numbering System) CONTAINS _WHEAT_, _MILK_ \u0026 _SOY_.",
+  "per_100g": {
+    "energy_kcal": 500,
+    "fat": 21.7,
+    "saturated_fat": 12.2,
+    "carbohydrates": 79.2,
+    "sugars": 37.3,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0.49,
+    "sodium": 0.196
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-10T10:04:18Z",
+  "fetched_at": "2026-08-19T00:30:10Z"
+}

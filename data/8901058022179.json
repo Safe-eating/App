@@ -1,0 +1,35 @@
+{
+  "barcode": "8901058022179",
+  "name": "Munch",
+  "brand": "Nestlé",
+  "quantity": "17.4g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers",
+    "en:chocolate-biscuits",
+    "en:stuffed-wafers",
+    "en:chocolate-stuffed-wafers",
+    "en:Chocolate Wafer"
+  ],
+  "ingredients": "Sugar, Refined Wheat flour (Maida), Hydrogenated vegetable fats, Fractionated vegetable fats, Milk solids, Cocoa solids (3.8%), Emulsifier (Soya lecithin and 476), Raising agent (500 (ii)), Yeast, Iodised salt, Flour treatment agent (516), Artificial (Vanilla) flavouring substances.\r\nAllergen Note: Contains Wheat, Soy, Sesame and Milk. May Contains Nut.",
+  "per_100g": {
+    "energy_kcal": 435,
+    "fat": 23.4,
+    "saturated_fat": 23.1,
+    "carbohydrates": 50,
+    "sugars": 32.9,
+    "fiber": null,
+    "protein": 6,
+    "salt": 0.22325,
+    "sodium": 0.0893
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-13T10:11:53Z",
+  "fetched_at": "2026-08-19T00:26:28Z"
+}

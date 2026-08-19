@@ -1,0 +1,36 @@
+{
+  "barcode": "8906066700385",
+  "name": "Black Truffle With Salt",
+  "brand": "Kettle Studio",
+  "quantity": "150 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 160,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 15.5,
+    "sugars": 0,
+    "fiber": 1,
+    "protein": 2,
+    "salt": 325,
+    "sodium": 130
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-14T18:10:52Z",
+  "fetched_at": "2026-08-19T12:40:31Z"
+}

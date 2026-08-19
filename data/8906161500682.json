@@ -1,0 +1,29 @@
+{
+  "barcode": "8906161500682",
+  "name": "Nutri Binge California Almonds",
+  "brand": "Nutri Binge",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts"
+  ],
+  "ingredients": "Almonds",
+  "per_100g": {
+    "energy_kcal": 618,
+    "fat": 50.2,
+    "saturated_fat": 4.2,
+    "carbohydrates": 20.4,
+    "sugars": 4.6,
+    "fiber": 12.1,
+    "protein": 20.9,
+    "salt": 0.006,
+    "sodium": 0.0024
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-25T11:02:38Z",
+  "fetched_at": "2026-08-19T13:01:16Z"
+}

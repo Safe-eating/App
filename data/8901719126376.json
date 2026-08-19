@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719126376",
+  "name": "kaccha mango",
+  "brand": "parle",
+  "quantity": "637.56 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:candies",
+    "en:hard-candies"
+  ],
+  "ingredients": "SUGAR, LIQUID GLUCOSE AND ACIDITY REGULATORS [270, 296, 330, 331(iii)]. CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (102, 133) AND ADDED FLAVOUR NATURE IDENTICAL FLAVOURING SUBSTANCES - RAW MANGO)",
+  "per_100g": {
+    "energy_kcal": 380,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 95.1,
+    "sugars": 78.8,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.045,
+    "sodium": 0.018
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T01:31:14Z",
+  "fetched_at": "2026-08-19T01:01:13Z"
+}

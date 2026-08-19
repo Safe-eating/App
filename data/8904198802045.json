@@ -1,0 +1,26 @@
+{
+  "barcode": "8904198802045",
+  "name": "Moong Dal",
+  "brand": "Euro",
+  "quantity": "37 grams",
+  "categories": [
+    "en:Namkeen"
+  ],
+  "ingredients": "Green Gram Lentils, Refined Palmolein Oil, lodised Salt Allergy Advice May contain: Peanuts, Tree Nuts, Spa, Wheat \u0026 Sesame Seeds. Strina Cool \u0026 Dry Place. ep Away From Direct Sunlight \u0026 Heat. Member SK Sud Asse the Food KEEP OUR CITY USA MRP R CLEAN \u0026 GREEN OTHER QUALI GUARANTEED Rs.15.00",
+  "per_100g": {
+    "energy_kcal": 460,
+    "fat": 20.2,
+    "saturated_fat": 9.7,
+    "carbohydrates": 50.1,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 19.5,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-22T08:33:46Z",
+  "fetched_at": "2026-08-19T01:38:45Z"
+}

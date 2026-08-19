@@ -1,0 +1,34 @@
+{
+  "barcode": "8902080002733",
+  "name": "Tropicana Fruitz Mixed Fruit Magic",
+  "brand": "Tropicana",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars",
+    "en:fruit-juices",
+    "en:multifruit-juices"
+  ],
+  "ingredients": "WATER SUGAR CONCENTRATED MIXED FRUIT JUICE 25% (FROM APPLE MANGO GUAVA, ORANGE BANANA, APRICOT PEACH ACIDITY REGULATORS (330 331)), STABILIZERS (466, 440), FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES PRESERVATIVE (202), COLOUR (160a(i)))",
+  "per_100g": {
+    "energy_kcal": 48,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 12,
+    "sugars": 11,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.095,
+    "sodium": 0.038
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-10T15:18:44Z",
+  "fetched_at": "2026-08-19T01:12:37Z"
+}

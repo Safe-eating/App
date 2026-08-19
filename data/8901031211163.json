@@ -1,0 +1,26 @@
+{
+  "barcode": "8901031211163",
+  "name": "Cocoa powder 100% cocoa natural unsweetened",
+  "brand": "Hershey's",
+  "quantity": "225g",
+  "categories": [
+    "en:cocoa-and-its-products"
+  ],
+  "ingredients": "HERSHEY'S COCOA POWDER MEDIUM FAT COCOA POWDER HIGH IN NATURAL DIETARY CONTAINS NATURALLY OCCURRING SUGARS^",
+  "per_100g": {
+    "energy_kcal": 409,
+    "fat": 11,
+    "saturated_fat": 6.5,
+    "carbohydrates": 58,
+    "sugars": 1.8,
+    "fiber": 33,
+    "protein": 19.6,
+    "salt": 10,
+    "sodium": 4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-09T14:53:58Z",
+  "fetched_at": "2026-08-19T00:21:51Z"
+}

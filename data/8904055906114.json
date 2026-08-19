@@ -1,0 +1,24 @@
+{
+  "barcode": "8904055906114",
+  "name": "Krispy Fried Chicken",
+  "brand": "Meatzza Snackers",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 305.5,
+    "fat": 19.5,
+    "saturated_fat": 3.9,
+    "carbohydrates": 9.3,
+    "sugars": 6.3,
+    "fiber": null,
+    "protein": 20.2,
+    "salt": 1.74625,
+    "sodium": 0.6985
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T16:55:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

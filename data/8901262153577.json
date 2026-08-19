@@ -1,0 +1,24 @@
+{
+  "barcode": "8901262153577",
+  "name": "Amul Taaza Milk",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 57.7777777777778,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 4.77777777777778,
+    "sugars": 4.77777777777778,
+    "fiber": null,
+    "protein": 2.83333333333333,
+    "salt": 0.0930555555555556,
+    "sodium": 0.0372222222222222
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-05T16:42:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

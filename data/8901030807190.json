@@ -1,0 +1,27 @@
+{
+  "barcode": "8901030807190",
+  "name": "Horlicks Classic Malt",
+  "brand": "Horlicks",
+  "quantity": "750g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "Malt (66.7%) [Barley (32%) Wheat Flour (Atta), Wheat, Millet), Milk Solids (14%), Sugar, Wheat Gluten, Minerals, Edible lodized Salt, Soy Protein Isolate, Acidity Regulators [INS 501,500), Vitamins",
+  "per_100g": {
+    "energy_kcal": 377,
+    "fat": 2,
+    "saturated_fat": 1.4,
+    "carbohydrates": 79,
+    "sugars": 46,
+    "fiber": null,
+    "protein": 11,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-05T05:08:52Z",
+  "fetched_at": "2026-08-19T00:15:26Z"
+}

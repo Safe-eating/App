@@ -1,0 +1,28 @@
+{
+  "barcode": "8902901225891",
+  "name": "Good Life Rice Flour",
+  "brand": "Good Life",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:flours"
+  ],
+  "ingredients": "Rice flour",
+  "per_100g": {
+    "energy_kcal": 358,
+    "fat": 0.5,
+    "saturated_fat": 0.1,
+    "carbohydrates": 78,
+    "sugars": 0.7,
+    "fiber": null,
+    "protein": 7.9,
+    "salt": 5.75,
+    "sodium": 2.3
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-28T05:06:19Z",
+  "fetched_at": "2026-08-19T01:18:55Z"
+}

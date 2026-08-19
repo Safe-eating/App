@@ -1,0 +1,35 @@
+{
+  "barcode": "0641837433199",
+  "name": "Protein Oats",
+  "brand": "Doctor's Choice",
+  "quantity": "750g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats"
+  ],
+  "ingredients": "Rolled Oats (40.4%), Protein Blend (27.25%) (Texturized Soy Protein, Soya Protein Isolate. Whey Protein Concentrate), Dry Fruits. Nut \u0026 Seeds (14.5%) (Raisins, Almonds, Pumpkin Seeds. Chia Seeds), Jaggery, Cocoa Solids (7%), Jowar Flakes, Natural and Nature Identical Flavour, Himalayan Pink Salt. *Amino Acids Profile: L-Arginine 1.68g, L-Leucine 1.93g, L-Valine 1.06g, L-Cystine 0.16g, Glycine 1.07g, Histadine 0.76g, Serine 1.34g, Aspartic Acid 3.19g, Glutamic Acid 7.51g, Threonine 0.97g. Alanine 1.14g, Proline 0.99g, Lysine 1.64g, Tyrosine 0.66g. Methionine 0.85g, Iso Leucine 0.92g, Phenyl Alanine 1.23g. Tryptophan 0.25g. CATEGORY: Breakfast Cereals. ALLERGEN ADVICE: Contains Milk, Nuts \u0026 Soy. N",
+  "per_100g": {
+    "energy_kcal": 393.47,
+    "fat": 8.15,
+    "saturated_fat": 2.08,
+    "carbohydrates": 55.01,
+    "sugars": 14.52,
+    "fiber": 9.75,
+    "protein": 27.04,
+    "salt": 0,
+    "sodium": 0.13278
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-07T17:45:49Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

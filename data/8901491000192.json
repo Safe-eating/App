@@ -1,0 +1,30 @@
+{
+  "barcode": "8901491000192",
+  "name": "Doritod cheese flavor",
+  "brand": "20rs",
+  "quantity": "50gm",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 508,
+    "fat": 25.7,
+    "saturated_fat": 11.7,
+    "carbohydrates": 61.6,
+    "sugars": 3.5,
+    "fiber": null,
+    "protein": 7.7,
+    "salt": 1.7725,
+    "sodium": 0.709
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-18T20:34:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

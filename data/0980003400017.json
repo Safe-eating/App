@@ -1,0 +1,30 @@
+{
+  "barcode": "0980003400017",
+  "name": "Biscuit",
+  "brand": "bikaneri namkeen wala",
+  "quantity": "400g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "only",
+  "per_100g": {
+    "energy_kcal": 521,
+    "fat": 28,
+    "saturated_fat": 14,
+    "carbohydrates": 61,
+    "sugars": 22,
+    "fiber": null,
+    "protein": 7,
+    "salt": 0.275,
+    "sodium": 0.11
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-30T14:45:53Z",
+  "fetched_at": "2026-08-19T00:00:08Z"
+}

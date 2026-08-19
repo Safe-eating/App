@@ -1,0 +1,30 @@
+{
+  "barcode": "8901648000716",
+  "name": "Malai paneer",
+  "brand": "Mother dairy",
+  "quantity": "200g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer"
+  ],
+  "ingredients": "Milk solids \u0026 preservative (naturally sourced food protectant) - INS 234^",
+  "per_100g": {
+    "energy_kcal": 324,
+    "fat": 28,
+    "saturated_fat": 19.8,
+    "carbohydrates": 2.5,
+    "sugars": 2.5,
+    "fiber": null,
+    "protein": 15.5,
+    "salt": 0.025,
+    "sodium": 0.01
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-28T04:33:58Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

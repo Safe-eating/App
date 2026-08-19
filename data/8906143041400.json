@@ -1,0 +1,24 @@
+{
+  "barcode": "8906143041400",
+  "name": "Jalapeno Cheese Instant Noodles",
+  "brand": "Yu",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 336,
+    "fat": 14.6666666666667,
+    "saturated_fat": 6.66666666666667,
+    "carbohydrates": 40,
+    "sugars": 10.6666666666667,
+    "fiber": 9.33333333333333,
+    "protein": 12,
+    "salt": 2.04333333333333,
+    "sodium": 0.817333333333333
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T05:05:07Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

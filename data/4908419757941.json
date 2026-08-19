@@ -1,0 +1,33 @@
+{
+  "barcode": "4908419757941",
+  "name": "Death by chocolate Guilt free icecream cone",
+  "brand": "Go Zero",
+  "quantity": "120ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-cones",
+    "en:chocolate-ice-cream",
+    "en:death-by-chocolate"
+  ],
+  "ingredients": "Ice Cream (65%): Milk \u0026 Milk Solids (Cream, Skimmed Milk Powder), Maltitol, Fructooligosaccharide, Cocoa Solids, Cocoa Mass, Permitted Emulsifier (471, 433) and Stabilizer (412, 407, 461), Stevia. Topping \u0026 Spray (17%): Chocolate Coating (Vegetable Oil, Maltitol, Cocoa Solids, Cocoa Butter, Lecithin), Chocolate (4%). Wafer Biscuit cone (18%): Refined Wheat Flour (Maida), Maltitol, Oligofructose, Vegetable Oil, Starch, Lecithin, Sucralose, Salt.  Allergen Declaration: Contains milk and wheat. Product produced in plant where soya and nut-based products are also produced. Guilt Free Cones -",
+  "per_100g": {
+    "energy_kcal": 132.5,
+    "fat": 7.33333333333333,
+    "saturated_fat": 3.16666666666667,
+    "carbohydrates": 21.75,
+    "sugars": 4.83333333333333,
+    "fiber": 3.08333333333333,
+    "protein": 2.41666666666667,
+    "salt": 0.06625,
+    "sodium": 0.0265
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-15T16:13:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

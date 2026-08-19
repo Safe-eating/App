@@ -1,0 +1,31 @@
+{
+  "barcode": "8906010500511",
+  "name": "Chataka Pataka",
+  "brand": "Balaji",
+  "quantity": "48g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:Namkeen"
+  ],
+  "ingredients": "RICE MEAL (43%), EDIBLE VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWINGS: PALMOLEIN, RICE BRAN, CORN, COTTONSEED), CORN MEAL (13%), CHICKPEA FLOUR, **SEASONING [EDIBLE COMMON SALT, SPICES \u0026 CONDIMENTS 2% (CUMIN, CHILLI, BLACK PEPPER, DRY MANGO), DEHYDRATED VEGETABLE POWDER (ONION, GARLIC), SUGAR, ACIDITY REGULATOR (INS 330), ANTICAKING AGENT (INS 551), FLAVOUR ENHANCER (INS 627, INS 631), FLAVOUR (NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES), PAPRIKA EXTRACT (INS 160C)]. **AS FLAVOURING \u0026 SEASONING AGENT NAMKEEN READY-TO-EAT SAVOURIES | PROPRIETARY FOOD | INDIAN SNACKS \u0026 SAVOURIES PRODUCT OF INDIA",
+  "per_100g": {
+    "energy_kcal": 514,
+    "fat": 24.8,
+    "saturated_fat": 12,
+    "carbohydrates": 63.3,
+    "sugars": 2,
+    "fiber": 4.8,
+    "protein": 7,
+    "salt": 2.17,
+    "sodium": 0.868
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-15T05:53:10Z",
+  "fetched_at": "2026-08-19T02:00:42Z"
+}

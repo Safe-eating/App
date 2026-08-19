@@ -1,0 +1,32 @@
+{
+  "barcode": "7622201756697",
+  "name": "Oreo",
+  "brand": "Cadbury",
+  "quantity": "43.75g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:filled-biscuits",
+    "en:biscuit-cookie-snack-w-chocolate-filling"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Fractionated Fat, Palmolein, Invert Sugar, Cocoa Solids (2%), Leavening Agents (500(i), 503(ii)), Starch, lodised Salt, Emulsifier (322), Nature Identical Flavouring Substances. Allergen Information: Contains Wheat, Sulphite, Soy. May Contain Milk and Barley.",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 19.6,
+    "saturated_fat": 9.7,
+    "carbohydrates": 71.9,
+    "sugars": 38.8,
+    "fiber": 3,
+    "protein": 5.2,
+    "salt": 0.42,
+    "sodium": 0.168
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-09T14:41:27Z",
+  "fetched_at": "2026-08-19T00:08:08Z"
+}

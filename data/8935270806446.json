@@ -1,0 +1,28 @@
+{
+  "barcode": "8935270806446",
+  "name": "Kings Coffee Premium Cold Coffee - Original",
+  "brand": "Kings Coffee",
+  "quantity": "280 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:coffee-drinks"
+  ],
+  "ingredients": "Roasted Coffee Beans, \nMilk \u0026 Milk Solids, Sugar(8%), water, Coffee powder(0.8%),\nCONTAINS PERMITTED STABILIZER (S) (INS 407), EMUSIFIER (S) (INS 340, INS 452) \u0026 ACIDITY REGULATOR (S) (INS 339), INS 339(iii)) CONTAINE ADDED FLAVOUR (S) (NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES.\nCAPPUCCINO FLAVOUR)\nAllergen Advice:- Contains Milk",
+  "per_100g": {
+    "energy_kcal": 87,
+    "fat": 2.34,
+    "saturated_fat": 1.45,
+    "carbohydrates": 13.18,
+    "sugars": 11.48,
+    "fiber": 0.21,
+    "protein": 3.19,
+    "salt": 213.175,
+    "sodium": 85.27
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-19T14:49:51Z",
+  "fetched_at": "2026-08-19T13:25:03Z"
+}

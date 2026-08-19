@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719135248",
+  "name": "Krackjack",
+  "brand": "Parle",
+  "quantity": "56.7g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), REFINED OILS (PALMOLEIN AND PALM), SUGAR (19.1%), RAISING AGENTS [ 503 (ii), 10 (ii), 341 (i) ], INVERT SUGAR SYRUP, IODISED SALT(0.9%) YEAST, ACIDITY REGULATORS [270,296], FLOUR TREATMENT AGENTS [223,1101 (ii),1100(i)], EMULSIFIER OF VEGETABLE ORIGIN [472e] CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCE-VANILLA, BUT ER)",
+  "per_100g": {
+    "energy_kcal": 489,
+    "fat": 19.9,
+    "saturated_fat": 9.4,
+    "carbohydrates": 70.5,
+    "sugars": 19.6,
+    "fiber": null,
+    "protein": 6.8,
+    "salt": 0.9275,
+    "sodium": 0.371
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-12T18:00:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

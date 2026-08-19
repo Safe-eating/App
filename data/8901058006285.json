@@ -1,0 +1,29 @@
+{
+  "barcode": "8901058006285",
+  "name": "Instant noodles",
+  "brand": "Maggi",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "Noodles of refined wheat flour (Maida), Palm oil, lodized salt, Wheat gluten, Tumenc Find out more If a se NUT INF Ene C Thickeners (2), Acidity regulators (501 (i) \u0026 500 (i)) and Humectant (451 (i)). Pr TASTEMAKER: Mixed spices (25.6%) (Onion powder, Coriander powder, Ginger powder, Fenugreek powder, Black pepper powder, Clove powder, Green cardamom powder, Red chilli powder, Garlic powder, Cumin powder, Aniseed powder, der \u0026 Nutmeg powder), Refined wheat flour (Maida), Hydrolysed groundnut protein, Palm oil, Starch, lodized salt, Thickener (508), Flavour enhancer (635), Toasted flakes, Acidity regulator (330), Colour (150d), Mineral and Wheat gluten.",
+  "per_100g": {
+    "energy_kcal": 364,
+    "fat": 12.5,
+    "saturated_fat": 8.2,
+    "carbohydrates": 59.6,
+    "sugars": 1.8,
+    "fiber": null,
+    "protein": 8.2,
+    "salt": 2.57075,
+    "sodium": 1.0283
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-27T13:14:39Z",
+  "fetched_at": "2026-08-19T00:25:26Z"
+}

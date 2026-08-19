@@ -1,0 +1,31 @@
+{
+  "barcode": "8906029605344",
+  "name": "Whole Wheat Chapati",
+  "brand": "ammamma's",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:chapati"
+  ],
+  "ingredients": "Whole Wheat Flour (100%), RO Purified Water, Refined Palmolein Oil, Iodised Salt, sugar, Emulsifier (E471, E481),Preservatjves (E202,E282)",
+  "per_100g": {
+    "energy_kcal": 270,
+    "fat": 1.66,
+    "saturated_fat": 1.2,
+    "carbohydrates": 51.98,
+    "sugars": 0.3,
+    "fiber": null,
+    "protein": 11.39,
+    "salt": 1.47,
+    "sodium": 0.588
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-11T11:46:32Z",
+  "fetched_at": "2026-08-19T12:32:19Z"
+}

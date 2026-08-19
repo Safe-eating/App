@@ -1,0 +1,33 @@
+{
+  "barcode": "8908012126829",
+  "name": "Prunes",
+  "brand": "Bazana",
+  "quantity": "210g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:dried-products",
+    "en:fruits-based-foods",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits",
+    "en:dried-prunes"
+  ],
+  "ingredients": "Prunes",
+  "per_100g": {
+    "energy_kcal": 278.58,
+    "fat": 0.38,
+    "saturated_fat": 0,
+    "carbohydrates": 64.7,
+    "sugars": 12.08,
+    "fiber": 9.02,
+    "protein": 4.09,
+    "salt": 0.7359,
+    "sodium": 0.29436
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-08T17:23:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

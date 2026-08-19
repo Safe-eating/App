@@ -1,0 +1,26 @@
+{
+  "barcode": "8904004401189",
+  "name": "Haldiram's Khatta Meetha",
+  "brand": "Haldiram's",
+  "quantity": "150 g",
+  "categories": [
+    "en:indian-snacks"
+  ],
+  "ingredients": "Refined Palmolein Oil, Rice Flakes, Chick Peas Flour, Refined Sugar, Split Chick Peas, Peanuts, Sago, Green Peas, Red Lentils, Iodised Salt, Black Salt, Turmeric, Citric Acid (E 330) \u0026 Red Chilli. Contains Peanuts. May Contains Almond, Cashew, Wheat, Milk, Soy, Mustard Seed \u0026 Sesame Seed",
+  "per_100g": {
+    "energy_kcal": 540,
+    "fat": 30,
+    "saturated_fat": 12,
+    "carbohydrates": 58,
+    "sugars": 14,
+    "fiber": 4,
+    "protein": 10,
+    "salt": 0.9,
+    "sodium": 0.36
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-15T16:42:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

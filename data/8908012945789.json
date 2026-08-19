@@ -1,0 +1,26 @@
+{
+  "barcode": "8908012945789",
+  "name": "Kunafa Bites",
+  "brand": "Pink Harvest Farms",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Milk Couverture Chocolate [Cocoa Beans, Cocoa butter, milk powder (whole milk powder)], Red Lentil Crisps, Pistachio Butter, Organic Natural Unrefined Sugar, Sunflower Lecithin [E322], Vanilla Powder, Sea Salt.",
+  "per_100g": {
+    "energy_kcal": 560,
+    "fat": 38,
+    "saturated_fat": 12,
+    "carbohydrates": 42,
+    "sugars": 14,
+    "fiber": 10,
+    "protein": 13,
+    "salt": 0.35,
+    "sodium": 0.14
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-11T01:54:16Z",
+  "fetched_at": "2026-08-19T13:14:15Z"
+}

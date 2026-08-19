@@ -1,0 +1,29 @@
+{
+  "barcode": "8901262020046",
+  "name": "Pure Milk Cheese Slices",
+  "brand": "Amul",
+  "quantity": "100g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses"
+  ],
+  "ingredients": "Cheese, Milk Solids, Permitted Emulsifying Salts (E331 \u0026 E452) \u0026 Common Salt. CONTAINS PERMITTED CLASS II PRESERVATIVES (E200 \u0026 E234) BEST BEFORE 9 MONTHS FROM PACKAGING WHEN STORED REFRIGE",
+  "per_100g": {
+    "energy_kcal": 311,
+    "fat": 25,
+    "saturated_fat": 16,
+    "carbohydrates": 1.5,
+    "sugars": 1.5,
+    "fiber": null,
+    "protein": 20,
+    "salt": 3,
+    "sodium": 1.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-15T00:39:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

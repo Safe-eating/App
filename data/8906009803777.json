@@ -1,0 +1,35 @@
+{
+  "barcode": "8906009803777",
+  "name": "Waffy - choco flavoured wafer roll",
+  "brand": "Dukes",
+  "quantity": "250 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers",
+    "en:chocolate-biscuits",
+    "en:stuffed-wafers",
+    "en:chocolate-stuffed-wafers",
+    "en:thin-crunchy-wafer-biscuit-with-chocolate"
+  ],
+  "ingredients": "SUGAR, REFINED WHEAT FLOUR, REFINED PALM OIL, COCOA SOLIDS, DEXTROSE, MILK SOLIDS, STARCH, EMULSIFIER (322) AND IODIZED SALT. CONTAINS PERMITTED NATURAL COLOUR (150d) AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES-CHOCOLATE AND VANILLA),",
+  "per_100g": {
+    "energy_kcal": 470.8,
+    "fat": 16.5,
+    "saturated_fat": 7,
+    "carbohydrates": 75.7,
+    "sugars": 47.1,
+    "fiber": null,
+    "protein": 5.4,
+    "salt": 0.29025,
+    "sodium": 0.1161
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-09T09:07:05Z",
+  "fetched_at": "2026-08-19T01:59:01Z"
+}

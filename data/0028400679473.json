@@ -1,0 +1,31 @@
+{
+  "barcode": "0028400679473",
+  "name": "Doritos \u0026 Cheetos Mix",
+  "brand": "Doritos",
+  "quantity": "18 bags",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips"
+  ],
+  "ingredients": "ENRICHED CORN MEAL (CORN MEAL, FERROUS SULFATE, NIACIN, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), VEGETABLE OIL (CORN, CANOLA, AND/OR SUNFLOWER OIL), CHEESE SEASONING (WHEY, CHEDDAR CHEESE [MILK, CHEESE CULTURES, SALT, ENZYMES], CANOLA OIL, MALTODEXTRIN [MADE FROM CORN], NATURAL AND ARTIFICIAL FLAVORS, SALT, WHEY PROTEIN CONCENTRATE, MONOSODIUM GLUTAMATE, LACTIC ACID, CITRIC ACID, ARTIFICIAL COLOR [YELLOW 6]), SALT, CORN, CORN STARCH, TOMATO POWDER, LACTOSE, SKIM MILK, ONION POWDER, SUGAR, GARLIC POWDER, DEXTROSE, MALIC ACID, CORN SYRUP SOLIDS, BUTTERMILK, SODIUM ACETATE, ARTIFICIAL COLOR (RED 40, BLUE 1, YELLOW 5), SPICE, DISODIUM INOSINATE, DISODIUM GUANYLATE, ROMANO CHEESE (COW'S MILK, CHEESE CULTURES, SALT, ENZYMES), CORN FLOUR, YELLOW 6 LAKE, YELLOW 5 LAKE, RED 40, POTASSIUM SALT, SODIUM CASEINATE",
+  "per_100g": {
+    "energy_kcal": 150,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 18,
+    "sugars": 0,
+    "fiber": 1,
+    "protein": 2,
+    "salt": 0.7,
+    "sodium": 0.28
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T15:39:09Z",
+  "fetched_at": "2026-08-18T23:53:36Z"
+}

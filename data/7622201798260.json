@@ -1,0 +1,31 @@
+{
+  "barcode": "7622201798260",
+  "name": "Cadbury gems",
+  "brand": "Cadbury",
+  "quantity": "7.9g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:sugar-coated-chocolate-confectioneries"
+  ],
+  "ingredients": "Sugar, Hydrogenated Oils, Cocoa Solids (8%), Whey Permeate Powder, Milk Solids, Refined Wheat Flour, Emulsifiers (E 414,E 442, E 476), Colours (E 171, E 102,E 133,E 124,E 127, E 122, E 132, E 110), Glazing Agent (E 903), Liquid Glucose, Natural Flavours, Nature identical Flavours, Artificial Flavouring Substances (Caramel and Vanilla)",
+  "per_100g": {
+    "energy_kcal": 468,
+    "fat": 17.5,
+    "saturated_fat": 17.3,
+    "carbohydrates": 75.1,
+    "sugars": 70,
+    "fiber": 0,
+    "protein": 3.6,
+    "salt": 0.185,
+    "sodium": 0.074
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-03T10:47:00Z",
+  "fetched_at": "2026-08-19T00:09:10Z"
+}

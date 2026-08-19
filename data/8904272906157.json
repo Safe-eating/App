@@ -1,0 +1,27 @@
+{
+  "barcode": "8904272906157",
+  "name": "Namaskaram Bhavnagri Ghatiya",
+  "brand": "Namaskaram",
+  "quantity": "150 g",
+  "categories": [
+    "en:snacks",
+    "en:Gathiya"
+  ],
+  "ingredients": "Gram Flour (59%), Refine Palmolein Oil (40%), Asafoetida, Carom Seeds, Alkaline Salt (Papad Khar),Sodium Bicarbonate \u0026 Salt.",
+  "per_100g": {
+    "energy_kcal": 607.142857142857,
+    "fat": 46.4285714285714,
+    "saturated_fat": 17.8571428571429,
+    "carbohydrates": 39.2857142857143,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 14.2857142857143,
+    "salt": 1.36607142857143,
+    "sodium": 0.546428571428571
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-27T23:33:07Z",
+  "fetched_at": "2026-08-19T01:40:16Z"
+}

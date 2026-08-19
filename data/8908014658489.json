@@ -1,0 +1,36 @@
+{
+  "barcode": "8908014658489",
+  "name": "kettle style cream and onion",
+  "brand": "the theather project",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Palmolein Oils Sunflower Oil), Sugar, lodised Salt, Milk Solids (1.7 %), Cheese Powder (1.3%), Dehydrated Vegetable Powder (Onion (0.8%), Garlic), Yeast Extract Powder, Acidity Regulator (INS 270), Herb (Parsley), Flavour Enhancer (INS 627, INS 631), Flavour (Natural and Nature Identical Flavouring Substances), Anticaking Agent (INS 551) Contains: Milk. May contains Soy, Wheat and Nut.",
+  "per_100g": {
+    "energy_kcal": 512.74,
+    "fat": 27.3,
+    "saturated_fat": 13.46,
+    "carbohydrates": 59.2,
+    "sugars": 2.57,
+    "fiber": null,
+    "protein": 7.56,
+    "salt": 0.6,
+    "sodium": 0.24
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-28T06:58:07Z",
+  "fetched_at": "2026-08-19T13:15:48Z"
+}

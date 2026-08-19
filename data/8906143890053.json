@@ -1,0 +1,35 @@
+{
+  "barcode": "8906143890053",
+  "name": "Unsweetened Peanut Butter",
+  "brand": "The Whole Truth",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:nuts-and-their-products",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:nut-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "peanuts 100%",
+  "per_100g": {
+    "energy_kcal": 651.428571428571,
+    "fat": 53.4285714285714,
+    "saturated_fat": 5.14285714285714,
+    "carbohydrates": 17.7142857142857,
+    "sugars": 3.42857142857143,
+    "fiber": 8.57142857142857,
+    "protein": 25.1428571428571,
+    "salt": 0.065,
+    "sodium": 0.026
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-15T08:37:01Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

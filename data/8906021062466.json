@@ -1,0 +1,32 @@
+{
+  "barcode": "8906021062466",
+  "name": "Molsi's Cashew Pepper Dry Roasted",
+  "brand": "Molsi's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:cashew-nuts",
+    "en:roasted-nuts",
+    "en:roasted-cashew-nuts"
+  ],
+  "ingredients": "Cashew nuts, Pepper \u0026 Salt",
+  "per_100g": {
+    "energy_kcal": 614,
+    "fat": 46.42,
+    "saturated_fat": 10.71,
+    "carbohydrates": 32.14,
+    "sugars": 6,
+    "fiber": 7.14,
+    "protein": 14.28,
+    "salt": 0.875,
+    "sodium": 0.35
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-26T02:42:28Z",
+  "fetched_at": "2026-08-19T02:08:29Z"
+}

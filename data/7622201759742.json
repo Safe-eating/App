@@ -1,0 +1,31 @@
+{
+  "barcode": "7622201759742",
+  "name": "Dairy Milk Silk Ganache",
+  "brand": "Cadbury",
+  "quantity": "146 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:milk-chocolates",
+    "en:milk-chocolate-bar"
+  ],
+  "ingredients": "Super, Cocoa Solids, Cocoa Butter, Milk Solids (15%), Emulsifier (322), Flavour (Nature Identicsl Flavouring Substance)",
+  "per_100g": {
+    "energy_kcal": 567,
+    "fat": 36.5,
+    "saturated_fat": 25,
+    "carbohydrates": 54.6,
+    "sugars": 48.5,
+    "fiber": null,
+    "protein": 6.7,
+    "salt": 0.065,
+    "sodium": 0.026
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-15T07:16:08Z",
+  "fetched_at": "2026-08-19T00:08:47Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8906143891661",
+  "name": "Whey Protein Concentrate Unflavoured",
+  "brand": "The Whole Truth",
+  "quantity": "1KG",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:whey-protein"
+  ],
+  "ingredients": "Whey protein concentrate 99.4%, bromelain  0.6%, Sunflower lecithin",
+  "per_100g": {
+    "energy_kcal": 386,
+    "fat": 4.85714285714286,
+    "saturated_fat": 3.14285714285714,
+    "carbohydrates": 9.14285714285714,
+    "sugars": 6.28571428571429,
+    "fiber": 0.114285714285714,
+    "protein": 75.7142857142857,
+    "salt": 0.467142857142857,
+    "sodium": 0.186857142857143
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-04T06:35:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

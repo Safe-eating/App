@@ -1,0 +1,35 @@
+{
+  "barcode": "8906035030918",
+  "name": "Groundnut Oil",
+  "brand": "Freedom",
+  "quantity": "1 l (910 g)",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:fats",
+    "en:nuts-and-their-products",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:nut-oils",
+    "en:legume-oils",
+    "en:peanut-oils"
+  ],
+  "ingredients": "Groundnut Oil:100%",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 30,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-28T16:48:32Z",
+  "fetched_at": "2026-08-19T12:34:53Z"
+}

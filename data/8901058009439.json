@@ -1,0 +1,30 @@
+{
+  "barcode": "8901058009439",
+  "name": "munch",
+  "brand": "Nestle",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolates"
+  ],
+  "ingredients": "DEC/24-ALIG 8 Sugar, Refined Wheat flour (Maida), Hydrogenated vegetable fats, Fractionated vegetable fat Milk solids, Cocoa solids (3.8%), Emulsifier (Soya lecithin and 476), Raising agent (500) Yeast, lodized salt, Flour treatment agent (516), Artificial (Vanilla) flavouring substances. Allergen Note C Mkt-by: Nestle Indi Barakhamba Lane Mig by: Nestlé Ind Area Tahliwal, Tel Lic. No. 10012062",
+  "per_100g": {
+    "energy_kcal": 424,
+    "fat": 22.3,
+    "saturated_fat": 22.1,
+    "carbohydrates": 50.4,
+    "sugars": 32.6,
+    "fiber": null,
+    "protein": 5.6,
+    "salt": 0.22275,
+    "sodium": 0.0891
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T03:25:25Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

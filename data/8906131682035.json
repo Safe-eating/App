@@ -1,0 +1,24 @@
+{
+  "barcode": "8906131682035",
+  "name": "Mighty Puffs Cheddar Cheese",
+  "brand": "Slurrp Farm",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 435,
+    "fat": 18,
+    "saturated_fat": 3.5,
+    "carbohydrates": 60,
+    "sugars": 4.5,
+    "fiber": 4.5,
+    "protein": 6.5,
+    "salt": 2.0625,
+    "sodium": 0.825
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-20T14:12:38Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

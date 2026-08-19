@@ -1,0 +1,26 @@
+{
+  "barcode": "8906070320135",
+  "name": "Khatta Meetha",
+  "brand": "Haldiram",
+  "quantity": "200g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Gram Pulses, Lentils, Flaked Rice, Sago, Corn Chips, Peanuts, Edible Vegetable Oil, Curry Leaves, Red Chilli, Sugar, lodised Salt, Spices \u0026 Lemon Powder.",
+  "per_100g": {
+    "energy_kcal": 500,
+    "fat": 35.68,
+    "saturated_fat": 11.68,
+    "carbohydrates": 38.56,
+    "sugars": 3.2,
+    "fiber": null,
+    "protein": 10.68,
+    "salt": 1.55,
+    "sodium": 0.62
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-31T04:27:31Z",
+  "fetched_at": "2026-08-19T12:42:38Z"
+}

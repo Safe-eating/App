@@ -1,0 +1,30 @@
+{
+  "barcode": "8901030421501",
+  "name": "Cassatta",
+  "brand": "Kwality Wall's",
+  "quantity": "70 g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "MEDIUM FAT FROZEN DESSERT 3 FLAVOURED FROZEN DESSERT WITH VEGETARIAN CAKE INGREDIENTS: Water, Vegetarian Cake - (13%) (Water, Wheat Flour, Sugar, Milk Solids, Soyabean Oil, Raising Agents 500 (II), 541(I), Starch, Emulsifiers - 473, 477, 471, 481(1), Stabilizer 415, Dextrose, Salt, Maltodextrin CONTAINS NATURE IDENTICAL \u0026 ARTIFICIAL VANILLA FLAVOURING SUBSTANCES), Sugar, Cashew Nuts (8.63%), Palm Oil, Milk Solids, Glazed Fruits (4.30%) (Papaya Pieces, Sugar, Acidity Regulator-330. CONTAINS PERMITTED CLASS II PRESERVATIVE - 211 AND SYNTHETIC FOOD COLOURS 102, 110, 122, 124), Liquid Glucose, Vegetable Protein (Soy), Emulsifier 471, Stabilizers - 410, 412, 407, Acidity Regulator 330. CONTAINS PERMITTED SYNTHETIC FOOD COLOURS-102, 110 AND ADDED FLAVOURS-NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES.  FROZEN DESSERTS CONTAIN EDIBLE VEGETABLE OIL",
+  "per_100g": {
+    "energy_kcal": 141.428571428571,
+    "fat": 2.85714285714286,
+    "saturated_fat": 0,
+    "carbohydrates": 27.1428571428571,
+    "sugars": 15.7142857142857,
+    "fiber": 2.28571428571429,
+    "protein": 2.85714285714286,
+    "salt": 0.135714285714286,
+    "sodium": 0.0542857142857143
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-02T23:55:36Z",
+  "fetched_at": "2026-08-19T00:14:14Z"
+}

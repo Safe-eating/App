@@ -1,0 +1,27 @@
+{
+  "barcode": "8909106069060",
+  "name": "Kissan Teekhi Lehsun Mirch Chutney",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:condiments",
+    "en:sauces"
+  ],
+  "ingredients": "vegetables(47%): freshly minced garlic, Red chilli paste  tomato paste, Coriander puree), Water, Refined soybean oil. Spices \u0026 condiments: mathania red chili powder, Coriander powder  red chili powder, Roasted cumin powder (0, 1% 11, 10dised salt, Sugar, Acetic \u0026 citric acid, Nature identical \u0026 natural flavoring substances, Preservative sodium benzoate",
+  "per_100g": {
+    "energy_kcal": 248,
+    "fat": 17.4,
+    "saturated_fat": 2.8,
+    "carbohydrates": 19.9,
+    "sugars": 2.8,
+    "fiber": null,
+    "protein": 3.5,
+    "salt": 0,
+    "sodium": 1.334
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-05T18:37:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8906009011318",
+  "name": "sugar",
+  "brand": "parry's",
+  "quantity": "500g",
+  "categories": [
+    "en:sweeteners",
+    "en:sugars"
+  ],
+  "ingredients": "Sugar",
+  "per_100g": {
+    "energy_kcal": 400,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 99.95,
+    "sugars": 99.95,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2023-09-22T11:12:25Z",
+  "fetched_at": "2026-08-19T01:56:27Z"
+}

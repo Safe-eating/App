@@ -1,0 +1,31 @@
+{
+  "barcode": "8901042970035",
+  "name": "Seviyan Vermicelli",
+  "brand": "MTR",
+  "quantity": "850 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:cereal-semolinas",
+    "en:wheat-semolinas"
+  ],
+  "ingredients": "Wheat semolina. Allergen Advice: Contains Wheat Gluten.",
+  "per_100g": {
+    "energy_kcal": 362,
+    "fat": 0.4,
+    "saturated_fat": 0.1,
+    "carbohydrates": 78.6,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 11,
+    "salt": 0.005,
+    "sodium": 0.002
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-12T01:37:33Z",
+  "fetched_at": "2026-08-19T00:22:49Z"
+}

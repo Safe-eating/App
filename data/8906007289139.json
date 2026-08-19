@@ -1,0 +1,28 @@
+{
+  "barcode": "8906007289139",
+  "name": "Fortune Atta",
+  "brand": "Fortune",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:flours"
+  ],
+  "ingredients": "Wheat flour",
+  "per_100g": {
+    "energy_kcal": 365.3,
+    "fat": 2.1,
+    "saturated_fat": 1.9,
+    "carbohydrates": 73.7,
+    "sugars": 0.8,
+    "fiber": null,
+    "protein": 12.9,
+    "salt": 0.01675,
+    "sodium": 0.0067
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-17T09:26:48Z",
+  "fetched_at": "2026-08-19T01:54:59Z"
+}

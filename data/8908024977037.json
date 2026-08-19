@@ -1,0 +1,28 @@
+{
+  "barcode": "8908024977037",
+  "name": "Strawberry Creme",
+  "brand": "Superyou",
+  "quantity": "40g",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-bars"
+  ],
+  "ingredients": "PROTEIN BLEND (FERMENTED NUTRITIONAL YEAST PROTEIN (22%) + MILK SOLIDS), EDIBLE VEGETABLE FATS (HYDROGENATED COCONUT OILS, INS 322), SWEETENER (INS 965(i)), REFINED WHEAT FLOUR (MAIDA), STARCH, EMULSIFIER (INS 322), EDIBLE COMMON SALT, IMPROVER ENZYME,STRAWBERRY FRUIT POWDER (0.01%), CONTAINS PERMITTED NATURAL FOOD COLOR (INS 162) AND ADDED FLAVORS - NATURE IDENTICAL FLAVORING SUBSTANCES (STRAWBERRY), ARTIFICIAL FLAVOURING SUBSTANCES (ETHYL VANILLIN).",
+  "per_100g": {
+    "energy_kcal": 470,
+    "fat": 25.9,
+    "saturated_fat": 18.2,
+    "carbohydrates": 50,
+    "sugars": 8.85,
+    "fiber": 7.6,
+    "protein": 25,
+    "salt": 1.10625,
+    "sodium": 0.4425
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-24T20:25:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

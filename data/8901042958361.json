@@ -1,0 +1,26 @@
+{
+  "barcode": "8901042958361",
+  "name": "Idli/Dosa/Chilly Chutney Powder",
+  "brand": "MTR",
+  "quantity": "100g",
+  "categories": [
+    "en:condiments"
+  ],
+  "ingredients": "Black gram splits (84%), Red chilli (8.5%), Iodised salt, Mustard seeds (0.7%), Lemon premix [Maltodextrin (Corn), Acidity Regulators (INS 330, INS 334) and Nature identical flavouring substance], Acidity Regulators (INS 330), Curry leaves powder and Asafoetida",
+  "per_100g": {
+    "energy_kcal": 302,
+    "fat": 2.4,
+    "saturated_fat": 0.4,
+    "carbohydrates": 48.6,
+    "sugars": 1.2,
+    "fiber": null,
+    "protein": 21.6,
+    "salt": 2.156,
+    "sodium": 0.8624
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-08T16:24:32Z",
+  "fetched_at": "2026-08-19T00:22:24Z"
+}

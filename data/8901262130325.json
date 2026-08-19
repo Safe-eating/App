@@ -1,0 +1,27 @@
+{
+  "barcode": "8901262130325",
+  "name": "Amul Pro Chocolate 500g pp",
+  "brand": "Amul",
+  "quantity": "5",
+  "categories": [
+    "en:beverages",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "Malt extract (42%), sugar, milk solids (13%), colours (150c, 162), cocoa solids (2%), artificial flavouring substances (milk caramel, cocoa chocolate, malted milk, emulsifiers (322, 471), vitamins, minerals, DHA, raising agent [500(ii)], iodized salt. Allergen Information: Contains barley, milk.",
+  "per_100g": {
+    "energy_kcal": 365,
+    "fat": 3.3,
+    "saturated_fat": 1.5,
+    "carbohydrates": 75.8,
+    "sugars": 64.8,
+    "fiber": null,
+    "protein": 8,
+    "salt": 0.5,
+    "sodium": 0.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-25T09:25:09Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

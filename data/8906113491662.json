@@ -1,0 +1,35 @@
+{
+  "barcode": "8906113491662",
+  "name": "Tata Soulfull Rusk Elaichi",
+  "brand": "Tata Soulfull",
+  "quantity": "183g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:breads",
+    "en:rusks"
+  ],
+  "ingredients": "Wheat Flour (Atta), Refined Sugar, Jowar Flour (16%), Refined Palm Oil, Wheat Gluten, Baker's Yeast, lodised Salt, Cardamom Seed (0.3%), Colour (INS 150a), Stabilizer (INS 472e), Nature-Identical Flavouring Substances. ALLERGENS: Contains Soy, Wheat.",
+  "per_100g": {
+    "energy_kcal": 447,
+    "fat": 12.3,
+    "saturated_fat": 5,
+    "carbohydrates": 72.3,
+    "sugars": 23.6,
+    "fiber": 14.3,
+    "protein": 11.9,
+    "salt": 0.795,
+    "sodium": 0.289
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-13T09:38:57Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

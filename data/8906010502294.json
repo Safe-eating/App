@@ -1,0 +1,30 @@
+{
+  "barcode": "8906010502294",
+  "name": "Flaming hot nachos",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "CORN (74%), EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN), EDIBLE COMMON SALT, CHILLI POWDER, BLACK SALT, MALTODEXTRIN, DEHYDRATED VEGETABLE POWDER (GARLIC, ONION, LEMON), HYDROLYZED VEGETABLE PROTEIN (SOYA), ACIDITY REGULATOR (INS 330), FLAVOUR ENHANCER (INS 627, INS 631), YEAST EXTRACT, OREGANO, ANTICAKING AGENT (INS 551), NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES (CHILLI, LEMON), PAPRIKA EXTRACT (INS 160C).",
+  "per_100g": {
+    "energy_kcal": 557,
+    "fat": 30.9,
+    "saturated_fat": 14,
+    "carbohydrates": 57,
+    "sugars": 0.1,
+    "fiber": null,
+    "protein": 9,
+    "salt": 1.79,
+    "sodium": 0.716
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T21:01:39Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8901058023848",
+  "name": "Baby Cereal Rice",
+  "brand": "Nestlé,Nestum",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:baby-foods"
+  ],
+  "ingredients": "Rice flour (86.9%), Sugar, Apple juice concentrate, Minerals, Acidity regulator (Dibasic potassium phosphate), Vitamins, Inositol and Enzyme (Alpha amylase).",
+  "per_100g": {
+    "energy_kcal": 370,
+    "fat": 0.2,
+    "saturated_fat": 0.401031285714286,
+    "carbohydrates": 86.2,
+    "sugars": 14.5,
+    "fiber": 0.5,
+    "protein": 6,
+    "salt": 0.03,
+    "sodium": 0.012
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-26T06:52:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

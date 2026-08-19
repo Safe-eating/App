@@ -1,0 +1,30 @@
+{
+  "barcode": "8906155440130",
+  "name": "Cashews",
+  "brand": "Om",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:cashew-nuts"
+  ],
+  "ingredients": "Cashews",
+  "per_100g": {
+    "energy_kcal": 598,
+    "fat": 44.5,
+    "saturated_fat": 7.8,
+    "carbohydrates": 30.1,
+    "sugars": 6,
+    "fiber": null,
+    "protein": 19.2,
+    "salt": 0.03,
+    "sodium": 0.012
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-27T02:53:06Z",
+  "fetched_at": "2026-08-19T13:00:41Z"
+}

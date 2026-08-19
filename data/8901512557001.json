@@ -1,0 +1,31 @@
+{
+  "barcode": "8901512557001",
+  "name": "Nachos Cripsy \u0026 Crunchy",
+  "brand": "Act 2",
+  "quantity": "139 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips"
+  ],
+  "ingredients": "Corn (68%), Refined Edible Palmolein Oil Natural Flavour (Chilli), Nature Identical Flavour (Cheese) Antioxidant (TBHQ)), Sugar, Maltodextrin, lodized Salt, Milk Solids (Whey Powder (0.5%)}, Acidity Regul Citric Acid)\u0026Cheese Powder (0.08%). Contains Milk and its products. Image on the front panel is for representation Purpose only. ACT 1 and movie marquee logo are registered trademarks of ConAgra Foods RDM, LLC.",
+  "per_100g": {
+    "energy_kcal": 195,
+    "fat": 24,
+    "saturated_fat": 10,
+    "carbohydrates": 65,
+    "sugars": 2.6,
+    "fiber": 4.7,
+    "protein": 7,
+    "salt": 1.325,
+    "sodium": 0.53
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T15:39:34Z",
+  "fetched_at": "2026-08-19T00:54:34Z"
+}

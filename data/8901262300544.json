@@ -1,0 +1,24 @@
+{
+  "barcode": "8901262300544",
+  "name": "Epic Almond Gold With Belgian Chocolate",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 371.929824561404,
+    "fat": 28.5964912280702,
+    "saturated_fat": 18.4210526315789,
+    "carbohydrates": 26.140350877193,
+    "sugars": 23.5087719298246,
+    "fiber": null,
+    "protein": 4.21052631578947,
+    "salt": 0.087719298245614,
+    "sodium": 0.0350877192982456
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T08:35:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063026278",
+  "name": "Nutri Choice Sugar Free Crackers",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:crackers-appetizers"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (90%), REFINED PALM\u0026PALMOLEIN OIL, RAISING AGENTS [503(ii) \u0026 500(ii)], IODISED SALT, MILK SOLIDS, YEAST, EMULSIFIER [322(i)], ACIDITY REGULATORS (330 \u0026 334), NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES, DOUGH CONDITIONER (223) AND IMPROVERS [1101(i) \u0026 1100(i)]. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK, SOYA AND SULPHITE.",
+  "per_100g": {
+    "energy_kcal": 463,
+    "fat": 15,
+    "saturated_fat": 7,
+    "carbohydrates": 72,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 10,
+    "salt": 1.5125,
+    "sodium": 0.605
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-20T04:39:48Z",
+  "fetched_at": "2026-08-19T00:29:39Z"
+}

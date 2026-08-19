@@ -1,0 +1,30 @@
+{
+  "barcode": "7622202329494",
+  "name": "Dairy Milk (Classic milk chocolate variant)",
+  "brand": "Cadbury",
+  "quantity": "40 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:milk-chocolates"
+  ],
+  "ingredients": "Sugar, Milk Solids (23%), Cocoa Butter, Cocoa Solids, Fractionated Fat, Emulsifiers (442,476), Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances).  CONTAINS COCOA BUTTER EQUIVALENT IN ADDITION TO COCOA BUTTER Alergen information: Contains Milk, Soy. May Contain Tree Nuts, Wheat, Barley",
+  "per_100g": {
+    "energy_kcal": 531,
+    "fat": 29,
+    "saturated_fat": 19.6,
+    "carbohydrates": 60.4,
+    "sugars": 57,
+    "fiber": null,
+    "protein": 7.9,
+    "salt": 0.3225,
+    "sodium": 0.129
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T15:43:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

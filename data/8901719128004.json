@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719128004",
+  "name": "Parle-G Oats \u0026 berries",
+  "brand": "Parle",
+  "quantity": "93.75g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (64.5%), SUGAR, REFINED PALM OIL, ROLLED OATS (5%), INVERT SUGAR SYRUP, DRIED SWEETENED CRANBERRY (1.1%), I0DISED SALT, RAISING AGENTS (583, 500), BARLEY FLOUR(0.5%), EMULSIFIERS OF VEGETABLE ORIGIN (472e) CONTAINS PERMITTED ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES CRANBERRY AND CEREAL)",
+  "per_100g": {
+    "energy_kcal": 445,
+    "fat": 11.2,
+    "saturated_fat": 5,
+    "carbohydrates": 78.8,
+    "sugars": 25.6,
+    "fiber": null,
+    "protein": 7.2,
+    "salt": 0.0007575,
+    "sodium": 0.000303
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-03T18:27:08Z",
+  "fetched_at": "2026-08-19T01:01:19Z"
+}

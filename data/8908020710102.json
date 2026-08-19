@@ -1,0 +1,29 @@
+{
+  "barcode": "8908020710102",
+  "name": "Coffee Fudge",
+  "brand": "wholy",
+  "quantity": "40g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:fudge"
+  ],
+  "ingredients": "Cake: atta (whole wheat flour), prebiotic fiber (fructooligosaccharides), edible vegetable oil (sunflower), dark compound no added sugar (maltitol, edible vegetable oil, cocoa solids, emulsifier (soy lecithin), vanillin), cocoa solids 6%, milk solids, coffee, brown rice syrup, corn syrup solids, erythritol, vegetable glycerin, modified starch (INS 1422), plant based emulsifier (INS 471, INS 477), baking powder, salt chocolate filling: jaggery, edible vegetable fat, edible vegetable oil, cocoa solids, emulsifier (soy lecithin), vanillin CONTAINS ADDED NATURE IDENTICAL FLAVORS (VANILLA, CHOCOLATE) CONTAINS OLIGOFRUCTOSE (DIETARY FIBER) 9.1gm/100gm ALLERGENS: GLUTEN, DAIRY, SOY, NUTS AND TREE NUTS POLYOLS MAY ALSO HAVE LAXATIVE SIDE EFFECTS",
+  "per_100g": {
+    "energy_kcal": 438.25,
+    "fat": 19,
+    "saturated_fat": 4,
+    "carbohydrates": 55.25,
+    "sugars": 20,
+    "fiber": 11,
+    "protein": 5.75,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-28T12:34:31Z",
+  "fetched_at": "2026-08-19T13:20:56Z"
+}

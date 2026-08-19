@@ -1,0 +1,29 @@
+{
+  "barcode": "7622201685638",
+  "name": "Dairy Milk Silky Bubbly BubbleGum",
+  "brand": "Cadbury",
+  "quantity": "120g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates"
+  ],
+  "ingredients": "Flavored White Chocolate (60%)(Sugar, Cocoa Butter, Milk Solids (19%), Whey, Color (162), emulsifiers(442, 476)), Milk Chocolate (40%)(Sugar, Nature identical and artificial (Vanilla) flavoring substances). Contains added bubblegum flavor",
+  "per_100g": {
+    "energy_kcal": 544,
+    "fat": 31.6,
+    "saturated_fat": 21.1,
+    "carbohydrates": 58.9,
+    "sugars": 58.3,
+    "fiber": null,
+    "protein": 6.5,
+    "salt": 0.335,
+    "sodium": 0.134
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-23T10:52:02Z",
+  "fetched_at": "2026-08-19T00:08:02Z"
+}

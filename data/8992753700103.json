@@ -1,0 +1,24 @@
+{
+  "barcode": "8992753700103",
+  "name": "frisian flag uht coconut DELIGHT ktk 225ml",
+  "brand": "Frisian Flag",
+  "quantity": "225ml",
+  "categories": null,
+  "ingredients": "RH 30",
+  "per_100g": {
+    "energy_kcal": 66.6666666666667,
+    "fat": 2.22222222222222,
+    "saturated_fat": 1.33333333333333,
+    "carbohydrates": 9.33333333333333,
+    "sugars": 7.11111111111111,
+    "fiber": null,
+    "protein": 2.22222222222222,
+    "salt": 0.111111111111111,
+    "sodium": 0.0444444444444444
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-02T10:58:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906081120052",
+  "name": "Roasted \u0026 Salted California Pistachios",
+  "brand": "Happilo",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:pistachios"
+  ],
+  "ingredients": "Roasted Pistachios \u0026 Pink Salt.",
+  "per_100g": {
+    "energy_kcal": 568,
+    "fat": 46,
+    "saturated_fat": 2,
+    "carbohydrates": 29,
+    "sugars": 7,
+    "fiber": 11,
+    "protein": 21,
+    "salt": 0.3,
+    "sodium": 0.12
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-14T13:26:24Z",
+  "fetched_at": "2026-08-19T12:46:14Z"
+}

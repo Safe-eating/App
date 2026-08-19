@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063092617",
+  "name": "Good Day Butter Cookies",
+  "brand": "Britannia",
+  "quantity": "68g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, BUTTER (2%), INVERT SUGAR SYRUP, MILK SOLIDS, RAISING AGENTS (503(ii), 500(ii)], IODISED SALT, EMULSIFIERS [322(i), 471, 472e] AND FLAVOURS [NATURAL, NATURE IDENTICAL \u0026 ARTIFICIAL (BUTTER, MILK \u0026 VAMILLA) FLAVOURING SUBSTANCES]. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SOYA.",
+  "per_100g": {
+    "energy_kcal": 494,
+    "fat": 22,
+    "saturated_fat": 11,
+    "carbohydrates": 67,
+    "sugars": 22,
+    "fiber": null,
+    "protein": 7,
+    "salt": 255,
+    "sodium": 102
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-18T17:41:26Z",
+  "fetched_at": "2026-08-19T00:30:43Z"
+}

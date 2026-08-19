@@ -1,0 +1,24 @@
+{
+  "barcode": "8901063142718",
+  "name": "Oats \u0026 Millets Orange Flavour Cookies",
+  "brand": "Britannia Nutrichoice",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 471,
+    "fat": 19.4,
+    "saturated_fat": 8.5,
+    "carbohydrates": 70.3,
+    "sugars": 15.6,
+    "fiber": 8,
+    "protein": 7.8,
+    "salt": 0.8775,
+    "sodium": 0.351
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-11T08:16:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

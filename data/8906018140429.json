@@ -1,0 +1,30 @@
+{
+  "barcode": "8906018140429",
+  "name": "Puff Dough Paratha",
+  "brand": "Switz",
+  "quantity": "400 grams",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), WATER, EDIBLE VEGETABLE FAT (PALM), RICE FLOUR, SUGAR, SALT, BAKING POWDER [INS 500ii] ALLERGEN ADVICE: Contains Wheat (Gluten)",
+  "per_100g": {
+    "energy_kcal": 330,
+    "fat": 14,
+    "saturated_fat": 8,
+    "carbohydrates": 43,
+    "sugars": 3,
+    "fiber": 10,
+    "protein": 8,
+    "salt": 0.425,
+    "sodium": 0.17
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-12T09:08:34Z",
+  "fetched_at": "2026-08-19T02:06:23Z"
+}

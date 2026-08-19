@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063368026",
+  "name": "Gobbles fruit cake 55gm",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:bars",
+    "en:cakes"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 427,
+    "fat": 19.7,
+    "saturated_fat": 9.5,
+    "carbohydrates": 56.4,
+    "sugars": 25.2,
+    "fiber": null,
+    "protein": 5.9,
+    "salt": 0.5775,
+    "sodium": 0.231
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-28T16:18:12Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8906043199751",
+  "name": "Pramod Jhal Mix",
+  "brand": "Pramod",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks"
+  ],
+  "ingredients": "Gram Flour (22%), Edible Vegetable Oil (Palmolein Oil, Corn Oil), Ground Nut (Peanuts (15%)), Red Lentils (5%), Rice Flour, Pressed Rice, Corn Flakes, Refined Wheat Flour, lodised Salt, Black Salt, *Spices and Condiments (Red Chilli Powder, Turmeric Powder, Carom Seeds Powder, Bay Leaf, Cloves, Asafoetida Powder, Dry Onion Powder, Mango Powder, Tomato Powder), Sugar Powder and Acidity Regulator (INS 330). *Used as Natural Flavouring Agent. Peanuts, Gluten",
+  "per_100g": {
+    "energy_kcal": 556.3,
+    "fat": 36.5,
+    "saturated_fat": 15.4,
+    "carbohydrates": 48.2,
+    "sugars": 1.5,
+    "fiber": null,
+    "protein": 8.5,
+    "salt": 1.3325,
+    "sodium": 0.533
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-03T01:32:04Z",
+  "fetched_at": "2026-08-19T12:36:49Z"
+}

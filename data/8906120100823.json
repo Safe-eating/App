@@ -1,0 +1,30 @@
+{
+  "barcode": "8906120100823",
+  "name": "Farmley Cream \u0026 Onion Makhana",
+  "brand": "Farmley",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:seeds",
+    "en:fox-nuts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 470,
+    "fat": 21,
+    "saturated_fat": 9.5,
+    "carbohydrates": 62,
+    "sugars": 5.2,
+    "fiber": 11.9,
+    "protein": 7.8,
+    "salt": 0.6875,
+    "sodium": 0.275
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-02T19:06:11Z",
+  "fetched_at": "2026-08-19T12:54:36Z"
+}

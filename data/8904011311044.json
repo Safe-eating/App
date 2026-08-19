@@ -1,0 +1,31 @@
+{
+  "barcode": "8904011311044",
+  "name": "Ghee",
+  "brand": "Aavin",
+  "quantity": "500 ml",
+  "categories": [
+    "en:dairies",
+    "en:spreads",
+    "en:fats",
+    "en:spreadable-fats",
+    "en:milkfat",
+    "en:butter-oil-or-concentrated-butter"
+  ],
+  "ingredients": "Milk Fat",
+  "per_100g": {
+    "energy_kcal": 897,
+    "fat": 99.7,
+    "saturated_fat": 63.9,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-09T13:12:10Z",
+  "fetched_at": "2026-08-19T01:26:15Z"
+}

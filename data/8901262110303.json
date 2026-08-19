@@ -1,0 +1,28 @@
+{
+  "barcode": "8901262110303",
+  "name": "Whey Shake",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders"
+  ],
+  "ingredients": "Whey protein concentrate, cocoa powder (3%), chocolate vanilla flavor, INS355, beta-galactosidase",
+  "per_100g": {
+    "energy_kcal": 383,
+    "fat": 5,
+    "saturated_fat": 3,
+    "carbohydrates": 10.6,
+    "sugars": 10,
+    "fiber": null,
+    "protein": 74,
+    "salt": 0.33,
+    "sodium": 0.132
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-25T06:32:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

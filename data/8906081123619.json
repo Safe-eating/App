@@ -1,0 +1,36 @@
+{
+  "barcode": "8906081123619",
+  "name": "Californian Almonds",
+  "brand": "Happilo",
+  "quantity": "450g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:dried-products",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:almonds",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits"
+  ],
+  "ingredients": "Almonds",
+  "per_100g": {
+    "energy_kcal": 626.666666666667,
+    "fat": 51.3333333333333,
+    "saturated_fat": 4.66666666666667,
+    "carbohydrates": 18.6666666666667,
+    "sugars": 3.33333333333333,
+    "fiber": 10.6666666666667,
+    "protein": 22.6666666666667,
+    "salt": 0.055,
+    "sodium": 0.022
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-28T04:42:29Z",
+  "fetched_at": "2026-08-19T12:46:46Z"
+}

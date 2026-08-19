@@ -1,0 +1,26 @@
+{
+  "barcode": "8901030902390",
+  "name": "knorr sweet corn Veg",
+  "brand": "Knorr",
+  "quantity": "9",
+  "categories": [
+    "en:Food doup"
+  ],
+  "ingredients": "Soup Powder. Ingredients: Stgar, Potato Starch, Maltodextrin, lodised salt, \u0026quot;Dehydrated Vegetables (Coin (5.3%), Leeks (0.5%)), Hydrolyzed Vegetable Protein, Thickeners (412 \u0026 415), Flavours - Nature Identical, Artificial (Corn) and Natural (Garlic) Flavouring Substances, Dehydrated Carrot Flakes (2.6%), Hydrogenated Palm Oil, Spices and Condiments, Flavour Enhancers (627 \u0026 631), Anticaking Agent (551).\n\nof this pack\n\nMay contain traces of Wheat, Milk, Soy Mustard, Celery \u0026 Nuts.",
+  "per_100g": {
+    "energy_kcal": 32,
+    "fat": 0.2,
+    "saturated_fat": 1,
+    "carbohydrates": null,
+    "sugars": 3,
+    "fiber": 0.4,
+    "protein": 1,
+    "salt": 1040,
+    "sodium": 416
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-29T16:09:52Z",
+  "fetched_at": "2026-08-19T00:20:25Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8906011851025",
+  "name": "Sesame Chutney",
+  "brand": "Katdare",
+  "quantity": "100 gm",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:chutneys",
+    "en:Sesame-chutney"
+  ],
+  "ingredients": "Sesame,\r\nDry coconut,\r\nRed chilli,\r\nIodised salt",
+  "per_100g": {
+    "energy_kcal": 490.16,
+    "fat": 27.08,
+    "saturated_fat": 3.76,
+    "carbohydrates": 37.55,
+    "sugars": 0,
+    "fiber": 13.1,
+    "protein": 24.06,
+    "salt": 1.24825,
+    "sodium": 0.4993
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-09T11:18:15Z",
+  "fetched_at": "2026-08-19T02:03:17Z"
+}

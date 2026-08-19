@@ -1,0 +1,31 @@
+{
+  "barcode": "8906017290125",
+  "name": "Vedica",
+  "brand": "Bisleri",
+  "quantity": "1L",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:waters",
+    "en:spring-waters",
+    "en:mineral-waters",
+    "en:natural-mineral-waters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 0,
+    "fat": 1,
+    "saturated_fat": 1,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-28T11:52:42Z",
+  "fetched_at": "2026-08-19T02:05:49Z"
+}

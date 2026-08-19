@@ -1,0 +1,24 @@
+{
+  "barcode": "0732940998467",
+  "name": "Greek Yogurt Natural",
+  "brand": "Agapi",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 75,
+    "fat": 2.01,
+    "saturated_fat": 1.26,
+    "carbohydrates": 5.15,
+    "sugars": 5.15,
+    "fiber": null,
+    "protein": 9,
+    "salt": 0.0825,
+    "sodium": 0.033
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-14T11:53:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

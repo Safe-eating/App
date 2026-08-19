@@ -1,0 +1,28 @@
+{
+  "barcode": "8901036393185",
+  "name": "Malgudi fresh filter coffee",
+  "brand": "Continental",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:coffees"
+  ],
+  "ingredients": "coffee 80%, Chicory 20%",
+  "per_100g": {
+    "energy_kcal": 4.04,
+    "fat": 12.37,
+    "saturated_fat": 0.001,
+    "carbohydrates": 32.726,
+    "sugars": 0.48,
+    "fiber": 16.06,
+    "protein": 11.758,
+    "salt": 0.15326,
+    "sodium": 0.0597
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-22T08:03:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

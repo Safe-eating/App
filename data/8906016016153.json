@@ -1,0 +1,29 @@
+{
+  "barcode": "8906016016153",
+  "name": "CHIA SEEDS",
+  "brand": "Tulsi",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:chia"
+  ],
+  "ingredients": "Chia Seeds",
+  "per_100g": {
+    "energy_kcal": 524,
+    "fat": 42,
+    "saturated_fat": 3.7,
+    "carbohydrates": 29,
+    "sugars": 1.6,
+    "fiber": 31,
+    "protein": 18,
+    "salt": 0.075,
+    "sodium": 0.03
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-04T11:57:23Z",
+  "fetched_at": "2026-08-19T02:04:17Z"
+}

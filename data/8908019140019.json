@@ -1,0 +1,38 @@
+{
+  "barcode": "8908019140019",
+  "name": "Chocolate Oat Drink",
+  "brand": "Oatey",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:dairy-substitutes",
+    "en:cereals-and-their-products",
+    "en:milk-substitutes",
+    "en:plant-based-beverages",
+    "en:plant-based-milk-alternatives",
+    "en:cereal-based-drinks",
+    "en:oat-based-drinks",
+    "en:Chocolate flavoured oat drink"
+  ],
+  "ingredients": "Oat Base (Water, Oats 10.5%), Sugar Substitute (Erythritol, Maltitol, Steviol glycoside), Low Erucic Acid Rapeseed Oll 1.5%, Cocoa Powder 1.5%, Minerals (Calcium Carbonate, Tricalcium Phosphate), Acidity Regulator (Dipotassium Phosphate), Thickener \u0026 Stabilizer (Micro crystalline cellulose, Carboxymethyl cellulose, Gellan Gum), Citrus Fibre, Himalayan Pink Salt, Vitamin B1, B2, 812 6 D. CONTAINS NATURALLY OCCURING SUGARS, CONTAINS DATS, CONTAINS NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES CHOCOLATE \u0026 VANILLA",
+  "per_100g": {
+    "energy_kcal": 61,
+    "fat": 2.5,
+    "saturated_fat": 0.7,
+    "carbohydrates": 8.6,
+    "sugars": 9.8,
+    "fiber": 1.5,
+    "protein": 1,
+    "salt": 0.1125,
+    "sodium": 0.045
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-03T11:50:42Z",
+  "fetched_at": "2026-08-19T13:19:23Z"
+}

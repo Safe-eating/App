@@ -1,0 +1,31 @@
+{
+  "barcode": "8904109410000",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:salty-snacks",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "Noodles: {Wheat flour (Atta)- 80%), Rice bran oil, Edible common salt, Acidity regulator [ INS 500 (ii). INS 451(i)]. Anticaking agent [INS 170()]. Thickener (INS415). Seasoning Mix:- Spices \u0026 Condiments (Onion (5%), Garlic (4%), Chilli (4%), Cumin (2.5%), Turmeric (2%), Spice extracts}, Salt, Sugar, Dehydrated vegetables Cabbage, Carrot, Tomato (2%)), Hydrolyzed vegetable protein, Maltodextrin, Acidity regulator (INS 330, INS 296), Anticaking agent (INS 551), Sunflower oil, Dehydrated herb (Coriander (2%)), Flavour enhancer (INS 627, INS 631), Soya sauce powder, Yeast extract, Thickener (INS 415), Antioxidant (INS 319)",
+  "per_100g": {
+    "energy_kcal": 462,
+    "fat": 19,
+    "saturated_fat": 4.16,
+    "carbohydrates": 62.6,
+    "sugars": 3.33,
+    "fiber": 0,
+    "protein": 10.16,
+    "salt": 1.364,
+    "sodium": 0.5456
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-04T22:26:29Z",
+  "fetched_at": "2026-08-19T01:35:11Z"
+}

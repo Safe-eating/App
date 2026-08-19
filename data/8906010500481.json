@@ -1,0 +1,29 @@
+{
+  "barcode": "8906010500481",
+  "name": "Crunchm",
+  "brand": "Balaji",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries"
+  ],
+  "ingredients": "Potato",
+  "per_100g": {
+    "energy_kcal": 80.5,
+    "fat": 0.34,
+    "saturated_fat": 0.094,
+    "carbohydrates": 16.7,
+    "sugars": 0.86,
+    "fiber": 1.8,
+    "protein": 1.8,
+    "salt": 0.052,
+    "sodium": 0.0206
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-27T22:09:13Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

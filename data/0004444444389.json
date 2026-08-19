@@ -1,0 +1,31 @@
+{
+  "barcode": "0004444444389",
+  "name": "Ragi Squares",
+  "brand": "Eatrite",
+  "quantity": "250 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "Ragi Flour 54%, Wheat Flour 4%, Oats Flour 3%, Bengal Gram Flour 4%, Cocoa Powder 3%, Milk Powder, Refined Sugar 10%, Rice Bran Oil, Chocolate Cream Filling 25% ( Cocoa Solids, Milk Solids. Sugar, Rice bran oil and Palm Oil), Emulsifier(INS 322) (i). Nature-Identical Flavouring substance, Emulsifier (INS 322)(1). Stabilizer (INS170)(i)",
+  "per_100g": {
+    "energy_kcal": 456.33,
+    "fat": 13.33,
+    "saturated_fat": 6.67,
+    "carbohydrates": 76.67,
+    "sugars": 24.67,
+    "fiber": 6.67,
+    "protein": 8.33,
+    "salt": 0.00075,
+    "sodium": 0.0003
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-30T01:34:50Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8904063214331",
+  "name": "Haldiram aloo bhujia 220g",
+  "brand": "Haldiram's",
+  "quantity": "220g",
+  "categories": [
+    "en:snacks",
+    "en:potato"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 584.3,
+    "fat": 41.5,
+    "saturated_fat": 14.5,
+    "carbohydrates": 42.4,
+    "sugars": 3.8,
+    "fiber": 4.8,
+    "protein": 10.3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-26T19:57:27Z",
+  "fetched_at": "2026-08-19T01:29:59Z"
+}

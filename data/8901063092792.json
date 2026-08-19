@@ -1,0 +1,26 @@
+{
+  "barcode": "8901063092792",
+  "name": "Britannia Good Day Butter Jeera Biscuits",
+  "brand": "Britannia",
+  "quantity": "90g",
+  "categories": [
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 506,
+    "fat": 23.1,
+    "saturated_fat": 11.5,
+    "carbohydrates": 68.2,
+    "sugars": 20.8,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 1.48,
+    "sodium": 0.592
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-26T22:02:01Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

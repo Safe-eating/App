@@ -1,0 +1,37 @@
+{
+  "barcode": "8901071306119",
+  "name": "Sofit Soya Drink (Kesar Pista Flavour) 1ltr",
+  "brand": "Hershey's India",
+  "quantity": "1 l",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:dairy-substitutes",
+    "en:milk-substitutes",
+    "en:plant-based-beverages",
+    "en:plant-based-milk-alternatives",
+    "en:legume-based-drinks",
+    "en:soy-based-drinks",
+    "en:sweetened-plain-soy-based-drinks"
+  ],
+  "ingredients": "WATER, SOYABEANS(13.6%), SUGAR, MINERAL (TRICALCIUM PHOSPHATE), EMULSIFIER (460(i), 466), ACIDITY REGULATOR (500 ii), EDIBLE COMMON SALT, OLIGOFRUCTOSE (DIETARY FIBRE) (0.12%), FLAVOURS (ARTIFICIAL (KESAR PISTA) AND NATURE IDENTICAL FLAVOURING SUBSTANCES), VITAMIN E (ACETATE), VITAMIN A (ACETATE), VITAMIN B1 (THIAMINE MONONITRATE), VITAMIN B2 (RIBOFLAVIN) AND VITAMIN B12 (CYANOCOBALAMIN).\nALLERGEN INFORMATION: CONTAINS SOY",
+  "per_100g": {
+    "energy_kcal": 70.4,
+    "fat": 1.6,
+    "saturated_fat": 0.18,
+    "carbohydrates": 10.8,
+    "sugars": 9.82,
+    "fiber": 1.05,
+    "protein": 3.2,
+    "salt": 0.24125,
+    "sodium": 0.0965
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-23T05:35:59Z",
+  "fetched_at": "2026-08-19T00:34:52Z"
+}

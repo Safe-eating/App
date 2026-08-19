@@ -1,0 +1,36 @@
+{
+  "barcode": "0841541001220",
+  "name": "Almond milk unsweetened",
+  "brand": "So Good",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:dairy-substitutes",
+    "en:milk-substitutes",
+    "en:nuts-and-their-products",
+    "en:plant-based-beverages",
+    "en:plant-based-milk-alternatives",
+    "en:nut-based-drinks",
+    "en:almond-based-drinks"
+  ],
+  "ingredients": "Water, Almond (3%), Minerals, Emulsifier (INS 322), Edible Common Salt, Stabiliser (INS 418), Acidity Regulator (INS 500 (ii)), Vitamins. All ingredients are of non-animal origin. Allergen statement: Contains Nuts (Almonds) (Processed in a factory that handles Dairy)",
+  "per_100g": {
+    "energy_kcal": 16,
+    "fat": 1.4,
+    "saturated_fat": 0.1,
+    "carbohydrates": 0.3,
+    "sugars": 0.1,
+    "fiber": 0.3,
+    "protein": 0.6,
+    "salt": 0.09,
+    "sodium": 0.036
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-07T08:17:12Z",
+  "fetched_at": "2026-08-18T23:56:36Z"
+}

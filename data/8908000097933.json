@@ -1,0 +1,32 @@
+{
+  "barcode": "8908000097933",
+  "name": "Crunchy Muesli",
+  "brand": "Gaia",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Wheat Flakes (51.85%), Corn Flakes (15.18%), Rolled Oats (14.26%), Invert Sugar Syrup (7.06%), Almond, Green Raisins, Black Raisins, Honey, Liquid Glucose, Honey Powder, Antioxidant (E310)",
+  "per_100g": {
+    "energy_kcal": 418.68,
+    "fat": 6.32,
+    "saturated_fat": 0.66,
+    "carbohydrates": 78.32,
+    "sugars": 14.2,
+    "fiber": 7.25,
+    "protein": 12.13,
+    "salt": 0.29275,
+    "sodium": 0.1171
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-08T11:33:46Z",
+  "fetched_at": "2026-08-19T13:04:17Z"
+}

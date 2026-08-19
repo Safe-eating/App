@@ -1,0 +1,27 @@
+{
+  "barcode": "8908012987178",
+  "name": "TruNativ Raw Whey Isolate Unflavored",
+  "brand": "TruNativ",
+  "quantity": "907 g",
+  "categories": [
+    "en:dairies",
+    "en:whey-powder"
+  ],
+  "ingredients": "Whey Protein Isolate (87%), Enzyme Blend DigeZyme",
+  "per_100g": {
+    "energy_kcal": 377.142857142857,
+    "fat": 2,
+    "saturated_fat": 0.571428571428571,
+    "carbohydrates": 3.14285714285714,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 86.8571428571429,
+    "salt": 0.64,
+    "sodium": 0.256
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-06T11:57:15Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

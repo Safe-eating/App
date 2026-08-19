@@ -1,0 +1,36 @@
+{
+  "barcode": "8902433000416",
+  "name": "Snickers Almond",
+  "brand": "Snickers",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:candy-chocolate-bars",
+    "en:energy-bars",
+    "fr:barres-chocolatees-aux-fruits-oleagineux"
+  ],
+  "ingredients": "Milk chocolate coating (40%): Sugar, Milk solids, Cocoa butter, Cocoa Solids, Edible vegetable fats \u0026lt;5% (Sal fat, Palm oil), Dextrose, Emulsifier (INS 322); Central filling (60%): Liquid glucose, Almonds (15%), Sugar, Hydrogenated vegetable oil (Palm oil), Milk solids, Iodized salt, Cocoa butter, Cocoa Solids, Edible vegetable fats \u0026lt;5% (Sal fat, Palm oil), Dextrose, Emulsifier (INS 322)",
+  "per_100g": {
+    "energy_kcal": 472,
+    "fat": 22.8,
+    "saturated_fat": 9.3,
+    "carbohydrates": 60,
+    "sugars": 54,
+    "fiber": 0,
+    "protein": 6.6,
+    "salt": 0.223,
+    "sodium": 0.0892
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-08T15:21:13Z",
+  "fetched_at": "2026-08-19T01:15:16Z"
+}

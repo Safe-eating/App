@@ -1,0 +1,29 @@
+{
+  "barcode": "8901063162327",
+  "name": "Br Marie gold 10",
+  "brand": "Britannia",
+  "quantity": "78g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:sweet-pastries-and-pies",
+    "en:viennoiseries"
+  ],
+  "ingredients": "wheat",
+  "per_100g": {
+    "energy_kcal": 445,
+    "fat": 10.7,
+    "saturated_fat": 5.2,
+    "carbohydrates": 78.9,
+    "sugars": 21.9,
+    "fiber": 0,
+    "protein": 8.4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-16T07:48:16Z",
+  "fetched_at": "2026-08-19T00:32:19Z"
+}

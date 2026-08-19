@@ -1,0 +1,34 @@
+{
+  "barcode": "8906014903592",
+  "name": "Muesli Fruit \u0026 Nut",
+  "brand": "Kwality",
+  "quantity": "1 kh",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereals-with-fruits",
+    "en:mueslis",
+    "en:mueslis-with-fruits"
+  ],
+  "ingredients": "Multi grains 76.2% [Wheat Flakes (30%) (Wheat, sugar, salt, malt extract, Emulsifier (INS322)). Corn flakes (25%) (Corn grits, sugar, Malt extract, salt, Emulsifier (INS322)), Rolled Oats (15%), Brown Rice Flakes (6.2%)], Sugar, Dehydrated fruits \u0026 Nuts (Raisins (2%), Dehydrated Papaya (2%), Almond (1%), Dehydrated Apple (0.8%)), Salt, Acidity regulator (INS 330), Antioxidant (INS 307b).",
+  "per_100g": {
+    "energy_kcal": 344,
+    "fat": 2.2,
+    "saturated_fat": 0.04,
+    "carbohydrates": 70,
+    "sugars": 12,
+    "fiber": 6.3,
+    "protein": 8.2,
+    "salt": 0.19375,
+    "sodium": 0.0775
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-06T14:54:50Z",
+  "fetched_at": "2026-08-19T02:03:48Z"
+}

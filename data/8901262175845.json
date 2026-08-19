@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262175845",
+  "name": "Icecream",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 174,
+    "fat": 11,
+    "saturated_fat": 5.1,
+    "carbohydrates": 15.5,
+    "sugars": 13.9,
+    "fiber": 0,
+    "protein": 3.4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-16T13:07:41Z",
+  "fetched_at": "2026-08-19T00:45:08Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8906009532882",
+  "name": "RiteBite Max Protein Peri Peri 7 Grain Protein Snack",
+  "brand": "RiteBite",
+  "quantity": "32 g",
+  "categories": [
+    "en:snacks",
+    "en:chips"
+  ],
+  "ingredients": "Millets \u0026 Pulses Flour Blend (Sorghum (Jowar),Oats, Finger Millet (Ragi). Soy, Black Gram (Urad), Quinoa), Oil, Soy Protein Isolate, Seasoning (Sugar, Iodized Salt, spices \u0026 Herbs, Chilli (9.5%), Oregano (1.3%), Garlic Powder, Powder, Onion Powder Soy Sauce Powder, Starch, Acidity HINS 330), Yeast Powder. Edible Vegetable Oil (Sunflower), Agent (INS 551), Flavour Enhancer (INS 627, INS 631)), Oat, Seeds Powder, Black Pepper, Red Chilli Powder, Edible and Acidity Regulator (INS 330)",
+  "per_100g": {
+    "energy_kcal": 493.6,
+    "fat": 22.9,
+    "saturated_fat": 5.3,
+    "carbohydrates": 48.6,
+    "sugars": 8,
+    "fiber": 6.8,
+    "protein": 17,
+    "salt": 2.9835,
+    "sodium": 1.1934
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-12T05:58:17Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

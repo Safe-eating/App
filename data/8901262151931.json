@@ -1,0 +1,29 @@
+{
+  "barcode": "8901262151931",
+  "name": "Amul Kadhai Doodh",
+  "brand": "Amul",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks"
+  ],
+  "ingredients": "Standardized milk, sugar.",
+  "per_100g": {
+    "energy_kcal": 176,
+    "fat": 8.7,
+    "saturated_fat": 5.2,
+    "carbohydrates": 20,
+    "sugars": 20,
+    "fiber": null,
+    "protein": 6.7,
+    "salt": 0.25,
+    "sodium": 0.1
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-15T13:38:53Z",
+  "fetched_at": "2026-08-19T00:43:39Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8909081005589",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "CEREALS AND PULSE MIX {RICE GRITS, DEGERMED CORN GRITS, BENGAL GRAM GRITS AND PEA GRITS), *EDIBLE VEGETABLE OIL, SUGAR, IODIZED SALT, SPICES AND CONDIMENTS, ACIDITY REGULATOR (CITRIC ACID), NATURE IDENTICAL FLAVOURING SUBSTANCES, CITRUS AURANTIFOLIA JUICE POWDER, FRUCTOSE NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES AND FLAVOUR ENHANCER (635). *TO KNOW THE SPECIFIC TYPE OF OIL USED, MATCH THE SYMBOL (AOR) WITH THE LAST CHARACTER OF BATCH NUMBER WHEREIN A DENOTES REFINED PALMOLEIN AND ^^ DENOTES REFINED RICE BRAN OIL. *USED AS FLAVOURING AGENTS. INCLUDES GARLIC. CONTAINS WHEAT. MAY CONTAIN SOY, MILK, BARLEY. Values)",
+  "per_100g": {
+    "energy_kcal": 536,
+    "fat": 31.7,
+    "saturated_fat": 7.4,
+    "carbohydrates": null,
+    "sugars": 4.3,
+    "fiber": null,
+    "protein": 5.9,
+    "salt": 2.8305,
+    "sodium": 1.1322
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-12T00:29:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

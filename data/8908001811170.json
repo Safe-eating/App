@@ -1,0 +1,26 @@
+{
+  "barcode": "8908001811170",
+  "name": "Indigo exclusive magic upma",
+  "brand": "Eze eats triguni",
+  "quantity": "88g",
+  "categories": [
+    "en:Upma"
+  ],
+  "ingredients": "Base product (93.1%) [semolina (21.8%), vegetables (7.2%)(onion, ginger\u0026green chilli), edible vegetable oil (palmolein oil), Bengal gram dal, black gram dal, ghee, salt, curry leaves extract, mustard seeds and antioxidant (INS307b)]. Dosing (6.9%) (roasted cashew nuts, roasted curry leaves). CONTAINS NO ADDED FLAVOURS AND COLOURS. ALLERGEN INFORM: CONTAINS WHEAT, MILK, NUTS (CASHCL NUTS) \u0026 MUSTARD.",
+  "per_100g": {
+    "energy_kcal": 364,
+    "fat": 11.4,
+    "saturated_fat": 5.4,
+    "carbohydrates": 56.2,
+    "sugars": 1.8,
+    "fiber": 6.3,
+    "protein": 9.2,
+    "salt": 2,
+    "sodium": 0.8
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-23T14:23:16Z",
+  "fetched_at": "2026-08-19T13:06:58Z"
+}

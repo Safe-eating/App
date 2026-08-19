@@ -1,0 +1,31 @@
+{
+  "barcode": "8909081005053",
+  "name": "8909081005053",
+  "brand": "dark fantasy",
+  "quantity": "471.5g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:biscuit-cookie-snack-w-chocolate-filling"
+  ],
+  "ingredients": "CHOCO CRÈME (38.0%) {SUGAR, REFINED PALMOLEIN, REFINED PALM OIL, COCOA SOLIDS, EMULSIFIER [LECITHIN (FROM SOYABEAN)], NATURE IDENTICAL FLAVOURING SUBSTANCES (CHOCOLATE), ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA)}, MAIDA (REFINED WHEAT FLOUR), HYDROGENATED VEGETABLE OIL, SUGAR, INVERT SYRUP, LIQUID GLUCOSE, RAISING AGENTS Lic NET WEIGH (40 PACKS X Batch N [503(ii), 500(ii), 450(i)], COCOA SOLIDS (0.7%), BUTTER, MILK SOLIDS, IODIZED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES (*MILK CHOCOLATE), COLOURS (150c, 150d), EMULSIFIERS PKD.: [LECITHIN (FROM SOYABEAN), MONO AND DIGLYCERIDES OF FATTY ACIDS (FROM PALM OIL)], ARTIFICIAL FLAVOURING SUBSTANCES (MILK, VANILLA)",
+  "per_100g": {
+    "energy_kcal": 507,
+    "fat": 27.3,
+    "saturated_fat": 12.7,
+    "carbohydrates": 61.1,
+    "sugars": 35.7,
+    "fiber": null,
+    "protein": 7.3,
+    "salt": 0.45375,
+    "sodium": 0.1815
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-11T01:06:57Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8908012945055",
+  "name": "100% Moong and Edmame spaghetti",
+  "brand": "pink harvest farms",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "ORGANIC EDAMAME (GREEN SOYBEANS), ORGANIC MOONG BEAN",
+  "per_100g": {
+    "energy_kcal": 185,
+    "fat": 2.95,
+    "saturated_fat": 0.5,
+    "carbohydrates": 18,
+    "sugars": 3.54,
+    "fiber": 10,
+    "protein": 21.2,
+    "salt": 0.00457,
+    "sodium": 0.001828
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-28T15:55:44Z",
+  "fetched_at": "2026-08-19T13:14:12Z"
+}

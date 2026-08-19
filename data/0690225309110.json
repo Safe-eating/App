@@ -1,0 +1,26 @@
+{
+  "barcode": "0690225309110",
+  "name": "India Gate Uplife Gut Pro",
+  "brand": "India Gate",
+  "quantity": "1l",
+  "categories": [
+    "en:Oils"
+  ],
+  "ingredients": "Physically Refined Rice Bran Oil (80%), Refined Soyabean Oil (20%) Anti-oxidants (INS 319, 330), Vitamin A\u0026D Antifoaming agent (INS 900a)",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 22,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-22T02:50:23Z",
+  "fetched_at": "2026-08-18T23:55:01Z"
+}

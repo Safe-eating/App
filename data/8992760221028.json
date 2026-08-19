@@ -1,0 +1,32 @@
+{
+  "barcode": "8992760221028",
+  "name": "Oreo Original (Vanilla)",
+  "brand": "BABYMONSTER OREO",
+  "quantity": "123g g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:filled-biscuits",
+    "en:chocolate-sandwich-cookies"
+  ],
+  "ingredients": "wheat  flour, sugar, non-hydrogenated vegetable oil (palm), cocoa powder, fructose syrup, sodium bicarbonate (ins500), ammonium bicarbonate (ins503), corn starch, salt,  soy  lecithin (ins322), vanilla flavor,",
+  "per_100g": {
+    "energy_kcal": 471.014492753623,
+    "fat": 21.7391304347826,
+    "saturated_fat": 9.05797101449275,
+    "carbohydrates": 72.463768115942,
+    "sugars": 39.8550724637681,
+    "fiber": 3.6231884057971,
+    "protein": 3.6231884057971,
+    "salt": 1.26811594202899,
+    "sodium": 0.507246376811594
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-19T16:00:51Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "5604260227174",
+  "name": "Bolacha Manteiga Belgas",
+  "brand": "Chabrior",
+  "quantity": "250 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 478,
+    "fat": 17.6,
+    "saturated_fat": 11.3,
+    "carbohydrates": 72.2,
+    "sugars": 32.1,
+    "fiber": 0,
+    "protein": 7.1,
+    "salt": 0.6,
+    "sodium": 0.24
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-23T18:42:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

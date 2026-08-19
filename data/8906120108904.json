@@ -1,0 +1,31 @@
+{
+  "barcode": "8906120108904",
+  "name": "Farmley Date Bites",
+  "brand": "Farmley",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruits-based-foods",
+    "en:fruits",
+    "en:dates"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 495.5,
+    "fat": 25.2,
+    "saturated_fat": 1.2,
+    "carbohydrates": 50.5,
+    "sugars": 33.7,
+    "fiber": 9.1,
+    "protein": 16.7,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-26T13:53:17Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

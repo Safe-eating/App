@@ -1,0 +1,31 @@
+{
+  "barcode": "8908003761091",
+  "name": "Mannat Suji Rusk",
+  "brand": "Mannat",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:rusks"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR(MAIDA), SUGAR, EDIBLE VEGETABLE OIL, SUJI, INVERT SYRUP, BREAD IMPROVER, YEAST, IODIZED SALT \u0026 MILK SOLIDS",
+  "per_100g": {
+    "energy_kcal": 361.5,
+    "fat": 3.8,
+    "saturated_fat": 1.92,
+    "carbohydrates": 69.9,
+    "sugars": 28.5,
+    "fiber": 0.9,
+    "protein": 11.3,
+    "salt": 0.5725,
+    "sodium": 0.229
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-27T12:29:44Z",
+  "fetched_at": "2026-08-19T13:08:32Z"
+}

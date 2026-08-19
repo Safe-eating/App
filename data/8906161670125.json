@@ -1,0 +1,27 @@
+{
+  "barcode": "8906161670125",
+  "name": "Layka Almond Florentine",
+  "brand": "Layka",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks"
+  ],
+  "ingredients": "Sugar, Choco Covering (Sugar, Hydrogenated Palm Kernel Oil, Cocoa Solids, Milk Solids, Emulsifier (INS 322), Salt]. Almond, Butter Contains Nature identical flavour(Vanilla).",
+  "per_100g": {
+    "energy_kcal": 554.6,
+    "fat": 32.9333333333333,
+    "saturated_fat": 26.3333333333333,
+    "carbohydrates": 59.3333333333333,
+    "sugars": 44.7333333333333,
+    "fiber": null,
+    "protein": 5.33333333333333,
+    "salt": 0.3775,
+    "sodium": 0.151
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-09T12:55:43Z",
+  "fetched_at": "2026-08-19T13:01:17Z"
+}

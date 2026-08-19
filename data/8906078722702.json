@@ -1,0 +1,30 @@
+{
+  "barcode": "8906078722702",
+  "name": "Farali chivda",
+  "brand": "Gopal",
+  "quantity": "50",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "POTATO (45%), EDIBLE VEGETABLE OIL (PALMOLEIN OIL), SPLIT PEANUTS (14%), SUGAR, EDIBLE COMMON SALT (ROCK SALT), SPICES \u0026 CONDIMENTS (TURMERIC POWDER, CLOVE, CINNAMON, STAR ANISE, CORIANDER POWDER AND RED CHILLI POWDER).\n\nALLERGEN ADVICE:\n\nCONTAINS PEANUTS\n\nMAY CONTAINS CEREALS CONTAINING GLUTEN, MILK, TREE NUTS, PEANUTS, SESAME SEEDS, MUSTARD SEEDS AND SOYA.",
+  "per_100g": {
+    "energy_kcal": 537,
+    "fat": 32.7,
+    "saturated_fat": 12,
+    "carbohydrates": 51,
+    "sugars": 7.95,
+    "fiber": 4.55,
+    "protein": 0,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-08T07:13:31Z",
+  "fetched_at": "2026-08-19T12:44:08Z"
+}

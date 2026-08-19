@@ -1,0 +1,29 @@
+{
+  "barcode": "8904124111272",
+  "name": "Ananda Chach",
+  "brand": "Ananda",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:buttermilks"
+  ],
+  "ingredients": "Milk Solids, Potable Water, Active Lactic Culture.",
+  "per_100g": {
+    "energy_kcal": 26,
+    "fat": 1,
+    "saturated_fat": 0.65,
+    "carbohydrates": 2.3,
+    "sugars": 2.19,
+    "fiber": null,
+    "protein": 2.1,
+    "salt": 0.295,
+    "sodium": 0.118
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-26T12:20:21Z",
+  "fetched_at": "2026-08-19T01:36:07Z"
+}

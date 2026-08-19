@@ -1,0 +1,31 @@
+{
+  "barcode": "8901233030548",
+  "name": "Cadbury Dairy Milk",
+  "brand": "Mondelez",
+  "quantity": "13.2 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolates",
+    "en:milk-chocolates"
+  ],
+  "ingredients": "Sugar, Milk Solids16%, Cocoa Butter, Cocoa Solids, Lactose, Emulsifiers 442, 476",
+  "per_100g": {
+    "energy_kcal": 527,
+    "fat": 27.9,
+    "saturated_fat": 18.7,
+    "carbohydrates": 64.2,
+    "sugars": 61,
+    "fiber": 0,
+    "protein": 5.6,
+    "salt": 0.23075,
+    "sodium": 0.0923
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-10T19:13:12Z",
+  "fetched_at": "2026-08-19T00:40:01Z"
+}

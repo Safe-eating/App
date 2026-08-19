@@ -1,0 +1,33 @@
+{
+  "barcode": "7622201756789",
+  "name": "Oreo Strawberry Biscuit",
+  "brand": "Oreo",
+  "quantity": "43.75",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:filled-biscuits",
+    "en:sandwich-biscuits",
+    "en:chocolate-sandwich-cookies"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Fractionated Fat Palm olein, Invert Sugar, Cocoa Solids (2%*), Bicarbonate of soda and baking soda, Ammonium bicarbonate, Starch, lodised Salt, Nature Identical Flavouring Substances (Strawberry), Emulsifier (322), Colour (122), Allergen Information: Contains Wheat, Sulphites, Soy, Milk, Barley",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 19.7,
+    "saturated_fat": 9.8,
+    "carbohydrates": 71.5,
+    "sugars": 38.3,
+    "fiber": 0,
+    "protein": 5.2,
+    "salt": 1.05,
+    "sodium": 0.42
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-28T13:48:54Z",
+  "fetched_at": "2026-08-19T00:08:13Z"
+}

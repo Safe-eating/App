@@ -1,0 +1,32 @@
+{
+  "barcode": "0946404492563",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:aloe-vera-drinks"
+  ],
+  "ingredients": "Water, Aloe Vera Juice and Pulp (14%), Cane Sugar (10.7%), Reconstituted from concentrate (10%) (Strawberry, cranberry, apple and purple carrot), Flavour, Acidity Regulator (INS 330), Stabilizer (INS 440), (INS 414), (INS 419), (INS 445), Preservatives (INS 211), (INS 202), Colour (INS 150(d)), (INS 122), (INS 160), (INS 110) \u0026 Nature Identical Flavouring Substances - BERRIES FLAVOUR. Serving Size 150ml. Number of servings per pack:2",
+  "per_100g": {
+    "energy_kcal": 57.44,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 13.81,
+    "sugars": 13.14,
+    "fiber": null,
+    "protein": 0.55,
+    "salt": 162.5,
+    "sodium": 65
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-13T02:46:09Z",
+  "fetched_at": "2026-08-18T23:59:45Z"
+}

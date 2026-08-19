@@ -1,0 +1,36 @@
+{
+  "barcode": "8901030897542",
+  "name": "kissan fresh tomato",
+  "brand": "Kissan",
+  "quantity": "90g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup",
+    "en:tomato-ketchup"
+  ],
+  "ingredients": "water, tomato paste (28%), sugar, iodised salt, acidity regulator-E260, stabilizers - E1422, E415, Preservetive - E211, Onion power, garlic powder, spices and condiments.",
+  "per_100g": {
+    "energy_kcal": 133,
+    "fat": 0.4,
+    "saturated_fat": 0.03,
+    "carbohydrates": 31,
+    "sugars": 29.2,
+    "fiber": 0.6,
+    "protein": 1.1,
+    "salt": 2.37,
+    "sodium": 0.948
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-12T12:36:34Z",
+  "fetched_at": "2026-08-19T00:20:21Z"
+}

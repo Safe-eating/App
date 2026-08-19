@@ -1,0 +1,28 @@
+{
+  "barcode": "8904335602392",
+  "name": "Daily 10g Protein Bar",
+  "brand": "Yoga Bar",
+  "quantity": "50g",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-bars"
+  ],
+  "ingredients": "Date Paste (33%), Dark Chocolate Paste [(12%) (Sugar, Edible Vegetable Fat, Cocoa Solids, Soy Lecithin \u0026 Natural Flavours)], Soy Protein Crisps, Date Syrup, Cocoa Powder, Cashew Paste, Peanut Butter, Texturized Soy Protein Flakes, Milk Protein Concentrate, Almond Paste, Peanut Protein, Cranberry (1.5%), Whey Protein Concentrate, Skim Milk Powder, Choco Chips, Glycerine, Natural Flavours (Vanilla, Rosemary Extract)",
+  "per_100g": {
+    "energy_kcal": 380,
+    "fat": 10.6,
+    "saturated_fat": 3.6,
+    "carbohydrates": 55,
+    "sugars": 37,
+    "fiber": 15.6,
+    "protein": 20,
+    "salt": 0.6,
+    "sodium": 0.243
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-02T16:17:29Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "0089000498871",
+  "name": "Nestle Polo - The Mint With The Hole, 12g Pouch",
+  "brand": "Nestle SA",
+  "quantity": "12g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:candies"
+  ],
+  "ingredients": "Sugar, Edible Starch, Liquid glucose, Anticaking agent (470(i)), Natural flavour and Natural flavouring 44262944/LC00160111(0)/00 substances.",
+  "per_100g": {
+    "energy_kcal": 395,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 98.7,
+    "sugars": 90.2,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-27T18:20:04Z",
+  "fetched_at": "2026-08-18T23:54:09Z"
+}

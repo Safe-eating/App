@@ -1,0 +1,29 @@
+{
+  "barcode": "8908013889143",
+  "name": "AGVS Bandhu Jaggery Bytes",
+  "brand": "AGVS Bandhu",
+  "quantity": "500g",
+  "categories": [
+    "en:sweeteners",
+    "en:sugars",
+    "en:cane-sugars",
+    "en:jaggery"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 363.4,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 90.3,
+    "sugars": 90,
+    "fiber": 0,
+    "protein": 0.3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-01T12:26:31Z",
+  "fetched_at": "2026-08-19T13:15:14Z"
+}

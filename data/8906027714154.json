@@ -1,0 +1,30 @@
+{
+  "barcode": "8906027714154",
+  "name": "Paneer",
+  "brand": "Govind",
+  "quantity": "180g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer"
+  ],
+  "ingredients": "Standardized Milk, Citric Acid (INS 330)",
+  "per_100g": {
+    "energy_kcal": 318,
+    "fat": 24.84,
+    "saturated_fat": 16.02,
+    "carbohydrates": 7.36,
+    "sugars": 7.36,
+    "fiber": null,
+    "protein": 16.2,
+    "salt": 0.241075,
+    "sodium": 0.09643
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-11T02:25:04Z",
+  "fetched_at": "2026-08-19T12:32:15Z"
+}

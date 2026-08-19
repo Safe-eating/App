@@ -1,0 +1,30 @@
+{
+  "barcode": "8903023270752",
+  "name": "More Atta Bread",
+  "brand": "More",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour, Sugar, Yeast, lodised Salt, Refined Palmolein Oil, Soya Flour, Emulsifier(INS 476,471 481(1) Preservative (INS 282), Antioxidant (INS 300), Improver (INS 1100), Acidity Regulator (INS 260)",
+  "per_100g": {
+    "energy_kcal": 274,
+    "fat": 2.4,
+    "saturated_fat": 1.8,
+    "carbohydrates": 54,
+    "sugars": 4.5,
+    "fiber": null,
+    "protein": 9.2,
+    "salt": 0.9425,
+    "sodium": 0.377
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-30T03:22:33Z",
+  "fetched_at": "2026-08-19T01:21:00Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8906071880188",
+  "name": "Marvella Layered Strawberry Flavoured Cake",
+  "brand": "Lavina Exotique",
+  "quantity": "500 gms",
+  "categories": [
+    "en:Layered Strawberry Flavoured Cake"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 428.54,
+    "fat": 14.6,
+    "saturated_fat": 8.04,
+    "carbohydrates": 60.67,
+    "sugars": 32.74,
+    "fiber": null,
+    "protein": 4.1,
+    "salt": 359.125,
+    "sodium": 143.65
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-27T06:14:36Z",
+  "fetched_at": "2026-08-19T12:42:40Z"
+}

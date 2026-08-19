@@ -1,0 +1,29 @@
+{
+  "barcode": "8901063001022",
+  "name": "Britannia nutri choice",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits"
+  ],
+  "ingredients": "WHEAT FLOUR (ATTA) (45%), REFINED PALM OIL, SUGAR, CEREAL PRODUCTS (16%) [RAGI FLOUR, CORN FLAKES, ROLLED OATS, JOWAR FLOUR, RICE FLOUR \u0026 QUINOA FLOUR], WHEAT BRAN (6%), MILK PRODUCTS [SWEETENED CONDENSED PARTLY SKIMMED MILK \u0026 WHEY POWDER], RAISING AGENTS [500(ii) \u0026 503(ii)], HONEY (0.6%), IODIZED SALT, EMULSIFIERS [322(i), 471 \u0026 472e] AND NATURE-IDENTICAL \u0026 ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, OATS, MILK AND SOY.",
+  "per_100g": {
+    "energy_kcal": 492,
+    "fat": 19.9,
+    "saturated_fat": 9.7,
+    "carbohydrates": 70.2,
+    "sugars": 18.6,
+    "fiber": 7.7,
+    "protein": 8.1,
+    "salt": 0.56,
+    "sodium": 0.224
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-20T15:17:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

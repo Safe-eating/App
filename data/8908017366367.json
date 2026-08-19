@@ -1,0 +1,27 @@
+{
+  "barcode": "8908017366367",
+  "name": "Protein Fusilli Pasta",
+  "brand": "Shaka Harry",
+  "quantity": "250 g",
+  "categories": [
+    "en:meals",
+    "en:pasta-dishes"
+  ],
+  "ingredients": "Wheat, Chickpea, Jowar, Brown rice",
+  "per_100g": {
+    "energy_kcal": 362,
+    "fat": 1,
+    "saturated_fat": 0.7,
+    "carbohydrates": 73,
+    "sugars": 1,
+    "fiber": 10,
+    "protein": 16,
+    "salt": 0.04,
+    "sodium": 0.016
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:26:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8904057396166",
+  "name": "Arokya Toned Milk",
+  "brand": "Arokya, Hatsun Agro Product Ltd.",
+  "quantity": "500 ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:pasteurised-products",
+    "en:pasteurised-milks"
+  ],
+  "ingredients": "Milk \u0026 Milk Solids Milk \nAllergen Information: Contains Milk",
+  "per_100g": {
+    "energy_kcal": 57,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 4.5,
+    "sugars": 4.5,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-20T16:33:21Z",
+  "fetched_at": "2026-08-19T01:29:19Z"
+}

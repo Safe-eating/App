@@ -1,0 +1,33 @@
+{
+  "barcode": "7622202290572",
+  "name": "Dairy Milk Silk Oreo",
+  "brand": "Cadbury",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:candy-chocolate-bars",
+    "en:chocolate-biscuity-bars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 563,
+    "fat": 34.8,
+    "saturated_fat": 22.3,
+    "carbohydrates": 56.9,
+    "sugars": 48.9,
+    "fiber": null,
+    "protein": 6,
+    "salt": 0.5175,
+    "sodium": 0.207
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-14T09:01:38Z",
+  "fetched_at": "2026-08-19T00:10:34Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8908014841119",
+  "name": "Mozzarella Di Bufala",
+  "brand": "The Spotted Cow Fromagerie",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 261.8,
+    "fat": 19.92,
+    "saturated_fat": 15.06,
+    "carbohydrates": 6.09,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 14.54,
+    "salt": 0.7525,
+    "sodium": 0.301
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-04T11:30:19Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

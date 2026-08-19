@@ -1,0 +1,33 @@
+{
+  "barcode": "8902710500776",
+  "name": "Bagrry`s Crunchy Muesli",
+  "brand": "Bagrry's",
+  "quantity": "425g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis",
+    "en:crunchy-mueslis"
+  ],
+  "ingredients": "Rolled Oats (40.2%), Whole Wheat Flakes (27.4%, Wheat, Sugar, Iodized Salt, Malt Extract and Antioxidants INS 322 \u0026 INS 307b), Invert Syrup, Raisins (4.7%), Corn Flakes(4.6%), Almonds (3%), Broken Rolled Wheat, Brans (Wheat Bran, Oat Bran), Honey (1%) \u0026 Antioxidant (Ins 307b)",
+  "per_100g": {
+    "energy_kcal": 372,
+    "fat": 6,
+    "saturated_fat": 0.9,
+    "carbohydrates": 77.3,
+    "sugars": 10.5,
+    "fiber": 13.7,
+    "protein": 9,
+    "salt": 0.63,
+    "sodium": 0.252
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-22T11:10:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

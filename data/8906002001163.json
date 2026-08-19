@@ -1,0 +1,33 @@
+{
+  "barcode": "8906002001163",
+  "name": "Peanut Butter (beurre de cacahouète)",
+  "brand": "Dr. Oetker",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 636,
+    "fat": 50.3,
+    "saturated_fat": 10.1,
+    "carbohydrates": 20.3,
+    "sugars": 7.7,
+    "fiber": null,
+    "protein": 25.6,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-03T01:00:04Z",
+  "fetched_at": "2026-08-19T01:49:11Z"
+}

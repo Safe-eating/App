@@ -1,0 +1,33 @@
+{
+  "barcode": "8904043907277",
+  "name": "Protein 7-in-1 Seed \u0026 Nut Mix",
+  "brand": "Tata Sampann",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:mixed-nuts",
+    "en:mixed-seeds",
+    "en:nut-and-seed-mixes"
+  ],
+  "ingredients": "Roasted Seeds (89%) [Pumpkin (20%), Watermelon (19%), Sunflower (18%), Flax Seeds (13%), Sesame (10%), Chia (9%)], Soybean (10%) [Soybean, Iodised Salt), Rosemary extract.\nALLERGENS: Contains Soy",
+  "per_100g": {
+    "energy_kcal": 536,
+    "fat": 34.5,
+    "saturated_fat": 5.8,
+    "carbohydrates": 32.1,
+    "sugars": 1,
+    "fiber": 13.3,
+    "protein": 27.4,
+    "salt": 0.199,
+    "sodium": 0.0796
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-28T13:59:38Z",
+  "fetched_at": "2026-08-19T01:28:20Z"
+}

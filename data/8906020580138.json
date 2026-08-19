@@ -1,0 +1,31 @@
+{
+  "barcode": "8906020580138",
+  "name": "Whole Wheat Chapati",
+  "brand": "iD",
+  "quantity": "400 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:frozen-chappatis"
+  ],
+  "ingredients": "Wheat Flour (Atta, 56%), RO-Purified Water, Edible Vegetable Oil (Sunflower and Soyabean Oil), Iodized Salt, Natural Improver and Sugar.",
+  "per_100g": {
+    "energy_kcal": 256,
+    "fat": 4,
+    "saturated_fat": 2,
+    "carbohydrates": 47,
+    "sugars": 1.43,
+    "fiber": 3,
+    "protein": 8,
+    "salt": 1.7225,
+    "sodium": 0.27
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-03T09:50:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

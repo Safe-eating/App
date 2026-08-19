@@ -1,0 +1,31 @@
+{
+  "barcode": "8906036673602",
+  "name": "Nandini GoodLife Toned Milk",
+  "brand": "Nandini",
+  "quantity": "1litre",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:pasteurised-products",
+    "en:pasteurised-milks",
+    "en:Fortified Milk"
+  ],
+  "ingredients": "Milk Solids,\nVitamin A\u0026 Vitamin D\nMilk Fat : 3.0% (Min) \u0026 SNF 8.5% (Min.)",
+  "per_100g": {
+    "energy_kcal": 59,
+    "fat": 3,
+    "saturated_fat": 1.9,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": 0,
+    "protein": 3.3,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-11T12:28:04Z",
+  "fetched_at": "2026-08-19T12:35:24Z"
+}

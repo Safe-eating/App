@@ -1,0 +1,24 @@
+{
+  "barcode": "8901262020534",
+  "name": "Cheddar Cheese",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 387,
+    "fat": 31,
+    "saturated_fat": 21,
+    "carbohydrates": 2,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 25,
+    "salt": 2.2125,
+    "sodium": 0.885
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-18T18:54:00Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

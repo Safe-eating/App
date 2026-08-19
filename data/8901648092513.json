@@ -1,0 +1,24 @@
+{
+  "barcode": "8901648092513",
+  "name": "Kesar Elaichi Flavored Milk",
+  "brand": "Mother Dairy",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 81,
+    "fat": 1.6,
+    "saturated_fat": 1.2,
+    "carbohydrates": 13.3,
+    "sugars": 13.3,
+    "fiber": 0,
+    "protein": 3.4,
+    "salt": 0.1375,
+    "sodium": 0.055
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-20T04:32:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

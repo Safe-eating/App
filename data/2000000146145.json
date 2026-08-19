@@ -1,0 +1,28 @@
+{
+  "barcode": "2000000146145",
+  "name": "Jambon braisé, lentilles",
+  "brand": "Foodles",
+  "quantity": "400 g",
+  "categories": [
+    "en:meals",
+    "en:fresh-foods",
+    "en:fresh-meals"
+  ],
+  "ingredients": "Lentilles 70% (lentille verte 51%, eau, carotte, oignon, huile de tournesol , thym , sel), jambon blanc 20% (Jambon de porc (origine : France), sel, sirop de glucose, arômes naturels, antioxydant : érythorbate de sodium, conservateur : nitrite de sodium), sauce MOUTARDE (MOUTARDE (Vinaigre d'alcool, graines de MOUTARDE, eau, sel, acidifiant : acide citrique, épices dont CÉLERI.), CREME allégée (CREME LIQUIDE (CREME de LAIT, stabilisant : carraghénanes), eau), eau, assaisonnement), sel, poivre",
+  "per_100g": {
+    "energy_kcal": 144.94,
+    "fat": 3.11,
+    "saturated_fat": 0.74,
+    "carbohydrates": 13.95,
+    "sugars": 1.28,
+    "fiber": 5.1,
+    "protein": 12.31,
+    "salt": 1.41,
+    "sodium": 0.564
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T09:14:48Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

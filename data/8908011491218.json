@@ -1,0 +1,30 @@
+{
+  "barcode": "8908011491218",
+  "name": "California Almonds",
+  "brand": "proV",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:almonds"
+  ],
+  "ingredients": "Almond kernels",
+  "per_100g": {
+    "energy_kcal": 656,
+    "fat": 57,
+    "saturated_fat": 5.3,
+    "carbohydrates": 18,
+    "sugars": 2,
+    "fiber": 13,
+    "protein": 17,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-03T13:29:14Z",
+  "fetched_at": "2026-08-19T13:13:39Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "5056185745231",
+  "name": "MYPROTEIN Impact Whey Protein Strawberry Cream",
+  "brand": "MYPROTEIN",
+  "quantity": "2.5kg",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders"
+  ],
+  "ingredients": "Whey Protein Concentrate (Emulsifiers (Sunflower Lecithin and Soy Lecithin)) (98%), Artificial Flavour (Strawberry Cream), Beetroot Concentrate (Carrier (Maltodextrin), Acidity regulator (Citric acid)), Sweetener (Sucralose).",
+  "per_100g": {
+    "energy_kcal": 396,
+    "fat": 7.2,
+    "saturated_fat": 4.8,
+    "carbohydrates": 8,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 76,
+    "salt": 0.00024,
+    "sodium": 0.000096
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-05T15:55:29Z",
+  "fetched_at": "2026-08-19T00:05:35Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8908024057098",
+  "name": "Eat Better Co Coffee Almond Laddoos",
+  "brand": "Eat Better Co",
+  "quantity": "40g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:Coffee almond sweet"
+  ],
+  "ingredients": "Dates, Almonds(33%), Oats, Coconut, Coffee (2%), Chia Seeds, Cacao \u0026 Seasalt.",
+  "per_100g": {
+    "energy_kcal": 465.4,
+    "fat": 21.9,
+    "saturated_fat": 11.4,
+    "carbohydrates": 55.4,
+    "sugars": 27.2,
+    "fiber": 9.6,
+    "protein": 11.2,
+    "salt": 0.17425,
+    "sodium": 0.0697
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-15T12:56:39Z",
+  "fetched_at": "2026-08-19T13:22:00Z"
+}

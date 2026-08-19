@@ -1,0 +1,36 @@
+{
+  "barcode": "8901537007123",
+  "name": "Dwt rozana supr basmati rice 1 kg",
+  "brand": "Daawat",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:rices",
+    "en:aromatic-rices",
+    "en:indica-rices",
+    "en:long-grain-rices",
+    "en:basmati-rices"
+  ],
+  "ingredients": "Basmati Rice",
+  "per_100g": {
+    "energy_kcal": 359.377777777778,
+    "fat": 0.577777777777778,
+    "saturated_fat": 0.177777777777778,
+    "carbohydrates": 79.2,
+    "sugars": 0,
+    "fiber": 1.71111111111111,
+    "protein": 8.48888888888889,
+    "salt": 0.00427777777777778,
+    "sodium": 0.00171111111111111
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-21T09:36:35Z",
+  "fetched_at": "2026-08-19T00:55:32Z"
+}

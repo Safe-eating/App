@@ -1,0 +1,24 @@
+{
+  "barcode": "8906004562877",
+  "name": "cullbulle",
+  "brand": "diamond",
+  "quantity": "82g",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 545.5,
+    "fat": 32,
+    "saturated_fat": 13.6,
+    "carbohydrates": 57.1,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 7.2,
+    "salt": 0.7085,
+    "sodium": 0.2834
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T00:48:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

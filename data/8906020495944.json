@@ -1,0 +1,29 @@
+{
+  "barcode": "8906020495944",
+  "name": "KAJU KATL",
+  "brand": "Lal Sweets (P) Ltd",
+  "quantity": "200 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:mixed-nuts-and-dried-fruits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 476.923076923077,
+    "fat": 23.8461538461538,
+    "saturated_fat": 3.84615384615385,
+    "carbohydrates": 60,
+    "sugars": 45.3846153846154,
+    "fiber": null,
+    "protein": 6.15384615384615,
+    "salt": 0.0384615384615385,
+    "sodium": 0.0153846153846154
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-13T13:04:26Z",
+  "fetched_at": "2026-08-19T02:07:32Z"
+}

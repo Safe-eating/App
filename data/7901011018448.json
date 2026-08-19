@@ -1,0 +1,33 @@
+{
+  "barcode": "7901011018448",
+  "name": "Nestle munch king size",
+  "brand": "Nestlé",
+  "quantity": "17.8g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:bars",
+    "en:chocolate-biscuits",
+    "en:chocolate-covered-biscuits"
+  ],
+  "ingredients": "Sugar, Refined Wheat flour (Maida), Hydrogenated vegetable fats, Fractionated vegetable fat, Milk solids, Cocoa solids (3.8%), Emulsifiers (Soya lecithin and 476), Raising agent (500 ii), Yeast, Iodized salt, Flour treatment agent (516) and Artificial flavouring substances (vanilla). Allergen note: Contains Wheat, Milk, Sesame and Soy. May Contain Nuts.",
+  "per_100g": {
+    "energy_kcal": 435,
+    "fat": 23.4,
+    "saturated_fat": 23.1,
+    "carbohydrates": 50,
+    "sugars": 32.9,
+    "fiber": 0,
+    "protein": 6,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-18T11:16:06Z",
+  "fetched_at": "2026-08-19T00:11:42Z"
+}

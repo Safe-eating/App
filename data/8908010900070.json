@@ -1,0 +1,36 @@
+{
+  "barcode": "8908010900070",
+  "name": "Pintola all natural peanut butter (crunchy)",
+  "brand": "Pintola",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters",
+    "en:crunchy-peanut-butters"
+  ],
+  "ingredients": "Peanuts",
+  "per_100g": {
+    "energy_kcal": 639,
+    "fat": 49,
+    "saturated_fat": 7,
+    "carbohydrates": null,
+    "sugars": 3,
+    "fiber": 9,
+    "protein": 30,
+    "salt": 0.0475,
+    "sodium": 0.019
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-28T10:23:12Z",
+  "fetched_at": "2026-08-19T13:12:38Z"
+}

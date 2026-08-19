@@ -1,0 +1,28 @@
+{
+  "barcode": "8901262090469",
+  "name": "T-Special Premium Dairy Whitener",
+  "brand": "Amul",
+  "quantity": "22g",
+  "categories": [
+    "en:dairies",
+    "en:Dairy-w",
+    "en:Dairy-whitener"
+  ],
+  "ingredients": "Milk solids, sucrose",
+  "per_100g": {
+    "energy_kcal": 460,
+    "fat": 20,
+    "saturated_fat": 12,
+    "carbohydrates": 50,
+    "sugars": 50,
+    "fiber": null,
+    "protein": 20,
+    "salt": 0.675,
+    "sodium": 0.27
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-15T20:48:02Z",
+  "fetched_at": "2026-08-19T00:43:06Z"
+}

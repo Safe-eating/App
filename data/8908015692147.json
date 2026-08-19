@@ -1,0 +1,36 @@
+{
+  "barcode": "8908015692147",
+  "name": "Coconut Water",
+  "brand": "Coco Charge",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:coconuts-and-their-products",
+    "en:coconut-waters"
+  ],
+  "ingredients": "TENDER COCONUT WATER(100%), BIO-PRESERVATIVE (INS 234)",
+  "per_100g": {
+    "energy_kcal": 19.27,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 4.64,
+    "sugars": 4.07,
+    "fiber": null,
+    "protein": 0.18,
+    "salt": 0.060425,
+    "sodium": 0.02417
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-08T01:14:53Z",
+  "fetched_at": "2026-08-19T13:17:16Z"
+}

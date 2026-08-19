@@ -1,0 +1,30 @@
+{
+  "barcode": "8906071887781",
+  "name": "CrèmeCups",
+  "brand": "Lávian Exotique",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes",
+    "en:Cup cakes"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 418.47,
+    "fat": 19.14,
+    "saturated_fat": 9.21,
+    "carbohydrates": 63.91,
+    "sugars": 31.35,
+    "fiber": null,
+    "protein": 4.07,
+    "salt": 0.3469,
+    "sodium": 0.13876
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-04T10:18:18Z",
+  "fetched_at": "2026-08-19T12:43:03Z"
+}

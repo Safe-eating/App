@@ -1,0 +1,30 @@
+{
+  "barcode": "7622202290756",
+  "name": "Silk Ganache",
+  "brand": "Cadbury Dairy Milk",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:milk-chocolates"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 566,
+    "fat": 36.8,
+    "saturated_fat": 19.2,
+    "carbohydrates": 51.4,
+    "sugars": 46.6,
+    "fiber": null,
+    "protein": 8.7,
+    "salt": 0.26,
+    "sodium": 0.104
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-18T06:53:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

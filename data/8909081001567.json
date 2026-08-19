@@ -1,0 +1,32 @@
+{
+  "barcode": "8909081001567",
+  "name": "Aashirvaad Superior MP Atta",
+  "brand": "Aashirvaad",
+  "quantity": "500 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:flours",
+    "en:cereal-flours",
+    "en:wheat-flours"
+  ],
+  "ingredients": "WHOLE WHEAT",
+  "per_100g": {
+    "energy_kcal": 338.333333333333,
+    "fat": 1.33333333333333,
+    "saturated_fat": 0.333333333333333,
+    "carbohydrates": 76,
+    "sugars": 3.66666666666667,
+    "fiber": 10.3333333333333,
+    "protein": 10.6666666666667,
+    "salt": 0.00375,
+    "sodium": 0.0015
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-11T12:50:02Z",
+  "fetched_at": "2026-08-19T13:22:59Z"
+}

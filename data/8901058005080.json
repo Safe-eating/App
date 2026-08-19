@@ -1,0 +1,35 @@
+{
+  "barcode": "8901058005080",
+  "name": "Munch Max",
+  "brand": "Nestlé",
+  "quantity": "38.5 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:biscuits",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:candy-chocolate-bars"
+  ],
+  "ingredients": "Sugar, Refined Wheat Flour (Maida), Hydrogenated vegetable fats, Fractionated vegetable fat, Milk solids. Cocoa solids (3.9%), Emulsifier (Soya lecithin), Raising agent (500(ii)), Yeast, lodised salt, Flour treatment agent (516), Artificial (Vanilla) flavouring substance and Nature-Identical flavouring substance.",
+  "per_100g": {
+    "energy_kcal": 430,
+    "fat": 23.2,
+    "saturated_fat": 22.6,
+    "carbohydrates": 49.8,
+    "sugars": 34.3,
+    "fiber": null,
+    "protein": 5.6,
+    "salt": 0.21575,
+    "sodium": 0.0794
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-01T09:14:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

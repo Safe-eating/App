@@ -1,0 +1,31 @@
+{
+  "barcode": "8906076132640",
+  "name": "Whole Wheat Loaf",
+  "brand": "The Baker’s Dozen",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:sliced-breads"
+  ],
+  "ingredients": "Whole Wheat Flour (Atta) (52%), Sourdough (3%) (Whole Wheat Flour, Water, Salt), Yeast, Vinegar, Sunflower Oil, Sugar, Fermented Wheat Flour, lodized Salt, Gluten, Flour Treatment Agent (INS 1100 (i)). Allergen Declaration: Contains Wheat \u0026 Soy. PROCESSED IN A FACILITY THAT HANDLES KNOWN ALLERGENS.",
+  "per_100g": {
+    "energy_kcal": 253,
+    "fat": 2,
+    "saturated_fat": 0.3,
+    "carbohydrates": 49,
+    "sugars": 11,
+    "fiber": 10,
+    "protein": 10,
+    "salt": 1.0625,
+    "sodium": 0.425
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-08T16:14:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

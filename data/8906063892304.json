@@ -1,0 +1,24 @@
+{
+  "barcode": "8906063892304",
+  "name": "Chicken Chorizo Sausages",
+  "brand": "Meat the World",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 190,
+    "fat": 12,
+    "saturated_fat": 5,
+    "carbohydrates": 0.3,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 19,
+    "salt": 1.105,
+    "sodium": 0.442
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-11T12:00:56Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

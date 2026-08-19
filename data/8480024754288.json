@@ -1,0 +1,29 @@
+{
+  "barcode": "8480024754288",
+  "name": "Barritas de platano y chocolate",
+  "brand": "Alteza",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars",
+    "en:cereal-bars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 424,
+    "fat": 13,
+    "saturated_fat": 6.4,
+    "carbohydrates": 69,
+    "sugars": 29,
+    "fiber": null,
+    "protein": 5.8,
+    "salt": 0.4,
+    "sodium": 0.16
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T14:21:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

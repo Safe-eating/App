@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063093621",
+  "name": "good day",
+  "brand": "Britannia",
+  "quantity": "90.5g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, SUGAR, INVERT SUGAR SYRUP, CASHEW (1.4%), MILK PRODUCTS (MILK SOLIDS \u0026 BUTTER (0.1%)), RAISING AGENTS (503(ii) \u0026 500(ii)], IODISED SALT, EMULSIFIERS [322(i), 471 \u0026 472e] AND NATURE IDENTICAL \u0026 ARTIFICIAL (VANILLA \u0026 MILK) FLAVOURING SUBSTANCES. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, NUTS, MILK AND SOY.",
+  "per_100g": {
+    "energy_kcal": 509,
+    "fat": 23.7,
+    "saturated_fat": 11.6,
+    "carbohydrates": 67.3,
+    "sugars": 20.3,
+    "fiber": null,
+    "protein": 6.7,
+    "salt": 0.55,
+    "sodium": 0.22
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-31T14:28:03Z",
+  "fetched_at": "2026-08-19T00:31:16Z"
+}

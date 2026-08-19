@@ -1,0 +1,28 @@
+{
+  "barcode": "8904132926813",
+  "name": "Besan",
+  "brand": "Goodlife",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:flours"
+  ],
+  "ingredients": "Chana Dal",
+  "per_100g": {
+    "energy_kcal": 330,
+    "fat": 5.3,
+    "saturated_fat": 0.5,
+    "carbohydrates": 46.7,
+    "sugars": 1.1,
+    "fiber": null,
+    "protein": 21.5,
+    "salt": 0.052,
+    "sodium": 0.0208
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-10T08:19:13Z",
+  "fetched_at": "2026-08-19T01:36:39Z"
+}

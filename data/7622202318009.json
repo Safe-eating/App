@@ -1,0 +1,32 @@
+{
+  "barcode": "7622202318009",
+  "name": "Cadbury 5 STAR",
+  "brand": "Cadbury",
+  "quantity": "33gram",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:bars",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:chocolate-bar-with-dried-fruits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 444,
+    "fat": 15.9,
+    "saturated_fat": 10.1,
+    "carbohydrates": 72.9,
+    "sugars": 52.6,
+    "fiber": 0,
+    "protein": 3.3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-05T19:30:17Z",
+  "fetched_at": "2026-08-19T00:10:51Z"
+}

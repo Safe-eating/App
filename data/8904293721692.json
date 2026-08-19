@@ -1,0 +1,37 @@
+{
+  "barcode": "8904293721692",
+  "name": "Lime Pickle",
+  "brand": "Delish",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:canned-foods",
+    "en:vegetables-based-foods",
+    "en:canned-plant-based-foods",
+    "en:pickles",
+    "en:canned-vegetables",
+    "en:plant-based-pickles",
+    "en:prepared-vegetables",
+    "en:pickled-vegetables"
+  ],
+  "ingredients": "Lime(64%), Edible Vegetable Oil,Corn Oil, lodized Salt,Mustard, Red Chilli, Garlic, Fenugreek, Acidity Regulator(INS 330), Turmeric, Asafoetida",
+  "per_100g": {
+    "energy_kcal": 91.97,
+    "fat": 2.87,
+    "saturated_fat": 1.39,
+    "carbohydrates": 11.4,
+    "sugars": 5.62,
+    "fiber": null,
+    "protein": 1.73,
+    "salt": 1.4834,
+    "sodium": 0.59336
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-04-24T17:04:22Z",
+  "fetched_at": "2026-08-19T01:41:20Z"
+}

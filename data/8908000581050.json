@@ -1,0 +1,26 @@
+{
+  "barcode": "8908000581050",
+  "name": "Samba Wheat Rava",
+  "brand": "SVS",
+  "quantity": "500 g",
+  "categories": [
+    "en:wheat-rava"
+  ],
+  "ingredients": "Wheat",
+  "per_100g": {
+    "energy_kcal": 317.3,
+    "fat": 1.7,
+    "saturated_fat": 0.27,
+    "carbohydrates": 65.6,
+    "sugars": 1.6,
+    "fiber": 1.8,
+    "protein": 9,
+    "salt": 0.063,
+    "sodium": 0.0025
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T17:18:07Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8904025407504",
+  "name": "Chitale Coffee",
+  "brand": "Chitale",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks"
+  ],
+  "ingredients": "Toned Milk, Sugar Coffee(0.5%), Stabilizer(E-401)",
+  "per_100g": {
+    "energy_kcal": 107.5,
+    "fat": 3.1,
+    "saturated_fat": 2.2,
+    "carbohydrates": 16.8,
+    "sugars": 14.5,
+    "fiber": 0,
+    "protein": 3.1,
+    "salt": 0.148,
+    "sodium": 0.0592
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-10T07:47:35Z",
+  "fetched_at": "2026-08-19T01:26:52Z"
+}

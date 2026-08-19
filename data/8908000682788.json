@@ -1,0 +1,28 @@
+{
+  "barcode": "8908000682788",
+  "name": "Jeera Masala Soda",
+  "brand": "Kaycee,English",
+  "quantity": "200 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:carbonated-drinks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 8,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 2,
+    "sugars": 2,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0.17
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T18:12:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

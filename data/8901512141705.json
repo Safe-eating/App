@@ -1,0 +1,36 @@
+{
+  "barcode": "8901512141705",
+  "name": "Regular Peanui Butter",
+  "brand": "Sundrop",
+  "quantity": "924 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "Roasted Peanuts, Sugar, Stabilizer (Mono and Diglycerides of Fatty Acids), Peanut Oil \u0026  Salt.",
+  "per_100g": {
+    "energy_kcal": 642,
+    "fat": 51,
+    "saturated_fat": 9.5,
+    "carbohydrates": 20,
+    "sugars": 9,
+    "fiber": 5,
+    "protein": 26,
+    "salt": 0.875,
+    "sodium": 0.35
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-24T10:34:51Z",
+  "fetched_at": "2026-08-19T00:54:03Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8904221698997",
+  "name": "Whey Protein Concentrate",
+  "brand": "Asitis, as·it·is",
+  "quantity": "",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 402.857142857143,
+    "fat": 5.14285714285714,
+    "saturated_fat": 2.85714285714286,
+    "carbohydrates": 9.14285714285714,
+    "sugars": 4.28571428571429,
+    "fiber": null,
+    "protein": 80,
+    "salt": 0.665714285714286,
+    "sodium": 0.266285714285714
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T14:29:41Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

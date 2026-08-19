@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010505684",
+  "name": "Tornado Chilli Khalbali",
+  "brand": "GIPPI",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "CORN MEAL (63%), EDIBLE VEGETABLE OIL (LUNTAINS ONE OR MORE FOLLOWINGS: PALMOLEIN, RICE BRAN, CORN, COTTONSEED), **SEASONING (EDIBLE COMMON SALT, SUGAR, MALTODEXTRIN, DEHYDRATED VEGETABLE POWDER (ONION GARLIC, TOMATO), CHILLI POWDER (0.6%), HYDROLYZED VEGETABLE PROTEIN (SOYA), FLAVOUR (NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES), STABILIZER (INS 170 (1)), ANTICAKING AGENT (INS 551), EMULSIFIER (INS 471, INS 470), MILK SOLIDS (0.1%), PAPRIKA EXTRACT (INS 160C), FLAVOUR ENHANCER (INS 627, INS 631, INS 621), ACIDITY REGULATOR (INS 330, INS 296, INS 334)].",
+  "per_100g": {
+    "energy_kcal": 502,
+    "fat": 24.5,
+    "saturated_fat": 11.4,
+    "carbohydrates": 62.1,
+    "sugars": 7.9,
+    "fiber": 3,
+    "protein": 6.9,
+    "salt": 2.4975,
+    "sodium": 0.999
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-30T03:32:20Z",
+  "fetched_at": "2026-08-19T02:02:18Z"
+}

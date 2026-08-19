@@ -1,0 +1,31 @@
+{
+  "barcode": "8906009535159",
+  "name": "7 Grain Breakfast Cookie Choco Almond",
+  "brand": "Max Protein",
+  "quantity": "60 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits",
+    "en:chocolate-biscuits",
+    "en:biscuit-with-a-chocolate-bar-covering"
+  ],
+  "ingredients": "Protein Blend 25% (High Protein Peanut Flour, Wheat Protein, Soy Protein Isolate, Whey Protein Concentrate), Dietary Fiber (Fructo-oligosaccharide), Rice Bran Oil, Millets, Cereals And Pulses Blend (Wheat Flour, Corn Flour, Oats Flour, Ragi Flour, Quinoa Flour, Amaranth Puffs, Roasted Chick Pea Flour), Almond Bits (8%), Cocoa Powder, Humectant (Glycerine), Binding Agents (Xanthan Gum, Gum Acacia), Leavening Agent (Baking Powder), Tricalcium Phosphate, Emulsifiers (Soy Lecithin), Salt, Psyllium Husk, Antioxidant (Rosemary Extract), Sweetener (Sucralose)",
+  "per_100g": {
+    "energy_kcal": 463.333333333333,
+    "fat": 27.1666666666667,
+    "saturated_fat": 4.83333333333333,
+    "carbohydrates": 36.8333333333333,
+    "sugars": 5.83333333333333,
+    "fiber": 13.3333333333333,
+    "protein": 20,
+    "salt": 0.733333333333333,
+    "sodium": 0.293333333333333
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-19T08:55:29Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8901058903966",
+  "name": "Milkybar Moosha",
+  "brand": "Nestlé",
+  "quantity": "38g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:milk-chocolate-bar-with-nougat"
+  ],
+  "ingredients": "Nougat + Caramel (70%) (Sugar, Liquid glucose, Hydrogenated vegetable fats, Malt extract, *Milk solids (3.7%), Emulsifiers (471 and Soya Lecithin), Acidity regulator (330), Stabilizer (501), lodized salt, Nature - Identical flavouring substances and Artificial (Vanilla) flavouring substances) and MILKYBAR^ Coating (30%) (*Milk solids (10.6%), Sugar, Hydrogenated vegetable fats, Fractionated vegetable fat, Emulsifier (Soya lecithin) and Nature-Identical flavouring substances). Contains Barley, Milk, Sesame, Soy and Wheat.",
+  "per_100g": {
+    "energy_kcal": 426,
+    "fat": 16.8,
+    "saturated_fat": 13.6,
+    "carbohydrates": 65.5,
+    "sugars": 49.2,
+    "fiber": null,
+    "protein": 3.8,
+    "salt": 0.216,
+    "sodium": 0.0864
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-12T06:48:49Z",
+  "fetched_at": "2026-08-19T00:27:32Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8904004400083",
+  "name": "Haldiram's Bhujia sev",
+  "brand": "Haldiram's",
+  "quantity": "400g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks"
+  ],
+  "ingredients": "Tepary Beans (Moth Dal) Flour, Refined Cotton Seed Oil, Bengal Gram Flour (Besan), Edible Common Salt, Red Chilli Powder, Clove Powder, Black Pepper, Coriander Seed, Dried Ginger Powder, Cardamom, Bay Leaves, Nutmeg \u0026 Cinnamon. Allergen: May Contains Almond, Cashew, Wheat, Milk, Soy, Mustard Seed, Peanut \u0026 Sesame Seed.",
+  "per_100g": {
+    "energy_kcal": 601,
+    "fat": 43.5,
+    "saturated_fat": 11.5,
+    "carbohydrates": 37.14,
+    "sugars": 0,
+    "fiber": 4.85,
+    "protein": 12.93,
+    "salt": 1.9275,
+    "sodium": 0.771
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-17T19:15:26Z",
+  "fetched_at": "2026-08-19T01:23:45Z"
+}

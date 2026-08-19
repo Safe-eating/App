@@ -1,0 +1,34 @@
+{
+  "barcode": "8901262010344",
+  "name": "Garlic \u0026 Herbs Buttery Spread",
+  "brand": "Amul",
+  "quantity": "100g",
+  "categories": [
+    "en:dairies",
+    "en:spreads",
+    "en:fats",
+    "en:spreadable-fats",
+    "en:animal-fats",
+    "en:dairy-spreads",
+    "en:milkfat",
+    "en:butters",
+    "en:butter-fat"
+  ],
+  "ingredients": "Pasteurised Table Butter, Garlic Herbs Masala (2.5%) (Garlic Powder, Garlic flakes, Oregano leaves, Ghee) and Salt. CONTAINS PERMITTED NATURAL COLOUR [ANNATTO",
+  "per_100g": {
+    "energy_kcal": 697.6,
+    "fat": 77,
+    "saturated_fat": 46,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0.5,
+    "salt": 2.375,
+    "sodium": 0.95
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-28T08:08:04Z",
+  "fetched_at": "2026-08-19T00:41:28Z"
+}

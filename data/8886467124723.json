@@ -1,0 +1,36 @@
+{
+  "barcode": "8886467124723",
+  "name": "Pringles sour cream 40g",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:stacked-extruded-potato-crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 541,
+    "fat": 30.9,
+    "saturated_fat": 15,
+    "carbohydrates": 57.6,
+    "sugars": 3.2,
+    "fiber": 1.5,
+    "protein": 5,
+    "salt": 1.605,
+    "sodium": 0.642
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T19:47:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

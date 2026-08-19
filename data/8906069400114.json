@@ -1,0 +1,28 @@
+{
+  "barcode": "8906069400114",
+  "name": "VEEBA AMERICAN MUSTARD SAUCE",
+  "brand": "VEEBA",
+  "quantity": "",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:mustard-sauces"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 80.6,
+    "fat": 3,
+    "saturated_fat": 0.14,
+    "carbohydrates": 10.6,
+    "sugars": 3.75,
+    "fiber": null,
+    "protein": 2.8,
+    "salt": 4.6,
+    "sodium": 1.84
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T08:53:20Z",
+  "fetched_at": "2026-08-19T12:41:03Z"
+}

@@ -1,0 +1,34 @@
+{
+  "barcode": "8906081123626",
+  "name": "100% natural premium whole cashew nuts",
+  "brand": "Happilo",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:salty-snacks",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:salted-nuts",
+    "en:cashew-nuts",
+    "en:unsalted-cashews"
+  ],
+  "ingredients": "Cashew",
+  "per_100g": {
+    "energy_kcal": 553,
+    "fat": 43,
+    "saturated_fat": 7,
+    "carbohydrates": 29,
+    "sugars": 4,
+    "fiber": 4,
+    "protein": 18,
+    "salt": 0.0275,
+    "sodium": 0.011
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T06:20:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

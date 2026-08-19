@@ -1,0 +1,37 @@
+{
+  "barcode": "80135890",
+  "name": "Kinder joy boy",
+  "brand": "Ferrero",
+  "quantity": "20 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:festive-foods",
+    "en:chocolate-candies",
+    "en:chocolates",
+    "en:chocolate-molds",
+    "en:easter-food",
+    "en:chocolate-eggs",
+    "en:easter-eggs",
+    "en:hollow-chocolate-eggs"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 550,
+    "fat": 32,
+    "saturated_fat": 14.5,
+    "carbohydrates": 56.5,
+    "sugars": 51,
+    "fiber": null,
+    "protein": 8.2,
+    "salt": 0.318,
+    "sodium": 0.1272
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-17T12:29:23Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

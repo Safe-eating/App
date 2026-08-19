@@ -1,0 +1,26 @@
+{
+  "barcode": "8908013746231",
+  "name": "Caravova Classic Mojito",
+  "brand": "CRAVOVA",
+  "quantity": "1 /200ml",
+  "categories": [
+    "en:Sparkling Mocktail Drink"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 56,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 14,
+    "sugars": 13.6,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-01T15:43:30Z",
+  "fetched_at": "2026-08-19T13:15:13Z"
+}

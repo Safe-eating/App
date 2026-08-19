@@ -1,0 +1,29 @@
+{
+  "barcode": "8908024977013",
+  "name": "Superyou Protein Wafer",
+  "brand": "Superyou",
+  "quantity": "40 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:bars"
+  ],
+  "ingredients": "PROTEIN BLEND (FERMENTED NUTRITIONAL YEAST PROTEIN (22%) + MILK SOLIDS), SWEETENER (INS 965(i)), EDIBLE VEGETABLE FATS (HYDROGENATED COCONUT OILS, INS 322), CHEESE, REFINED WHEAT FLOUR (MAIDA) STARCH, EMULSIFIER (INS 322), EDIBLE COMMON SALT, IMPROVER ENZYME. CONTAINS ADDED FLAVOURS - ARTIFICIAL FLAVOURING SUBSTANCES (ETHYL VANILLIN, CHEESE).",
+  "per_100g": {
+    "energy_kcal": 466,
+    "fat": 25.9,
+    "saturated_fat": 21.25,
+    "carbohydrates": 50,
+    "sugars": 8.85,
+    "fiber": 7.6,
+    "protein": 25,
+    "salt": 1.10625,
+    "sodium": 0.4425
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-08T10:50:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,37 @@
+{
+  "barcode": "8908013982646",
+  "name": "Lahori Zeera",
+  "brand": "Lahori Zeera",
+  "quantity": "160 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:non-alcoholic-beverages",
+    "en:plant-based-beverages",
+    "en:carbonated-drinks",
+    "en:fruit-based-beverages",
+    "en:soft-drinks",
+    "en:sodas",
+    "en:fruit-soft-drinks",
+    "en:carbonated-fruit-soft-drink"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, LEMON JUICE CONCENTRATE (0.3%) EQUIVALENT TO 2.5% LEMON JUICE RECONSTITUTED, ACIDITY REGULATOR ONS 300 STABILISER (INS 414), CONTAINS PERMITTED NATURAL COLOUR (INS-150d) AND FLAVOURS (NATURAL \u0026 NATURE-IDENTICAL FLAVOURING SUBSTANCES), BLACK SALT, IODISED SALT CUMIN SEED, BLACK PEPPER \u0026 DRY GINGER POWDER, CLASS II PRESERVATIVE (INS-211). FINS-INTERNATIONAL NUMBERING SYSTEM).",
+  "per_100g": {
+    "energy_kcal": 47.2,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 11.8,
+    "sugars": 11.8,
+    "fiber": 0,
+    "protein": 0.2,
+    "salt": 0.4335,
+    "sodium": 0.1734
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-26T08:21:02Z",
+  "fetched_at": "2026-08-19T13:15:17Z"
+}

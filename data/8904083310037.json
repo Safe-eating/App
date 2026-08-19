@@ -1,0 +1,33 @@
+{
+  "barcode": "8904083310037",
+  "name": "Garlic Cheese Spread",
+  "brand": "Milky mist",
+  "quantity": "200 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:spreads",
+    "en:cheeses",
+    "en:salted-spreads",
+    "en:cheese-spreads",
+    "en:Garlic cheese Spreads"
+  ],
+  "ingredients": "Cheese, Water, Milk Solids, Emulsifiers (INS 452, 339), Stabilizer [INS 412), Garlic Powder (0.3%), Acidity Regulator (INS 270 ), Class II Preservative [INS 234, 200]",
+  "per_100g": {
+    "energy_kcal": 287,
+    "fat": 25,
+    "saturated_fat": 16,
+    "carbohydrates": 4,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 11.6,
+    "salt": 3.565,
+    "sodium": 1.426
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-19T04:20:42Z",
+  "fetched_at": "2026-08-19T01:33:34Z"
+}

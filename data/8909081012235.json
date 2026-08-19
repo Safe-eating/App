@@ -1,0 +1,30 @@
+{
+  "barcode": "8909081012235",
+  "name": "Supermilk Biscuits",
+  "brand": "Sunfeast",
+  "quantity": "37.7 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "MAIDA REFINED WHEAT FLOUR) (57.4%), SUGAR, REFINED PALM OIL, SWE CONDENSED COW MILK 30% INVERT SYRUP, IODIZED SALT, RAISING AGENTS [500(ii), 503 (ii)], MILK (0.36%) (OF WHICH 02% DOMESTIC COW MILK), EMULSIFIERS [MONO AND DIGLYCERIDES OF FATT FLAVORING SUBSTANCES (MILK. VANILLA), NATURE IDENTICAL FLAVOURING SUBSTANCES FROM PALM OIL), LECITHIN (FROM SOYABEAN)], NON DAIRY CREAMER (0.2%), MINERALS, A RATENT AGENT (223), VITAMINS. CONTAINS WHEAT, MILK, SOY, SULPHITE. MAY CONTAIN NUT.",
+  "per_100g": {
+    "energy_kcal": 452,
+    "fat": 15.9,
+    "saturated_fat": 8.4,
+    "carbohydrates": 71.5,
+    "sugars": 27.4,
+    "fiber": null,
+    "protein": 7.8,
+    "salt": 0.6615,
+    "sodium": 0.2646
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T18:08:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

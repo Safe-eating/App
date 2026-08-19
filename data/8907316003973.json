@@ -1,0 +1,27 @@
+{
+  "barcode": "8907316003973",
+  "name": "Tamarin Paste",
+  "brand": "Mother's Recipe",
+  "quantity": "200 g",
+  "categories": [
+    "en:condiments",
+    "en:tamarind-paste"
+  ],
+  "ingredients": "Tamarind (40%), Water and lodized Salt. May Contain Milk, Soy, Nut, Peanut, Wheat and Sulphite.",
+  "per_100g": {
+    "energy_kcal": 99,
+    "fat": 0.2,
+    "saturated_fat": 0.1,
+    "carbohydrates": 23,
+    "sugars": 15.5,
+    "fiber": null,
+    "protein": 1.2,
+    "salt": 12.275,
+    "sodium": 4.91
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T16:49:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

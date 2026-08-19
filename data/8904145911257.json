@@ -1,0 +1,31 @@
+{
+  "barcode": "8904145911257",
+  "name": "Ensure Vanilla Flavour",
+  "brand": "Ensure,Abbott",
+  "quantity": "375g",
+  "categories": [
+    "en:specific-products",
+    "en:products-for-specific-diets",
+    "en:products-without-gluten",
+    "en:dietary-supplements",
+    "en:health-supplements",
+    "en:nutritional-supplements"
+  ],
+  "ingredients": "Skimmed milk powder,maltodextrin,sucrose,edinle vegetable oil (high oleic sunflower oil,soy oil),Fructo-Oligosaccharide(4.0%),Flavorings(nature identical and artificial flavouring substance-vanila),Minerals**Vitamins***,Antioxidant(mixed tocopherol),Contains milk",
+  "per_100g": {
+    "energy_kcal": 410,
+    "fat": 11.5,
+    "saturated_fat": 4,
+    "carbohydrates": 59.83,
+    "sugars": 14.7,
+    "fiber": 4,
+    "protein": 15.1,
+    "salt": 15,
+    "sodium": 6
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-05T10:30:13Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

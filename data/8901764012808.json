@@ -1,0 +1,27 @@
+{
+  "barcode": "8901764012808",
+  "name": "Coca-Cola 1.25L",
+  "brand": "The Coca-Cola Company",
+  "quantity": "1,25l",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "Sugar, salt, caramel e120 , cola.",
+  "per_100g": {
+    "energy_kcal": 52,
+    "fat": 44,
+    "saturated_fat": 12,
+    "carbohydrates": null,
+    "sugars": 11,
+    "fiber": 45,
+    "protein": 54,
+    "salt": 62.5,
+    "sodium": 25
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-11T17:24:11Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

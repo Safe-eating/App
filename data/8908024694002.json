@@ -1,0 +1,34 @@
+{
+  "barcode": "8908024694002",
+  "name": "Strawberry, greek yoghurt",
+  "brand": "Athena",
+  "quantity": "200 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:fermented-dairy-desserts-with-fruits",
+    "en:fermented-dairy-desserts-with-fruits-and-sweeteners",
+    "en:high-protein-yogurt"
+  ],
+  "ingredients": "Milk \u0026 Milk solids, Strawberry fruit preparation-12% (Water, Strawberry fruit, Apple Juice Concentrate, Natural \u0026 Nature Identical Flavoring Substance (Strawberry), Stabilizer (INS 440), Natural Food Color (INS 163 vi), Acidity Regulator (INS 330), Steviol Glycosides (INS 960a)], Permitted Lactic Acid Culture Active Lactic Acid Culture: Lbacillus delbrueckii subsp. Bulgaricus, S.thermophilus Allergens Contains Milk Nutrit Serve Si Amt. Per 10 Energy 91 Protein 10 Carbohydr Natural S Added S Total Fat 3. Saturated Trans Fa Cholester Sodium 38. Calcium 20 \u0026quot;Approximate Va for adult men. (F",
+  "per_100g": {
+    "energy_kcal": 97.2,
+    "fat": 3.76,
+    "saturated_fat": 3.16,
+    "carbohydrates": 5.84,
+    "sugars": 3.76,
+    "fiber": null,
+    "protein": 10,
+    "salt": 0.09725,
+    "sodium": 0.0389
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-26T19:11:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

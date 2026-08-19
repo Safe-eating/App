@@ -1,0 +1,30 @@
+{
+  "barcode": "8906002003242",
+  "name": "Veg Mayonnaise",
+  "brand": "Dr. Oetker",
+  "quantity": "250g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:vegetarian-sauces",
+    "en:vegan-sauces",
+    "en:egg-free-mayonnaises"
+  ],
+  "ingredients": "Water, Olive Oil (24%), Sugar, E Mustard Powder, Preservatives (INS211, INSZO CONTAINS ADDED FLAVOUR Serve Size 15 Nutritional FLAVOURING SUBSTANCES)",
+  "per_100g": {
+    "energy_kcal": 312.9,
+    "fat": 24.9,
+    "saturated_fat": 4.6,
+    "carbohydrates": 21.3,
+    "sugars": 12.7,
+    "fiber": null,
+    "protein": 0.9,
+    "salt": 2.4384,
+    "sodium": 0.97536
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-28T00:54:30Z",
+  "fetched_at": "2026-08-19T01:49:13Z"
+}

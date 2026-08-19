@@ -1,0 +1,35 @@
+{
+  "barcode": "4906419581245",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:curd"
+  ],
+  "ingredients": "Calcium",
+  "per_100g": {
+    "energy_kcal": 22,
+    "fat": 0.96,
+    "saturated_fat": 0.58,
+    "carbohydrates": 2.1,
+    "sugars": 2.1,
+    "fiber": null,
+    "protein": 1.2,
+    "salt": 0.53,
+    "sodium": 0.212
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-06T10:40:51Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

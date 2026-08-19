@@ -1,0 +1,36 @@
+{
+  "barcode": "8902570811227",
+  "name": "Spencer's Smart Choice Cornflakes",
+  "brand": "Spencer's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:extruded-cereals",
+    "en:extruded-flakes",
+    "en:corn-flakes"
+  ],
+  "ingredients": "Corn Grits (91.48%), Sugar, lodised Salt, Malt Extract. Emulsifier [INS 322 (i)], Antioxidant (INS 320).",
+  "per_100g": {
+    "energy_kcal": 388.42,
+    "fat": 3.13,
+    "saturated_fat": 0.87,
+    "carbohydrates": 83.24,
+    "sugars": 6.12,
+    "fiber": 4.83,
+    "protein": 6.8,
+    "salt": 1.18375,
+    "sodium": 0.4735
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-06T04:48:56Z",
+  "fetched_at": "2026-08-19T01:15:23Z"
+}

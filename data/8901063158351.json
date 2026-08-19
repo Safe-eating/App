@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063158351",
+  "name": "Chunkies Coconut Cookies",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, COCONUT PRODUCTS (16.5%) [DESICCATED COCONUT \u0026 COCONUT MILK POWDER] INTERESTERIFIED VEGETABLE FAT, BUTTER, INVERT SUGAR SYRUP, RAISING AGENTS [503, 500(ii)\u0026 450(i)], NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES, EMULSIFIERS [322(i), 471 \u0026 472e) AND IODIZED SALT.",
+  "per_100g": {
+    "energy_kcal": 541,
+    "fat": 30.4,
+    "saturated_fat": 21.7,
+    "carbohydrates": 62.1,
+    "sugars": 35.1,
+    "fiber": null,
+    "protein": 4.7,
+    "salt": 0.33,
+    "sodium": 0.132
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-15T22:38:46Z",
+  "fetched_at": "2026-08-19T00:32:16Z"
+}

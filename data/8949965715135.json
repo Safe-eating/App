@@ -1,0 +1,29 @@
+{
+  "barcode": "8949965715135",
+  "name": "Heritage Cow Milk",
+  "brand": "Heritage",
+  "quantity": "200 ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:cow-milks"
+  ],
+  "ingredients": "Milk Solids (Cow Milk), Vitamin A Palmitate",
+  "per_100g": {
+    "energy_kcal": 58.8,
+    "fat": 3.2,
+    "saturated_fat": 2.1,
+    "carbohydrates": 4.5,
+    "sugars": 2.1,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-29T06:12:08Z",
+  "fetched_at": "2026-08-19T13:25:37Z"
+}

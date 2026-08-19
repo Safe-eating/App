@@ -1,0 +1,31 @@
+{
+  "barcode": "8906005910370",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:peanuts",
+    "en:coated-peanuts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 624.14,
+    "fat": 49.74,
+    "saturated_fat": 9.48,
+    "carbohydrates": 24.9,
+    "sugars": 1.95,
+    "fiber": 4.56,
+    "protein": 19.22,
+    "salt": 2.45,
+    "sodium": 0.96
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-11T13:49:48Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8908018014007",
+  "name": "Certified Organic Wild Honey",
+  "brand": "Indigenous Honey",
+  "quantity": "530g",
+  "categories": [
+    "en:breakfasts",
+    "en:spreads",
+    "en:sweet-spreads",
+    "en:bee-products",
+    "en:farming-products",
+    "en:sweeteners",
+    "en:honeys"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 339,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 84.2,
+    "sugars": 84,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.01125,
+    "sodium": 0.0045
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-22T14:13:38Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

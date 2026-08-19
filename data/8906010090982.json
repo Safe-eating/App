@@ -1,0 +1,29 @@
+{
+  "barcode": "8906010090982",
+  "name": "",
+  "brand": "D'lecta",
+  "quantity": "10 x 20g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses"
+  ],
+  "ingredients": "Cheese, Milk solids, Water, Chilli, Iodized salt, Stabilizers (INS 331 (iii), INS 339 (ii)), Preservative (INS 200 \u0026 INS 235)",
+  "per_100g": {
+    "energy_kcal": 277.54,
+    "fat": 21.36,
+    "saturated_fat": 12.62,
+    "carbohydrates": 14.14,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 8.4,
+    "salt": 3.9659,
+    "sodium": 1.58636
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-05T07:29:17Z",
+  "fetched_at": "2026-08-19T01:59:35Z"
+}

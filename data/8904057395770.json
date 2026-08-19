@@ -1,0 +1,26 @@
+{
+  "barcode": "8904057395770",
+  "name": "Full Cream Milk",
+  "brand": "Arokya, Hatsun Agro Product Limited (HAP)",
+  "quantity": "500 ml",
+  "categories": [
+    "en:Full cream milk"
+  ],
+  "ingredients": "Milk \u0026 Milk Solids Milk Allergen Information: Contains Milk",
+  "per_100g": {
+    "energy_kcal": 85,
+    "fat": 6,
+    "saturated_fat": 3.5,
+    "carbohydrates": 4.7,
+    "sugars": 4.7,
+    "fiber": 0,
+    "protein": 3.2,
+    "salt": 0.1125,
+    "sodium": 0.045
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-11T09:23:23Z",
+  "fetched_at": "2026-08-19T01:28:57Z"
+}

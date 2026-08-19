@@ -1,0 +1,26 @@
+{
+  "barcode": "8906019564163",
+  "name": "Sing Bhujiya",
+  "brand": "Real",
+  "quantity": "400g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "SING BHUJIYA\nINGREDIENTS: Peanuts (62.6%), Edible Vegetable Oil (Palmolein), Gram Flory (Besan)\n(19%), Edible lodised Salt (1.5%), Black Pepper Powder, Dried Mango Powder Amchur),\nChili Powder, Edible Black Salt, Spices Powder (Cloves, Cinnamon), Acidity Regulators\n(Malic Acid) - (E/INS - 296).\nCONTAINS PEANUTS\nPRODUCT OF INDIA\nALLERGY ADVICE: Manufactured in a facility that processes soy products, milk\nsolid, peanuts, tree nuts, nuts, sesame seeds \u0026 wheat.",
+  "per_100g": {
+    "energy_kcal": 610.95406360424,
+    "fat": 46.9964664310954,
+    "saturated_fat": 11.3074204946996,
+    "carbohydrates": 25.0883392226148,
+    "sugars": 4.24028268551237,
+    "fiber": 11.3074204946996,
+    "protein": 21.5547703180212,
+    "salt": 1.68727915194346,
+    "sodium": 0.674911660777385
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-19T15:49:04Z",
+  "fetched_at": "2026-08-19T02:06:27Z"
+}

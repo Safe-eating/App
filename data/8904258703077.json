@@ -1,0 +1,30 @@
+{
+  "barcode": "8904258703077",
+  "name": "Raw Pressery Protein Milkshake Choco Mint",
+  "brand": "Raw Pressery",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 86.1025641025641,
+    "fat": 0.307692307692308,
+    "saturated_fat": 0.205128205128205,
+    "carbohydrates": 12.2564102564103,
+    "sugars": 7.84615384615385,
+    "fiber": 4.41025641025641,
+    "protein": 9.02564102564103,
+    "salt": 0.102692307692308,
+    "sodium": 0.0410769230769231
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-28T08:26:47Z",
+  "fetched_at": "2026-08-19T01:39:46Z"
+}

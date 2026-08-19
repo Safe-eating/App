@@ -1,0 +1,29 @@
+{
+  "barcode": "8901063032484",
+  "name": "Britannia treat Croissant Mixed Fruit",
+  "brand": "Britannia",
+  "quantity": "47g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:sweet-pastries-and-pies",
+    "en:viennoiseries"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, MARGARINE, REFINED PALM OIL, MIXED FRUIT PUREE (4.5%) (APPLE, BANANA, GUAVA, PINEAPPLE), VITAL GLUTEN, BAKERY IMPROVER MIX {EMULSIFIERS [481(i) \u0026 471], ANTICAKING AGENT [170(i)], FLOUR TREATMENT AGENTS [1100(i) \u0026 1101(i)] \u0026 ANTIOXIDANT (300)}, YEAST, MILK SOLIDS, EMULSIFIER (471), STABILIZER (440), IODISED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES, HUMECTANT [420(ii)], PRESERVATIVES (282 \u0026 202), BUTTER (0.14%), ACIDITY REGULATORS (330, 296) AND COLOURS (150d, 129). Numbers in brackets as per International Numbering System) CONTAINS WHEAT GLUTEN AND MILK.",
+  "per_100g": {
+    "energy_kcal": 404,
+    "fat": 16.2,
+    "saturated_fat": 8.51,
+    "carbohydrates": 59,
+    "sugars": 26.2,
+    "fiber": null,
+    "protein": 5.5,
+    "salt": 2,
+    "sodium": 0.8
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-15T10:27:01Z",
+  "fetched_at": "2026-08-19T00:30:13Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8906002009053",
+  "name": "Dr. otekar Supreme brownie",
+  "brand": "",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 417,
+    "fat": 17.67,
+    "saturated_fat": 6,
+    "carbohydrates": 54,
+    "sugars": 27.33,
+    "fiber": null,
+    "protein": 6.67,
+    "salt": 0.59,
+    "sodium": 0.236
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-05T15:47:23Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

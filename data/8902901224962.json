@@ -1,0 +1,33 @@
+{
+  "barcode": "8902901224962",
+  "name": "Masoor dal",
+  "brand": "Good Life",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:seeds",
+    "en:legume-seeds",
+    "en:pulses",
+    "en:lentils"
+  ],
+  "ingredients": "MASOOR DAL",
+  "per_100g": {
+    "energy_kcal": 104,
+    "fat": 0.38,
+    "saturated_fat": 0.053,
+    "carbohydrates": 12.2,
+    "sugars": 1.8,
+    "fiber": 7.9,
+    "protein": 9.02,
+    "salt": 0.005,
+    "sodium": 0.002
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T18:55:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

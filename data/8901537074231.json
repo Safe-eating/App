@@ -1,0 +1,36 @@
+{
+  "barcode": "8901537074231",
+  "name": "Daawat pulav basmati rice 1kg",
+  "brand": "Daawat",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:rices",
+    "en:aromatic-rices",
+    "en:indica-rices",
+    "en:long-grain-rices",
+    "en:basmati-rices"
+  ],
+  "ingredients": "Basmati rice",
+  "per_100g": {
+    "energy_kcal": 350,
+    "fat": 0.47,
+    "saturated_fat": 0.1,
+    "carbohydrates": 78,
+    "sugars": 0,
+    "fiber": 1.6,
+    "protein": 8.8,
+    "salt": 0.00425,
+    "sodium": 0.0017
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-11-16T08:23:48Z",
+  "fetched_at": "2026-08-19T00:55:33Z"
+}

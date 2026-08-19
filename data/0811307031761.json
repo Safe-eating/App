@@ -1,0 +1,30 @@
+{
+  "barcode": "0811307031761",
+  "name": "Roasted Makhana Sriracha Spice",
+  "brand": "Taali",
+  "quantity": "22g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:seeds",
+    "en:fox-nuts"
+  ],
+  "ingredients": "Makhana (75%), Sriracha Seasoning (12%) (Salt, Sugar, Chilli Powder, Milk Powder, Beet Root Powder, Citric Acid, Yeast Extract, Lemon Juice Powder, Garlic Powder, Onion Powder, Tamarind Powder, Cheese Powder), Edible Vegetable Oil (Palmolein Oil).",
+  "per_100g": {
+    "energy_kcal": 430,
+    "fat": 10,
+    "saturated_fat": 5,
+    "carbohydrates": 76,
+    "sugars": 4,
+    "fiber": 2,
+    "protein": 9,
+    "salt": 2.2375,
+    "sodium": 0.895
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-22T03:04:11Z",
+  "fetched_at": "2026-08-18T23:56:05Z"
+}

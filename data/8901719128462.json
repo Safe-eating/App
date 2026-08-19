@@ -1,0 +1,32 @@
+{
+  "barcode": "8901719128462",
+  "name": "Parle-G",
+  "brand": "Britannia, Parle",
+  "quantity": "100g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:dry-biscuits",
+    "en:plain-biscuit"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA ) - 68%, SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP# [SUGAR, CITRIC ACID], IODISED SALT, RAISING AGENTS [503 (ii), 500 (ii)], MILK SOLIDS, FLOUR TREATMENT AGENT [1101 (i)] AND EMULSIFIER OF VEGETABLE ORIGIN [472e], CONTAINS ADDED FLAVOUR ( ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA) (D-GLUCOSE, LEVULOSE)",
+  "per_100g": {
+    "energy_kcal": 454,
+    "fat": 13,
+    "saturated_fat": 6,
+    "carbohydrates": 77.3,
+    "sugars": 25.5,
+    "fiber": null,
+    "protein": 6.9,
+    "salt": 0.74,
+    "sodium": 0.296
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-26T14:03:24Z",
+  "fetched_at": "2026-08-19T01:01:43Z"
+}

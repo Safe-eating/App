@@ -1,0 +1,36 @@
+{
+  "barcode": "8906036670885",
+  "name": "Pure Ghee",
+  "brand": "Nandini",
+  "quantity": "1 l (905 g)",
+  "categories": [
+    "en:dairies",
+    "en:spreads",
+    "en:fats",
+    "en:spreadable-fats",
+    "en:animal-fats",
+    "en:dairy-spreads",
+    "en:milkfat",
+    "en:butters",
+    "en:butter-fat",
+    "en:clarified-butter",
+    "en:ghee"
+  ],
+  "ingredients": "Milk Solids (Milk Fat)",
+  "per_100g": {
+    "energy_kcal": 897,
+    "fat": 99.7,
+    "saturated_fat": 65,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-08T13:01:53Z",
+  "fetched_at": "2026-08-19T12:35:21Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063093485",
+  "name": "Good Day",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 508,
+    "fat": 23.4,
+    "saturated_fat": 11.5,
+    "carbohydrates": 67.7,
+    "sugars": 21.9,
+    "fiber": null,
+    "protein": 6.6,
+    "salt": 0.5775,
+    "sodium": 0.231
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-26T05:05:46Z",
+  "fetched_at": "2026-08-19T00:31:15Z"
+}

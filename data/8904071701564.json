@@ -1,0 +1,26 @@
+{
+  "barcode": "8904071701564",
+  "name": "",
+  "brand": "",
+  "quantity": "17 g",
+  "categories": [
+    "en:Food"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 479,
+    "fat": 22,
+    "saturated_fat": 4,
+    "carbohydrates": 45,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 22,
+    "salt": 1.03,
+    "sodium": 0.412
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-10T09:08:11Z",
+  "fetched_at": "2026-08-19T01:32:04Z"
+}

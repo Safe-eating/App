@@ -1,0 +1,31 @@
+{
+  "barcode": "8906064656622",
+  "name": "premium veg mayo",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:vegetarian-sauces",
+    "en:mayonnaises",
+    "en:vegan-sauces",
+    "en:egg-free-mayonnaises"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 283.1,
+    "fat": 25.1,
+    "saturated_fat": 2.3,
+    "carbohydrates": 13.8,
+    "sugars": 8.5,
+    "fiber": null,
+    "protein": 0.4,
+    "salt": 1.7075,
+    "sodium": 0.683
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-07T21:20:27Z",
+  "fetched_at": "2026-08-19T12:39:26Z"
+}

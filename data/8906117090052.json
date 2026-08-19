@@ -1,0 +1,36 @@
+{
+  "barcode": "8906117090052",
+  "name": "Potato Popped Chips - Bhel",
+  "brand": "Brb",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 436,
+    "fat": 13.2,
+    "saturated_fat": 2.8,
+    "carbohydrates": 71.6,
+    "sugars": 2.4,
+    "fiber": null,
+    "protein": 8.4,
+    "salt": 2.467,
+    "sodium": 0.9868
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-14T15:32:52Z",
+  "fetched_at": "2026-08-19T12:52:58Z"
+}

@@ -1,0 +1,36 @@
+{
+  "barcode": "8908022080098",
+  "name": "Ghee",
+  "brand": "Ashtavinayak",
+  "quantity": "450 g",
+  "categories": [
+    "en:dairies",
+    "en:spreads",
+    "en:fats",
+    "en:spreadable-fats",
+    "en:animal-fats",
+    "en:dairy-spreads",
+    "en:milkfat",
+    "en:butters",
+    "en:butter-fat",
+    "en:clarified-butter",
+    "en:ghee"
+  ],
+  "ingredients": "MILK FAT",
+  "per_100g": {
+    "energy_kcal": 898,
+    "fat": 99.81,
+    "saturated_fat": 67,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2023-10-06T16:03:04Z",
+  "fetched_at": "2026-08-19T13:21:24Z"
+}

@@ -1,0 +1,41 @@
+{
+  "barcode": "3297387000137",
+  "name": "Achard legumes",
+  "brand": "Royal Bourbon",
+  "quantity": "200 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:canned-foods",
+    "en:vegetables-based-foods",
+    "en:canned-plant-based-foods",
+    "en:pickles",
+    "en:canned-vegetables",
+    "en:plant-based-pickles",
+    "en:pickled-vegetables",
+    "en:plant-based-mixed-pickles",
+    "en:mixed-vegetable-pickles",
+    "en:acar",
+    "fr:legume-champignon-transforme-prepare",
+    "fr:legume-champignon-transforme-prepare-∣-82939"
+  ],
+  "ingredients": "Légumes (81%) (carotte, chou, haricot vert, concombre), huile de tournesol, oignon, vinaigre, gingembre, ail, curcuma, sel, piment, antioxydant : acide ascorbique.",
+  "per_100g": {
+    "energy_kcal": 106,
+    "fat": 9,
+    "saturated_fat": 1,
+    "carbohydrates": 3.7,
+    "sugars": 1.7,
+    "fiber": null,
+    "protein": 1.1,
+    "salt": 0.53,
+    "sodium": 0.212
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-19T18:54:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

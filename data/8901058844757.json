@@ -1,0 +1,31 @@
+{
+  "barcode": "8901058844757",
+  "name": "Masala Cuppa Noodles",
+  "brand": "Maggi, Nestlé",
+  "quantity": "70g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "Refined wheat flour (Maida), Palm oil, SaL Mineral (Calcium carbonate), Thickeners (41 2 \u0026 508), Humectanl (451 (i)) and Acid'iLy regulators (501 (j), 500(i) \u0026 330). TASTEMAKER: Mixed spices {(32.3%) (Onion (6.B%) Gadic powder, Red chilli powder (3.9%), Cumin powder, Codander powder, Turnieñc powder, Oinger powder, Dehydrated codander baves, Nukneg powder, Aniseed powder, Black pepper powder (0.9%), Dehydrated kasuri niethi baves, enugreek powder, Mace powder, Cbve powder \u0026 Green cardamom powder (0.2%)) Sugar, Saft, Nood powder (Refined wheat flour (Maida), Palm oil, Sa Wheat gluten, Mineral (Calcium carbonate), Thickeners (508 \u0026 41 2), Acidity regulators (501(i) \u0026 500(i)) \u0026 Humectant (451(i))), Dehydrated carrot flakes (6.4%), Dehydrated tomato paste soLids (Foniato paste, An\u0026aking agent (551) \u0026 SaW, Edible starch, Dehydrated Green peas (5.6%), Edib vegetable oil (Palm oil \u0026 Corn oil), Thickener (508), Yeast extract, Ravour enhancer (635), Taniañnd powder, Acidity regulator (330), Celery, Milk, Sesame and Soybean.",
+  "per_100g": {
+    "energy_kcal": 443,
+    "fat": 19.2,
+    "saturated_fat": 11.2,
+    "carbohydrates": 59.2,
+    "sugars": 3.2,
+    "fiber": 3.3,
+    "protein": 8.3,
+    "salt": 3.3895,
+    "sodium": 1.3558
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-02-11T12:10:48Z",
+  "fetched_at": "2026-08-19T00:26:33Z"
+}

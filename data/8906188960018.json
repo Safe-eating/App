@@ -1,0 +1,31 @@
+{
+  "barcode": "8906188960018",
+  "name": "Choco Nut Cookies",
+  "brand": "UNIBIC",
+  "quantity": "75 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour(Maida), Sugar, Edible Vegetable Oil(Palm), Choco Chips(5%) [Sugar, Edible Vegetable Fat, Cocoa Solids, Dextrose, Emulsifiers (INS 322 from Soy, INS 476), Nature Identical \u0026 Artificial Flavouring Substances (Vanilla, Chocolate)], Cashew Bits (4%), Cocoa Powder, Milk Solids, Leavening Agents (INS 503 ii, INS 500 i), Emulsifier INS 322 from Soy), lodised Salt, Artificial Flavouring Substance (Vanillin).  Allergen Advice: Contains Wheat, Milk, Soy \u0026 Nut.",
+  "per_100g": {
+    "energy_kcal": 464,
+    "fat": 18.9,
+    "saturated_fat": 11.9,
+    "carbohydrates": 67,
+    "sugars": 25.6,
+    "fiber": null,
+    "protein": 6.5,
+    "salt": 0.5225,
+    "sodium": 0.209
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-28T12:09:29Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8901399084515",
+  "name": "glucose",
+  "brand": "Glucovita",
+  "quantity": "1kg",
+  "categories": [
+    "en:sweeteners",
+    "en:food-additives",
+    "en:sugar-substitutes",
+    "en:natural-sugar-substitutes",
+    "en:glucose"
+  ],
+  "ingredients": "Glucose (99.4%), Minerals (Calcium Phosphate, Iron, pyrophosphate) and Vitamin D2.",
+  "per_100g": {
+    "energy_kcal": 360,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 92,
+    "sugars": 92,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 2,
+    "sodium": 0
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-05T07:29:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

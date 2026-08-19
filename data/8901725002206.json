@@ -1,0 +1,30 @@
+{
+  "barcode": "8901725002206",
+  "name": "5-Grain Digestive High Fibre",
+  "brand": "Sunfeast Farmlite",
+  "quantity": "800g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "WHEAT FLOUR (ATTA) (51.2%), REFINED PALM OIL, SUGAR, WHEAT BRAN (4.3%), INVERT SYRUP, LIQUID GLUCOSE, RAISING AGENTS (INS 503(ii), INS 500((ii)), MALTODEXTRIN, CORN FLAKES (0.9%), MILK SOLIDS, JOWAR FLOUR (0.5%), RAGI FLOUR (0.5%), CORN FLOUR (0.5%), IODIZED SALT, EMULSIFIERS [LECITHIN (FROM SOYABEAN), MONO-AND DI-GLYCERIDES OF FATTY ACIDS (FROM PALM OIL), DIACETYL TARTARIC ACID ESTER OF MONO-DIGLYCERIDES (FROM SUNFLOWER \u0026 PALM OIL), OAT FLAKES (0.4%), NATURAL FLAVOUR \u0026 NATURAL FLAVOURING SUBSTANCES, MALT EXTRACT, ARTIFICIAL FLAVOURING SUBSTANCES (MILK, MALT, VANILLA), FLOUR TREATMENT AGENT (INS 223) AND NATURE IDENTICAL FLAVOURING SUBSTANCES \r\nCONTAINS WHEAT, OATS, MILK, SOY, SULPHITES. MAY CONTAINS NUTS.",
+  "per_100g": {
+    "energy_kcal": 467,
+    "fat": 20,
+    "saturated_fat": 8.3,
+    "carbohydrates": 67.4,
+    "sugars": 21,
+    "fiber": 8,
+    "protein": 8.3,
+    "salt": 1.68625,
+    "sodium": 0.6745
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-04-05T02:12:58Z",
+  "fetched_at": "2026-08-19T01:03:24Z"
+}

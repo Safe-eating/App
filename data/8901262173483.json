@@ -1,0 +1,31 @@
+{
+  "barcode": "8901262173483",
+  "name": "Amul Fruit 'N' Nut Fantasy",
+  "brand": "Amul",
+  "quantity": "540 gm",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-in-a-box"
+  ],
+  "ingredients": "Milk solids, sugar, orange jelly,bmikk chocolate chips, cashew pieces, raisins, emulsifier 471, stabilizers (407,412,466,415), artificial flavouring, colours (102,110)",
+  "per_100g": {
+    "energy_kcal": 418.518518518519,
+    "fat": 25.1851851851852,
+    "saturated_fat": 14.0740740740741,
+    "carbohydrates": 43.7037037037037,
+    "sugars": 41.2962962962963,
+    "fiber": 0,
+    "protein": 7.40740740740741,
+    "salt": 0.226851851851852,
+    "sodium": 0.0907407407407407
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T20:01:15Z",
+  "fetched_at": "2026-08-19T00:44:40Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "5059883500720",
+  "name": "Hyrox-The ElectroPower (Pina Colada)",
+  "brand": "MyProtein",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 94,
+    "fat": 0.0714285714285714,
+    "saturated_fat": 0.0714285714285714,
+    "carbohydrates": 22.6428571428571,
+    "sugars": 3.64285714285714,
+    "fiber": 8.78571428571429,
+    "protein": 0.142857142857143,
+    "salt": 4.48214285714286,
+    "sodium": 1.79285714285714
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T14:39:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

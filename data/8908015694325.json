@@ -1,0 +1,28 @@
+{
+  "barcode": "8908015694325",
+  "name": "Chatmola",
+  "brand": "Rinka's",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 382.86,
+    "fat": 1.22,
+    "saturated_fat": 0.43,
+    "carbohydrates": 91.57,
+    "sugars": 69.12,
+    "fiber": null,
+    "protein": 1.4,
+    "salt": 1.78865,
+    "sodium": 0.71546
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T15:39:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

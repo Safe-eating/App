@@ -1,0 +1,30 @@
+{
+  "barcode": "8908001700184",
+  "name": "Namaste India",
+  "brand": "Namaste India",
+  "quantity": "230 ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:pasteurised-products",
+    "en:pasteurised-milks"
+  ],
+  "ingredients": "MILK",
+  "per_100g": {
+    "energy_kcal": 73.18,
+    "fat": 3.1,
+    "saturated_fat": 2.23,
+    "carbohydrates": 7.8,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 3.52,
+    "salt": 0.108331,
+    "sodium": 0.0433324
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-27T02:20:16Z",
+  "fetched_at": "2026-08-19T13:06:55Z"
+}

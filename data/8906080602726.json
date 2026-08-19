@@ -1,0 +1,34 @@
+{
+  "barcode": "8906080602726",
+  "name": "Paper Boat Swing yummy Guava 600ml pet",
+  "brand": "paper boat",
+  "quantity": "600 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars",
+    "en:fruit-nectars",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "WATER, GUAVA PUREE (14%), SUGAR ACIDITY REGULATORS (330, 331 (iii)), IODISED SALT, FLAVOURS (NATURE-IDENTICAL AND NATURAL FLAVOURING SUBSTANCES), STABILIZERS (418,466) PRESERVATIVES (202, 242), ANTIOXIDANT (300), FOOD COLOUR (160a(iii)) AND VITAMIN D2 (ERGOCALCIFEROL)",
+  "per_100g": {
+    "energy_kcal": 55.6,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 13.9,
+    "sugars": 13.5,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.2625,
+    "sodium": 0.105
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-26T05:06:05Z",
+  "fetched_at": "2026-08-19T12:44:45Z"
+}

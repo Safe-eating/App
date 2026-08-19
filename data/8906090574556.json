@@ -1,0 +1,26 @@
+{
+  "barcode": "8906090574556",
+  "name": "Too Yumm! Namkeen - All In One",
+  "brand": "Too Yumm!",
+  "quantity": "400 g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Edible Vegetable Oil (Rice Bran), Gram Flour (13.6%), Rice Flake (11.8%), Corn Flakes (9.9%), Seasoning (Sugar, Iodised Salt, \u0026quot;Spices \u0026 Condiments [Fennel (5.5%)], Acidity Regulator (INS 330). Natural And Nature Identical Flavouring Substance Anticaking Agent (INS 551)}, Peanuts (6.5%), Starch, Rice Flo (4.3%), Split Bengal Gram (3.7%), Pea Flour (3.3%), Flattened Bengal Gram (2.5%), Lentil (1.9%), Cashew Nuts (0.9%), Raisins (0.8%), Turmeric Powder, Split Green Gram (0.5%), Coriander Seeds (0.4%), Iodised Salt, Sago (0.2%), Red Chilli Powder,",
+  "per_100g": {
+    "energy_kcal": 570,
+    "fat": 37.7,
+    "saturated_fat": 7.3,
+    "carbohydrates": 48,
+    "sugars": 9.6,
+    "fiber": null,
+    "protein": 9,
+    "salt": 1.4,
+    "sodium": 0.56
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-23T15:40:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8906090832137",
+  "name": "Bay leaves",
+  "brand": "Grace",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:culinary-plants",
+    "en:aromatic-plants",
+    "en:bay-laurel"
+  ],
+  "ingredients": "Bay leaves",
+  "per_100g": {
+    "energy_kcal": 353,
+    "fat": 8.36,
+    "saturated_fat": 2.28,
+    "carbohydrates": 48.6,
+    "sugars": 48.6,
+    "fiber": 26.3,
+    "protein": 7.61,
+    "salt": 0.058,
+    "sodium": 0.023
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-01T17:20:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

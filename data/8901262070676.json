@@ -1,0 +1,31 @@
+{
+  "barcode": "8901262070676",
+  "name": "Dark Chocolate",
+  "brand": "Amul",
+  "quantity": "150 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:bars",
+    "en:chocolates",
+    "en:dark-chocolates"
+  ],
+  "ingredients": "SUGAR, COCOA SOLIDS, COCOA BUTTER PERMITTED EMULSIFIERS (E322. E476). CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES COCOA \u0026 VANILLA)",
+  "per_100g": {
+    "energy_kcal": 520.25202520252,
+    "fat": 33.1233123312331,
+    "saturated_fat": 18.5418541854185,
+    "carbohydrates": 51.4851485148515,
+    "sugars": 43.024302430243,
+    "fiber": 0,
+    "protein": 6.40864086408641,
+    "salt": 0.094959495949595,
+    "sodium": 0.037983798379838
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-24T22:41:31Z",
+  "fetched_at": "2026-08-19T00:42:34Z"
+}

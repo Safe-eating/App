@@ -1,0 +1,24 @@
+{
+  "barcode": "8906090578523",
+  "name": "Triple Tadka Chips",
+  "brand": "Too Yum",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 539,
+    "fat": 31.7,
+    "saturated_fat": 7.3,
+    "carbohydrates": 54,
+    "sugars": 3.4,
+    "fiber": null,
+    "protein": 8.9,
+    "salt": 2.3,
+    "sodium": 0.92
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-28T09:23:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

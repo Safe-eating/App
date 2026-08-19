@@ -1,0 +1,26 @@
+{
+  "barcode": "8906011410086",
+  "name": "Ganesh Papad Khakra Jeera",
+  "brand": "Ganesh Papad",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Wheat Flour (68%), Edible Vegetable Oil (Sunflower), lodized Salt, Cumin Seed.",
+  "per_100g": {
+    "energy_kcal": 526,
+    "fat": 28.6,
+    "saturated_fat": 13.4,
+    "carbohydrates": 57.8,
+    "sugars": 2.9,
+    "fiber": null,
+    "protein": 9.4,
+    "salt": 2.04975,
+    "sodium": 0.8199
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-21T04:58:01Z",
+  "fetched_at": "2026-08-19T02:03:11Z"
+}

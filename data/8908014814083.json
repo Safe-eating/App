@@ -1,0 +1,31 @@
+{
+  "barcode": "8908014814083",
+  "name": "Premium Burger Buns",
+  "brand": "MR BAKEWELL",
+  "quantity": "160 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:bread-rolls"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Water, Sugar, Yeast, Refined Palm Oil, lodized Salt, Flour Improver, Emulsifiers DATEM (INS472e), Calcium Propionate (INS282), Gluten.",
+  "per_100g": {
+    "energy_kcal": 301.59,
+    "fat": 4.76,
+    "saturated_fat": 2.38,
+    "carbohydrates": 57.14,
+    "sugars": 7.94,
+    "fiber": 1.59,
+    "protein": 7.94,
+    "salt": 1.23015,
+    "sodium": 0.49206
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-21T02:28:05Z",
+  "fetched_at": "2026-08-19T13:16:14Z"
+}

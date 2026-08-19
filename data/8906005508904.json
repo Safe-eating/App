@@ -1,0 +1,26 @@
+{
+  "barcode": "8906005508904",
+  "name": "Bikaji mobile bhel chowpati bhelpuri",
+  "brand": "Bikaji",
+  "quantity": "110g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Edible Vegetable Oil (Palmolein oll, Cotton Seed Oil), Puffed Rice (17%), Chick Pea (10%), Peanuts (79%), Gram Flour, Dew Bean Flour (Moth Flour), Wheat Flour, Rice Flakes, Dates (2%), Sugar, Ground Spices and Condiments (lodised Salt, Red Chilli, Coriander, Turmeric (Colouring \u0026 Spices), Cumin, Black Salt, Dry Green Chilli, Dry Red Chilli, Garlic, Dry Mango, Dry Cassia Leaves, Cinnamon, Ginger, Black Pepper, Cardamom, Clove, Nutmeg, Mace, Asafoetida, Acidity Regulator (INS330)",
+  "per_100g": {
+    "energy_kcal": 564,
+    "fat": 37,
+    "saturated_fat": 13,
+    "carbohydrates": 45,
+    "sugars": 4,
+    "fiber": 8,
+    "protein": 13,
+    "salt": 0.9925,
+    "sodium": 0.397
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-26T16:17:01Z",
+  "fetched_at": "2026-08-19T01:51:21Z"
+}

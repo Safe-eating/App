@@ -1,0 +1,30 @@
+{
+  "barcode": "8901725015565",
+  "name": "Digestive",
+  "brand": "Farmlite, Sunfeast",
+  "quantity": "800g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined Wheat flour (Maida) (35.2%), Refined Palm Oil, Wheat flour (Atta) (18.4%), Sugar, Wheat Bran (4.3%),  Liquid glucose, Raising agents [INS 500(ii), INS 503), INS 450(1), Maltodextrin, Milk solids, iodized Salt, Emulsifiers (Lecithin Energy(from Soyabean), Diacetyltartaric and fatty Protein ( acid esters of glycerol (from sunflower oil \u0026 palm oil), Mono - \u0026 di-glycerides of fatty acids (from palm oil)], Malt Extract (0.2%), Nature identical flavouring substances, Wheat fibre (0.03%), Flour treatment agent (INS 223) and Artificial flavouring (Vanilla).",
+  "per_100g": {
+    "energy_kcal": 474,
+    "fat": 20.2,
+    "saturated_fat": 10.1,
+    "carbohydrates": 68.4,
+    "sugars": 16.3,
+    "fiber": 6.2,
+    "protein": 7.7,
+    "salt": 1.12925,
+    "sodium": 0.4517
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-24T03:03:26Z",
+  "fetched_at": "2026-08-19T01:05:21Z"
+}

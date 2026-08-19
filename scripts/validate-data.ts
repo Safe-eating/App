@@ -7,7 +7,7 @@
  * and then prints the score every food ends up with so you can eyeball whether
  * the verdicts look sane.
  */
-import { foods, additives, categories, additiveMap, safetyOf, riskyAdditiveCount, searchFoods } from '../src/lib/db';
+import { foods, additives, categories, additiveMap, safetyOf, riskyAdditiveCount, foodByBarcode, scannableCount } from '../src/lib/db';
 import { safeQuantity } from '../src/lib/quantity';
 
 let problems = 0;
@@ -90,12 +90,27 @@ if (orphanAdditives.length) {
   );
 }
 
-// ---- search spot checks -------------------------------------------------
-console.log('\nSearch spot checks');
-for (const q of ['chips', 'cold drink', 'maggi', 'aam', 'msg', 'dal']) {
-  const hits = searchFoods(q);
-  console.log(`  "${q}" → ${hits.length ? hits.slice(0, 4).map((f) => f.name).join(', ') : 'NO RESULTS'}`);
-  if (!hits.length) fail(`search for "${q}" returns nothing`);
+// ---- barcode spot checks ----------------------------------------------
+console.log('\nBarcode lookup');
+console.log(`  ${scannableCount} of ${foods.length} products are findable by barcode`);
+
+for (const code of foods.slice(0, 3).map((f) => f.id)) {
+  const found = foodByBarcode(code);
+  console.log(`  ${code} → ${found ? found.name : 'NOT FOUND'}`);
+  if (!found) fail(`barcode ${code} does not resolve`);
+}
+
+// The same product is printed as UPC-A and stored as EAN-13, so a code without
+// its leading zero has to resolve to the same product.
+const padded = foods.find((f) => f.id.startsWith('0'));
+if (padded) {
+  const stripped = padded.id.replace(/^0+/, '');
+  const found = foodByBarcode(stripped);
+  if (found?.id !== padded.id) {
+    fail(`${stripped} (UPC form of ${padded.id}) does not resolve to the same product`);
+  } else {
+    console.log(`  ${stripped} (UPC form of ${padded.id}) → ${padded.name}`);
+  }
 }
 
 console.log(problems === 0 ? '\n✓ Dataset looks good.\n' : `\n✗ ${problems} problem(s) found.\n`);

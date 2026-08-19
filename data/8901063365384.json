@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063365384",
+  "name": "Britannia Cake Gobbles 35g",
+  "brand": "Britannia",
+  "quantity": "35g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:cakes"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) SUGAR, EGGS, HYDROGENATED VEGETABLE OIL \u0026 REFINED PALMOLEIN OIL, FRUIT PRODUCTS (PAPAYA CUTS \u0026 ORANGE PULP), HUMECTANTS (422 \u0026 420(ii)), HIGH MALTOSE SYRUP, EDIBLE MAIZE STARCH, PENTA CAKE,RAISING AGENTS[ 450, 500, 341\u0026341), EMULSIFIERS (472e, 466\u0026435), STABILIZER (412) \u0026 ACIDITY REGULATOR (330)), CAKE GEL EMULSIFERS \u0026 STABILIZERS (471 \u0026 477) AND HUMECTANT (420), 1ODISED SALT, RAISING AGENTS [341(i), 500(ii) \u0026 450(i)], NATURE IDENTICAL (ORANGE) AND ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES, INVERT SUGAR SYRUP, PRESERVATIVES (202 \u0026 282), EMULSIFIER (435), COLOURS (110 \u0026 122), ACIDITY REGULATOR (330) AND STABILIZER (415).",
+  "per_100g": {
+    "energy_kcal": 416,
+    "fat": 17.7,
+    "saturated_fat": 8.8,
+    "carbohydrates": 58.3,
+    "sugars": 27,
+    "fiber": null,
+    "protein": 6,
+    "salt": 0.4225,
+    "sodium": 0.169
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-20T09:42:00Z",
+  "fetched_at": "2026-08-19T00:34:21Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8904335604280",
+  "name": "Protein Minis",
+  "brand": "Yoga Bar",
+  "quantity": "",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-bars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 397,
+    "fat": 12.8,
+    "saturated_fat": 8.5,
+    "carbohydrates": 58,
+    "sugars": 28.9,
+    "fiber": 15,
+    "protein": 20,
+    "salt": 0.4,
+    "sodium": 0.16
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-22T11:51:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

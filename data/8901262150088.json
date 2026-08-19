@@ -1,0 +1,29 @@
+{
+  "barcode": "8901262150088",
+  "name": "Milk",
+  "brand": "Amul",
+  "quantity": "200 ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:whole-milks"
+  ],
+  "ingredients": "Milk",
+  "per_100g": {
+    "energy_kcal": 58,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": 0,
+    "protein": 3,
+    "salt": 0.0925,
+    "sodium": 0.037
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-14T14:40:46Z",
+  "fetched_at": "2026-08-19T00:43:10Z"
+}

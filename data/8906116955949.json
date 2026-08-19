@@ -1,0 +1,36 @@
+{
+  "barcode": "8906116955949",
+  "name": "Creamy Dark Chocolate Peanut Butter",
+  "brand": "Muscle Blaze",
+  "quantity": "750g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:snacks",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:sweet-snacks",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Roasted Peanuts (54.5%), Dark Chocolate (Sugar, Cocoa Solids (18%), Cocoa Mass (3%), Vegetable Fat \u0026 Emulsifier (INS 322 (i) \u0026 INS 476), (Pea Protein) (Whey Protein Concentrate) \u0026 Stabilizer (INS 471).",
+  "per_100g": {
+    "energy_kcal": 610.14,
+    "fat": 45.42,
+    "saturated_fat": 12.76,
+    "carbohydrates": 21.85,
+    "sugars": 18.32,
+    "fiber": 3.02,
+    "protein": 30,
+    "salt": 0.16395,
+    "sodium": 0.06558
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T14:09:33Z",
+  "fetched_at": "2026-08-19T12:52:55Z"
+}

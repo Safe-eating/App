@@ -1,0 +1,32 @@
+{
+  "barcode": "8901088072267",
+  "name": "Soya Chunks",
+  "brand": "Saffola",
+  "quantity": "1 Kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:meat-alternatives",
+    "en:meat-analogues",
+    "en:textured-vegetable-protein",
+    "en:Soya chunks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 312,
+    "fat": 1,
+    "saturated_fat": 0.3,
+    "carbohydrates": 30.2,
+    "sugars": 2.9,
+    "fiber": 15.5,
+    "protein": 53,
+    "salt": 1.10275,
+    "sodium": 0.4411
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-08T09:19:38Z",
+  "fetched_at": "2026-08-19T00:36:16Z"
+}

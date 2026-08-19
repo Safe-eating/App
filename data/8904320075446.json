@@ -1,0 +1,35 @@
+{
+  "barcode": "8904320075446",
+  "name": "Chocolate Peanut Butter",
+  "brand": "Disano",
+  "quantity": "350 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:nuts-and-their-products",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:nut-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Roasted Peanut (83%), Dark Chocolate (10%), Sugar, Stabilizer (INS 471), lodised Salt. Allergen Information: Contains Nuts. Manufactured in facility that also processes milk.",
+  "per_100g": {
+    "energy_kcal": 635,
+    "fat": 50,
+    "saturated_fat": 11,
+    "carbohydrates": 23.27,
+    "sugars": 7,
+    "fiber": 6.4,
+    "protein": 23,
+    "salt": 0.42188,
+    "sodium": 0.17
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-08T16:18:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

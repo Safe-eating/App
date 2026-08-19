@@ -1,0 +1,27 @@
+{
+  "barcode": "8906161390405",
+  "name": "Peanut party mix",
+  "brand": "Let's Try",
+  "quantity": "180g",
+  "categories": [
+    "en:snacks",
+    "en:nut-based-snacks"
+  ],
+  "ingredients": "Peanuts, Groundnut Oil, Gram Flour \u0026 Potato Flakes. Spices \u0026 condiments: (lodised Salt, Black Salt, Dried Mango, Cumin, Dried Ginger, Cinnamon Nutmeg, Clove, Red Chilli, Yellow Chilli), Acidity Regulator - (INS330)",
+  "per_100g": {
+    "energy_kcal": 626,
+    "fat": 49.52,
+    "saturated_fat": 32.42,
+    "carbohydrates": 28.01,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 17.21,
+    "salt": 2.971725,
+    "sodium": 1.18869
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-30T14:51:56Z",
+  "fetched_at": "2026-08-19T13:01:14Z"
+}

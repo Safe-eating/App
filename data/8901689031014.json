@@ -1,0 +1,28 @@
+{
+  "barcode": "8901689031014",
+  "name": "Guava Crush",
+  "brand": "Mala's",
+  "quantity": "750ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "Sugar, Guava Pulp (35%), Water, Thickener (INS 440), Acidity Regulator (INS 330, INS 331), Firming Agent (INS 509) CONTAINS PERMITTED NATURE IDENTICAL \u0026 ARTIFICIAL FLAVOURING SUBSTANCES (GUAVA). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 127). CONTAINS PERMITTED CLASS II PRESERVATIVE (INS 202, INS 211, INS 22 CE TO MAKE MOCKTAILS COCKTAILS MILKSHAKES \u0026 TOPPINGS",
+  "per_100g": {
+    "energy_kcal": 280.44,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 62.42,
+    "sugars": 59.16,
+    "fiber": null,
+    "protein": 0.19,
+    "salt": 0.074825,
+    "sodium": 0.02993
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-11T05:52:40Z",
+  "fetched_at": "2026-08-19T00:59:09Z"
+}

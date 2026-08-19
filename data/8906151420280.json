@@ -1,0 +1,27 @@
+{
+  "barcode": "8906151420280",
+  "name": "Bakarwadi",
+  "brand": "LaxmiNarayan",
+  "quantity": "200 g",
+  "categories": [
+    "en:snacks",
+    "en:Indian Snacks"
+  ],
+  "ingredients": "Refined wheat flour (Maida), Bengal Dal Flour, Refined Peanut Oil, Hydrogenated Vegetable Qil, Gram Flour, Sugar, Red Chilli Powder, Dry Mango Powder, Turmeric Powder, Green Chilli Powder, Coconut, Coriander Leaves, Mint Leaves, lodized Salt, Black Salt, Sesame Seeds, Asafoetida, Hot Spices, Cumin Powder",
+  "per_100g": {
+    "energy_kcal": 481.12,
+    "fat": 23.24,
+    "saturated_fat": 10.92,
+    "carbohydrates": 61.8,
+    "sugars": 5.2,
+    "fiber": 4.8,
+    "protein": 6.88,
+    "salt": 3.2,
+    "sodium": 1.27084
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-20T14:26:25Z",
+  "fetched_at": "2026-08-19T13:00:16Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8901052010172",
+  "name": "Punjabi Style Matar Paneer Mix",
+  "brand": "Tata Sampann",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 325,
+    "fat": 2.7,
+    "saturated_fat": 0.9,
+    "carbohydrates": 65.3,
+    "sugars": 31,
+    "fiber": 0,
+    "protein": 9.7,
+    "salt": 11.4825,
+    "sodium": 4.593
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-21T05:26:15Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

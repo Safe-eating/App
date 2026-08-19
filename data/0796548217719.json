@@ -1,0 +1,26 @@
+{
+  "barcode": "0796548217719",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:chips-and-fries"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 518.65,
+    "fat": 27.49,
+    "saturated_fat": 12.71,
+    "carbohydrates": 60.97,
+    "sugars": 6.15,
+    "fiber": 6.88,
+    "protein": 6.84,
+    "salt": 349.15,
+    "sodium": 139.66
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-09T11:46:05Z",
+  "fetched_at": "2026-08-18T23:55:53Z"
+}

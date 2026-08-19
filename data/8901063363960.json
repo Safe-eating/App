@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063363960",
+  "name": "Brittania Gobbles Chocolate Cake",
+  "brand": "Brittania",
+  "quantity": "110g",
+  "categories": [
+    "en:snacks",
+    "en:desserts",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes",
+    "en:chocolate-soft-cake"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EGGS, EDIBLE HYDROGENATED VEGETABLE OIL\u0026REFINED PALMOLEIN OIL, HUMECTANTS (420) \u0026 422), HIGH MALTOSE SYRUP, LIQUID GLUCOSE COCOA SOLIDS (2%), SWEETENED CONDENSED MILK, COLOURS (150c, 150d, 102, 122, 132 \u0026 133), CAKE GEL (EMULSIFIERS \u0026 STABILIZERS (471\u0026477) AND HUMECTANT (420)}1, RAISING AGENTS (341()\u0026 500)], INVERT SUGAR SYRUP, IODIZED SALT, PRESERVATIVES (200 \u0026282), BAKING POWDER, PLAIN CHOCOLATE (0.14%) /SUGAR, COCOA BUTTER, COCOA SOLIDS EMULSIFIERS (322) \u0026 476] AND ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCE), FLAVOURS [NATURE IDENTICAL AND ARTIFICIAL (VANILLA \u0026 CHOCOLATE) FLAVOURING SUBSTANCES) AND STABILIZER (415).",
+  "per_100g": {
+    "energy_kcal": 428,
+    "fat": 20,
+    "saturated_fat": 10,
+    "carbohydrates": 56,
+    "sugars": 29.5,
+    "fiber": 0,
+    "protein": 6,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-27T22:25:33Z",
+  "fetched_at": "2026-08-19T00:34:14Z"
+}

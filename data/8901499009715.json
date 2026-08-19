@@ -1,0 +1,38 @@
+{
+  "barcode": "8901499009715",
+  "name": "Kelloggs Crunchy Granola Almonds \u0026 Cranberries",
+  "brand": "Kellogg's",
+  "quantity": "460 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:sweet-snacks",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:bars",
+    "en:cereal-bars",
+    "en:cereal-bars-with-nuts",
+    "en:cereal-bars-with-almonds",
+    "en:cereal-bar-with-almonds-or-hazelnuts"
+  ],
+  "ingredients": "Rolled Oats (25.1%), Candied Fruit And Nut (24%^) { Candied Cranberry (15%), Almonds (9%)}, Sugar, Oat Flour (10.7%), Edible Vegetable Oil (Palmolein), Rice (4.2%), Whole Wheat (3.9%), Rice Flour (2.7%), Liquid Glucose, Corn Meal (1.8%), Honey, Cereal Extract, Wheat Bran (0.6%), Refined Wheat Flour (Maida) (0.5%), lodized Salt, Dextrose, Flavours {Nature Identical And Artificial (Cream)), Barley Flour (0.1%), Vitamins, Raising Agent (INS 500ii), Minerals, Antioxidant (INS 320) CONTAINS WHEAT, BARLEY, OATS AND NUT (ALMONDS). MAY CONTAIN SOY AND MILK.",
+  "per_100g": {
+    "energy_kcal": 444,
+    "fat": 16,
+    "saturated_fat": 5,
+    "carbohydrates": 70.6,
+    "sugars": 28,
+    "fiber": 5,
+    "protein": 7,
+    "salt": 0.75,
+    "sodium": 0.3
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-08T11:14:58Z",
+  "fetched_at": "2026-08-19T00:52:56Z"
+}

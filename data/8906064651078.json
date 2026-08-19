@@ -1,0 +1,28 @@
+{
+  "barcode": "8906064651078",
+  "name": "Dill tzatziki",
+  "brand": "",
+  "quantity": "150 g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:tzatzikis"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 118,
+    "fat": 6.4,
+    "saturated_fat": 4.29,
+    "carbohydrates": 6.1,
+    "sugars": 2.62,
+    "fiber": null,
+    "protein": 8.9,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-25T08:53:02Z",
+  "fetched_at": "2026-08-19T12:39:02Z"
+}

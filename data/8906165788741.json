@@ -1,0 +1,24 @@
+{
+  "barcode": "8906165788741",
+  "name": "Whey Max Rich Chocolate",
+  "brand": "Fuel One",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 402.98,
+    "fat": 6.42,
+    "saturated_fat": 4.65,
+    "carbohydrates": 11.3,
+    "sugars": 3.28,
+    "fiber": null,
+    "protein": 75,
+    "salt": 1.35,
+    "sodium": 0.54
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-05T16:46:39Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

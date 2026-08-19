@@ -1,0 +1,29 @@
+{
+  "barcode": "8901648920120",
+  "name": "Cow Milk",
+  "brand": "Mother Dairy",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:cow-milks"
+  ],
+  "ingredients": "Cow Milk",
+  "per_100g": {
+    "energy_kcal": 68,
+    "fat": 4.1,
+    "saturated_fat": 2.9,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": null,
+    "protein": 3.1,
+    "salt": 0.1375,
+    "sodium": 0.055
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-28T04:46:56Z",
+  "fetched_at": "2026-08-19T00:58:12Z"
+}

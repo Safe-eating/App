@@ -1,0 +1,34 @@
+{
+  "barcode": "3948764032707",
+  "name": "Sprite",
+  "brand": "Coca-Cola Company",
+  "quantity": "740ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:non-alcoholic-beverages",
+    "en:carbonated-drinks",
+    "en:soft-drinks",
+    "en:waters",
+    "en:sodas",
+    "en:carbonated-waters",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS (330, 331), PRESERVATIVE SWEETENER (960), FLAVOURS (NATURAL FLAVOURING SUBSTANCES).",
+  "per_100g": {
+    "energy_kcal": 40,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 10,
+    "sugars": 9.8,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0.014
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-22T15:37:46Z",
+  "fetched_at": "2026-08-18T23:38:09Z"
+}

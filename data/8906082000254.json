@@ -1,0 +1,33 @@
+{
+  "barcode": "8906082000254",
+  "name": "Moong Punjabi Papad",
+  "brand": "Parag",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:flatbreads",
+    "en:special-breads",
+    "en:papadum"
+  ],
+  "ingredients": "Green Gram Lentil Flour (52%), Black Gram Lentil Flour (42%), Iodized Salt, Black Pepper, Plant Based Sodium Bicarbonate (Saaji), Vegetable Edible Oil (Groundnut Oil), Cumin, Asafoetida",
+  "per_100g": {
+    "energy_kcal": 308.33,
+    "fat": 0.5,
+    "saturated_fat": 0.08,
+    "carbohydrates": 54.67,
+    "sugars": 2.08,
+    "fiber": 13.5,
+    "protein": 20.75,
+    "salt": 5.7,
+    "sodium": 2.28
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T04:29:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

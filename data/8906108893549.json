@@ -1,0 +1,30 @@
+{
+  "barcode": "8906108893549",
+  "name": "Go Desi Ice Popz",
+  "brand": "Go Desi",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-pops"
+  ],
+  "ingredients": "RO Water, Refined Sugar, Dextrose, Black Salt, Acidity Regulators (E330), Stabilizers (E415, E412, E466), Preservative (E211). (Contains natural colour and nature identical flavor - Tamarind \u0026 Cumin)",
+  "per_100g": {
+    "energy_kcal": 72.1,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 18.3,
+    "sugars": 14.37,
+    "fiber": 0.12,
+    "protein": 0.02,
+    "salt": 0.37645,
+    "sodium": 0.15058
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-21T09:36:10Z",
+  "fetched_at": "2026-08-19T12:50:56Z"
+}

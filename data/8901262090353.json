@@ -1,0 +1,33 @@
+{
+  "barcode": "8901262090353",
+  "name": "Amulya dairy whitener",
+  "brand": "Amulya",
+  "quantity": "200g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:dried-products",
+    "en:dried-products-to-be-rehydrated",
+    "en:dehydrated-beverages",
+    "en:milk-powders"
+  ],
+  "ingredients": "Milk Solids, Sucrose",
+  "per_100g": {
+    "energy_kcal": 125.85,
+    "fat": 0.1425,
+    "saturated_fat": 0.0825,
+    "carbohydrates": 28.6925,
+    "sugars": 28.6475,
+    "fiber": 0,
+    "protein": 2.46,
+    "salt": 0.08385,
+    "sodium": 0.0329425
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-11T09:37:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

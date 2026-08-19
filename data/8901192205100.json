@@ -1,0 +1,27 @@
+{
+  "barcode": "8901192205100",
+  "name": "catch chat masala",
+  "brand": "Catch",
+  "quantity": "100g",
+  "categories": [
+    "en:condiments",
+    "en:mixtures-of-herbs-and-spices"
+  ],
+  "ingredients": "Salt, Dry Mango, Cucumis,Black Salt,Edible Common Salt, Capsicum, Cumin, Bishop's Weed, Mint,Long Pepper, Sugar, Black Pepper, Big Cardamom, Red Chilli, Clove, Cinnamon,\r\nCoriander, Asafoetida, Ammonium Chloride (INS No 510), Citric Acid(INS No 330).",
+  "per_100g": {
+    "energy_kcal": 202,
+    "fat": 6.1,
+    "saturated_fat": 0.5,
+    "carbohydrates": 30,
+    "sugars": 9.9,
+    "fiber": null,
+    "protein": 6.8,
+    "salt": 44.875,
+    "sodium": 17.95
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-27T08:21:44Z",
+  "fetched_at": "2026-08-19T00:37:54Z"
+}

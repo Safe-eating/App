@@ -1,0 +1,36 @@
+{
+  "barcode": "8906006783058",
+  "name": "D-lite Tomato Ketchup",
+  "brand": "Surabhi",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup",
+    "en:tomato-ketchup"
+  ],
+  "ingredients": "Tomato Puree (57%), Water, Sugar, Liquid Glucose, lodized Salt, Starch, Emulsifying \u0026 Stabilizing Agent (INS 1422, INS 415), Acidity Regulator (INS 260), Spices \u0026 Condiments, Preservative (INS 211) CONTAINS PERMITTED CLASS II PRESERVATIVE (INS 211) \n\nAllergen Instruction: This product was processed on machinery and in a plant that also processes Wheat, Soya, Milk Solids, Mustard, Tree Nuts and Sesame Seeds.",
+  "per_100g": {
+    "energy_kcal": 135.08,
+    "fat": 0.49,
+    "saturated_fat": 0.09,
+    "carbohydrates": 33.37,
+    "sugars": 32.23,
+    "fiber": null,
+    "protein": 1.52,
+    "salt": 2.036275,
+    "sodium": 0.81451
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-20T09:56:44Z",
+  "fetched_at": "2026-08-19T01:53:49Z"
+}

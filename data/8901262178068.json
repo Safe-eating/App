@@ -1,0 +1,31 @@
+{
+  "barcode": "8901262178068",
+  "name": "Choco Almond N' Kesar Badam Double Sundae",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-tubs"
+  ],
+  "ingredients": "Kesar Badam Magic (50%) - Milk solids, sugar, kesar elaichi ripple (water, sugar, dextrose, permitted stabilizer (E440), almond pieces (2%), permitted emulsifier (E471) and stabilizers (E407, E466, E415, E412, E435). Choco Almond (50%) – Milk solids, sugar, chocolate ripple (water, sugar, dextrose, cocoa solids, permitted stabilizer (E440)), cocoa solids, almond pieces (2%), permitted emulsifier (E471) and stabilizers E407, E466, E415, E412). CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (E102, E110) AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES - CARDAMOM AND SAFFRON)",
+  "per_100g": {
+    "energy_kcal": 248,
+    "fat": 12.8,
+    "saturated_fat": 6.9,
+    "carbohydrates": 29.3,
+    "sugars": 23.2,
+    "fiber": 0,
+    "protein": 4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-12-29T22:18:35Z",
+  "fetched_at": "2026-08-19T00:45:15Z"
+}

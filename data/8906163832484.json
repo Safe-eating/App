@@ -1,0 +1,31 @@
+{
+  "barcode": "8906163832484",
+  "name": "Flax Seeds (Roasted)",
+  "brand": "",
+  "quantity": "150g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:flax-seeds",
+    "en:ground-flax-seeds",
+    "en:brown-flax-seeds"
+  ],
+  "ingredients": "Flax Seeds",
+  "per_100g": {
+    "energy_kcal": 2156.4,
+    "fat": 142,
+    "saturated_fat": 44,
+    "carbohydrates": 132,
+    "sugars": 16.4,
+    "fiber": 86.4,
+    "protein": 86.4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-20T11:05:35Z",
+  "fetched_at": "2026-08-19T13:01:46Z"
+}

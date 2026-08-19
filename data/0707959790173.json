@@ -1,0 +1,30 @@
+{
+  "barcode": "0707959790173",
+  "name": "Sid's Farm Malai Paneer",
+  "brand": "Sid's Farm",
+  "quantity": "180g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer"
+  ],
+  "ingredients": "Pasteurized Milk, Curd \u0026 Lemon Juice Concentrate",
+  "per_100g": {
+    "energy_kcal": 329.5,
+    "fat": 25.2,
+    "saturated_fat": 19,
+    "carbohydrates": 3.6,
+    "sugars": 1.9,
+    "fiber": null,
+    "protein": 20,
+    "salt": 0.075,
+    "sodium": 0.03
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-06T18:05:31Z",
+  "fetched_at": "2026-08-18T23:55:20Z"
+}

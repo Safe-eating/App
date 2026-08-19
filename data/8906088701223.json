@@ -1,0 +1,33 @@
+{
+  "barcode": "8906088701223",
+  "name": "Wicked Dark Chocolate 85%",
+  "brand": "Didier \u0026 Frank",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:chocolates",
+    "en:candy-chocolate-bars"
+  ],
+  "ingredients": "Cocoa Mass (85%), Sugar, Cocoa Butter, Emulsifers (E322, E476), Flavourings.",
+  "per_100g": {
+    "energy_kcal": 600,
+    "fat": 45,
+    "saturated_fat": 29,
+    "carbohydrates": 19,
+    "sugars": 12,
+    "fiber": 15,
+    "protein": 10,
+    "salt": 0.075,
+    "sodium": 0.03
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-18T12:04:27Z",
+  "fetched_at": "2026-08-19T12:48:25Z"
+}

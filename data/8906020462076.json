@@ -1,0 +1,30 @@
+{
+  "barcode": "8906020462076",
+  "name": "Zero Maida Pav",
+  "brand": "Baker’s Loaf",
+  "quantity": "300g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 240.24,
+    "fat": 0.62,
+    "saturated_fat": 0.3,
+    "carbohydrates": 49.37,
+    "sugars": 9.04,
+    "fiber": 5.48,
+    "protein": 9.3,
+    "salt": 1.069025,
+    "sodium": 0.42761
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-06T02:45:09Z",
+  "fetched_at": "2026-08-19T02:07:29Z"
+}

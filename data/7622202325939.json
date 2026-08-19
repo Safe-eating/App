@@ -1,0 +1,32 @@
+{
+  "barcode": "7622202325939",
+  "name": "Cadbury Bournville",
+  "brand": "Cadbury",
+  "quantity": "78",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:candy-chocolate-bars"
+  ],
+  "ingredients": "Sugar, Cocoa Butter (24%), Cocoa Solids (18%), Dried Sweetened Cranberries (11%) (Cranberries, Sugar), Almonds (7%), Milk Solids, Emulsifiers (442, 476), Flavours (Natural and Nature Identical Flavouring Substances)",
+  "per_100g": {
+    "energy_kcal": 540.8,
+    "fat": 31.6,
+    "saturated_fat": 19,
+    "carbohydrates": 58,
+    "sugars": 43.7,
+    "fiber": 6.5673,
+    "protein": 6.1,
+    "salt": 0.034,
+    "sodium": 0.0136
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-31T16:50:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,41 @@
+{
+  "barcode": "8901262153348",
+  "name": "Protein Lassi - Rose Flavour",
+  "brand": "Amul",
+  "quantity": "200mL",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:dairy-drinks",
+    "en:fermented-dairy-desserts",
+    "en:fermented-drinks",
+    "en:fermented-dairy-desserts-with-fruits",
+    "en:fermented-milk-drinks",
+    "en:yogurts",
+    "en:fruit-yogurts",
+    "en:yogurt-drinks",
+    "en:yogurts-high-in-protein-on-a-fruit-layer"
+  ],
+  "ingredients": "cholesterol",
+  "per_100g": {
+    "energy_kcal": 53.5,
+    "fat": 0.85,
+    "saturated_fat": 0.5,
+    "carbohydrates": 6,
+    "sugars": 1.6,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 0.08,
+    "sodium": 0.032
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T13:11:37Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

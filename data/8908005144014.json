@@ -1,0 +1,29 @@
+{
+  "barcode": "8908005144014",
+  "name": "Multigain energy bar",
+  "brand": "Yoga Bar",
+  "quantity": "38 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars",
+    "en:cereal-bars"
+  ],
+  "ingredients": "Whole Grains 36% (Brown Rice, Millets (Saamai, Foxtail). Rolled Oats 15%). Honey 20% Almonds 12%, Dates, Seeds 9% (Sunflower, Chia), Rice Crispies. Belgian Dark Chocolate 6% (Cocoa, Brown Sugar, Cocoa Butter, Soya Lecithin), Peanut Protein Powder. CONTAINS ADDED NATURAL FLAVOUR (Rosemary Extract. Vanilla Extract)",
+  "per_100g": {
+    "energy_kcal": 391.428571428571,
+    "fat": 11.4285714285714,
+    "saturated_fat": 3.42857142857143,
+    "carbohydrates": 67.1428571428571,
+    "sugars": 30.8571428571429,
+    "fiber": 11.4285714285714,
+    "protein": 10.8571428571429,
+    "salt": 0.275,
+    "sodium": 0.11
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-09T05:14:26Z",
+  "fetched_at": "2026-08-19T13:09:06Z"
+}

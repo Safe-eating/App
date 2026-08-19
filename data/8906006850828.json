@@ -1,0 +1,30 @@
+{
+  "barcode": "8906006850828",
+  "name": "BaskinRobbins Cotton Candy Ice Cream",
+  "brand": "BR, BaskinRobbins",
+  "quantity": "450ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "WATER, MILK SOLIDS, SUGAR, LIQUID GLUCOSE, STABILIZERS (412, 407), EMULSIFIER (471), ACIDITY REGULATOR [330, 331)], CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (102, 122, 133) \u0026 ADDED NATURE IDENTICAL FLAVORING SUBSTANCES (COTTON CANDY).",
+  "per_100g": {
+    "energy_kcal": 125.9,
+    "fat": 6.7,
+    "saturated_fat": 4.1,
+    "carbohydrates": 14,
+    "sugars": 14,
+    "fiber": null,
+    "protein": 2.4,
+    "salt": 0.08125,
+    "sodium": 0.0325
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-27T16:47:44Z",
+  "fetched_at": "2026-08-19T01:53:53Z"
+}

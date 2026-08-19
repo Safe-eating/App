@@ -1,0 +1,24 @@
+{
+  "barcode": "8906069407120",
+  "name": "Wok Tok By Veena Instant Noodles Masala",
+  "brand": "Wok Tok By Veeba",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 448.136363636364,
+    "fat": 19.3181818181818,
+    "saturated_fat": 4.57575757575758,
+    "carbohydrates": 61.8181818181818,
+    "sugars": 3.18181818181818,
+    "fiber": 5.53030303030303,
+    "protein": 9.51515151515152,
+    "salt": 2.86818181818182,
+    "sodium": 1.14727272727273
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-18T07:16:25Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

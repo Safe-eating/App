@@ -1,0 +1,33 @@
+{
+  "barcode": "8906009010601",
+  "name": "Parry's Split Moong Dal",
+  "brand": "Parry's",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:seeds",
+    "en:legume-seeds",
+    "en:pulses",
+    "en:mung-beans"
+  ],
+  "ingredients": "Split Moong dal",
+  "per_100g": {
+    "energy_kcal": 320,
+    "fat": 1.4,
+    "saturated_fat": 0.3,
+    "carbohydrates": 52.6,
+    "sugars": 1,
+    "fiber": 9.4,
+    "protein": 23.9,
+    "salt": 0.02525,
+    "sodium": 0.0101
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-01T05:22:47Z",
+  "fetched_at": "2026-08-19T01:56:04Z"
+}

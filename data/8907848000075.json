@@ -1,0 +1,28 @@
+{
+  "barcode": "8907848000075",
+  "name": "Standardized Milk",
+  "brand": "Vijaya Telangana",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk (Milk Solids)",
+  "per_100g": {
+    "energy_kcal": 34.8,
+    "fat": 0.19,
+    "saturated_fat": 0.11,
+    "carbohydrates": 4.99,
+    "sugars": 4.93,
+    "fiber": 0,
+    "protein": 3.28,
+    "salt": 0.11,
+    "sodium": 0.0432
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-02T02:25:39Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

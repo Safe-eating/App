@@ -1,0 +1,32 @@
+{
+  "barcode": "8901063338555",
+  "name": "100% Whole Wheat Bread",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:white-breads",
+    "en:wheat-breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 245,
+    "fat": 2,
+    "saturated_fat": 0.6,
+    "carbohydrates": 50.7,
+    "sugars": 1.5,
+    "fiber": 4.4,
+    "protein": 8.3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-11T05:11:23Z",
+  "fetched_at": "2026-08-19T00:33:17Z"
+}

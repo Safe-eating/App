@@ -1,0 +1,27 @@
+{
+  "barcode": "8906094320548",
+  "name": "Ghari",
+  "brand": "Krishbhog",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks"
+  ],
+  "ingredients": "Whole Dried Milk (Mawa), Sugar, Clarified Butter, Chickpea Flour, Almond, Pistachio, Cardamom, Saffron, and Refined Flour.",
+  "per_100g": {
+    "energy_kcal": 563,
+    "fat": 42,
+    "saturated_fat": 26,
+    "carbohydrates": 38,
+    "sugars": 25,
+    "fiber": 7,
+    "protein": 8,
+    "salt": 0.045,
+    "sodium": 0.018
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-27T08:14:13Z",
+  "fetched_at": "2026-08-19T12:49:23Z"
+}

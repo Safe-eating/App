@@ -1,0 +1,30 @@
+{
+  "barcode": "8906009072029",
+  "name": "Pista Badam Cookies",
+  "brand": "UNIBIC",
+  "quantity": "135g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm), Nuts (8%) (Almond, Pista, Cashew), Butter, Milk Solids, Liquid Glucose, Leavening agents (INS 503 ii, INS 500 ii), Emulsifier (INS 322 from Soy), iodised Salt, Artificial Flavouring Substances (Vanillin, Almond and Saffron)",
+  "per_100g": {
+    "energy_kcal": 497.3,
+    "fat": 25.3,
+    "saturated_fat": 12.6,
+    "carbohydrates": 60,
+    "sugars": 23.7,
+    "fiber": null,
+    "protein": 7.4,
+    "salt": 0.49,
+    "sodium": 0.196
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-06T11:05:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

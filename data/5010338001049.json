@@ -1,0 +1,24 @@
+{
+  "barcode": "5010338001049",
+  "name": "Tom Yum Culinary Paste",
+  "brand": "Blue Dragon",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 265.9,
+    "fat": 18.3,
+    "saturated_fat": 1,
+    "carbohydrates": 22.8,
+    "sugars": 16,
+    "fiber": null,
+    "protein": 1.92,
+    "salt": 7.2705,
+    "sodium": 2.9082
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-01T17:00:15Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "7622201761530",
+  "name": "Fruit \u0026 Nut Silk",
+  "brand": "Dairy Milk",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:milk-chocolates",
+    "en:chocolate-bar-with-dried-fruits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 532,
+    "fat": 30.4,
+    "saturated_fat": 18.7,
+    "carbohydrates": 58.1,
+    "sugars": 50.9,
+    "fiber": null,
+    "protein": 7.8,
+    "salt": 0.26,
+    "sodium": 0.104
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-11T02:06:51Z",
+  "fetched_at": "2026-08-19T00:08:53Z"
+}

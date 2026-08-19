@@ -1,0 +1,33 @@
+{
+  "barcode": "8901262010511",
+  "name": "Peanut Spread Creamy",
+  "brand": "Amul",
+  "quantity": "300g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Roasted peanut (91%), sugar (5%), edible vegetable oil (groundnut oil), iodized salt, stabilizer (471).",
+  "per_100g": {
+    "energy_kcal": 624,
+    "fat": 50,
+    "saturated_fat": 12,
+    "carbohydrates": 20,
+    "sugars": 6.5,
+    "fiber": null,
+    "protein": 26,
+    "salt": 0.3875,
+    "sodium": 0.155
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-02T07:13:00Z",
+  "fetched_at": "2026-08-19T00:41:30Z"
+}

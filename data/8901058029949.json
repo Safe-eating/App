@@ -1,0 +1,36 @@
+{
+  "barcode": "8901058029949",
+  "name": "Milkybar",
+  "brand": "Nestle",
+  "quantity": "24.5g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:chocolates",
+    "en:milk-chocolates",
+    "en:candy-chocolate-bars",
+    "en:milk-chocolate-bar",
+    "en:soft-candy"
+  ],
+  "ingredients": "Milk solids (35%), Sugar, Hydrogenated vegetable fats, Fractionated vegetable fat, Emulsifier (Soya lecithin) and Nature-Identical flavouring substance. Allergen Note: Contains Milk, soy and Sesame.  May Contain Oats, Wheat, Nut and Barley.",
+  "per_100g": {
+    "energy_kcal": 524,
+    "fat": 30,
+    "saturated_fat": 28.7,
+    "carbohydrates": 50.1,
+    "sugars": 40.9,
+    "fiber": null,
+    "protein": 11.1,
+    "salt": 0.29275,
+    "sodium": 0.1171
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-22T05:23:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8906009534732",
+  "name": "Max protein 7 grain breakfast cookie",
+  "brand": "RiteBite",
+  "quantity": "55 g",
+  "categories": [
+    "en:Grain cookie"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 470,
+    "fat": 26.3,
+    "saturated_fat": 12.7,
+    "carbohydrates": 43.4,
+    "sugars": 30.7,
+    "fiber": 7.2,
+    "protein": 18.18,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2022-07-26T09:34:11Z",
+  "fetched_at": "2026-08-19T01:58:37Z"
+}

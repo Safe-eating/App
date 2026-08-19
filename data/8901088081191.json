@@ -1,0 +1,28 @@
+{
+  "barcode": "8901088081191",
+  "name": "Saffolamayo90 g",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:mayonnaises"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 262,
+    "fat": 25,
+    "saturated_fat": 4,
+    "carbohydrates": 9.2,
+    "sugars": 5.2,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-18T05:21:46Z",
+  "fetched_at": "2026-08-19T00:36:19Z"
+}

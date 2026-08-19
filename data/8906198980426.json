@@ -1,0 +1,27 @@
+{
+  "barcode": "8906198980426",
+  "name": "Coffe Flavor Whey Protein Isolate+Concentrate",
+  "brand": "TrueBasics",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:whey-powder"
+  ],
+  "ingredients": "Whey Blend: Whey Protein Isolate + Whey Protein Concentrate (Instantised with Sunflower Lecithin), Whole Milk Powder, Coffee Powder, Natural Flavour, Cocoa Powder, Lactase (B-galactosidase) \u0026 Papain",
+  "per_100g": {
+    "energy_kcal": 411.085714285714,
+    "fat": 6.37142857142857,
+    "saturated_fat": 4.28571428571429,
+    "carbohydrates": 16.4571428571429,
+    "sugars": 3.91428571428571,
+    "fiber": null,
+    "protein": 72,
+    "salt": 0.534642857142857,
+    "sodium": 0.213857142857143
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-01T12:20:37Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

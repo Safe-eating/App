@@ -1,0 +1,28 @@
+{
+  "barcode": "7622202271861",
+  "name": "Dairy Milk Silk Bubbly Chocolate",
+  "brand": "Cadbury",
+  "quantity": "46g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries"
+  ],
+  "ingredients": "Sugar, Milk solids(25%*), Cocoa butter, Cocoa solids, Emulisifiers(442,476), Flavours(natural, nature, identical, and artificial (vanilla) flavouring substances)",
+  "per_100g": {
+    "energy_kcal": 545,
+    "fat": 30,
+    "saturated_fat": 20,
+    "carbohydrates": 58.5,
+    "sugars": 55,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 0.3125,
+    "sodium": 0.125
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-07T11:22:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

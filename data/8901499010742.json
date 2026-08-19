@@ -1,0 +1,33 @@
+{
+  "barcode": "8901499010742",
+  "name": "Chocos Crunchy Bites",
+  "brand": "Kellogg's",
+  "quantity": "375g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:chocolate-cereals",
+    "en:food"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (41%), SUGAR, CORN MEAL, WHEAT BRAN, CHOCO CRÈME (5.2%) {SUGAR, EDIBLE VEGETABLE OIL (PALM KERNEL OIL), COCOA SOLIDS, EMULSIFIER (INS 476)), INVERT SYRUP, IODIZED SALT, FLAVOURS (NATURE IDENTICAL \u0026 ARTIFICIAL (MARSHMALLOW \u0026 VANILLA)), COCOA SOLIDS (0.3%), MINERALS, COLOUR (INS 150d), VITAMINS, ANTIOXIDANT (INS 320). ALLERGEN DECLARATION: CONTAINS WHEAT. MAY CONTAIN SOY, MILK, OATS, BARLEY \u0026 NUTS.",
+  "per_100g": {
+    "energy_kcal": 390,
+    "fat": 3.1,
+    "saturated_fat": 1.1,
+    "carbohydrates": 84.9,
+    "sugars": 31,
+    "fiber": 30,
+    "protein": 4,
+    "salt": 0.45,
+    "sodium": 0.18
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-24T02:52:17Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

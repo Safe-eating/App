@@ -1,0 +1,30 @@
+{
+  "barcode": "8850291100499",
+  "name": "Party Snack",
+  "brand": "Tong Garden, ทองการ์เด้น",
+  "quantity": "500 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:mixed-nuts"
+  ],
+  "ingredients": "nɔjnišiñu, party snack ถั่วอบผสมแป้งกรอบ (ตรา ทองการ์เด้น) inredients: green peas, peanuts, wheat flour, broad beans, palm olein gldinous rice flour, sugar, iodised salt, seasoning (contains garlic, pat chil cumin, turmeric, non dairy creamer, soybean, shallot), garlic, sest seeds, chili powder, pepper, artificial colour [tartrazine (e102), brilliant b fcf (e133), sunset yellow fcf (e110)], natural colour [curcumin (e10 annato (e160b)], packaging gas [nitrogen (e941)] ประกอบที่สำคัญ: ถั่วลันเตาเขียว 29%, ถั่วลิสง 22%, แป้งสาลี 16%, ถ้่วปากอ้า háula 5%, uüvinoinüaɔ 4%, tnana 3,5%, nãolalañu 2%, uvuşusa เอง กระเทียม, พริกไทย, พริก, ยี่หร่า, ขมิ้น, ครีมเทียม, ถั่วเหลือง หัวหอม) 1,5 l,run 1%, ušn 0,5%, wšnina 0,5%, đabiast:í (ins 102, ins 133, n (ins 100(0), ins 160b(0)], ñnuridoalunmsiñušnunonns (ins 941 y information: this product contains peanuts, tree n eans, gluten(wheat) and sesame seeds, processed in a d also process sulnh er may conta",
+  "per_100g": {
+    "energy_kcal": 500,
+    "fat": 23.3333333333333,
+    "saturated_fat": 6.66666666666667,
+    "carbohydrates": 50,
+    "sugars": 6.66666666666667,
+    "fiber": 10,
+    "protein": 20,
+    "salt": 1.16666666666667,
+    "sodium": 0.466666666666667
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-19T09:54:59Z",
+  "fetched_at": "2026-08-19T00:12:49Z"
+}

@@ -1,0 +1,36 @@
+{
+  "barcode": "8901725111625",
+  "name": "Aashirvaad svasti",
+  "brand": "Aashirvaad",
+  "quantity": "750ml",
+  "categories": [
+    "en:dairies",
+    "en:spreads",
+    "en:fats",
+    "en:spreadable-fats",
+    "en:animal-fats",
+    "en:dairy-spreads",
+    "en:milkfat",
+    "en:butters",
+    "en:butter-fat",
+    "en:clarified-butter",
+    "en:ghee"
+  ],
+  "ingredients": "Milk fat",
+  "per_100g": {
+    "energy_kcal": 897,
+    "fat": 99.7,
+    "saturated_fat": 66.5,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.0025,
+    "sodium": 0.001
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-29T09:35:25Z",
+  "fetched_at": "2026-08-19T01:05:57Z"
+}

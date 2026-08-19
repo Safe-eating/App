@@ -1,0 +1,24 @@
+{
+  "barcode": "8901389001898",
+  "name": "Cacao Reserve Belgium Melt",
+  "brand": "Sos Save Our Souls",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 100.7,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 14.5,
+    "sugars": 14.5,
+    "fiber": null,
+    "protein": 3.5,
+    "salt": 0.33125,
+    "sodium": 0.1325
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-02T02:39:32Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,35 @@
+{
+  "barcode": "8901499023339",
+  "name": "Muesli Fruit, Nut \u0026 Seeds",
+  "brand": "Kellogg's",
+  "quantity": "75 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis",
+    "en:cereals-with-nuts",
+    "en:mueslis-with-nuts"
+  ],
+  "ingredients": "MULTIGRAIN MIX (66%) {CORN GRITS (18.3%), WHEAT (16.5%), RICE (9.7%), ROLLED BARLEY (8%), ROLLED OATS (8%), RAGI MILLET FLOUR (3.5%), RICE FLOUR, CORN MEAL, REFINED WHEAT FLOUR (MAIDA)}, CANDIED FRUITS, DRY FRUITS, NUT \u0026 SEED (21%) {CANDIED PAPAYA (5%), ALMONDS (3.5%), PUMPKIN SEEDS (3.5%), CANDIED CRANBERRY (3%), BLACK CURRANTS (3%), BLACK RAISINS (3%)}, SUGAR, CEREAL EXTRACT, WHEAT BRAN, HONEY, OLIGOFRUCTOSE, IODIZED SALT, COCOA SOLIDS VITAMINS, COLOURS (INS 140, INS 150d), FLAVOURS {NATURE IDENTICAL \u0026 ARTIFICIAL (COCONUT)}, ANTIOXIDANT (INS 307b) AND MINERAL.\n\nALLGEN DECLARATION: CONTAINS WHEAT, BARLEY, OATS, NUT (ALMONDS), SULPHITE MAY CONTAIN OTHER NUTS, SOY AND MILK. SOME CANDIED AND DRY FRUITS CONTAIN SULPHITE TO MAINTAIN COLOUR",
+  "per_100g": {
+    "energy_kcal": 382,
+    "fat": 5.2,
+    "saturated_fat": 0.9,
+    "carbohydrates": 79,
+    "sugars": 21.6,
+    "fiber": 6.5,
+    "protein": 8.1,
+    "salt": 0.325,
+    "sodium": 0.13
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-19T16:48:34Z",
+  "fetched_at": "2026-08-19T00:53:57Z"
+}

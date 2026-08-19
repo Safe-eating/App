@@ -1,0 +1,30 @@
+{
+  "barcode": "7419871158155",
+  "name": "",
+  "brand": "kikibix",
+  "quantity": "260gm",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Wholegrain Four Blend (Oats Flour, Jowar Four, Rice Flour), Dry Fruit Mix (Cashew, Raisins, Peanuts, Black Currants), Jaggery, Butter, Milk, Whey Powder. Baking Powder, Baking Soda [INS 500(ii)] Himalayan Pink Salt. Allergen Information: Contains Milk, Nuts \u0026 Seeds. Made in a facility handling Gluten and Soy. Each Cookie is handmade, shape and size may vary. Manufactured \u0026",
+  "per_100g": {
+    "energy_kcal": 480,
+    "fat": 25,
+    "saturated_fat": 8,
+    "carbohydrates": 54,
+    "sugars": 22,
+    "fiber": 4,
+    "protein": 8,
+    "salt": 0.6875,
+    "sodium": 0.275
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-23T16:17:38Z",
+  "fetched_at": "2026-08-19T00:06:26Z"
+}

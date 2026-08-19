@@ -1,0 +1,35 @@
+{
+  "barcode": "8904221697693",
+  "name": "Peanut Butter Chocolate",
+  "brand": "Atom",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:nuts-and-their-products",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:nut-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Roasted Peanuts, Chocolate paste [Edible Vegetable Fat, Cocoa Solids \u0026 Emulsifier] (E322, E476). Sugar, Stabiliser, Salt, Emulsifier [E471] Allergen: Contains Peanuts, Soya.",
+  "per_100g": {
+    "energy_kcal": 609.375,
+    "fat": 46.875,
+    "saturated_fat": 9.375,
+    "carbohydrates": 21.875,
+    "sugars": 9.375,
+    "fiber": 6.25,
+    "protein": 25,
+    "salt": 0.6640625,
+    "sodium": 0.265625
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-26T09:34:39Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

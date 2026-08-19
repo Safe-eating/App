@@ -1,0 +1,26 @@
+{
+  "barcode": "8904384818010",
+  "name": "Coffee Roasters",
+  "brand": "Blue Tokai",
+  "quantity": "220ml",
+  "categories": [
+    "en:Cold-coff"
+  ],
+  "ingredients": "Water, Milk, Milk Solids, Sugar, Coffee Solids (1.0%), Acidity Regulator [INS 500(D)], Emulsifier [INS 460 (i)], Stabilizers (INS 469, INS 407), and Nature-Identical Flavouring Substances. \nALLERGEN DECLARATION: Contains milk.",
+  "per_100g": {
+    "energy_kcal": 77,
+    "fat": 3.63636363636364,
+    "saturated_fat": 2.27272727272727,
+    "carbohydrates": 8.68181818181818,
+    "sugars": 8,
+    "fiber": null,
+    "protein": 2.31818181818182,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-01T20:01:55Z",
+  "fetched_at": "2026-08-19T01:45:34Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906117090359",
+  "name": "Potato Popped Chips - Pasta Cheese",
+  "brand": "BRB Chips",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 444,
+    "fat": 14,
+    "saturated_fat": 3.2,
+    "carbohydrates": 69.6,
+    "sugars": 7.2,
+    "fiber": null,
+    "protein": 6.8,
+    "salt": 1.949,
+    "sodium": 0.7796
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-14T21:18:13Z",
+  "fetched_at": "2026-08-19T12:53:00Z"
+}

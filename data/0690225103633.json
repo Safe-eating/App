@@ -1,0 +1,32 @@
+{
+  "barcode": "0690225103633",
+  "name": "India Gate bsmt Rozana 5kg",
+  "brand": "",
+  "quantity": "5 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:rices"
+  ],
+  "ingredients": "Basmati Rice",
+  "per_100g": {
+    "energy_kcal": 355,
+    "fat": 0.9,
+    "saturated_fat": 0.9,
+    "carbohydrates": 78,
+    "sugars": 0.9,
+    "fiber": null,
+    "protein": 9,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-02T15:39:17Z",
+  "fetched_at": "2026-08-18T23:54:54Z"
+}

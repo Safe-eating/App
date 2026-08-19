@@ -1,0 +1,31 @@
+{
+  "barcode": "8906066202476",
+  "name": "Keya Piri Piri",
+  "brand": "Keyafood",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:spices",
+    "en:spicy"
+  ],
+  "ingredients": "Iodised salt, dehydrated vegetable powder (tamarind, garlic, onion), mixed spices \u0026 herbs (chilli, pepper, parsley, oregano), sugar",
+  "per_100g": {
+    "energy_kcal": 238,
+    "fat": 6,
+    "saturated_fat": 1,
+    "carbohydrates": 49,
+    "sugars": 26,
+    "fiber": null,
+    "protein": 7,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-17T07:45:44Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

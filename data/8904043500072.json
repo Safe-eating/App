@@ -1,0 +1,31 @@
+{
+  "barcode": "8904043500072",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:white-breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 272,
+    "fat": 2.05,
+    "saturated_fat": 1.4,
+    "carbohydrates": 56,
+    "sugars": 12.58,
+    "fiber": null,
+    "protein": 7.4,
+    "salt": 0.9875,
+    "sodium": 0.395
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-15T15:32:12Z",
+  "fetched_at": "2026-08-19T01:27:18Z"
+}

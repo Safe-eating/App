@@ -1,0 +1,31 @@
+{
+  "barcode": "8901648021629",
+  "name": "Vanilla flavoured Medium Fat Ice Cream",
+  "brand": "Mother Dairy",
+  "quantity": "48 g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-tubs"
+  ],
+  "ingredients": "Water, Milk Solids, Sugar, Stabilizers and Emulsifiers (412,410,407,471,466), Natural and Artificial Flavouring Substances (Vanilla)",
+  "per_100g": {
+    "energy_kcal": 168,
+    "fat": 7.5,
+    "saturated_fat": 6,
+    "carbohydrates": 21.5,
+    "sugars": 21.5,
+    "fiber": null,
+    "protein": 3.5,
+    "salt": 0.22,
+    "sodium": 0.088
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-10-27T16:39:21Z",
+  "fetched_at": "2026-08-19T00:58:05Z"
+}

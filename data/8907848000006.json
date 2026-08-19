@@ -1,0 +1,30 @@
+{
+  "barcode": "8907848000006",
+  "name": "Toned Milk",
+  "brand": "Vijaya",
+  "quantity": "200ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:pasteurised-products",
+    "en:pasteurised-milks"
+  ],
+  "ingredients": "Milk \u0026 Milk Solids, Vitamin A \u0026 Vitamin D",
+  "per_100g": {
+    "energy_kcal": 57.6,
+    "fat": 3,
+    "saturated_fat": 1.8,
+    "carbohydrates": 4.6,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 2.9,
+    "salt": 0.105,
+    "sodium": 0.042
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-14T10:34:51Z",
+  "fetched_at": "2026-08-19T13:03:53Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8909081002779",
+  "name": "Superior MP Atta",
+  "brand": "Aashirvaad",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:flours",
+    "en:cereal-flours"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 338,
+    "fat": 1.3,
+    "saturated_fat": 0.3,
+    "carbohydrates": 76,
+    "sugars": 3.6,
+    "fiber": 10.4,
+    "protein": 10.7,
+    "salt": 0.00375,
+    "sodium": 0.0015
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T04:59:48Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

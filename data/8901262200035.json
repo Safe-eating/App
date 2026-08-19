@@ -1,0 +1,32 @@
+{
+  "barcode": "8901262200035",
+  "name": "Masti Dahi",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 65,
+    "fat": 3.1,
+    "saturated_fat": 2,
+    "carbohydrates": 4.6,
+    "sugars": 4.6,
+    "fiber": null,
+    "protein": 4,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-05T10:53:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

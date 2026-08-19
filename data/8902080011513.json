@@ -1,0 +1,34 @@
+{
+  "barcode": "8902080011513",
+  "name": "Mixed Fruit Delight",
+  "brand": "Tropicana",
+  "quantity": "200 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars",
+    "en:fruit-juices",
+    "en:Juice"
+  ],
+  "ingredients": "WATER, CONCENTRATED MIXED FRUIT JUICE (10.1%) (FROM APPLE, MANGO, GUAVA, ORANGE, BANANA, APRICOT, PEACH), SUGAR, ACIDITY REGULATOR (330), STABILIZERS (466, 440), SALT, SWEETENER (960), CONTAINS PERMITTED NATURAL COLOUR (160a(i)) AND ADDED FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES).",
+  "per_100g": {
+    "energy_kcal": 49,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 12.3,
+    "sugars": 12,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-12-29T22:49:24Z",
+  "fetched_at": "2026-08-19T01:12:41Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "7800122000420",
+  "name": "Misso",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:misos"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 100,
+    "fat": 50,
+    "saturated_fat": 1,
+    "carbohydrates": 20,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 2,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2023-03-08T06:56:54Z",
+  "fetched_at": "2026-08-19T00:11:42Z"
+}

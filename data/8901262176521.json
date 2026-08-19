@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262176521",
+  "name": "Amul kulfi",
+  "brand": "Amul kulfi",
+  "quantity": "good",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 370,
+    "fat": 27.4,
+    "saturated_fat": 12.6,
+    "carbohydrates": 27.4,
+    "sugars": 25.6,
+    "fiber": null,
+    "protein": 4.4,
+    "salt": 0.145,
+    "sodium": 0.058
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-01T15:40:40Z",
+  "fetched_at": "2026-08-19T00:45:14Z"
+}

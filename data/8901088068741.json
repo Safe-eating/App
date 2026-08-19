@@ -1,0 +1,33 @@
+{
+  "barcode": "8901088068741",
+  "name": "Masala Oats - Peppy Tomato",
+  "brand": "Saffola",
+  "quantity": "38g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "Rolled Oats (75%), maltodexrin, Spices and Condiments (5.8%) (Onion, Pepper, Garlic, Coriander, Cumin, Fenugreek, Ginger, Turmeric, Cinnamon, Clove), Salt, Sugar, Dried Vegetables (Carrot (0.7% ), French Beans (0.5%), Tomato (0.3 %), Hydrolysed vegetable Protein, Wheat Powder, Flavour Enhancer (627, 631), Antioxidant (320). CONTAINS ADDED FLAVOUR - NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES.",
+  "per_100g": {
+    "energy_kcal": 363.157894736842,
+    "fat": 7.63157894736842,
+    "saturated_fat": 1.31578947368421,
+    "carbohydrates": 70,
+    "sugars": 7.36842105263158,
+    "fiber": 10,
+    "protein": 8.68421052631579,
+    "salt": 4.78947368421053,
+    "sodium": 1.91578947368421
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-23T08:56:26Z",
+  "fetched_at": "2026-08-19T00:35:49Z"
+}

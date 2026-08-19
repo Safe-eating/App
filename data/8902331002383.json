@@ -1,0 +1,31 @@
+{
+  "barcode": "8902331002383",
+  "name": "YumYum Instant Porridge Honey",
+  "brand": "YumYum",
+  "quantity": "25g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "Whole Wheat (72%), Sugar, Invert Syrup, Malt Extract, Glucose, Honey(1%)",
+  "per_100g": {
+    "energy_kcal": 388.75,
+    "fat": 0.8,
+    "saturated_fat": 0.21,
+    "carbohydrates": 77.44,
+    "sugars": 7.11,
+    "fiber": 9.61,
+    "protein": 11.31,
+    "salt": 0.0615,
+    "sodium": 0.0246
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-27T19:18:46Z",
+  "fetched_at": "2026-08-19T01:14:46Z"
+}

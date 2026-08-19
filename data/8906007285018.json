@@ -1,0 +1,31 @@
+{
+  "barcode": "8906007285018",
+  "name": "Fortune Besan",
+  "brand": "Fortune",
+  "quantity": "500 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:flours",
+    "en:legume-flours",
+    "en:chickpea-flours"
+  ],
+  "ingredients": "Split Chickpea flour",
+  "per_100g": {
+    "energy_kcal": 371.8,
+    "fat": 5.8,
+    "saturated_fat": 1.5,
+    "carbohydrates": 58.9,
+    "sugars": 1.8,
+    "fiber": null,
+    "protein": 21,
+    "salt": 0.1705,
+    "sodium": 0.0682
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-25T09:44:36Z",
+  "fetched_at": "2026-08-19T01:54:55Z"
+}

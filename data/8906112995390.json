@@ -1,0 +1,30 @@
+{
+  "barcode": "8906112995390",
+  "name": "high protein pav bun",
+  "brand": "protein chef",
+  "quantity": "140g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "High Protein Flour (Whole Wheat Flour, Defatted Peanut Flour, Isolated Wheat Protein, Soy Protein Isolate), Sugar, Edible Common Salt, Yeast, Edible Vegetable Oil (Sunflower), Emulsifier from Soy (E322), Acidity Regulator (E260), Calcium Propionate, Vit C",
+  "per_100g": {
+    "energy_kcal": 241.5,
+    "fat": 1.8,
+    "saturated_fat": 0.2,
+    "carbohydrates": 28.1,
+    "sugars": 4.5,
+    "fiber": 6,
+    "protein": 28.2,
+    "salt": 1.0895,
+    "sodium": 0.4358
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-02T14:37:48Z",
+  "fetched_at": "2026-08-19T12:51:54Z"
+}

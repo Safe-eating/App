@@ -1,0 +1,28 @@
+{
+  "barcode": "8906069402668",
+  "name": "Veeba",
+  "brand": "Veeba",
+  "quantity": "1",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:pasta-sauces"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 210,
+    "fat": 9.4,
+    "saturated_fat": 1.5,
+    "carbohydrates": 30,
+    "sugars": 23.5,
+    "fiber": null,
+    "protein": 1.5,
+    "salt": 4.9,
+    "sodium": 1.96
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-29T15:23:59Z",
+  "fetched_at": "2026-08-19T12:42:01Z"
+}

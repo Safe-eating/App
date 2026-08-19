@@ -1,0 +1,30 @@
+{
+  "barcode": "8906024480328",
+  "name": "Toned Milk",
+  "brand": "Dodla",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:pasteurised-products",
+    "en:pasteurised-milks"
+  ],
+  "ingredients": "Milk solids, Vitamin A (Retinyl Palmitate) and Vitamin D (Ergocalciferol)",
+  "per_100g": {
+    "energy_kcal": 59,
+    "fat": 3,
+    "saturated_fat": 1.8,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": null,
+    "protein": 3.1,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-08T01:01:23Z",
+  "fetched_at": "2026-08-19T12:31:36Z"
+}

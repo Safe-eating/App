@@ -1,0 +1,33 @@
+{
+  "barcode": "8906084410617",
+  "name": "mom chinese fried rice",
+  "brand": "alimento agro",
+  "quantity": "87 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:rices",
+    "en:Chinese"
+  ],
+  "ingredients": "Rice, Spices \u0026 Condiment, Soy Sauce, Garlic, Onion, Green Peas, Carrot, Tomato, Sweet Corn, Green Pepper, Sugar, Green Onion, and Schezwan Sauce 14% (water, Spices \u0026 Condiments, Onion, Sunflower Oil, Garlic, Soy Sauce, Corn Starch, Celery, Sugar, Vinegar, Paprika Oleoresin (Colour), Flavour Enhancers Ins 629 \u0026 Ins 630, Thickener: Xanthan Gum).",
+  "per_100g": {
+    "energy_kcal": 387.35632183908,
+    "fat": 13.7931034482759,
+    "saturated_fat": 2.29885057471264,
+    "carbohydrates": 57.4712643678161,
+    "sugars": 4.59770114942529,
+    "fiber": 5.74712643678161,
+    "protein": 9.19540229885057,
+    "salt": 4.97988505747126,
+    "sodium": 1.99195402298851
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-03-07T07:23:25Z",
+  "fetched_at": "2026-08-19T12:48:16Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8906112993228",
+  "name": "Keto Dark Chocolate",
+  "brand": "Lo!",
+  "quantity": "40 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:Keto chocolate"
+  ],
+  "ingredients": "Maltitol, Vegetable Fat, Cocoa Powder, Soy Lecithin, Vanillin",
+  "per_100g": {
+    "energy_kcal": 576,
+    "fat": 38,
+    "saturated_fat": 32,
+    "carbohydrates": 14,
+    "sugars": 1,
+    "fiber": 7,
+    "protein": 5,
+    "salt": 0.02,
+    "sodium": 0.008
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-24T03:02:18Z",
+  "fetched_at": "2026-08-19T12:51:30Z"
+}

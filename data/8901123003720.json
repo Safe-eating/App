@@ -1,0 +1,24 @@
+{
+  "barcode": "8901123003720",
+  "name": "LOTTE PIE",
+  "brand": "Lotte",
+  "quantity": "504g",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 433,
+    "fat": 17,
+    "saturated_fat": 13,
+    "carbohydrates": 66,
+    "sugars": 37,
+    "fiber": null,
+    "protein": 4,
+    "salt": 0.4625,
+    "sodium": 0.185
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-26T17:41:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

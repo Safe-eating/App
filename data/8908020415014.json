@@ -1,0 +1,30 @@
+{
+  "barcode": "8908020415014",
+  "name": "Ziggy DONUT CAKE",
+  "brand": "Ziggy",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes",
+    "en:doughnuts"
+  ],
+  "ingredients": "Sugar, Refined Wheat Flour (Maida), Edible Vegetable Oil (Palmolein, Palm), Humectants (422, 420, 1520), Liquid Glucose, Milk Solids (4.3%), Invert Syrup, Maize Starch, Cocoa Solids (1.75%), Dextrose, Baking Powder, Emulsifiers (475, 471, (475, 471, 466), Thickeners and Stabilizer (401, 1442, 339(i), 516, 415), Modified Starch (1422), Nature Identical and Artificial Flavouring Substances Chocolate \u0026 Vanilla, Preservative (202), lodized Salt, Acidity Regulato (330), Enzyme (1100(iii), 1104) (Numbers in brackets as ner",
+  "per_100g": {
+    "energy_kcal": 390.53,
+    "fat": 14.73,
+    "saturated_fat": 6.93,
+    "carbohydrates": 59.23,
+    "sugars": 28.31,
+    "fiber": null,
+    "protein": 5.17,
+    "salt": 0.891725,
+    "sodium": 0.35669
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-06T14:47:10Z",
+  "fetched_at": "2026-08-19T13:20:26Z"
+}

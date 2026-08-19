@@ -1,0 +1,32 @@
+{
+  "barcode": "8902710508727",
+  "name": "Crunchy Fruit \u0026 Nut Muesli",
+  "brand": "Bagrry's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Rolled Oats (34.2%), Nuts \u0026 Raisins 22.9% (Raisins, Dates, Almonds), Whole Wheat Flakes 15.2% (Wheat, Sugar, lodised Salt, Cereal Extract and Antioxidants-INS 322\u0026 INS 307b), Invert Syrup, Dehydrated Fruits 6.6% (Mango Powder, Banana, Cranberry (1%), Papaya, Strawberry Powder \u0026 Lemon Juice Powder), Broken Rolled Wheat, Wheat Bran, Apple Juice Concentrate (2%), Oat Bran Honey, Beetroot Powder and Antioxidant (INS 307b).",
+  "per_100g": {
+    "energy_kcal": 380,
+    "fat": 4,
+    "saturated_fat": 0.7,
+    "carbohydrates": 80.7,
+    "sugars": 16.3,
+    "fiber": 7.3,
+    "protein": 9,
+    "salt": 0.39,
+    "sodium": 0.156
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-18T14:25:24Z",
+  "fetched_at": "2026-08-19T01:16:57Z"
+}

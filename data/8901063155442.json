@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063155442",
+  "name": "Tiger Krunch ChocoChips",
+  "brand": "Britannia",
+  "quantity": "31.5g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 19,
+    "saturated_fat": 8,
+    "carbohydrates": 72,
+    "sugars": 30,
+    "fiber": null,
+    "protein": 6,
+    "salt": 0.485,
+    "sodium": 0.194
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-04T14:31:48Z",
+  "fetched_at": "2026-08-19T00:32:15Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "5449000000996",
+  "name": "Coke Original Taste",
+  "brand": "Coca-Cola",
+  "quantity": "33 cl",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:carbonated-drinks",
+    "en:sodas",
+    "en:colas",
+    "pt:bebidas-cafeina"
+  ],
+  "ingredients": "carbonated water, sugar, colour (caramel e150d), acid (phosphoric acid), natural flavourings, caffeine flavouring,",
+  "per_100g": {
+    "energy_kcal": 42,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 10.6,
+    "sugars": 10.6,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-25T07:54:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

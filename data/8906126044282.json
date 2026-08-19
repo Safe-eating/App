@@ -1,0 +1,27 @@
+{
+  "barcode": "8906126044282",
+  "name": "Chocolate Isolate",
+  "brand": "Who Moved My Protein",
+  "quantity": "1 kg",
+  "categories": [
+    "en:dairies",
+    "en:whey-powder"
+  ],
+  "ingredients": "Whey protein isolate (grass-fed), Cocoa solids, Whole milk powder,Organic pineapple stem powder (bromelain),Organic green papaya powder (papain), Monk fruit",
+  "per_100g": {
+    "energy_kcal": 387.8125,
+    "fat": 5.3125,
+    "saturated_fat": 2.3125,
+    "carbohydrates": 6.875,
+    "sugars": 5.625,
+    "fiber": 1.8125,
+    "protein": 77.21875,
+    "salt": 0.6109375,
+    "sodium": 0.244375
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-06T13:42:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

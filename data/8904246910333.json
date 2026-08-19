@@ -1,0 +1,28 @@
+{
+  "barcode": "8904246910333",
+  "name": "Priya mango pickle",
+  "brand": "Priya",
+  "quantity": "300g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles"
+  ],
+  "ingredients": "Mango pieces (60%), lodized salt, Refined rice bran oil, Mustard, Chilli powder, Garlic (3.8%), Mustard oil, Fenugreek, Turmeric.",
+  "per_100g": {
+    "energy_kcal": 205,
+    "fat": 14.87,
+    "saturated_fat": 2.51,
+    "carbohydrates": 14.84,
+    "sugars": 8.92,
+    "fiber": null,
+    "protein": 3.06,
+    "salt": 13.6,
+    "sodium": 5.44
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-13T13:40:20Z",
+  "fetched_at": "2026-08-19T01:38:49Z"
+}

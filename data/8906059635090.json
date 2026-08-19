@@ -1,0 +1,39 @@
+{
+  "barcode": "8906059635090",
+  "name": "Greek yogurt",
+  "brand": "epigama",
+  "quantity": "85g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:dairy-drinks",
+    "en:fermented-dairy-desserts",
+    "en:fermented-drinks",
+    "en:fermented-milk-drinks",
+    "en:yogurts",
+    "en:yogurt-drinks",
+    "en:greek-style-yogurts"
+  ],
+  "ingredients": "Greek Yogurt (Pasteurized Double Toned Milk, Milk Solids, Stabilizer (Pectin), Permitted Lactic Acid Cultures), Processed Blueberry Pulp (Sugar, Water, Blueberry Fruit, Stabilizer (Pectin), Natural Flavouring Substances (Blueberry), Natural Color (INS 163 (ii)), Lemon Juice Concentrate) Total Fruit Content: 1.68% Active Live Cultures: S.Thermophilus, L.Bacillus delbrueckii subsp. Bulgaricus ALLERGENS: Contains milk. Manufactured in a facility processing nuts \u0026 cereals containing gluten.",
+  "per_100g": {
+    "energy_kcal": 94.1176470588235,
+    "fat": 1.88235294117647,
+    "saturated_fat": 1.17647058823529,
+    "carbohydrates": 12.9411764705882,
+    "sugars": 12.9411764705882,
+    "fiber": null,
+    "protein": 6.47058823529412,
+    "salt": 0.129411764705882,
+    "sodium": 0.0517647058823529
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-18T05:14:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

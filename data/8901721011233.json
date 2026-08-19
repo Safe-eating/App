@@ -1,0 +1,27 @@
+{
+  "barcode": "8901721011233",
+  "name": "Moong Dal",
+  "brand": "Prabhuji Pure Food",
+  "quantity": "42g",
+  "categories": [
+    "en:snacks",
+    "en:Fried Mung beans"
+  ],
+  "ingredients": "Split Green Gram (74%), Edible Vegetable Oil (Palmolein Oil), Black Salt and lodised Salt.",
+  "per_100g": {
+    "energy_kcal": 477.63,
+    "fat": 20.01,
+    "saturated_fat": 9.01,
+    "carbohydrates": 56.41,
+    "sugars": 4.75,
+    "fiber": 10.32,
+    "protein": 17.98,
+    "salt": 1.31,
+    "sodium": 0.524
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-17T15:47:33Z",
+  "fetched_at": "2026-08-19T01:02:50Z"
+}

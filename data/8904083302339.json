@@ -1,0 +1,33 @@
+{
+  "barcode": "8904083302339",
+  "name": "Greek yogurt",
+  "brand": "Milky Mist",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:greek-style-yogurts"
+  ],
+  "ingredients": "Pasteurized Double Toned Milk,Milk Solids, Cereals Preparation (13%) (Sugar, Water,Honey, Rolled Oats, Chia Seeds, Amaranth Seeds, Flax Seeds, Lemon Juice Concentrate, Stabilizer (INS 440), Flavor (Nature Flavoring Substances-Cereals \u0026 Vanilla), Active Lactic Cultures (Lbacillus delbrueckii subsp. bulgaricus, S.thermophilus) \u0026 Probiotic Culture (Bifidobacterium Lactis).",
+  "per_100g": {
+    "energy_kcal": 93,
+    "fat": 2.2,
+    "saturated_fat": 1.4,
+    "carbohydrates": 11.3,
+    "sugars": 10.8,
+    "fiber": 0.5,
+    "protein": 7,
+    "salt": 0.148,
+    "sodium": 0.0592
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:18:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

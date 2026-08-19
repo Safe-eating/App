@@ -1,0 +1,37 @@
+{
+  "barcode": "8906114941609",
+  "name": "KHS Tikhat Batata Chiwda",
+  "brand": "KHS",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:potatoes-and-their-products",
+    "en:salty-snacks-made-from-potato",
+    "en:crackers-appetizers",
+    "en:puffed-salty-snacks",
+    "en:puffed-salty-snacks-made-from-potato-and-soy"
+  ],
+  "ingredients": "Potato, Refined Palmolein Oil, Peanuts, Sugar, Salt, Red Chili Powder.",
+  "per_100g": {
+    "energy_kcal": 477.55,
+    "fat": 20.39,
+    "saturated_fat": 4.5,
+    "carbohydrates": 63.13,
+    "sugars": 6.2,
+    "fiber": 3.3,
+    "protein": 10.38,
+    "salt": 0.001245,
+    "sodium": 0.000498
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-03T01:39:48Z",
+  "fetched_at": "2026-08-19T12:52:25Z"
+}

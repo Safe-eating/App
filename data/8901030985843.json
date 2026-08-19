@@ -1,0 +1,34 @@
+{
+  "barcode": "8901030985843",
+  "name": "3 Roses",
+  "brand": "Brooke Bond is sold by Hindustan Unilever Ltd. (HUL)",
+  "quantity": "2 Units × 500 g = 1kg",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:hot-beverages",
+    "en:plant-based-beverages",
+    "en:beverage-preparations",
+    "en:teas",
+    "en:tea-leaves",
+    "en:tea-bags"
+  ],
+  "ingredients": "TEA",
+  "per_100g": {
+    "energy_kcal": 0.063,
+    "fat": 0.007,
+    "saturated_fat": 0.002,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.0041,
+    "sodium": 0.00165
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-20T09:30:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

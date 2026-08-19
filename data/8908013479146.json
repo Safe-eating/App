@@ -1,0 +1,28 @@
+{
+  "barcode": "8908013479146",
+  "name": "The whole truth peanut cocoa",
+  "brand": "The whole truth",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars"
+  ],
+  "ingredients": "peanuts, cocoa powder, cocoa butter, dates and whey.",
+  "per_100g": {
+    "energy_kcal": 471.153846153846,
+    "fat": 21.1538461538462,
+    "saturated_fat": 5.76923076923077,
+    "carbohydrates": 40.9615384615385,
+    "sugars": 24.0384615384615,
+    "fiber": 4.80769230769231,
+    "protein": 28.8461538461538,
+    "salt": 0.0274038461538462,
+    "sodium": 0.0109615384615385
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-30T07:29:40Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

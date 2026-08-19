@@ -1,0 +1,29 @@
+{
+  "barcode": "8908005312321",
+  "name": "Caramel Popcorn",
+  "brand": "PVR",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:popcorn",
+    "en:popcorn-with-caramel"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 416.428571428571,
+    "fat": 7.85714285714286,
+    "saturated_fat": 1.07142857142857,
+    "carbohydrates": 86.4285714285714,
+    "sugars": 46.0714285714286,
+    "fiber": null,
+    "protein": 5,
+    "salt": 1.00892857142857,
+    "sodium": 0.403571428571429
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-30T04:22:48Z",
+  "fetched_at": "2026-08-19T13:09:32Z"
+}

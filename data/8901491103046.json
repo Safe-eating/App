@@ -1,0 +1,28 @@
+{
+  "barcode": "8901491103046",
+  "name": "Kurkure Green chutney",
+  "brand": "",
+  "quantity": "33g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers"
+  ],
+  "ingredients": "Cereal Products (57%) (Rice meal (38%),corn meal (19%)), Edible Vegetable oil (Palmolein) *Seasoning Spices \u0026 Condiments , Iodised salt, Sugar, Tamarind powder, Flavour (Nature identical and Artificial (Spearmint), Maltodextrin, Acidity Regulator (330), Emulsifier (414), Color (160c), Flavour Enhancers (627,631)), Gram meal (6%).",
+  "per_100g": {
+    "energy_kcal": 561,
+    "fat": 34.7,
+    "saturated_fat": 15.6,
+    "carbohydrates": 56.3,
+    "sugars": 2.1,
+    "fiber": 2,
+    "protein": 5.9,
+    "salt": 2.3975,
+    "sodium": 0.959
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-11T10:21:02Z",
+  "fetched_at": "2026-08-19T00:50:21Z"
+}

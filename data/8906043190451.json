@@ -1,0 +1,26 @@
+{
+  "barcode": "8906043190451",
+  "name": "Soan Papdi",
+  "brand": "Pramod Multifold pvt ltd",
+  "quantity": "400g 20 servings",
+  "categories": [
+    "en:desert"
+  ],
+  "ingredients": "Sugar(47%), Gram Flour (18%), Edible Vegetable Oil (Palmolein Oil, Corn Oil), Refined Wheat Flour(Maida(8%)), Hydrogenated Vegetable Oil, Almond (0.5%), Pistachio (0.12%), Cardamom.",
+  "per_100g": {
+    "energy_kcal": 506.4,
+    "fat": 24.3,
+    "saturated_fat": 10.6,
+    "carbohydrates": 66.8,
+    "sugars": 29.6,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0.0245,
+    "sodium": 0.0098
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-25T01:33:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

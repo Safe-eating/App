@@ -1,0 +1,30 @@
+{
+  "barcode": "8906016010120",
+  "name": "almonds",
+  "brand": "K.B.B Nuts Pvt. Ltd., Tulsi",
+  "quantity": "250 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:almonds"
+  ],
+  "ingredients": "almond kernels",
+  "per_100g": {
+    "energy_kcal": 575,
+    "fat": 49.4,
+    "saturated_fat": 3.7,
+    "carbohydrates": 21.7,
+    "sugars": 3.9,
+    "fiber": 12.2,
+    "protein": 21.2,
+    "salt": 0.0025,
+    "sodium": 0.001
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-16T06:35:07Z",
+  "fetched_at": "2026-08-19T02:04:14Z"
+}

@@ -1,0 +1,35 @@
+{
+  "barcode": "8906002008537",
+  "name": "Peanut Butter Creamy",
+  "brand": "Dr. Oetker",
+  "quantity": "750 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "Roasted Peanuts (91%), Sugar, Edible Soyabean Fat, Iodised Salt",
+  "per_100g": {
+    "energy_kcal": 641.5,
+    "fat": 51,
+    "saturated_fat": 10.4,
+    "carbohydrates": 19.3,
+    "sugars": 7.5,
+    "fiber": null,
+    "protein": 26.3,
+    "salt": 0.80975,
+    "sodium": 0.3239
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-17T07:42:12Z",
+  "fetched_at": "2026-08-19T01:50:10Z"
+}

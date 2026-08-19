@@ -1,0 +1,30 @@
+{
+  "barcode": "7622202207754",
+  "name": "Bourn Vita Biscuits",
+  "brand": "Bourn Vita",
+  "quantity": "111.6g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida) (56%*), Sugar, Palmolein oil, Cereal Based Beverage Mix 5% Cereal Extract (Barley, Millets, Wheat), Sugar, Cocoa Solids, Maltodextrin, Colour (150c), Minerals, Wheat Gluten, Liquid Glucose, Emulsifiers (322, 471), Milk Solids, Vitamins, Raising Agent (500(ii)), Flavours (Natur Nature Identical and Artificial (Vanilla) Flavouring Substances), lodised Salt], Invert sugar, Cocoa solids (1.1%) Minerals, Leavening Agents (500(ii), 503(ii)), lodised salt. Flavours (Natural \u0026 Nature Identical Flavouring Substances), Milk solids, Emulsifier (322), colour (150 Allergen Information: Contains Milk, Wheat, Barley, Soy. May Contain Tree nuts.",
+  "per_100g": {
+    "energy_kcal": 456,
+    "fat": 15.3,
+    "saturated_fat": 6.8,
+    "carbohydrates": 72.8,
+    "sugars": 28.3,
+    "fiber": null,
+    "protein": 7.1,
+    "salt": 892.5,
+    "sodium": 357
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-27T01:26:38Z",
+  "fetched_at": "2026-08-19T00:09:49Z"
+}

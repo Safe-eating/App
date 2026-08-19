@@ -1,0 +1,27 @@
+{
+  "barcode": "8906009073163",
+  "name": "swaadesi ghee besan laddoo",
+  "brand": "swaadesi, unibic",
+  "quantity": "180g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks"
+  ],
+  "ingredients": "Gram Flour (33%), Sugar, Desi Ghee (25%), Edible Gum \u0026 Cardamom.",
+  "per_100g": {
+    "energy_kcal": 510.4,
+    "fat": 23.6,
+    "saturated_fat": 14.3,
+    "carbohydrates": 61,
+    "sugars": 33.2,
+    "fiber": 4.2,
+    "protein": 11.4,
+    "salt": 0.0505,
+    "sodium": 0.0202
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-24T09:10:44Z",
+  "fetched_at": "2026-08-19T01:56:32Z"
+}

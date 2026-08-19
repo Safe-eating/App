@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063162532",
+  "name": "Marie gold",
+  "brand": "Britannia",
+  "quantity": "33g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 445,
+    "fat": 10.6,
+    "saturated_fat": 5.1,
+    "carbohydrates": 79.5,
+    "sugars": 21.2,
+    "fiber": 0,
+    "protein": 7.9,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-08T02:36:17Z",
+  "fetched_at": "2026-08-19T00:32:44Z"
+}

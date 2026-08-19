@@ -1,0 +1,32 @@
+{
+  "barcode": "8904287001069",
+  "name": "Vermicelli",
+  "brand": "Bambino",
+  "quantity": "1.4kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:cereal-semolinas",
+    "en:wheat-semolinas",
+    "en:Semolina"
+  ],
+  "ingredients": "Hard Wheat Semolina/Rawa, Vitamin and Minerals Premix [Vitamin B3 (as Niacinamide), Iron (as Ferrous Sulphate), Zinc (as Zinc Sulphate), Vitamin B2 (Riboflavin), Vitamin B1 (as Thiamine Mononitrate), Vitamin B9 (Folic Acid) \u0026 Vitamin B12 Cyanocobalamin)]",
+  "per_100g": {
+    "energy_kcal": 361,
+    "fat": 1,
+    "saturated_fat": 0.2,
+    "carbohydrates": 77.5,
+    "sugars": 2,
+    "fiber": 0,
+    "protein": 10.5,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-01T07:45:02Z",
+  "fetched_at": "2026-08-19T01:40:19Z"
+}

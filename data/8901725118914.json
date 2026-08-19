@@ -1,0 +1,31 @@
+{
+  "barcode": "8901725118914",
+  "name": "Tedhe Medhe",
+  "brand": "Bingo",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips"
+  ],
+  "ingredients": "RICE GRITS, REFINED PALMOLEIN, SEASONING REFINED PALMOLEIN, SPICES AND CONDIMENTS, ONION POWDER, 1ODIZED SALT MALTODEXTRIN, BLACK SALT, FLAVOUR ENHANCER (INS 508), NATURE IDENTICAL FLAVOURING SUBSTANCES, TOMATO POWDER, SUGAR, HYDROLYZED VEGETABLE PROTEIN, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES AND GARLIC POWDER (0.1%)), DEGERMED CORN GRITS AND BENGAL GRAM GRITS (3.1%).",
+  "per_100g": {
+    "energy_kcal": 546,
+    "fat": 32.8,
+    "saturated_fat": 15.5,
+    "carbohydrates": 57.3,
+    "sugars": 1.7,
+    "fiber": null,
+    "protein": 5.5,
+    "salt": 1.846,
+    "sodium": 0.7384
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-04T14:11:53Z",
+  "fetched_at": "2026-08-19T01:06:25Z"
+}

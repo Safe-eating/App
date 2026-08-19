@@ -1,0 +1,27 @@
+{
+  "barcode": "8908024977303",
+  "name": "Superyou Pro - Unflavoured - Fermented Yeast Protein",
+  "brand": "SuperYou",
+  "quantity": "",
+  "categories": [
+    "en:dietary-supplements",
+    "en:supplements"
+  ],
+  "ingredients": "Fermented Yeast Protein*, Natural Digestive Enzymes (Bromelain \u0026 Papain), Probiotic - Bacillus Coagulans (1 Billion CFU per serve).",
+  "per_100g": {
+    "energy_kcal": 361.111111111111,
+    "fat": 4.16666666666667,
+    "saturated_fat": 0.833333333333333,
+    "carbohydrates": 8.33333333333333,
+    "sugars": 0,
+    "fiber": 2.77777777777778,
+    "protein": 72.2222222222222,
+    "salt": 2.08333333333333,
+    "sodium": 0.833333333333333
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-03T06:46:51Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

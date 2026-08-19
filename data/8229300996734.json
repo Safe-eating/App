@@ -1,0 +1,31 @@
+{
+  "barcode": "8229300996734",
+  "name": "Mokto Mojito",
+  "brand": "Mokto, Stallion Drinks",
+  "quantity": "400ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:non-alcoholic-beverages",
+    "en:carbonated-drinks",
+    "en:soft-drinks",
+    "en:sodas"
+  ],
+  "ingredients": "PURIFIED WATER, CARBON DIOXIDE (INS290), SUGAR, ACIDITY REGULATOR (INS 330), SALT STABILIZERS (INS 414, INS 445), CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 102,133) PERMITTED CASS I PRESERVATIVE (INS 211), AND ADDED NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES",
+  "per_100g": {
+    "energy_kcal": 60.28,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 15.07,
+    "sugars": 13.5,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-28T12:04:59Z",
+  "fetched_at": "2026-08-19T00:12:10Z"
+}

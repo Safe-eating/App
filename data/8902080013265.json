@@ -1,0 +1,33 @@
+{
+  "barcode": "8902080013265",
+  "name": "Tropicana Guava Juice (25)",
+  "brand": "Tropicana",
+  "quantity": "10",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars",
+    "en:fruit-juices"
+  ],
+  "ingredients": "WATER, *GUAVA PULP (22%), SUGAR ACIDITY REGULATOR(330), FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES), ANTIOXIDANT(300), COLOUR (160a(i)) *22% GUAVA PULP IN BEVERAGE",
+  "per_100g": {
+    "energy_kcal": 57,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 14.4,
+    "sugars": 13.5,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.0075,
+    "sodium": 0.003
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-04T11:18:11Z",
+  "fetched_at": "2026-08-19T01:12:44Z"
+}

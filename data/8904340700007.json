@@ -1,0 +1,27 @@
+{
+  "barcode": "8904340700007",
+  "name": "pulse",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 400,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 75,
+    "sugars": 50,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 2.3125,
+    "sodium": 0.925
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T17:12:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

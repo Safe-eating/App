@@ -1,0 +1,30 @@
+{
+  "barcode": "8906006855014",
+  "name": "Ice Cream Rocks Cotton Candy",
+  "brand": "Baskin Robbins",
+  "quantity": "228 ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 316.666666666667,
+    "fat": 21.6666666666667,
+    "saturated_fat": 16.6666666666667,
+    "carbohydrates": 26.6666666666667,
+    "sugars": 24.1666666666667,
+    "fiber": 0,
+    "protein": 2.5,
+    "salt": 0.0708333333333333,
+    "sodium": 0.0283333333333333
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2023-07-30T05:55:55Z",
+  "fetched_at": "2026-08-19T01:53:57Z"
+}

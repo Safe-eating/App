@@ -1,0 +1,28 @@
+{
+  "barcode": "8904004414509",
+  "name": "gol kachauri",
+  "brand": "Haldiram's",
+  "quantity": "200 g",
+  "categories": [
+    "en:snacks",
+    "en:frozen-foods",
+    "en:frozen-snacks-and-starters"
+  ],
+  "ingredients": "TRADITI Refined Wheat Flour (Maida), Refined Palmolein Oil, Bengal Gram Flour (Besan), Refined Sugar, Cashew Nuts, Hydrogenated Vegetable Oil (Vanaspati), Red Chilli Powder, Edible Common Salt, Acidity Regulator (INS 330), Dried Mango Powder, Cumin Powder, Dried Ginger Powder, Green Chilli, Coriander Powder, Black Pepper, Cinnamon, Clove, Fennel Seed, Cardamom, Bay Leaf, Turmeric \u0026 Black Salt. Allergen: Contains Wheat \u0026 Cashews May Contains Milk, Almond, Peanut, Sesame Seed, Soy \u0026 Mustard Seed",
+  "per_100g": {
+    "energy_kcal": 490,
+    "fat": 25.94,
+    "saturated_fat": 8.74,
+    "carbohydrates": 52.7,
+    "sugars": 7.84,
+    "fiber": 4.86,
+    "protein": 8.77,
+    "salt": 1.185,
+    "sodium": 0.474
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-10-20T10:22:53Z",
+  "fetched_at": "2026-08-19T01:25:48Z"
+}

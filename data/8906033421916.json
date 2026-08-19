@@ -1,0 +1,32 @@
+{
+  "barcode": "8906033421916",
+  "name": "Rusk Elaichi",
+  "brand": "Kanha",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:rusks",
+    "en:toasts"
+  ],
+  "ingredients": "Refined Wheat Flour [Maida) (61%)], Sugar (27%), Edible Vegetable Fat \u0026 Oil [(7%) (Hydrogenated Palm Oil, Interesterified Fat, Sesame Oil, Vitamin A], Semolina, Yeast, Custard Powder, Skimmed Milk Powder, Edible Common Salt (Iodized Salt), Gluten, Bread Improver [Soya Flour, Starch, Antioxidant (INS300), Flour Improvers (INS 923, INS 1100), Emulsifier (INS 471(i), INS 481(i)), Ammonium Chloride], Preservative [Propylene Glycol (INS 1520), TBHQ (INS 319), Citric Acid (INS 330)], Spice \u0026 Condiment [Cardamom Seeds (0.2%) \u0026 Its Oil (0.5%)], Acidity Regulator (INS 260) \u0026 Antioxidant (INS 300).",
+  "per_100g": {
+    "energy_kcal": 429,
+    "fat": 8.5,
+    "saturated_fat": 3,
+    "carbohydrates": 79,
+    "sugars": 29,
+    "fiber": 8,
+    "protein": 9,
+    "salt": 0.655,
+    "sodium": 0.262
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-21T02:59:49Z",
+  "fetched_at": "2026-08-19T12:33:51Z"
+}

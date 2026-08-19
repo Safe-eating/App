@@ -1,0 +1,26 @@
+{
+  "barcode": "8906082372603",
+  "name": "Chocochips",
+  "brand": "nic",
+  "quantity": "500 ml",
+  "categories": [
+    "en:chocolate-ice-creams"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 204,
+    "fat": 10,
+    "saturated_fat": 6.4,
+    "carbohydrates": 24,
+    "sugars": 12.3,
+    "fiber": 1.9,
+    "protein": 4.4,
+    "salt": 0.08425,
+    "sodium": 0.0337
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-22T15:35:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

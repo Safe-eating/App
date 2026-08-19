@@ -1,0 +1,32 @@
+{
+  "barcode": "8901719127786",
+  "name": "Melody Chocolaty",
+  "brand": "Parle",
+  "quantity": "175.95g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:chocolates",
+    "en:Mini Cho"
+  ],
+  "ingredients": "SUGAR, LIQUID GLUCOSE, REFINED PALM OIL, COCOA SOLIDS 11.1%), MILK SOLIDS, IODISED SALT ND EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN). CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBATANCES -",
+  "per_100g": {
+    "energy_kcal": 428,
+    "fat": 12.8,
+    "saturated_fat": 6.6,
+    "carbohydrates": 0,
+    "sugars": 53.8,
+    "fiber": 0,
+    "protein": 2.9,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-27T18:32:32Z",
+  "fetched_at": "2026-08-19T01:01:17Z"
+}

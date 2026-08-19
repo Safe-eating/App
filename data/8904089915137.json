@@ -1,0 +1,32 @@
+{
+  "barcode": "8904089915137",
+  "name": "Daily Health Toned Milk",
+  "brand": "Heritage",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:pasteurised-products",
+    "en:buffalo-milks",
+    "en:pasteurised-milks",
+    "en:toned-milks"
+  ],
+  "ingredients": "Milk Solids (Toned Milk), Vitamin A Palmitate \u0026 Vitamin D (Ergocalciferol) Allergens information: Contains Milk",
+  "per_100g": {
+    "energy_kcal": 58,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 4.6,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 3.1,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-09-10T15:47:10Z",
+  "fetched_at": "2026-08-19T01:34:37Z"
+}

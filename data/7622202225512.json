@@ -1,0 +1,32 @@
+{
+  "barcode": "7622202225512",
+  "name": "Original Oreo",
+  "brand": "Cadbury",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:filled-biscuits",
+    "en:des"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Fractionated Fat, Palmolein, Invert Sugar, Cocoa Solids (2%) Lening Agents 50g (i), 503(ii), Starch, lodised Salt, Emulsifies Naturetical Flavouring Substances. Allergen Inition Contains Wheat, Sulphite, Soy. May Contain and Barley. T\u0026C apply €40 e 2025/7/18 21:04",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 19.6,
+    "saturated_fat": 9.7,
+    "carbohydrates": 71.9,
+    "sugars": 38.9,
+    "fiber": null,
+    "protein": 5.2,
+    "salt": 1.05,
+    "sodium": 0.42
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-15T06:24:09Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

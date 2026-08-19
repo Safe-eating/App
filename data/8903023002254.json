@@ -1,0 +1,33 @@
+{
+  "barcode": "8903023002254",
+  "name": "Raisins",
+  "brand": "Vedaka",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruits-based-foods",
+    "en:dried-products",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits",
+    "en:raisins"
+  ],
+  "ingredients": "Raisins",
+  "per_100g": {
+    "energy_kcal": 321,
+    "fat": 0.9,
+    "saturated_fat": 0.31,
+    "carbohydrates": 73.2,
+    "sugars": 70.3,
+    "fiber": 4.2,
+    "protein": 3,
+    "salt": 0.013,
+    "sodium": 0.005
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-23T15:31:11Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

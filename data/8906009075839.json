@@ -1,0 +1,30 @@
+{
+  "barcode": "8906009075839",
+  "name": "Unibic Swaadesi Bikaneri Bhujia",
+  "brand": "Unibic",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "MOTH FLOUR, GRAM FLOUR, EDIBLE VEGETABLE OIL (RICE BRAN OIL SUNFLOWER OIL \u0026 COTTON SEED OIL), SPICES CONDIMENTS (IODISED SALT, LONGI MIRCHI POWDER, BLACK PEPPER, CLOVE POWDER, MACE POWDER \u0026 CARDAMOM POWDER).",
+  "per_100g": {
+    "energy_kcal": 589.7,
+    "fat": 41.8,
+    "saturated_fat": 13.5,
+    "carbohydrates": 38.7,
+    "sugars": 0.6,
+    "fiber": 4.7,
+    "protein": 11.4,
+    "salt": 1.52575,
+    "sodium": 0.6103
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-11T17:39:07Z",
+  "fetched_at": "2026-08-19T01:56:57Z"
+}

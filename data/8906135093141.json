@@ -1,0 +1,31 @@
+{
+  "barcode": "8906135093141",
+  "name": "Honey From The Honey Specialist Squeezy",
+  "brand": "qpis",
+  "quantity": "400g",
+  "categories": [
+    "en:breakfasts",
+    "en:spreads",
+    "en:sweet-spreads",
+    "en:bee-products",
+    "en:sweeteners",
+    "en:honey-based-preparations"
+  ],
+  "ingredients": "HONEY (MULTIFLORAL HONEY)",
+  "per_100g": {
+    "energy_kcal": 326,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 81.7,
+    "sugars": 79.8,
+    "fiber": 0,
+    "protein": 0.56,
+    "salt": 0.01,
+    "sodium": 0.00411
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-27T03:44:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

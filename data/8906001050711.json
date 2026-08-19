@@ -1,0 +1,29 @@
+{
+  "barcode": "8906001050711",
+  "name": "Mixed pickle",
+  "brand": "Mother's Recipe",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles",
+    "en:plant-based-pickles"
+  ],
+  "ingredients": "Mixed Fruits and Vegetable Pieces (Mango, Carrot, Lime, Green Chilli, Tomato and Amba Haldar) (62%), Iodized Salt, Water, Cottonseed Oil, Chilli Powder, Spices \u0026 Condiments. Acidity Regulator (INS 260) and Asafoetida.",
+  "per_100g": {
+    "energy_kcal": 142,
+    "fat": 9.3,
+    "saturated_fat": 2,
+    "carbohydrates": 12,
+    "sugars": 5.3,
+    "fiber": null,
+    "protein": 2,
+    "salt": 11.825,
+    "sodium": 4.73
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-24T09:39:56Z",
+  "fetched_at": "2026-08-19T01:48:38Z"
+}

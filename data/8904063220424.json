@@ -1,0 +1,35 @@
+{
+  "barcode": "8904063220424",
+  "name": "Takatak Chatpata Masala",
+  "brand": "Haldiram's",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:crackers-appetizers",
+    "en:puffed-salty-snacks",
+    "en:puffed-salty-snacks-made-from-maize",
+    "en:fried-snacks"
+  ],
+  "ingredients": "Rice Meal, Edible Vegetable Oil (Palmolein Oil, Cotton Seed, Rice Bran), Corn Meal (23%), Gram Meal, \u0026quot;Spices and Condiments (Red Chilli Powder (0.8%), Raw Mango Powder, Coriander Powder (0.25%), Cumin Powder, Garlic Powder, Anise Powder (0.1%), Black Pepper Powder, (0.01%), Nutmeg Powder, Cinnamon Powder, Onion Powder, Spices Extract), lodised Salt, Whey Powder, Maltodextrin, Dextrose, Sugar Powder, Acidity Regulators (INS 296 \u0026 INS 330), Natural and Nature Identical Flavouring Substances. *Used as natural flavouring agent",
+  "per_100g": {
+    "energy_kcal": 543,
+    "fat": 35,
+    "saturated_fat": 17,
+    "carbohydrates": 50,
+    "sugars": 0.5,
+    "fiber": null,
+    "protein": 7,
+    "salt": 2.0675,
+    "sodium": 0.827
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-21T02:08:05Z",
+  "fetched_at": "2026-08-19T01:30:26Z"
+}

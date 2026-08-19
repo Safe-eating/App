@@ -1,0 +1,39 @@
+{
+  "barcode": "8886467124716",
+  "name": "Pringles original",
+  "brand": "Pringles",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:crackers-appetizers",
+    "en:puffed-salty-snacks",
+    "en:puffed-salty-snacks-made-from-potato"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 523,
+    "fat": 27.9,
+    "saturated_fat": 14,
+    "carbohydrates": 62.8,
+    "sugars": 0.4,
+    "fiber": null,
+    "protein": 5,
+    "salt": 1.1725,
+    "sodium": 0.469
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-09T12:24:44Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

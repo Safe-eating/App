@@ -1,0 +1,26 @@
+{
+  "barcode": "8906006854901",
+  "name": "The Brooklyn Creamery Vintage Vanilla Giant Cookie Sandwich",
+  "brand": "The Brooklyn Creamery",
+  "quantity": "108g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 275.925925925926,
+    "fat": 13.3333333333333,
+    "saturated_fat": 10.5555555555556,
+    "carbohydrates": 45.5555555555556,
+    "sugars": 0.185185185185185,
+    "fiber": 4.07407407407407,
+    "protein": 3.88888888888889,
+    "salt": 1.03101851851852,
+    "sodium": 0.412407407407407
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-15T05:46:13Z",
+  "fetched_at": "2026-08-19T01:53:56Z"
+}

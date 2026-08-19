@@ -1,0 +1,24 @@
+{
+  "barcode": "8904327601976",
+  "name": "Dark Chocolate Peanut Butter",
+  "brand": "My fitness",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 646.875,
+    "fat": 53.125,
+    "saturated_fat": 12.5,
+    "carbohydrates": 18.75,
+    "sugars": 12.5,
+    "fiber": 6.25,
+    "protein": 25,
+    "salt": 0.1484375,
+    "sodium": 0.059375
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T20:55:57Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,36 @@
+{
+  "barcode": "8901393017953",
+  "name": "Mentos - Mint Flavour, Chewy Toffee",
+  "brand": "PERFETTI",
+  "quantity": "36.4g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:condiments",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:culinary-plants",
+    "en:herbs-and-spices",
+    "en:aromatic-plants",
+    "en:herbs",
+    "en:mint"
+  ],
+  "ingredients": "SUGAR, LIQUID GLUCOSE, STARCH, HYDROGENATED VEGETABLE OIL, THICKENER (INS 414) STABILIZER (INS 1400), EMULSIFIER (INS 471). CONTAINS ADDED FLAVOURS (NATURAL AND NATURE-IDENTICAL FLAVOURING SUBSTANCES)",
+  "per_100g": {
+    "energy_kcal": 386,
+    "fat": 1.8,
+    "saturated_fat": 1.8,
+    "carbohydrates": 92,
+    "sugars": 72,
+    "fiber": 0,
+    "protein": 0.05,
+    "salt": 0.16,
+    "sodium": 0.064
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-31T18:18:29Z",
+  "fetched_at": "2026-08-19T00:47:20Z"
+}

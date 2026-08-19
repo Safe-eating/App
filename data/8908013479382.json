@@ -1,0 +1,28 @@
+{
+  "barcode": "8908013479382",
+  "name": "The Whole Truth Protein Bar Cranberry mini",
+  "brand": "The Whole Truth",
+  "quantity": "",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-bars"
+  ],
+  "ingredients": "Cashews kernels(34%),  cranberries(21%), dates(19%), whey protein concentrate(17%), cocoa butter(5%), almonds kernels(4%).",
+  "per_100g": {
+    "energy_kcal": 451.851851851852,
+    "fat": 21.8518518518519,
+    "saturated_fat": 5.18518518518519,
+    "carbohydrates": 40.7407407407407,
+    "sugars": 28.1481481481481,
+    "fiber": 4.44444444444444,
+    "protein": 22.962962962963,
+    "salt": 0.0037037037037037,
+    "sodium": 0.00148148148148148
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-05T08:06:17Z",
+  "fetched_at": "2026-08-19T13:14:47Z"
+}

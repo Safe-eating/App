@@ -1,0 +1,33 @@
+{
+  "barcode": "8908011478684",
+  "name": "Heart Healthy Trail Mix",
+  "brand": "boyo",
+  "quantity": "200 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:dried-products",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits"
+  ],
+  "ingredients": "Walnut, Roasted Peanut, Roasted Almond, Flax Seed, Raisin, Pitted Black Date, Roasted Hazelnut, Dried unsweetened Blueberry, Dark Choco Chips",
+  "per_100g": {
+    "energy_kcal": 515,
+    "fat": 38,
+    "saturated_fat": 5.2,
+    "carbohydrates": 37,
+    "sugars": 23,
+    "fiber": 10,
+    "protein": 15,
+    "salt": 0.024,
+    "sodium": 0.0096
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-13T04:35:23Z",
+  "fetched_at": "2026-08-19T13:13:37Z"
+}

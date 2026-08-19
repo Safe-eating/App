@@ -1,0 +1,24 @@
+{
+  "barcode": "8904083323181",
+  "name": "Blueberry Skyr",
+  "brand": "Milky mist",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 115.4,
+    "fat": 1.8,
+    "saturated_fat": 0.4,
+    "carbohydrates": 15.8,
+    "sugars": 15.8,
+    "fiber": null,
+    "protein": 9,
+    "salt": 0.305,
+    "sodium": 0.122
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-25T06:07:07Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

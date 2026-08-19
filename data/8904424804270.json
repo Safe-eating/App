@@ -1,0 +1,24 @@
+{
+  "barcode": "8904424804270",
+  "name": "Dry Fruit Mix",
+  "brand": "Happilo",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 418.5,
+    "fat": 13.3,
+    "saturated_fat": 2,
+    "carbohydrates": 66,
+    "sugars": 45.3,
+    "fiber": 6.7,
+    "protein": 8,
+    "salt": 0.03,
+    "sodium": 0.012
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-27T03:17:13Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

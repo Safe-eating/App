@@ -1,0 +1,31 @@
+{
+  "barcode": "8901030735110",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-tubs"
+  ],
+  "ingredients": "NUTRITION INFORMA (Typical Values) Per Serve % RDA/Serve Energy (kcal) 116 6% Protein (g) 2.5 Carbohydrate (g) 15.3 Total Sugars (g) 14.2 Added Sugars (g) 11.3 23% Dietary Fibre (g) 0.1 7% Total Fat (g) 5 Saturated Fat (g) 3 13% Trans Fat (g) 0.16 8% Cholesterol (mg) 11.9 2% Sodium (mg) 30",
+  "per_100g": {
+    "energy_kcal": 116,
+    "fat": 5,
+    "saturated_fat": 3,
+    "carbohydrates": 15.3,
+    "sugars": 14.2,
+    "fiber": null,
+    "protein": 2.5,
+    "salt": 75,
+    "sodium": 30
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-04T18:58:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

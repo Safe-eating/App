@@ -1,0 +1,26 @@
+{
+  "barcode": "8906075005037",
+  "name": "JAGGERY OATS MILLET COOKIES",
+  "brand": "ATUL BAKERY",
+  "quantity": "200g",
+  "categories": [
+    "en:Millet cookies"
+  ],
+  "ingredients": "Jaggery Powder-25%, Edible Vegetable Fat (Palmolein)-18%, Sorghum Flour-16%, Oats - 12%, Coconut Powder-10%, Raisin-3%, Honey, Liquid Milk, Vanilla Powder, Edible lodized Salt, Raising Agent [INS 500(II) Baking Powder].",
+  "per_100g": {
+    "energy_kcal": 502,
+    "fat": 23,
+    "saturated_fat": 6,
+    "carbohydrates": 62,
+    "sugars": 20,
+    "fiber": 3,
+    "protein": 12,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-09T08:29:06Z",
+  "fetched_at": "2026-08-19T12:43:11Z"
+}

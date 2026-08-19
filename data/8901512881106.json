@@ -1,0 +1,35 @@
+{
+  "barcode": "8901512881106",
+  "name": "Peanut Butter Regular",
+  "brand": "Sundrop",
+  "quantity": "462g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "Roasted Peanuts (90.8%), Sugar, Hydrogenated Vegetable Oil, Refined Edible Groundnut Oil \u0026 Iodized Salt.",
+  "per_100g": {
+    "energy_kcal": 647,
+    "fat": 55,
+    "saturated_fat": 14.8,
+    "carbohydrates": 15.2,
+    "sugars": 11.7,
+    "fiber": 7.8,
+    "protein": 26.8,
+    "salt": 0.5375,
+    "sodium": 0.215
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-22T06:49:50Z",
+  "fetched_at": "2026-08-19T00:55:00Z"
+}

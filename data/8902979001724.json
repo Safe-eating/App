@@ -1,0 +1,32 @@
+{
+  "barcode": "8902979001724",
+  "name": "Cavins Masala Chaasa 180 ml",
+  "brand": "Cavin's",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:dairy-drinks",
+    "en:buttermilks"
+  ],
+  "ingredients": "Water, Milk Solids, iodized salt, Spices and Condiments (0.6%) (Cumin, Ginger, Chilly and Asafoetida), Emulsifier (INS 460(i)), Stabilizer (INS 466) and Mineral \u0026 Vitamin premix (Zinc, Vitamin A \u0026 D)",
+  "per_100g": {
+    "energy_kcal": 21.2777777777778,
+    "fat": 1.38888888888889,
+    "saturated_fat": 0.944444444444444,
+    "carbohydrates": 1.44444444444444,
+    "sugars": 1.16666666666667,
+    "fiber": null,
+    "protein": 0.722222222222222,
+    "salt": 0.71995,
+    "sodium": 0.28798
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-29T18:12:45Z",
+  "fetched_at": "2026-08-19T01:19:04Z"
+}

@@ -1,0 +1,36 @@
+{
+  "barcode": "8901491502030",
+  "name": "Lay's American Style Cream \u0026 Onion Flavour",
+  "brand": "Lay's",
+  "quantity": "12.3g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Palmolein, Sunflower Oil), 'Seasoning (Sugar, iodised Salt, Milk Solids, ^Spices \u0026 Condiments, Maltodextrin, Flavour (Natural and Nature Identical Flavouring Substances), Cheese Powder, Hydrolysed Vegetable Protein, Flavour Enhancers (627, 631), Edible Vegetable Oil (Palm, Coconut), Anticaking Agent (551)).Contains Onion ALLERGEN ADVICE: Contains _Soy_, _Milk_ May Contain _Sulphite_\n'As flavouring agent ,^Contsins onion",
+  "per_100g": {
+    "energy_kcal": 537,
+    "fat": 33.1,
+    "saturated_fat": 14.9,
+    "carbohydrates": 53,
+    "sugars": 3.4,
+    "fiber": null,
+    "protein": 6.7,
+    "salt": 1.6075,
+    "sodium": 0.643
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-17T19:35:59Z",
+  "fetched_at": "2026-08-19T00:50:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8904039704767",
+  "name": "Bajra Chips",
+  "brand": "Conscious Food",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "Pearl millet flour, Taploca starch, Edible vegetable oil (Rice bran Oil), Seasoning mix [Corn starch, Sugar, Iodised salt, Black salt, (Mixed spices and condiments: Jeera, Black pepper, Green cardamom, Dry ginger), Dry mango powder, Dehy: Fresh pudina leaves \u0026 Green coriande leaves powder, Green chilli powder)], Rice flour Gram flour, White lentil flour",
+  "per_100g": {
+    "energy_kcal": 553,
+    "fat": 35.4,
+    "saturated_fat": 16.3,
+    "carbohydrates": 48.4,
+    "sugars": 1.8,
+    "fiber": 5.5,
+    "protein": 7.8,
+    "salt": 1.1875,
+    "sodium": 0.475
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-02T05:24:54Z",
+  "fetched_at": "2026-08-19T01:27:16Z"
+}

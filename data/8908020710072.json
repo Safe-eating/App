@@ -1,0 +1,24 @@
+{
+  "barcode": "8908020710072",
+  "name": "Wholy Fudgy Cakes Belgian Chocolate",
+  "brand": "Wholy",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 384,
+    "fat": 11.7142857142857,
+    "saturated_fat": 4.28571428571429,
+    "carbohydrates": 63.4285714285714,
+    "sugars": 9.42857142857143,
+    "fiber": 14.5714285714286,
+    "protein": 6,
+    "salt": 0.694285714285714,
+    "sodium": 0.277714285714286
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-28T15:30:19Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8904083308065",
+  "name": "Spiced Butter Milk",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:buttermilks",
+    "en:Spiced buttermilk"
+  ],
+  "ingredients": "Water, Toned Milk Curd (40%), lodized Salt, Stabilizer (INS 440), Spices and condiments (0.03%), Probiotic Culture (Lactobacillus rhamnosus). Allergen Information: Contains Milk",
+  "per_100g": {
+    "energy_kcal": 21.6,
+    "fat": 1.2,
+    "saturated_fat": 0.8,
+    "carbohydrates": 1.5,
+    "sugars": 1.5,
+    "fiber": null,
+    "protein": 1.2,
+    "salt": 0.65,
+    "sodium": 0.26
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-29T19:30:10Z",
+  "fetched_at": "2026-08-19T01:33:31Z"
+}

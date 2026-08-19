@@ -1,0 +1,30 @@
+{
+  "barcode": "8904043551586",
+  "name": "Brown Bread",
+  "brand": "Modern",
+  "quantity": "300g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "BREAD hi fibre brown Ingredients: Whole Wheat Flour (Atta) (31%), Refined Wheat Flour (Maida) (30%), Sugar, Wheat Bran, Yeast, Gluten, iodized Salt, Edible Vegetable Fat (Interesterified), Preservative (282), Malt Product, Emulsifier (471), Acidity Regulators {341(0), 260), Flour Treatment Agents (510, 1100(i)} and Antioxidant (300).",
+  "per_100g": {
+    "energy_kcal": 244.13,
+    "fat": 2.68,
+    "saturated_fat": 1.31,
+    "carbohydrates": 47.22,
+    "sugars": 3.77,
+    "fiber": 5.38,
+    "protein": 7.78,
+    "salt": 1.018075,
+    "sodium": 0.40723
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-01T09:10:39Z",
+  "fetched_at": "2026-08-19T01:27:47Z"
+}

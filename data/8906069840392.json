@@ -1,0 +1,28 @@
+{
+  "barcode": "8906069840392",
+  "name": "Adrak Elaichi Chai Tea",
+  "brand": "Chaayos",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:tea-based-beverages"
+  ],
+  "ingredients": "Milk Solids, Sugar, Assam Tea Extract, Ginger, Cardamom MANUFACTURED, PACK Sunshine Teahouse Priv Plot no. 102, Sector 8, IN Haryana-122050, India INGREDIENTS AFTER RECONSTITUTION: Party at FSSL 1002 4% Skimmed Milk, Sugar, Tea, Ginger, Cardamon! 72209 3% 001 2124 0% CONTAINS ADDED FLAVOURS (NATURAL) 7.APL 19 Added Sugars 2% 4% 0% 6% 0% 0% ng (DV) tell you how much a nutrient in contributes general nuti daly advics 2.000 calones Order on www.chaayos.com 047 1273 OCT. 2023 For Feedbacks and Que Customer Care: 1800 12 mybazaar@chaayos.com Sunshine Teahouse Pvt Plot #382, 100ft. Road. G Delhi India-110030",
+  "per_100g": {
+    "energy_kcal": 416.66666666667,
+    "fat": 16.666666666667,
+    "saturated_fat": 11.666666666667,
+    "carbohydrates": 58.333333333333,
+    "sugars": 50,
+    "fiber": 0,
+    "protein": 16.666666666667,
+    "salt": 0.52083333333332,
+    "sodium": 0.208333333333328
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-24T06:52:21Z",
+  "fetched_at": "2026-08-19T12:42:35Z"
+}

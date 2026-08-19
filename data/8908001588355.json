@@ -1,0 +1,30 @@
+{
+  "barcode": "8908001588355",
+  "name": "Half Cooked Whole Wheat Parota",
+  "brand": "Asal,Milky Mist",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 325.6,
+    "fat": 15.2,
+    "saturated_fat": 7.2,
+    "carbohydrates": 36.2,
+    "sugars": 0,
+    "fiber": 4.6,
+    "protein": 11,
+    "salt": 0.625,
+    "sodium": 0.25
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T18:49:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

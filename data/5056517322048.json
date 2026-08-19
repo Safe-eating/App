@@ -1,0 +1,24 @@
+{
+  "barcode": "5056517322048",
+  "name": "Butter Chicken",
+  "brand": "Cook",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 128,
+    "fat": 5.9,
+    "saturated_fat": 3.3,
+    "carbohydrates": 6,
+    "sugars": 4.9,
+    "fiber": 1.7,
+    "protein": 11.9,
+    "salt": 0.7175,
+    "sodium": 0.287
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-06T20:04:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

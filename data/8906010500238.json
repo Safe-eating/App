@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010500238",
+  "name": "BALAJI Mung Dal",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 504,
+    "fat": 17.5,
+    "saturated_fat": 8,
+    "carbohydrates": 54.5,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 22.7,
+    "salt": 0.9625,
+    "sodium": 0.385
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T23:28:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

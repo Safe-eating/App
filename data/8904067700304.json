@@ -1,0 +1,34 @@
+{
+  "barcode": "8904067700304",
+  "name": "Classic Hand Roasted Peanuts",
+  "brand": "Jabsons",
+  "quantity": "150 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:roasted-nuts",
+    "en:peanuts",
+    "en:roasted-peanuts"
+  ],
+  "ingredients": "_Peanuts_ (96%), Refined Cotton Seed Oil, Iodized Salt (1%), Black Salt (0.3%)",
+  "per_100g": {
+    "energy_kcal": 630,
+    "fat": 52,
+    "saturated_fat": 9,
+    "carbohydrates": 21,
+    "sugars": 4,
+    "fiber": 9,
+    "protein": 20,
+    "salt": 1.575,
+    "sodium": 0.63
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-20T11:32:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

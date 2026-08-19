@@ -1,0 +1,26 @@
+{
+  "barcode": "8906112994607",
+  "name": "High Protein Madras Mix",
+  "brand": "Lo Foods, Protein Chef",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 616.5,
+    "fat": 47.75,
+    "saturated_fat": 10,
+    "carbohydrates": 19.25,
+    "sugars": 4.75,
+    "fiber": 10.25,
+    "protein": 27.5,
+    "salt": 1.66,
+    "sodium": 0.664
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-02T12:32:08Z",
+  "fetched_at": "2026-08-19T12:51:53Z"
+}

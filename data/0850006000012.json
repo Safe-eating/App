@@ -1,0 +1,37 @@
+{
+  "barcode": "0850006000012",
+  "name": "Yaourt nature sucres U",
+  "brand": "Coca Cola",
+  "quantity": "1.0 unit",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:plain-fermented-dairy-desserts",
+    "en:plain-yogurts",
+    "en:sweetened-yogurts",
+    "en:plain-yogurt-with-sugar",
+    "en:whole-milk-yogurts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 80,
+    "fat": 3.3,
+    "saturated_fat": 2.2,
+    "carbohydrates": 9.6,
+    "sugars": 9.6,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-18T05:47:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

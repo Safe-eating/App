@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719123894",
+  "name": "Parle -G (800g)",
+  "brand": "Parle",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 454,
+    "fat": 13,
+    "saturated_fat": 6,
+    "carbohydrates": 77.3,
+    "sugars": 25.5,
+    "fiber": null,
+    "protein": 6.9,
+    "salt": 0.74,
+    "sodium": 0.296
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-16T13:19:22Z",
+  "fetched_at": "2026-08-19T01:00:43Z"
+}

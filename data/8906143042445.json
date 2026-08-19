@@ -1,0 +1,32 @@
+{
+  "barcode": "8906143042445",
+  "name": "High Protein Super Oats Plain Rolled",
+  "brand": "Yu",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "Rolled Oats (70%). Cut Soy Granules, Pumpkin Seeds, Sunflower Seeds, Chia Seeds, Flax Seeds",
+  "per_100g": {
+    "energy_kcal": 404,
+    "fat": 7.6,
+    "saturated_fat": 1.6,
+    "carbohydrates": 57,
+    "sugars": 1.4,
+    "fiber": 11.5,
+    "protein": 25.2,
+    "salt": 0.00875,
+    "sodium": 0.0035
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-01T04:46:15Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

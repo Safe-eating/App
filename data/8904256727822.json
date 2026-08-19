@@ -1,0 +1,32 @@
+{
+  "barcode": "8904256727822",
+  "name": "sprouted ragi powder porridge",
+  "brand": "GoodDiet",
+  "quantity": "250g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:porridge"
+  ],
+  "ingredients": "Sprouted ragi, iodised salt",
+  "per_100g": {
+    "energy_kcal": 392.24,
+    "fat": 3.12,
+    "saturated_fat": 0.7,
+    "carbohydrates": 79.29,
+    "sugars": 2,
+    "fiber": 4.67,
+    "protein": 9.59,
+    "salt": 0.00865,
+    "sodium": 0.00346
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-07-02T07:35:04Z",
+  "fetched_at": "2026-08-19T01:39:20Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8906065169374",
+  "name": "ITC Master Chef Classic Aloo Tikki",
+  "brand": "ITC",
+  "quantity": "",
+  "categories": [
+    "en:frozen-foods",
+    "en:frozen-snacks-and-starters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 165,
+    "fat": 7,
+    "saturated_fat": 3.25,
+    "carbohydrates": 23,
+    "sugars": 0.5,
+    "fiber": null,
+    "protein": 2.75,
+    "salt": 0.94375,
+    "sodium": 0.3775
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-01T07:28:18Z",
+  "fetched_at": "2026-08-19T12:39:59Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8905304000539",
+  "name": "Corn Dots Cream \u0026 Onion",
+  "brand": "Yummiano",
+  "quantity": "200 g",
+  "categories": [
+    "en:Flavoured Corn Crips"
+  ],
+  "ingredients": "Corn, Edible Vegetable Oil, Salt, Cream, Spices, and Condiments. Contains Natural and Nature Identical Flavouring Substances.",
+  "per_100g": {
+    "energy_kcal": 494,
+    "fat": 23.4,
+    "saturated_fat": 16.2,
+    "carbohydrates": 66.5,
+    "sugars": 1.26,
+    "fiber": 3.66,
+    "protein": 4.22,
+    "salt": 2.5,
+    "sodium": 1
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-24T08:44:30Z",
+  "fetched_at": "2026-08-19T01:47:10Z"
+}

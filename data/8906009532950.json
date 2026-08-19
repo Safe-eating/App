@@ -1,0 +1,26 @@
+{
+  "barcode": "8906009532950",
+  "name": "RiteBite MAXPROTEIN snack",
+  "brand": "RiteBite",
+  "quantity": "120 g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Millets \u0026 Pulses Blend Flour (55%) (Jowar Sorghum, Chickpeas, Quinoa, Whole Grain Oats, Ragi, Soy,Urad), Rice Bran Oil, Soy Protein Concentrate, Dietary Fiber, Sugar, Ajwain Powder, Black Pepper, Rock Salt, Fenugreek Powder, Mixed Spices \u0026 % Herbs (Chilli, Oregano), Garlic Powder,  Tamarind Powder, Onion Powder, Soya Sauce Powder, Acidity Regulator (E330), Anti-Caking Agent (551). CONTAINS PERMITTED NATURAL COLOUR (E150a) AND ADDED FLAVOURS (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "per_100g": {
+    "energy_kcal": 476.666666666667,
+    "fat": 22.6666666666667,
+    "saturated_fat": 4.5,
+    "carbohydrates": 49.8333333333333,
+    "sugars": 3,
+    "fiber": 6.66666666666667,
+    "protein": 16.6666666666667,
+    "salt": 2.08333333333333,
+    "sodium": 0.833333333333333
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-13T02:39:20Z",
+  "fetched_at": "2026-08-19T01:58:31Z"
+}

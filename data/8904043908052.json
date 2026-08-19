@@ -1,0 +1,24 @@
+{
+  "barcode": "8904043908052",
+  "name": "Dried Figs",
+  "brand": "Tata Sampann",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 371,
+    "fat": 0.8,
+    "saturated_fat": 0.5,
+    "carbohydrates": 86.3,
+    "sugars": 62.6,
+    "fiber": 15.8,
+    "protein": 4.8,
+    "salt": 0.02,
+    "sodium": 0.008
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-02T06:39:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

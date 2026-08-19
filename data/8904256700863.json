@@ -1,0 +1,31 @@
+{
+  "barcode": "8904256700863",
+  "name": "Whole Wheat Bread",
+  "brand": "Fresho",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:Whole wheat bread"
+  ],
+  "ingredients": "Whole wheat flour (Atta), Refined wheat flour (Maida), Sugar, Edible vegetable fat, Yeast, lodized Salt, Edible vegetable oil (palm oil), Gluten, Whole wheat kernels, Improver, Caramel Colour (INS 150a)",
+  "per_100g": {
+    "energy_kcal": 294,
+    "fat": 4,
+    "saturated_fat": 2.8,
+    "carbohydrates": 55,
+    "sugars": 4.03,
+    "fiber": 1.47,
+    "protein": 9.7,
+    "salt": 1.253,
+    "sodium": 0.5012
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-09-01T13:08:19Z",
+  "fetched_at": "2026-08-19T01:38:52Z"
+}

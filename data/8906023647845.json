@@ -1,0 +1,34 @@
+{
+  "barcode": "8906023647845",
+  "name": "Sweet Lassi",
+  "brand": "Thirumala",
+  "quantity": "160 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:dairy-drinks",
+    "en:fermented-drinks",
+    "en:fermented-milk-drinks",
+    "en:lassi"
+  ],
+  "ingredients": "Milk solids, sugar syrup, contains added artificial food flavour. Contains: Milk.",
+  "per_100g": {
+    "energy_kcal": 108,
+    "fat": 2.5,
+    "saturated_fat": 1.6,
+    "carbohydrates": 19,
+    "sugars": 19,
+    "fiber": 0,
+    "protein": 2.4,
+    "salt": 0.0875,
+    "sodium": 0.035
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-09T18:11:37Z",
+  "fetched_at": "2026-08-19T02:10:02Z"
+}

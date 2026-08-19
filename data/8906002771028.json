@@ -1,0 +1,32 @@
+{
+  "barcode": "8906002771028",
+  "name": "South Indian Filter Coffee",
+  "brand": "Cothas Coffee",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:hot-beverages",
+    "en:plant-based-beverages",
+    "en:coffees"
+  ],
+  "ingredients": "ROAST AND GROUND COFFEE \u0026 CHICORY COFFEE BLENDED WITH CHICORY",
+  "per_100g": {
+    "energy_kcal": 429,
+    "fat": 11.5,
+    "saturated_fat": 4.7,
+    "carbohydrates": 69.5,
+    "sugars": 10.4,
+    "fiber": null,
+    "protein": 12.9,
+    "salt": 0.1825,
+    "sodium": 0.073
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-21T13:19:51Z",
+  "fetched_at": "2026-08-19T01:50:20Z"
+}

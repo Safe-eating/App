@@ -1,0 +1,26 @@
+{
+  "barcode": "8908018963206",
+  "name": "Lite Chiwda",
+  "brand": "BABU, Laxminarayan",
+  "quantity": "250g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Riceflakes, Refined Groundnut Oil, Sugar, Vanaspati, Gram Flour, Asafoetida, Dry Mango Powder, Iodised Salt.",
+  "per_100g": {
+    "energy_kcal": 595,
+    "fat": 40.8,
+    "saturated_fat": 8.86,
+    "carbohydrates": 50,
+    "sugars": 2.2,
+    "fiber": 3.38,
+    "protein": 6.1,
+    "salt": 1.575,
+    "sodium": 0.63
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-02T13:51:58Z",
+  "fetched_at": "2026-08-19T13:19:20Z"
+}

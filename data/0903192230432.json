@@ -1,0 +1,32 @@
+{
+  "barcode": "0903192230432",
+  "name": "5:15pm Pistachio Kunafa Cholotate",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:candy-chocolate-bars"
+  ],
+  "ingredients": "Milk chocolate (sugar, Cocoa mass, Cocoa butter, Skimmed milk powder, Hydrogenated vegetable fat, Milk fat, Milk solids, Emulsifier (ins 322 (ii)). emulsifier (ins 492), Emulsifier (bns 476), Roasted kunafa (wheat flour, Vegetable fat (palm). sugar, Glucose, Butter ghee, Corn starch, Edible common salt), Pistachio, White chocolate (sugar, Hydrogenated vegetable fat, Milk solids, Anhydrous milk fat, Emulsifier (ins 322 (i)/(322()) \u0026 nature identical flavouring substances - vanilin]), Colour (chlorophy) \u0026 natural \u0026 nature identical flavouring substances (pistachio \u0026 vanillin).",
+  "per_100g": {
+    "energy_kcal": 540,
+    "fat": 31,
+    "saturated_fat": 9.72237070523775,
+    "carbohydrates": 54.5094533920288,
+    "sugars": 53.1827681468083,
+    "fiber": 1.50701340895433,
+    "protein": 5,
+    "salt": 0.025,
+    "sodium": 0.01
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-06T08:02:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

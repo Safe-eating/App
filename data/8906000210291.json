@@ -1,0 +1,33 @@
+{
+  "barcode": "8906000210291",
+  "name": "Chakki Fresh Atta",
+  "brand": "Pillsbury",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:flours",
+    "en:cereal-flours",
+    "en:wheat-flours",
+    "en:whole-wheat-flours"
+  ],
+  "ingredients": "Whole Wheat",
+  "per_100g": {
+    "energy_kcal": 36.4,
+    "fat": 2.2,
+    "saturated_fat": 0.47,
+    "carbohydrates": 73.9,
+    "sugars": 4.6,
+    "fiber": 10,
+    "protein": 12.3,
+    "salt": 0.0125,
+    "sodium": 0.005
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-05T13:37:57Z",
+  "fetched_at": "2026-08-19T01:47:44Z"
+}

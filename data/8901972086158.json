@@ -1,0 +1,24 @@
+{
+  "barcode": "8901972086158",
+  "name": "Tick time",
+  "brand": "Dukes",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 484.3,
+    "fat": 22.7,
+    "saturated_fat": 10.9,
+    "carbohydrates": 61.4,
+    "sugars": 61.4,
+    "fiber": null,
+    "protein": 8.4,
+    "salt": 1.965,
+    "sodium": 0.786
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-08T04:57:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

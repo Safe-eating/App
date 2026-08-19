@@ -1,0 +1,34 @@
+{
+  "barcode": "8906023649832",
+  "name": "Thirumala Curd",
+  "brand": "Thirumala",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:dairy-by-products",
+    "en:curd"
+  ],
+  "ingredients": "Milk solids and Active lactic culture",
+  "per_100g": {
+    "energy_kcal": 55.8,
+    "fat": 3,
+    "saturated_fat": 1.9,
+    "carbohydrates": 4.2,
+    "sugars": 4.2,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.1325,
+    "sodium": 0.053
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:45:40Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8908017962088",
+  "name": "Wicked Gud Noodles",
+  "brand": "Wicked Gud",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 466.782608695652,
+    "fat": 18.2753623188406,
+    "saturated_fat": 4.88405797101449,
+    "carbohydrates": 67.5942028985507,
+    "sugars": 3.7536231884058,
+    "fiber": 7.63768115942029,
+    "protein": 10.0434782608696,
+    "salt": 2.08800724637681,
+    "sodium": 0.835202898550725
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T08:24:57Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

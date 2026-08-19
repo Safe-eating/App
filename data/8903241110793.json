@@ -1,0 +1,26 @@
+{
+  "barcode": "8903241110793",
+  "name": "Pravin",
+  "brand": "Suhana",
+  "quantity": "200g",
+  "categories": [
+    "en:mango-pickle"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 130,
+    "fat": 3.2,
+    "saturated_fat": 1,
+    "carbohydrates": 24,
+    "sugars": 3.6,
+    "fiber": null,
+    "protein": 3.3,
+    "salt": 4.6275,
+    "sodium": 1.851
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T23:47:29Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8904123551178",
+  "name": "A-1 Chips Banana Wafers",
+  "brand": "A-1 Chips",
+  "quantity": "200g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:banana wafers"
+  ],
+  "ingredients": "Banana 85%, Edible veg oil (Coconut oil) 12 %, Salt, Natural antioxidant (Mixed Tocopherol INS 307b)",
+  "per_100g": {
+    "energy_kcal": 172,
+    "fat": 8,
+    "saturated_fat": 3,
+    "carbohydrates": 20,
+    "sugars": 0.1,
+    "fiber": 1,
+    "protein": 4,
+    "salt": 0.3025,
+    "sodium": 0.121
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-01T08:02:39Z",
+  "fetched_at": "2026-08-19T01:35:40Z"
+}

@@ -1,0 +1,36 @@
+{
+  "barcode": "0004444444392",
+  "name": "Corn flakes",
+  "brand": "Eatrite",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:extruded-cereals",
+    "en:extruded-flakes",
+    "en:corn-flakes"
+  ],
+  "ingredients": "Corn grits (89%), Sugar, lodised salt, Malt Extract, Soya lecithin-Emulsifier (INS-322), Anti Oxidant (INS-320)",
+  "per_100g": {
+    "energy_kcal": 95.309,
+    "fat": 0.1335,
+    "saturated_fat": 0.00445,
+    "carbohydrates": 21.6278,
+    "sugars": 6.6758,
+    "fiber": 1.424,
+    "protein": 1.2282,
+    "salt": 0.0048064,
+    "sodium": 0.00236822
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-29T12:22:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

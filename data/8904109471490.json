@@ -1,0 +1,26 @@
+{
+  "barcode": "8904109471490",
+  "name": "Chyawanprash",
+  "brand": "patanjali",
+  "quantity": "750 g",
+  "categories": [
+    "en:Herbal"
+  ],
+  "ingredients": "oyxoykyxlyxlhxlyx",
+  "per_100g": {
+    "energy_kcal": 355,
+    "fat": 4,
+    "saturated_fat": 2.8,
+    "carbohydrates": 78,
+    "sugars": 36,
+    "fiber": 0,
+    "protein": 1.1,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2023-01-03T17:44:37Z",
+  "fetched_at": "2026-08-19T01:35:37Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8901725016869",
+  "name": "Aashirvaad Whole Wheat Atta",
+  "brand": "Aashirvaad is sold by ITC Limited",
+  "quantity": "10 kg",
+  "categories": [
+    "en:whole-wheat-atta"
+  ],
+  "ingredients": "WHOLE WHEAT  CONTAINS WHEAT",
+  "per_100g": {
+    "energy_kcal": 338.333333333333,
+    "fat": 1.33333333333333,
+    "saturated_fat": 0.333333333333333,
+    "carbohydrates": 76,
+    "sugars": 3.66666666666667,
+    "fiber": 10.3333333333333,
+    "protein": 10.6666666666667,
+    "salt": 3.75,
+    "sodium": 1.5
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T17:50:37Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

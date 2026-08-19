@@ -1,0 +1,28 @@
+{
+  "barcode": "8906069400053",
+  "name": "CLASSIC RANCH",
+  "brand": "Veeba",
+  "quantity": "",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:dips"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 238.2,
+    "fat": 20.6,
+    "saturated_fat": 0,
+    "carbohydrates": 11,
+    "sugars": 4.1,
+    "fiber": null,
+    "protein": 2.2,
+    "salt": 0.0125,
+    "sodium": 0.005
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-18T12:13:06Z",
+  "fetched_at": "2026-08-19T12:41:00Z"
+}

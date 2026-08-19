@@ -1,0 +1,30 @@
+{
+  "barcode": "7622202324604",
+  "name": "Dairy Milk Family Pack",
+  "brand": "Cadbury",
+  "quantity": "112 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:milk-chocolates"
+  ],
+  "ingredients": "Sugar, Milk Solids, Cocoa butter, cocoa solids, , fractionated fat, Emulsifier 442,476\nNature identical and artificial flavours",
+  "per_100g": {
+    "energy_kcal": 531,
+    "fat": 29,
+    "saturated_fat": 19.6,
+    "carbohydrates": 60.4,
+    "sugars": 57,
+    "fiber": null,
+    "protein": 7.9,
+    "salt": 0.3225,
+    "sodium": 0.129
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-14T04:06:39Z",
+  "fetched_at": "2026-08-19T00:10:57Z"
+}

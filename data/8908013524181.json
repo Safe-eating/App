@@ -1,0 +1,36 @@
+{
+  "barcode": "8908013524181",
+  "name": "Popped potato chips Italian Cheese flavour",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 439,
+    "fat": 15.7,
+    "saturated_fat": 1.1,
+    "carbohydrates": 67,
+    "sugars": 4.9,
+    "fiber": 2.6,
+    "protein": 7.4,
+    "salt": 1.8795,
+    "sodium": 0.7518
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-05T08:20:44Z",
+  "fetched_at": "2026-08-19T13:14:48Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262180115",
+  "name": "malai paneer fresh",
+  "brand": "Amul",
+  "quantity": "200g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer"
+  ],
+  "ingredients": "milk solids , citric acid",
+  "per_100g": {
+    "energy_kcal": 312,
+    "fat": 24,
+    "saturated_fat": 14.4,
+    "carbohydrates": 4,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 20,
+    "salt": 0.024,
+    "sodium": 0.0096
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-22T08:22:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

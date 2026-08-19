@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719121746",
+  "name": "Parle G",
+  "brand": "PARLE",
+  "quantity": "55g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined wheat flour - 68%, Sugar, refined palm oil, invert sugar syrup, iodised salt, raising agents, milk solids, vanilla",
+  "per_100g": {
+    "energy_kcal": 454,
+    "fat": 13,
+    "saturated_fat": 6,
+    "carbohydrates": 77.3,
+    "sugars": 25.5,
+    "fiber": null,
+    "protein": 6.9,
+    "salt": 0.74,
+    "sodium": 0.296
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-30T07:46:16Z",
+  "fetched_at": "2026-08-19T01:00:19Z"
+}

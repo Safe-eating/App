@@ -1,0 +1,31 @@
+{
+  "barcode": "8904335605713",
+  "name": "High Protein Oats",
+  "brand": "Yogabar",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "Instant Oats (52.7%), Protein Blend (27.6%) (Texturised Soy Protein Flakes, Whey Powder), Dehydrated Fruits, Nuts \u0026 Seeds (10%) (Raisins, Sunflower Seeds, Chia Seeds, Pumpkin Seeds, Almonds), Fructo-Oligosaccharide, Rice Bran Oil, Natural Flavour, Himalayan Pink Salt, Beta Carotenes, Steviol Glycosides, Bacillus Coagulans",
+  "per_100g": {
+    "energy_kcal": 327,
+    "fat": 6.8,
+    "saturated_fat": 1.3,
+    "carbohydrates": 45.6,
+    "sugars": 8.5,
+    "fiber": 10.4,
+    "protein": 26,
+    "salt": 0.39075,
+    "sodium": 0.3125
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-02T14:42:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8904083321781",
+  "name": "70% Dark Chocolate",
+  "brand": "Milky Mist",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates"
+  ],
+  "ingredients": "Cocoa Solids (56%), Sugar, Cocoa Butter, Emulsifiers (INS 442, INS 476), Flavor (Nature Identical Flavoring Substances-Cocoa \u0026 Vanilla).",
+  "per_100g": {
+    "energy_kcal": 296.5,
+    "fat": 22.5,
+    "saturated_fat": 9.75,
+    "carbohydrates": 19.5,
+    "sugars": 15.25,
+    "fiber": 4.25,
+    "protein": 4.25,
+    "salt": 0.015,
+    "sodium": 0.006
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-22T06:37:37Z",
+  "fetched_at": "2026-08-19T01:34:01Z"
+}

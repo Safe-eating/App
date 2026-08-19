@@ -1,0 +1,26 @@
+{
+  "barcode": "8906151230155",
+  "name": "Jowar Puffs",
+  "brand": "Snackible",
+  "quantity": "35g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Jowar flour, edible sunflower oil, iodised salt, maltodextrin, milk powder, dehydrated vegetable powder, spices \u0026 condiments, acidifying agents (INS 330, INS296), and coking agents (INS 170), natural and nature identical flavouring substances",
+  "per_100g": {
+    "energy_kcal": 396,
+    "fat": 7.9,
+    "saturated_fat": 0.3,
+    "carbohydrates": 78.7,
+    "sugars": 0,
+    "fiber": 11,
+    "protein": 8,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-06T15:53:21Z",
+  "fetched_at": "2026-08-19T13:00:10Z"
+}

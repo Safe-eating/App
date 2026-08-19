@@ -1,0 +1,26 @@
+{
+  "barcode": "5060579990008",
+  "name": "Curry Paste",
+  "brand": "Mighty Spice",
+  "quantity": "80 g",
+  "categories": [
+    "en:Indian"
+  ],
+  "ingredients": "Dehydrated Onion (15%), Sunflower Oil (15%), Tomato (15%), Garlic (12%), Coriander Leaves (9%), Sugar (9%), Ginger, Salt, Coriander Seeds, Fennel Seeds, Red Chilli Powder, Green Cardamom, Mixed Ground Spices, Acidity Regulator (Acetic Acid).",
+  "per_100g": {
+    "energy_kcal": 471,
+    "fat": 24.5,
+    "saturated_fat": 2.2,
+    "carbohydrates": 55.8,
+    "sugars": 7.7,
+    "fiber": 3.8,
+    "protein": 6.6,
+    "salt": 7.25,
+    "sodium": 2.9
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-23T09:20:38Z",
+  "fetched_at": "2026-08-19T00:05:58Z"
+}

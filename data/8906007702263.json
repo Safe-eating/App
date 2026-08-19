@@ -1,0 +1,34 @@
+{
+  "barcode": "8906007702263",
+  "name": "Wrap tortilla",
+  "brand": "Salsalito",
+  "quantity": "348 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:flatbreads",
+    "en:white-breads",
+    "en:wheat-breads",
+    "en:wheat-flatbreads"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida) (59.18%), Water, Refined Palmolein Oil, Humectant (INS 422), Sugar, Emulsifiers (INS 450 (i), INS 471), Acidity Regulator (INS 330), Raising Agent (INS 500 (ii)), Iodized Salt, Preservatives (INS 202, INS 282), Cysteine - Hydrochloride, Flour Treatment Agent (INS 1100)",
+  "per_100g": {
+    "energy_kcal": 307,
+    "fat": 5.33,
+    "saturated_fat": 2.53,
+    "carbohydrates": 55,
+    "sugars": 4.16,
+    "fiber": 2.73,
+    "protein": 9.69,
+    "salt": 0.28,
+    "sodium": 0.112
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-28T20:19:07Z",
+  "fetched_at": "2026-08-19T01:55:00Z"
+}

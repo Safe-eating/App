@@ -1,0 +1,27 @@
+{
+  "barcode": "8906025502012",
+  "name": "Vijaya Doodh Peda",
+  "brand": "Vijaya",
+  "quantity": "250g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks"
+  ],
+  "ingredients": "Milk \u0026 Sugar",
+  "per_100g": {
+    "energy_kcal": 108.9,
+    "fat": 5.1,
+    "saturated_fat": 3.2,
+    "carbohydrates": 12.8,
+    "sugars": 12.8,
+    "fiber": null,
+    "protein": 2.8,
+    "salt": 0.1075,
+    "sodium": 0.043
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-08T01:48:50Z",
+  "fetched_at": "2026-08-19T12:31:45Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8901764012907",
+  "name": "8901764012907",
+  "brand": "Coca-Cola",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 44,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 10.9,
+    "sugars": 10.9,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-15T04:37:35Z",
+  "fetched_at": "2026-08-19T01:07:29Z"
+}

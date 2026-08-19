@@ -1,0 +1,26 @@
+{
+  "barcode": "8904090906599",
+  "name": "",
+  "brand": "",
+  "quantity": "400 g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 586.03,
+    "fat": 39.95,
+    "saturated_fat": 16.81,
+    "carbohydrates": 48.98,
+    "sugars": 0.00099,
+    "fiber": 2.21,
+    "protein": 7.64,
+    "salt": 1209.6,
+    "sodium": 483.84
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-14T22:10:01Z",
+  "fetched_at": "2026-08-19T01:35:06Z"
+}

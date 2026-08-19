@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719119385",
+  "name": "parle 20,20 Nice sugar",
+  "brand": "Parle",
+  "quantity": "68.75g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, DESICCATED COCONUT POWDER (5%), INVERT SUGAR SYRUP, RAISING AGENTS (503 (i), 500 (i) 1, IODISED SALT AND EMULSIFIER OF VEGETABLE ORIGIN (472e). CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES-COCONUT). INCLUDING 2% AS SPRINKLED SUGAR",
+  "per_100g": {
+    "energy_kcal": 478,
+    "fat": 17.9,
+    "saturated_fat": 9.6,
+    "carbohydrates": 72.8,
+    "sugars": 25.2,
+    "fiber": null,
+    "protein": 6.5,
+    "salt": 0.6075,
+    "sodium": 0.243
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-19T10:48:09Z",
+  "fetched_at": "2026-08-19T01:00:13Z"
+}

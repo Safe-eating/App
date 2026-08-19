@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063019232",
+  "name": "Little Hearts Classic Crunch",
+  "brand": "Britannia",
+  "quantity": "30.1g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR (23%), REFINED PALMOLEIN \u0026 PALM OIL, RAISING AGENTS [503(ii) \u0026 500(ii)], MILK SOLIDS, IODISED SALT, YEAST AND EMULSIFIER [322(i)] \nCONTAINS WHEAT, MILK AND SOY.",
+  "per_100g": {
+    "energy_kcal": 486,
+    "fat": 19.5,
+    "saturated_fat": 9.4,
+    "carbohydrates": 70,
+    "sugars": 24,
+    "fiber": null,
+    "protein": 7.4,
+    "salt": 0.7725,
+    "sodium": 0.309
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-19T15:02:35Z",
+  "fetched_at": "2026-08-19T00:29:12Z"
+}

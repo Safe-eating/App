@@ -1,0 +1,26 @@
+{
+  "barcode": "7422590993778",
+  "name": "Sugar-free Hot Chocolate Dark Variant",
+  "brand": "Tiggle",
+  "quantity": "100g",
+  "categories": [
+    "en:Hot chocolate"
+  ],
+  "ingredients": "Dark Cocoa, Monk Fruit, Erythritol, Coffee, Cinnamon, Cornflour, Salt",
+  "per_100g": {
+    "energy_kcal": 173.333333333333,
+    "fat": 6.66666666666667,
+    "saturated_fat": 4,
+    "carbohydrates": 48,
+    "sugars": 28.6666666666667,
+    "fiber": 22,
+    "protein": 0,
+    "salt": 0.4,
+    "sodium": 0.16
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-31T10:59:17Z",
+  "fetched_at": "2026-08-19T00:06:31Z"
+}

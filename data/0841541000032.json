@@ -1,0 +1,40 @@
+{
+  "barcode": "0841541000032",
+  "name": "Protein+ Soy Beverage",
+  "brand": "So Good",
+  "quantity": "1L",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:legumes-and-their-products",
+    "en:dairy-substitutes",
+    "en:milk-substitutes",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:plant-based-milk-alternatives",
+    "en:legume-based-drinks",
+    "en:fruit-and-plant-milk-beverages",
+    "en:soy-based-drinks",
+    "en:fruit-and-soy-beverages"
+  ],
+  "ingredients": "Water, Soybeans-18%,Soy Protein-1.8%,Minerals,Edible Common Salt, Stabilizer (INS 407), Nature Identical, Flavoring (Vanilla), Vitamins, Acidity Regulator (INS 500(ii))",
+  "per_100g": {
+    "energy_kcal": 39.9,
+    "fat": 1.7,
+    "saturated_fat": 0.3,
+    "carbohydrates": 1.2,
+    "sugars": 0.5,
+    "fiber": 0.3,
+    "protein": 5.5,
+    "salt": 0.149,
+    "sodium": 0.0596
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-25T05:49:19Z",
+  "fetched_at": "2026-08-18T23:56:30Z"
+}

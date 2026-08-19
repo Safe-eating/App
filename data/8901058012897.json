@@ -1,0 +1,34 @@
+{
+  "barcode": "8901058012897",
+  "name": "munch crunchilious cereal",
+  "brand": "Nestlé",
+  "quantity": "18",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:extruded-cereals",
+    "en:filled-cereals",
+    "en:breakfast-cereals-filled-with-chocolate"
+  ],
+  "ingredients": "Whole wheat flour (Atta) (48.8%), Sugar, Rice Flour (9.6%), Degermed maize (Corn) grits (5.7%), Cocoa Solids (5.5%), Glucose Syrup, Minerals, Palm oil, Nature-Identical Flavouring Substances, lodized Salt, Vitamins and Antioxidant (307b). Allergen Note: Contains Wheat and Sulphite. May contain Milk Oat, Soy, Barley, Nut, Mustard, Celery, Sesame and Lupin.",
+  "per_100g": {
+    "energy_kcal": 279,
+    "fat": 2.2,
+    "saturated_fat": 1.6,
+    "carbohydrates": 61.1,
+    "sugars": 22,
+    "fiber": 5.1,
+    "protein": 6.2,
+    "salt": 0.366,
+    "sodium": 0.1464
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-31T04:03:43Z",
+  "fetched_at": "2026-08-19T00:25:56Z"
+}

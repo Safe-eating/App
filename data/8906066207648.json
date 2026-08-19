@@ -1,0 +1,32 @@
+{
+  "barcode": "8906066207648",
+  "name": "Schezwan chilli garlic Chutney",
+  "brand": "Keya",
+  "quantity": "250g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:spreads",
+    "en:condiments",
+    "en:plant-based-spreads",
+    "en:sauces",
+    "en:Non emulsi"
+  ],
+  "ingredients": "Water, Red chilli, Tomato, Refined Sunflower Oil, Garc Ginger, Iodized Salt, Sugar, Celery, Spices \u0026 Condiments, Thickener (INS 415), Stabilizer (INS 1422), Acidity Regulator (INS 260) Preservatives (INS 211), Flavour Enhancer (INS 627, INS 631 Paprika Oleoresin (INS 160c-i)",
+  "per_100g": {
+    "energy_kcal": 157.47,
+    "fat": 7.35,
+    "saturated_fat": 1.32,
+    "carbohydrates": 21.41,
+    "sugars": 7.2,
+    "fiber": null,
+    "protein": 1.42,
+    "salt": 4.70925,
+    "sodium": 1.8837
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-28T10:44:09Z",
+  "fetched_at": "2026-08-19T12:40:29Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906156485833",
+  "name": "Saurashtra Peanut",
+  "brand": "Khetika",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:peanuts"
+  ],
+  "ingredients": "Raw Peanut",
+  "per_100g": {
+    "energy_kcal": 610,
+    "fat": 49.1,
+    "saturated_fat": 8.4,
+    "carbohydrates": 14.8,
+    "sugars": 5.9,
+    "fiber": 8.6,
+    "protein": 22.8,
+    "salt": 0.022,
+    "sodium": 0.0086
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-10T12:29:59Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

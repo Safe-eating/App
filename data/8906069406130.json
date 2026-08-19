@@ -1,0 +1,24 @@
+{
+  "barcode": "8906069406130",
+  "name": "Instant Noodles Manchurian",
+  "brand": "WokTok",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 424.013245033113,
+    "fat": 16.9933774834437,
+    "saturated_fat": 4.06622516556291,
+    "carbohydrates": 60.6887417218543,
+    "sugars": 4.98013245033113,
+    "fiber": 5.44370860927152,
+    "protein": 9.80132450331126,
+    "salt": 3.63056291390728,
+    "sodium": 1.45222516556291
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-13T10:11:09Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

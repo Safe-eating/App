@@ -1,0 +1,27 @@
+{
+  "barcode": "8904004400236",
+  "name": "Haldiram's Soya sticks",
+  "brand": "Haldirams",
+  "quantity": "22g",
+  "categories": [
+    "en:snacks",
+    "en:Soya snack"
+  ],
+  "ingredients": "Tapioca Starch, Edible Vegetable Oil (Palmolein, Cotton Seed, Corn, Sunflower, Rice Bran), Soya Flour (9%), Split Pulse Urad (Urad Dal) Flour, Mixed Spices (Refined Sugar, lodised Salt, Maltodextrin, Black Salt, Red Chilli Powder, Dried Mango Powder, Onion Powder, Glucose Powder, Preservative (INS 262 i), Coriander Powder, Cumin Powder, Fennel, Whey Powder, Ginger Powder, Garlic Powder, Clove Powder, Yeast Extract, Pipal, Black Pepper, Acidity Regulator (INS 296), Flavour Enhancer (INS 627, INS 631), Turmeric Powder, Anticaking Agent (INS 551), Bay Leaves, Acidity Regulator (INS 330), Colour (INS 160 c), Nutmeg, Capsicum Powder, Cinnamon \u0026 Asafoetida), Hydrogenated Vegetable Oil (Vanaspati), Natural Flavouring Substance And Nature Identical Flavouring Substance Allergen: Contains Soy \u0026 Milk May Contains Wheat \u0026 Nut.",
+  "per_100g": {
+    "energy_kcal": 554,
+    "fat": 38.21,
+    "saturated_fat": 18.56,
+    "carbohydrates": 45,
+    "sugars": 1.86,
+    "fiber": 5.26,
+    "protein": 7.46,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-17T18:54:57Z",
+  "fetched_at": "2026-08-19T01:24:08Z"
+}

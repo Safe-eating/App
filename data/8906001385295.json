@@ -1,0 +1,30 @@
+{
+  "barcode": "8906001385295",
+  "name": "Kaju Khajoor Cookies",
+  "brand": "Cremica",
+  "quantity": "100g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "WHEAT FLOUR, SUGAR, EDIBLE VEGETABLE OILS (PALM), INVERT SYRUP, CASHEW NUTS (1.6%), BUTTER, RAISING AGENTS [INS-503 (ii), INS-500 (ii)], MAIZE STARCH, EDIBLE COMMON SALT, DATES (0.3%), MILK SOLIDS, PERMITTED EMULSIFIERS (INS-322, INS - 471), STABILISING AGENT [INS-450(i)], DOUGH CONDITIONER (INS-223). \nCONTAINS PERMITTED NATURAL COLOUR (INS-160b) AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES - BUTTER, MILK VANILLA AND NATURE IDENTICAL FLAVOURING SUBSTANCE-BUTTER). \nCONTAINS WHEAT, MILK, SOYA \u0026 SULPHITE AS HYPERSENSITIVE INGREDIENTS.",
+  "per_100g": {
+    "energy_kcal": 478,
+    "fat": 19.6,
+    "saturated_fat": 9.7,
+    "carbohydrates": 67.8,
+    "sugars": 25,
+    "fiber": 2,
+    "protein": 7.4,
+    "salt": 0.9375,
+    "sodium": 0.375
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-06T20:54:38Z",
+  "fetched_at": "2026-08-19T01:48:44Z"
+}

@@ -1,0 +1,36 @@
+{
+  "barcode": "8901491102902",
+  "name": "Flirty Tomato Tango",
+  "brand": "Lay's",
+  "quantity": "29.5g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Palmolein Oil, Rice Bran Oil), Sugar, Salt, Tomato Powder (0.8%), ~Spices\u0026 Condiments (Red Pepper Powder, Black Pepper Powder, Garlic Powder, Ginger, Clove Powder, Cinnamon Powder), Dextrose, Wheat Fibre.",
+  "per_100g": {
+    "energy_kcal": 543,
+    "fat": 33.5,
+    "saturated_fat": 13,
+    "carbohydrates": 53.2,
+    "sugars": 5.1,
+    "fiber": null,
+    "protein": 7.1,
+    "salt": 1.7175,
+    "sodium": 0.687
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-04-16T14:50:00Z",
+  "fetched_at": "2026-08-19T00:50:20Z"
+}

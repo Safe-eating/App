@@ -1,0 +1,35 @@
+{
+  "barcode": "8901491981552",
+  "name": "Lay’s Chile Limon 20rs",
+  "brand": "Lay's",
+  "quantity": "55 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato"
+  ],
+  "ingredients": "ca, mirl lay's is the registereu cor feedback or queries, write to the consumer services manager, pepsico india holdings pvt, ltd,, p,o, box 27, dlf qutab enclave, phase-1, gurugram-122002, haryana, india, or call us at 1800 22 4020 cr email us at consumer,feedback@pepsico,com proprietary food - potato chips (15,1) as compared to previous lay's chile limón our packs,  limited period offer, valid in ct geographies, gredients: potato, edible vegetable oil molein oil), *seasoning (sugar, lodised salt, favour (natural and nature identical flavouring substances), ~spices , condiments, maltodextrin, lime juice powder, anticaking agent (551), edible vegetable oil (sunflower seed oil), flavour enhancers (627, 631), corn syrup solids), *as flavouring agent, contains onion and garlic",
+  "per_100g": {
+    "energy_kcal": 533.333333333333,
+    "fat": 33.3333333333333,
+    "saturated_fat": 14.6666666666667,
+    "carbohydrates": 53.3333333333333,
+    "sugars": 3.33333333333333,
+    "fiber": 0,
+    "protein": 6.66666666666667,
+    "salt": 2.41666666666667,
+    "sodium": 0.966666666666667
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-18T19:21:28Z",
+  "fetched_at": "2026-08-19T00:51:27Z"
+}

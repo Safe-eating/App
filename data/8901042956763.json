@@ -1,0 +1,26 @@
+{
+  "barcode": "8901042956763",
+  "name": "Lemon Rice",
+  "brand": "MTR",
+  "quantity": "250 g",
+  "categories": [
+    "en:frozen-foods"
+  ],
+  "ingredients": "Eau, riz (36%), huile de tournesol, noix de coco, jus de citron (4%), sel, piment vert, pois chiches cassés, feuilles de curry, moutarde, pâte de gingembre, curcuma, correcteur d'acidité (E 330).",
+  "per_100g": {
+    "energy_kcal": 226,
+    "fat": 10,
+    "saturated_fat": 2.96,
+    "carbohydrates": 31.2,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 2.96,
+    "salt": 1.85,
+    "sodium": 0.74
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-03T21:36:48Z",
+  "fetched_at": "2026-08-19T00:22:21Z"
+}

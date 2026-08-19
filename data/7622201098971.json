@@ -1,0 +1,31 @@
+{
+  "barcode": "7622201098971",
+  "name": "Chocobakes",
+  "brand": "Cadbury",
+  "quantity": "75 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Chocolate filled Biscuit"
+  ],
+  "ingredients": "Choco Filling (38% *) (Sugar, Fractionated Fat, Cocoa Solids, Milk Solids, Cocoa Butter, Emulsifier (322), Artificial (Vanilla \u0026 Chocolate) Flavouring substances), Refined Wheat Flour (Maida), Sugar, Fractionated Fat, Invert Sugar, Cocoa Solids, Raising Agents (500(ii), 503(ii), 450(i)), lodised Salt, Emulsifier (322), Natural Flavouring substances.",
+  "per_100g": {
+    "energy_kcal": 501,
+    "fat": 24.5,
+    "saturated_fat": 11.6,
+    "carbohydrates": 66.2,
+    "sugars": 39.7,
+    "fiber": null,
+    "protein": 5.1,
+    "salt": 0.4875,
+    "sodium": 0.195
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-08-30T05:26:35Z",
+  "fetched_at": "2026-08-19T00:06:37Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063092853",
+  "name": "Good Day cashew cookie",
+  "brand": "Britannia",
+  "quantity": "30.2 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR, SUGAR, EDIBLE VEGETABLE OIL (PALM), SUGAR, CASHEW BUTS (4.5%), INTERESTERIFIED VEGETABLE FAT, COCOA SOLIDS (3%), INVERT SYRUP, MILK SOLIDS, BUTTER (0.6%) RAISING AGENTS [503(II), 500(II), IODISED SALT AND EMULSIFIER(322, 471, 472E). CONTAINS ADDED FLAVOURS [NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES - MILK AND VANILLA]",
+  "per_100g": {
+    "energy_kcal": 504,
+    "fat": 24,
+    "saturated_fat": 11,
+    "carbohydrates": 65,
+    "sugars": 22,
+    "fiber": null,
+    "protein": 7,
+    "salt": 0.545,
+    "sodium": 0.218
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T23:35:37Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

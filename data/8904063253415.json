@@ -1,0 +1,28 @@
+{
+  "barcode": "8904063253415",
+  "name": "Roasted Chana Cracker Heeng Jeera",
+  "brand": "Haldiram's",
+  "quantity": "42 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 460,
+    "fat": 16,
+    "saturated_fat": 7,
+    "carbohydrates": 61,
+    "sugars": 1.4,
+    "fiber": 12.2,
+    "protein": 18,
+    "salt": 0.6,
+    "sodium": 0.24
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-13T13:49:03Z",
+  "fetched_at": "2026-08-19T01:31:01Z"
+}

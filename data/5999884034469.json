@@ -1,0 +1,30 @@
+{
+  "barcode": "5999884034469",
+  "name": "HELL",
+  "brand": "Hell",
+  "quantity": "250 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:energy-drinks",
+    "en:energy-drink-with-sugar",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "(BA) Bezalkohoho pazano piće se froidorid), Vitamin B2 (riboflavin) pide sa okusom om tuttifrutti, as kofeinom i sa dodanim vitaminima, Pasterizirano. Sastojci: vode, Seter, kiselina munaka tamin B3 (nikothamid), pantotenska kiselina vitamin B5 (kalcijum D-pantothenate), Vitamin B6 (pirido d opkald (min. 0,3%); taurin (0,38%); regulator kiselosti (natrijevi citrati); kofein (0,03%); aroma; Soja (amonijak karamela, vitamini min B12 (clanokobalamin) VISOKI SADRZAJ KOFEINA. Ne preporučuje se za djecu, djecu, vonio (kofein: 32 mg/100 ml). Jedna limenka sadrži približnu količinu kofeina kao jedna sojice espressente dan mjesec godina) pogledajte dno limenke. Cuvati na hladnom i suhom mjestu. jestu. Proizvod na kofein diabetičars Najbolje upotrijebis HELL ENERGY Magyarország Kf Madarska. Proizvedeno u Madarskoj. UVOZNIK TOISTRIBUTER ZABX SPAN Andrispy of 128, H-1062 Bug 798 49, 330,  (EB) Bebida no 4988 1000 Sarajevo, BA. Tel. +387 3 carbonatada, sabor tutti-frutti, con cafeína, con vitaminas añadidas, Pasteurizada.",
+  "per_100g": {
+    "energy_kcal": 46,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 11,
+    "sugars": 11,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.5,
+    "sodium": 0.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T07:18:46Z",
+  "fetched_at": "2026-08-18T23:38:09Z"
+}

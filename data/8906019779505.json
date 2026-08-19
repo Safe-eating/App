@@ -1,0 +1,30 @@
+{
+  "barcode": "8906019779505",
+  "name": "Australian Almond Kernels",
+  "brand": "Nutraj",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:almonds"
+  ],
+  "ingredients": "Almond Kernels",
+  "per_100g": {
+    "energy_kcal": 606.51,
+    "fat": 49.31,
+    "saturated_fat": 9.59,
+    "carbohydrates": 21.26,
+    "sugars": 5.3,
+    "fiber": null,
+    "protein": 19.42,
+    "salt": 0.008325,
+    "sodium": 0.00333
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-12T10:06:35Z",
+  "fetched_at": "2026-08-19T02:06:57Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "6291100213146",
+  "name": "UAE by",
+  "brand": "",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:fruits",
+    "en:dates-and-their-products",
+    "en:dates"
+  ],
+  "ingredients": "Dates",
+  "per_100g": {
+    "energy_kcal": 330.90909090909,
+    "fat": 0.43636363636364,
+    "saturated_fat": 0.43636363636364,
+    "carbohydrates": 80,
+    "sugars": 72.727272727273,
+    "fiber": 6.9090909090909,
+    "protein": 2.7272727272727,
+    "salt": 0.086363636363638,
+    "sodium": 0.0345454545454552
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-02T22:19:34Z",
+  "fetched_at": "2026-08-18T23:38:09Z"
+}

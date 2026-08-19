@@ -1,0 +1,36 @@
+{
+  "barcode": "8906057206254",
+  "name": "Tomato Ketchup",
+  "brand": "Tikks",
+  "quantity": "8 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup",
+    "en:tomato-ketchup"
+  ],
+  "ingredients": "WATER, SUGAR, TOMATO PASTE (18%), LIQUID GLUCOSE, EDIBLE COMMON SALT, STABILIZERS (INS1422, INS415), SWEETENER (INS 960), ACIDITY REGULATOR (INS 260, INS 330), POTATO/CARROT POWDER SPICES AND CONDIMENTS. CONTAINS PERMITTED CLASS-II PRESERVATIVE (INS 211).",
+  "per_100g": {
+    "energy_kcal": 92.5,
+    "fat": 0,
+    "saturated_fat": 0.0168428125,
+    "carbohydrates": 21.5,
+    "sugars": 20,
+    "fiber": 0.75796875,
+    "protein": 1.625,
+    "salt": 3000,
+    "sodium": 1200
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-13T18:16:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

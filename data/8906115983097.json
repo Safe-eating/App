@@ -1,0 +1,33 @@
+{
+  "barcode": "8906115983097",
+  "name": "Moong Dal",
+  "brand": "Himalayan Natives",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:seeds",
+    "en:legume-seeds",
+    "en:pulses",
+    "en:mung-beans"
+  ],
+  "ingredients": "Moong Dal",
+  "per_100g": {
+    "energy_kcal": 345,
+    "fat": 2.23,
+    "saturated_fat": 0.7,
+    "carbohydrates": 61,
+    "sugars": 3,
+    "fiber": 19,
+    "protein": 24,
+    "salt": 0.0015,
+    "sodium": 0.0006
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-12T09:40:08Z",
+  "fetched_at": "2026-08-19T12:52:31Z"
+}

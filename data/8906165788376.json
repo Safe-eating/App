@@ -1,0 +1,24 @@
+{
+  "barcode": "8906165788376",
+  "name": "MuscleBlaze Biozyme Iso-Zero Low Carb Swiss Chocolate Hazelnut Flavour",
+  "brand": "MuscleBlaze",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 377.24,
+    "fat": 3.16,
+    "saturated_fat": 1.93,
+    "carbohydrates": 7.2,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 80,
+    "salt": 0.576,
+    "sodium": 0.2304
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-18T08:04:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

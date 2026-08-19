@@ -1,0 +1,32 @@
+{
+  "barcode": "0000590008622",
+  "name": "Banana 5 pack",
+  "brand": "Best Farm",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruits-based-foods",
+    "en:fruits",
+    "en:tropical-fruits",
+    "en:bananas"
+  ],
+  "ingredients": "Banana",
+  "per_100g": {
+    "energy_kcal": 90.5,
+    "fat": 0.25,
+    "saturated_fat": 0.005,
+    "carbohydrates": 19.7,
+    "sugars": 15.6,
+    "fiber": 2.7,
+    "protein": 1.06,
+    "salt": 0.0063,
+    "sodium": 0.0025
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-29T08:22:00Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

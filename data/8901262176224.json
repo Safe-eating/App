@@ -1,0 +1,32 @@
+{
+  "barcode": "8901262176224",
+  "name": "Amul Chocobar Probiotic",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:frozen-sticks",
+    "en:ice-creams",
+    "en:ice-cream-bars"
+  ],
+  "ingredients": "Inner Layer: Probiotic Ice Cream (70%): Milk solids, sugar, emulsifier (471), stabilizers (407, 466, 415, 412), artificial flavouring substances (vanilla), probiotic bacterial strains (Lactobacillus acidophilus \u0026 Bifidobacterium animalis-minimum 10 CFU* per mL); Outer Layer: Choco Layer Coating (30%): Cocoa solids, sugar, cocoa butter, coconut oil, emulsifier (322).  *Colony Forming Unit",
+  "per_100g": {
+    "energy_kcal": 138,
+    "fat": 10.4,
+    "saturated_fat": 7.7,
+    "carbohydrates": 9.7,
+    "sugars": 9.2,
+    "fiber": null,
+    "protein": 1.6,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-29T12:26:55Z",
+  "fetched_at": "2026-08-19T00:45:10Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8908013252015",
+  "name": "Crunchy Granola",
+  "brand": "Fit \u0026 Flex",
+  "quantity": "275g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 457.14285714286,
+    "fat": 14.571428571429,
+    "saturated_fat": 9.1428571428571,
+    "carbohydrates": 76.285714285714,
+    "sugars": 26.285714285714,
+    "fiber": 7.1428571428571,
+    "protein": 5.7142857142857,
+    "salt": 0.25,
+    "sodium": 0.1
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-04T15:23:38Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

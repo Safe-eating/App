@@ -1,0 +1,29 @@
+{
+  "barcode": "8904083311010",
+  "name": "Shredded Mozzarella Cheese",
+  "brand": "Milky Mist",
+  "quantity": "500g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses"
+  ],
+  "ingredients": "Pasteurized Milk, Microbial Culture, Microbial Enzyme, Iodized Salt.",
+  "per_100g": {
+    "energy_kcal": 288.6,
+    "fat": 21,
+    "saturated_fat": 12.8,
+    "carbohydrates": 2.6,
+    "sugars": 2.6,
+    "fiber": null,
+    "protein": 22.4,
+    "salt": 0.4825,
+    "sodium": 0.193
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-04T02:45:35Z",
+  "fetched_at": "2026-08-19T01:33:36Z"
+}

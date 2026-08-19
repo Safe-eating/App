@@ -1,0 +1,32 @@
+{
+  "barcode": "8906125980673",
+  "name": "Corn Chips",
+  "brand": "4700BC",
+  "quantity": "55",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:corn"
+  ],
+  "ingredients": "NON-GMO A LITTLE NT SEASONED MARKETED BY Te M. IM N. 75, 45 Kn Stone, GT Road, Kanapur, Dial Seripat, Haryana, India 131021 FOR CUSTOMER CARE \u0026 FEEDBACK: Zeo Moise Pvt. Lid Kila No. 75, 45 Km Stone, GT Road, Issat Kamaspur, Dig Sonipat, Haryana, India 131021 customercare47008C.com +91 9911470022 MRP UNIT SALE PRICE NET QUANTITY BATCH NO. DATE OF MANUFACTURE : USE BY :55g www.4700BC.com 4700BCPopcorn ORDER ONLINE AND GET BEST DEALS \u0026quot;Bese ingredient of the chip is ONLY CORN 8190612519817311 INFORMATION",
+  "per_100g": {
+    "energy_kcal": 421.42857,
+    "fat": 12.85714,
+    "saturated_fat": 3.57143,
+    "carbohydrates": 71.42857,
+    "sugars": 6.07143,
+    "fiber": 7.14286,
+    "protein": 7.14286,
+    "salt": 2.6875,
+    "sodium": 1.075
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-27T08:18:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906074821461",
+  "name": "Butterly Osmania Biscuits",
+  "brand": "Karachi Bakery",
+  "quantity": "300 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined wheat flour (Maida), Edible vegetable oil (Refined Rice bran oil, Palmolein oil, sesame/ til oil), Sugar, Table Butter, Milk Solids (SMP), iodised Salt.",
+  "per_100g": {
+    "energy_kcal": 546,
+    "fat": 32,
+    "saturated_fat": 16,
+    "carbohydrates": 58,
+    "sugars": 8,
+    "fiber": 6,
+    "protein": 7,
+    "salt": 1.6775,
+    "sodium": 0.671
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-16T13:48:20Z",
+  "fetched_at": "2026-08-19T12:43:05Z"
+}

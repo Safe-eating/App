@@ -1,0 +1,28 @@
+{
+  "barcode": "8901030898105",
+  "name": "Hellman's Real Mayonnaise",
+  "brand": "Hellman's",
+  "quantity": "250g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:mayonnaises"
+  ],
+  "ingredients": "Refined Soybean Oil (Fortified with Vitamin A \u0026 D), Water, Sugar, Thickeners-E 1442, E 1450, Natural Vinegar, lodised Salt, Spices \u0026 Condiments, Lemon Juice Concentrate, Preservative-E 202, Nature Identical and Natural Flavouring Substances, Sequestrant-E 385.",
+  "per_100g": {
+    "energy_kcal": 500,
+    "fat": 52.6,
+    "saturated_fat": 8.4,
+    "carbohydrates": 6.6,
+    "sugars": 4,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 1.8025,
+    "sodium": 0.721
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-25T16:43:13Z",
+  "fetched_at": "2026-08-19T00:20:23Z"
+}

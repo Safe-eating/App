@@ -1,0 +1,31 @@
+{
+  "barcode": "8901030824937",
+  "name": "Horlicks Lite Regular Malt 450g pet",
+  "brand": "Horlicks",
+  "quantity": "6",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:beverage-preparations",
+    "en:instant-beverages",
+    "en:unsweetened-beverages",
+    "en:malt-based-beverage"
+  ],
+  "ingredients": "Cereal Extract (65%) [Barley (37%), Wheat (15%), Malted Barley (12%), Wheat Malt (1%) , Milk Solids (17%), Corn Solids (Hydrolyzed), Minerals, Soy Protein Isolate, Wheat Gluten, Nature Identical Flavouring Substances, Vitamins, Edible Iodized Salt, Non-Caloric Sweetener [INS 950), Natural Flavour",
+  "per_100g": {
+    "energy_kcal": 367,
+    "fat": 2.1,
+    "saturated_fat": 1.5,
+    "carbohydrates": 74,
+    "sugars": 45,
+    "fiber": null,
+    "protein": 13,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-09T13:18:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

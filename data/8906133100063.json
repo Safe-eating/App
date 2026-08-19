@@ -1,0 +1,28 @@
+{
+  "barcode": "8906133100063",
+  "name": "Snacky",
+  "brand": "Karachi bakery",
+  "quantity": "75g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries"
+  ],
+  "ingredients": "Sugar, Cocoa Solids, Milk Solids, Edible Vegetables Oil, Say Lecithin, Hazelnut, Corn Flakes, Flour \u0026 Natural Flavours.",
+  "per_100g": {
+    "energy_kcal": 562,
+    "fat": 36,
+    "saturated_fat": 29.9,
+    "carbohydrates": 48.5,
+    "sugars": 43,
+    "fiber": 2.8,
+    "protein": 11,
+    "salt": 0.17,
+    "sodium": 0.068
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-09T11:45:22Z",
+  "fetched_at": "2026-08-19T12:57:05Z"
+}

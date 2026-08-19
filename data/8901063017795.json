@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063017795",
+  "name": "5050 Golmaal",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR (20.7%), REFINED PALM \u0026 PALMOLEIN OIL, RAISING AGENTS [503(ii), 500(ii) \u0026 341(i)], CUMIN BLACK (KALONJI) (0.9%), IODISED SALT, INVERT SUGAR SYRUP, MILK SOLIDS, EMULSIFIERS [322(i) \u0026 471], NATURE IDENTICAL FLAVOURING SUBSTANCES OUGH CONDITIONER (223), IMPROVER (i)] AND COLOUR (102).",
+  "per_100g": {
+    "energy_kcal": 484,
+    "fat": 18.4,
+    "saturated_fat": 8.8,
+    "carbohydrates": 72.6,
+    "sugars": 22.1,
+    "fiber": 0,
+    "protein": 7,
+    "salt": 1.1625,
+    "sodium": 0.465
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-20T09:06:40Z",
+  "fetched_at": "2026-08-19T00:29:06Z"
+}

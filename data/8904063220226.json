@@ -1,0 +1,36 @@
+{
+  "barcode": "8904063220226",
+  "name": "chips",
+  "brand": "Haldiram's",
+  "quantity": "14.95g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 560,
+    "fat": 36,
+    "saturated_fat": 17,
+    "carbohydrates": 53,
+    "sugars": 0.3,
+    "fiber": 0,
+    "protein": 6,
+    "salt": 0.67,
+    "sodium": 0.268
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-05T06:40:22Z",
+  "fetched_at": "2026-08-19T01:30:25Z"
+}

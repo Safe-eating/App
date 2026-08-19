@@ -1,0 +1,33 @@
+{
+  "barcode": "8901058000290",
+  "name": "maggi",
+  "brand": "Nestlé",
+  "quantity": "70",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles",
+    "en:instant-noodles-with-seasoning"
+  ],
+  "ingredients": "NOODLES: Refined wheat flour (Maida), Palm oil, lodized salt, Wheat gluten, Thickeners (508 \u0026 412). Acidity regulators (501(i) \u0026 500(i)) and Humectant (451(i)). MASALA TASTEMAKER®: Mixed spices (25.6%) (Onion powder, Coriander powder, Turmeric powder, Red chilli powder, Garlic powder, Cumin powder, Aniseed powder, Ginger powder, Fenugreek powder, Black pepper powder, Clove powder, Green cardamom powder \u0026 Nutmeg powder), Refined wheat flour (Maida), Hydrolysed groundnut protein, Sugar, Palm oil, Starch, lodized salt, Thickener (508), Flavour enhancer (635), Toasted onion flakes, Acidity regulator (330). Colour (150d), Mineral and Wheat gluten. Allergen Note: Contains Wheat \u0026 Nut. May contain Milk, Mustard, Oats And Soy.",
+  "per_100g": {
+    "energy_kcal": 384,
+    "fat": 12.5,
+    "saturated_fat": 8.2,
+    "carbohydrates": 59.6,
+    "sugars": 1.8,
+    "fiber": null,
+    "protein": 8.2,
+    "salt": 2.57075,
+    "sodium": 1.0283
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-21T12:21:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

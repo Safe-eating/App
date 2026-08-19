@@ -1,0 +1,30 @@
+{
+  "barcode": "8908010213835",
+  "name": "MAKINO TANDOORI PEANUTS RICH IN PROTEIN",
+  "brand": "MAKINO",
+  "quantity": "150 gm",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:peanuts"
+  ],
+  "ingredients": "Peanuts (91%), Edible Vegetable Oil (Sunflower Oil), Spices \u0026 Condiments (Garlic, Coriander, Cumin, Chilli, Onion, Kasuri Methi), lodised Salt, Sugar, Maltodextrin, Black Salt, Natural \u0026 Nature Identical Flavouring Substances, Acidity Regulator (INS 330, INS 296), Hydrolysed Vegetable Protein (Soya), Dehydrated Mango Powder, Flavour Enhancer (INS 627, INS 631), Anticaking Agent (INS 551), Yeast Extract Powder.",
+  "per_100g": {
+    "energy_kcal": 625.3,
+    "fat": 50.2,
+    "saturated_fat": 10.8,
+    "carbohydrates": 23.3,
+    "sugars": 5.4,
+    "fiber": null,
+    "protein": 20.2,
+    "salt": 1.456,
+    "sodium": 0.5824
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-14T02:51:31Z",
+  "fetched_at": "2026-08-19T13:12:09Z"
+}

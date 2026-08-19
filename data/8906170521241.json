@@ -1,0 +1,27 @@
+{
+  "barcode": "8906170521241",
+  "name": "Bioabsorb WHEY",
+  "brand": "Nutrabay",
+  "quantity": "2 kg",
+  "categories": [
+    "en:dairies",
+    "en:whey-powder"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 384.702702702703,
+    "fat": 6.21621621621622,
+    "saturated_fat": 3.40540540540541,
+    "carbohydrates": 10.5405405405405,
+    "sugars": 3.51351351351351,
+    "fiber": 2.56756756756757,
+    "protein": 71.6486486486486,
+    "salt": 0.360135135135135,
+    "sodium": 0.144054054054054
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-13T02:11:50Z",
+  "fetched_at": "2026-08-19T13:02:18Z"
+}

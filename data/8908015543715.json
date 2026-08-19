@@ -1,0 +1,24 @@
+{
+  "barcode": "8908015543715",
+  "name": "Chocolate Coffee Almond Protein Bar",
+  "brand": "Crave",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 420,
+    "fat": 28.6,
+    "saturated_fat": 3.4,
+    "carbohydrates": 14.5,
+    "sugars": 4.8,
+    "fiber": 5.54,
+    "protein": 30,
+    "salt": 0.362,
+    "sodium": 0.1448
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-20T15:22:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

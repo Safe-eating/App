@@ -1,0 +1,29 @@
+{
+  "barcode": "8908024361522",
+  "name": "High protein Chickoo",
+  "brand": "Provilac",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 72,
+    "fat": 0.2,
+    "saturated_fat": 0.12,
+    "carbohydrates": 7.08,
+    "sugars": 7.08,
+    "fiber": 1,
+    "protein": 10.4,
+    "salt": 0.075,
+    "sodium": 0.03
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-08T09:59:39Z",
+  "fetched_at": "2026-08-19T13:22:27Z"
+}

@@ -1,0 +1,36 @@
+{
+  "barcode": "0961475015275",
+  "name": "Choco Fills",
+  "brand": "Dark Fantasy, Sunfeast",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits",
+    "en:drop-cookies",
+    "en:filled-biscuits",
+    "en:chocolate-chip-cookies",
+    "en:biscuit-cookie-snack-w-chocolate-filling",
+    "en:cookies-with-milk-chocolate"
+  ],
+  "ingredients": "CHOCO CRÈME (40%) (SUGAR, REFINED PALMOLEIN, REFINED PALM OIL, COCOA SOLIDS, EMULSIFIER [LECITHIN (FROM SOYABEAN)], NATURE IDENTICAL FLAVOURING SUBSTANCES (CHOCOLATE) AND ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA)), REFINED WHEAT FLOUR (MAIDA), HYDROGENATED VEGETABLE OILS, SUGAR, INVERT SYRUP, LIQUID GLUCOSE, RAISING AGENTS [INS 503(ii), INS 500(ii), INS 450(i)], COCOA SOLIDS (0.7%), BUTTER, MILK SOLIDS, IODIZED SALT, \u0026quot;NATURE IDENTICAL FLAVOURING SUBSTANCES (MILK CHOCOLATE), COLOURS (INS 150C, INS 150d), EMULSIFIERS [LECITHIN (FROM SOYABEAN), MONO-AND DI-GLYCERIDES OF FATTY ACIDS (FROM PALM OIL)] AND ARTIFICIAL FLAVOURING SUBSTANCES (MILK, VANILLA).",
+  "per_100g": {
+    "energy_kcal": 513,
+    "fat": 26.5,
+    "saturated_fat": 12.9,
+    "carbohydrates": 64.3,
+    "sugars": 34.4,
+    "fiber": null,
+    "protein": 5.3,
+    "salt": 0.41625,
+    "sodium": 0.1665
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-26T08:05:16Z",
+  "fetched_at": "2026-08-19T00:00:02Z"
+}

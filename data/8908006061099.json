@@ -1,0 +1,33 @@
+{
+  "barcode": "8908006061099",
+  "name": "Cow Milk Dahi Low Fat",
+  "brand": "SARDA Farms",
+  "quantity": "400 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:cow-milk-yogurts"
+  ],
+  "ingredients": "Low fat cow milk, active culture",
+  "per_100g": {
+    "energy_kcal": 50,
+    "fat": 2,
+    "saturated_fat": 1.2,
+    "carbohydrates": 4.75,
+    "sugars": 4.75,
+    "fiber": null,
+    "protein": 3.2,
+    "salt": 0.07,
+    "sodium": 0.028
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T14:02:09Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8908017962354",
+  "name": "wicked gud masala noodles",
+  "brand": "wicked gud",
+  "quantity": "67g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 423.059701492537,
+    "fat": 15.134328358209,
+    "saturated_fat": 7.13432835820895,
+    "carbohydrates": 61.6417910447761,
+    "sugars": 2,
+    "fiber": 13.5074626865672,
+    "protein": 10.0597014925373,
+    "salt": 2.21574626865672,
+    "sodium": 0.886298507462687
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-10T08:33:36Z",
+  "fetched_at": "2026-08-19T13:18:20Z"
+}

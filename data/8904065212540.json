@@ -1,0 +1,30 @@
+{
+  "barcode": "8904065212540",
+  "name": "Orange Cake",
+  "brand": "Milka Wonder Cake",
+  "quantity": "150 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes",
+    "en:fruit-cakes"
+  ],
+  "ingredients": "WHEAT FLUOR, SUGAR, EGGS, VEGETABLE SHORTENING HUMECTANT INS 420), SKIMMED MILK POWDER, SALT, RAISING AGENTS(INS INS 341(0)], ANTIOXIDANT [INS 320], AND CONTAINS PERMITTED CLASS lH PRESERVATIVE",
+  "per_100g": {
+    "energy_kcal": 423.13,
+    "fat": 19.17,
+    "saturated_fat": 12.16,
+    "carbohydrates": 55.73,
+    "sugars": 24.87,
+    "fiber": 1.05,
+    "protein": 6.92,
+    "salt": 0.5525,
+    "sodium": 0.221
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-27T16:52:40Z",
+  "fetched_at": "2026-08-19T01:31:29Z"
+}

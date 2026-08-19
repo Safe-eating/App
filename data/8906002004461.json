@@ -1,0 +1,30 @@
+{
+  "barcode": "8906002004461",
+  "name": "Dr Oetker Funfoods Veg Mayonnaise",
+  "brand": "Dr Oetker Funfoods",
+  "quantity": "",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:vegetarian-sauces",
+    "en:vegan-sauces",
+    "en:egg-free-mayonnaises"
+  ],
+  "ingredients": "Refined Soyabean Oil, Water, Sugar, Milk Solids, lodised Salt, Lemon Juice, Emulsifiers and Stabilizers (INS415, INS1442), Acidity Regulators (INS260, INS330), Preservatives (INS211, INS202), Antioxidant (INS319).",
+  "per_100g": {
+    "energy_kcal": 502.2,
+    "fat": 51.8,
+    "saturated_fat": 9.2,
+    "carbohydrates": 8.6,
+    "sugars": 7.3,
+    "fiber": null,
+    "protein": 0.5,
+    "salt": 1.77625,
+    "sodium": 0.7105
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-28T15:20:00Z",
+  "fetched_at": "2026-08-19T01:49:17Z"
+}

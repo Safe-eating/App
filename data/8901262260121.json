@@ -1,0 +1,32 @@
+{
+  "barcode": "8901262260121",
+  "name": "Amul Taaza Milky Milk",
+  "brand": "Amul, Amul taaza",
+  "quantity": "500 ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:pasteurised-products",
+    "en:pasteurised-milks",
+    "en:whole-milks",
+    "en:whole-pasteurised-milks"
+  ],
+  "ingredients": "PASTEURISED HOMOGENISED TONED MILK",
+  "per_100g": {
+    "energy_kcal": 29,
+    "fat": 1.5,
+    "saturated_fat": 1,
+    "carbohydrates": 2.35,
+    "sugars": 2.35,
+    "fiber": null,
+    "protein": 1.5,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-06T06:34:04Z",
+  "fetched_at": "2026-08-19T00:46:44Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8904057716032",
+  "name": "Millets \u0026 More Ragi Kurmura",
+  "brand": "Millets \u0026 More",
+  "quantity": "200g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Ragi Flour, Salt.",
+  "per_100g": {
+    "energy_kcal": 378,
+    "fat": 0.44,
+    "saturated_fat": 0.26,
+    "carbohydrates": 86.51,
+    "sugars": 2.8,
+    "fiber": 11.73,
+    "protein": 7,
+    "salt": 0.576775,
+    "sodium": 0.23071
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-24T04:33:01Z",
+  "fetched_at": "2026-08-19T01:29:23Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906029605412",
+  "name": "ammamma's Methi Chapati",
+  "brand": "ammamma's",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour, RO Purified Water, Refined Palmolein Oil, Methi Leaves Dried (2%), Iodised Salt. Sugar, Spices (Ajwain, Coriander Cumin, Dry Ginger Cloves \u0026 Cinnamon) Emulsifier (471, 481), Preservatives (202, 282)",
+  "per_100g": {
+    "energy_kcal": 260,
+    "fat": 1.46,
+    "saturated_fat": 0.5,
+    "carbohydrates": 51.78,
+    "sugars": 0,
+    "fiber": 12.78,
+    "protein": 9.79,
+    "salt": 1.48,
+    "sodium": 0.592
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-28T07:11:26Z",
+  "fetched_at": "2026-08-19T12:32:41Z"
+}

@@ -1,0 +1,36 @@
+{
+  "barcode": "8901030677601",
+  "name": "Choco Bar Mini",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:desserts",
+    "en:frozen-foods",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:frozen-desserts",
+    "en:chocolate-candies",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-bars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 291.666666666667,
+    "fat": 20.8333333333333,
+    "saturated_fat": 14.5833333333333,
+    "carbohydrates": 27.0833333333333,
+    "sugars": 22.5,
+    "fiber": 0,
+    "protein": 3.33333333333333,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-10T05:23:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

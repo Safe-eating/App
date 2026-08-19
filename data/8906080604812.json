@@ -1,0 +1,34 @@
+{
+  "barcode": "8906080604812",
+  "name": "Classic Salted Cashews",
+  "brand": "Paper Boat",
+  "quantity": "70g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:salty-snacks",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:cashew-nuts",
+    "en:salted-nuts",
+    "en:salted-cashews"
+  ],
+  "ingredients": "CASHEWS (98%), EDIBLE COMMON SALT 1.5% (IODISED SALT AND BLACK SALT) AND EDIBLE VEGETABLE OIL (SUNFLOWER SEED OIL-HIGH OLEIC ACID). Contains Nuts",
+  "per_100g": {
+    "energy_kcal": 583.6,
+    "fat": 44,
+    "saturated_fat": 8,
+    "carbohydrates": 29.4,
+    "sugars": 5.8,
+    "fiber": 3.2,
+    "protein": 17.5,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-12T15:07:29Z",
+  "fetched_at": "2026-08-19T12:46:11Z"
+}

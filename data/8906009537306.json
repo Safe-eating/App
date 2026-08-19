@@ -1,0 +1,24 @@
+{
+  "barcode": "8906009537306",
+  "name": "Gochujang",
+  "brand": "Max Protein",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 440,
+    "fat": 22.4,
+    "saturated_fat": 4.4,
+    "carbohydrates": 49,
+    "sugars": 6.7,
+    "fiber": 6.7,
+    "protein": 16.6,
+    "salt": 2.68825,
+    "sodium": 1.0753
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-13T13:15:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

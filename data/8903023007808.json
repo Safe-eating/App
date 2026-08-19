@@ -1,0 +1,32 @@
+{
+  "barcode": "8903023007808",
+  "name": "Suji",
+  "brand": "More",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:cereal-semolinas",
+    "en:Granulated wheat",
+    "en:Semolina"
+  ],
+  "ingredients": "Wheat",
+  "per_100g": {
+    "energy_kcal": 348,
+    "fat": 0.8,
+    "saturated_fat": 0.17,
+    "carbohydrates": 77.84,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 10.4,
+    "salt": 0.0525,
+    "sodium": 0.021
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-25T03:04:57Z",
+  "fetched_at": "2026-08-19T01:20:07Z"
+}

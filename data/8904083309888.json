@@ -1,0 +1,24 @@
+{
+  "barcode": "8904083309888",
+  "name": "Cream Cheese",
+  "brand": "Milky Mist",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 334.4,
+    "fat": 32,
+    "saturated_fat": 19.2,
+    "carbohydrates": 4.1,
+    "sugars": 4.1,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 0.9435,
+    "sodium": 0.3774
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-16T12:10:28Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

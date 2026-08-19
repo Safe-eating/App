@@ -1,0 +1,30 @@
+{
+  "barcode": "8904256711593",
+  "name": "Multigrain Chips Sour Cream N Onion",
+  "brand": "bb GoodDiet",
+  "quantity": "30g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "Multigrain flour (65%) (Jowar flour, Rice flour, Corn flour), Edible vegetable oil (Refined sunflower oil), Seasoning (Sugar, Milk solids, lodised salt, Onion powder, Dehydrated herbs, Acidity regulators (INS 270, INS 330), Flavour enhancers (INS 627, INS 631), Edible vegetable fat (Palm), Anticaking agent (INS 551) and Antioxidant (INS 300, INS 319)), Dehydrated potato flour \u0026 lodised salt.",
+  "per_100g": {
+    "energy_kcal": 446.07,
+    "fat": 14.83,
+    "saturated_fat": 7.86,
+    "carbohydrates": 71.1,
+    "sugars": 7.07,
+    "fiber": 2.56,
+    "protein": 7.05,
+    "salt": 2.39725,
+    "sodium": 0.9589
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-04T15:10:47Z",
+  "fetched_at": "2026-08-19T01:39:13Z"
+}

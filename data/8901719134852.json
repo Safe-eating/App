@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719134852",
+  "name": "Parle G biscuit",
+  "brand": "Parle",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Energy.protrin.carbohydrate.",
+  "per_100g": {
+    "energy_kcal": 3.4,
+    "fat": 13,
+    "saturated_fat": 6,
+    "carbohydrates": 77.3,
+    "sugars": 25.5,
+    "fiber": 0,
+    "protein": 6.9,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-22T06:45:28Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

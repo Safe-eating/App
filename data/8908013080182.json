@@ -1,0 +1,24 @@
+{
+  "barcode": "8908013080182",
+  "name": "Organic coconut milk",
+  "brand": "Coco Mama",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 180,
+    "fat": 18,
+    "saturated_fat": 17,
+    "carbohydrates": 3,
+    "sugars": 1.5,
+    "fiber": 1,
+    "protein": 1.5,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-22T09:04:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

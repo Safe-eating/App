@@ -1,0 +1,27 @@
+{
+  "barcode": "8901648002444",
+  "name": "Mother Dairy Probiotic Tadka Chach",
+  "brand": "Mother Dairy",
+  "quantity": "270ml",
+  "categories": [
+    "en:Butter-milk",
+    "en:Probiotic drink"
+  ],
+  "ingredients": "Water, Milk, Milk Solids, lodized Salt, Spice Oleoresin (0.05%) (Capsaicin, Gingerol, Cuminaldehyde), Seasonings, Black Salt, Active Lactic Culture with probiotics Bifidobacterium animalis subsp. lactis (Viable no. 10° cfu/serving size/day).",
+  "per_100g": {
+    "energy_kcal": 20,
+    "fat": 1.2,
+    "saturated_fat": 0.8,
+    "carbohydrates": 1.2,
+    "sugars": 1.2,
+    "fiber": null,
+    "protein": 1.2,
+    "salt": 0.65775,
+    "sodium": 0.2631
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-30T15:17:40Z",
+  "fetched_at": "2026-08-19T00:57:40Z"
+}

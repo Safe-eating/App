@@ -1,0 +1,38 @@
+{
+  "barcode": "8901058005233",
+  "name": "Kitkat mini chocolate coated wafer",
+  "brand": "KitKat, Nestle nutrition",
+  "quantity": "11.9g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:biscuits",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:chocolates",
+    "en:chocolate-biscuits",
+    "en:dark-chocolates",
+    "en:dark-chocolate-bar"
+  ],
+  "ingredients": "Sugar, Milk Solids. Fractionated vegetable Fat, Hydrogenated Vegetable fats, Refined Wheat flour (Maida), Cocoa solids (4.5%), Emulsifier (Soya lecithin), Yeast, Raising agent, Artificial flavouring substance (vanilla), Iodised salt, Flour treatment agent (516) and Nature Identical flavoring substance",
+  "per_100g": {
+    "energy_kcal": 438,
+    "fat": 24.8,
+    "saturated_fat": 24.5,
+    "carbohydrates": 47.4,
+    "sugars": 35.1,
+    "fiber": 0,
+    "protein": 6.4,
+    "salt": 0.2435,
+    "sodium": 0.0974
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-22T07:51:11Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

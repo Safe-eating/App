@@ -1,0 +1,26 @@
+{
+  "barcode": "8908015676024",
+  "name": "Tangy Chickpea with Chilli \u0026 Lime",
+  "brand": "IKEA",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 478.45,
+    "fat": 18.49,
+    "saturated_fat": 5.59,
+    "carbohydrates": 55.51,
+    "sugars": 3.45,
+    "fiber": 7.88,
+    "protein": 18.56,
+    "salt": 0.5225,
+    "sodium": 0.209
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-15T10:08:32Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

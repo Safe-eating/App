@@ -1,0 +1,32 @@
+{
+  "barcode": "8908009059321",
+  "name": "Zero Maida Super Multi Grain Bread",
+  "brand": "The Health Factory",
+  "quantity": "375g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:sliced-breads",
+    "en:multigrain-sliced-breads"
+  ],
+  "ingredients": "Chakki Fresh Atta (Whole Wheat Flour), Multigrain Mix (20%) (Rolled Oats, Barley Flakes, Flax Seeds, Sunflower Seeds, White Sesame Seeds, Soya Bean Seed Grits, Watermelon Seeds), Yeast, Wheat Gluten, Rice Bran Oil (Edible Vegetable Oil), Cane Sugar, lodised Salt, Cultured Wheat Flour, Cultured Glucose.",
+  "per_100g": {
+    "energy_kcal": 240.913793103448,
+    "fat": 1.55172413793103,
+    "saturated_fat": 0.172413793103448,
+    "carbohydrates": 43.6206896551724,
+    "sugars": 4.01724137931035,
+    "fiber": 6.89655172413793,
+    "protein": 13.1034482758621,
+    "salt": 0.913793103448276,
+    "sodium": 0.36551724137931
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-28T11:54:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

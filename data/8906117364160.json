@@ -1,0 +1,30 @@
+{
+  "barcode": "8906117364160",
+  "name": "Country Delight Butter Atta Biscuit",
+  "brand": "Country Delight",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Atta (Whole Wheat Flour) (36%), Butter Unsalted (22%), Sugar, Milk, Desi Ghee, Sooji. Milk Powder, Condensed Milk, Honey, Green Cardamom Powder",
+  "per_100g": {
+    "energy_kcal": 483.3,
+    "fat": 23.9,
+    "saturated_fat": 10.2,
+    "carbohydrates": 60.7,
+    "sugars": 26.1,
+    "fiber": 3,
+    "protein": 6.4,
+    "salt": 0.12325,
+    "sodium": 0.0493
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-17T07:08:16Z",
+  "fetched_at": "2026-08-19T12:54:06Z"
+}

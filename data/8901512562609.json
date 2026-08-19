@@ -1,0 +1,29 @@
+{
+  "barcode": "8901512562609",
+  "name": "Act II Popcorn",
+  "brand": "Act II",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:popcorn",
+    "en:salted-popcorn"
+  ],
+  "ingredients": "Popped corn 88.7%, refined edible palmolein oil (tbhq) iodized salt nature identical flavour, butter table butter 0.07% and beta carotene, contains milk and it's products.",
+  "per_100g": {
+    "energy_kcal": 448.75,
+    "fat": 18.75,
+    "saturated_fat": 6.875,
+    "carbohydrates": 66.25,
+    "sugars": 0,
+    "fiber": 11.25,
+    "protein": 8.75,
+    "salt": 2.25,
+    "sodium": 0.9
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-22T05:43:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

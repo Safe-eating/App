@@ -1,0 +1,30 @@
+{
+  "barcode": "8906120100496",
+  "name": "Jumbo Irani Pistachios",
+  "brand": "Farmley",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:pistachios"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 568,
+    "fat": 46,
+    "saturated_fat": 4.7,
+    "carbohydrates": 27.2,
+    "sugars": 8.1,
+    "fiber": 10.3,
+    "protein": 21,
+    "salt": 0.375,
+    "sodium": 0.15
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-02T20:05:26Z",
+  "fetched_at": "2026-08-19T12:54:33Z"
+}

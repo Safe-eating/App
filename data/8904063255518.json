@@ -1,0 +1,27 @@
+{
+  "barcode": "8904063255518",
+  "name": "Whoopies",
+  "brand": "Haldiram's",
+  "quantity": "45g",
+  "categories": [
+    "en:chips-and-fries",
+    "en:cheese bala"
+  ],
+  "ingredients": "Corn Meal, Edible Vegetable Oil ( Palmolein Oil ), Cheese Powder (3%), Sugar Powder, Maltodextrin Edible Common Salt, Spices and Condiments, Lactose, Hydrolysed Vegetable Protein Acidity Regulator (INS 330, INS 270). CONTAINS ADDED FLAVOUR (NATURAL \u0026 NATURE FLAVOURING SUBSTANCES).",
+  "per_100g": {
+    "energy_kcal": 513,
+    "fat": 29,
+    "saturated_fat": 17,
+    "carbohydrates": 59,
+    "sugars": 5,
+    "fiber": null,
+    "protein": 4,
+    "salt": 2250,
+    "sodium": 900
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-08T11:11:38Z",
+  "fetched_at": "2026-08-19T01:31:03Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8901058020014",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:Maggi Noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 123,
+    "fat": 4,
+    "saturated_fat": 2.7,
+    "carbohydrates": 19.1,
+    "sugars": 0.6,
+    "fiber": null,
+    "protein": 2.6,
+    "salt": 800,
+    "sodium": 320
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-13T14:06:32Z",
+  "fetched_at": "2026-08-19T00:26:05Z"
+}

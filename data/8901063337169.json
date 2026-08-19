@@ -1,0 +1,24 @@
+{
+  "barcode": "8901063337169",
+  "name": "",
+  "brand": "",
+  "quantity": "400g",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 252,
+    "fat": 1.7,
+    "saturated_fat": 0.6,
+    "carbohydrates": 52,
+    "sugars": 3.2,
+    "fiber": null,
+    "protein": 7.3,
+    "salt": 1.1375,
+    "sodium": 0.455
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T16:14:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

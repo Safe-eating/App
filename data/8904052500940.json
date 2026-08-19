@@ -1,0 +1,32 @@
+{
+  "barcode": "8904052500940",
+  "name": "MEDIUM FAT ICE CREAM",
+  "brand": "Dinshaw's",
+  "quantity": "30 g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:frozen-cones",
+    "en:ice-cream-cones"
+  ],
+  "ingredients": "Medium Fat Ice Cream(77%): Water, Milk Solids, Sugar, Liquid Glucose, Cocoa Solids, Chocochips Compound (2.75%) (Sugar Vegetable Fat Hydrogenated) Milk Solids, Cocoa Solids, Dextrose, Maltodextrin, Emulsifiers (522i) CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES Emulsifiers (471, 433), Stabilizers (412,466, 407) CONTAINS PERMITTED SYNTHETIC FOOD COLORS (102, 110, 122, 133) AND ADDED FLAVOUR (NATURE IDENTICAL ARTIFICIAL FLAVOURING SUBSTANCES - (CHOCOLATE). BISCUIT COME (14%): Wafer, Refined wheat Four (Maida). Sugar, Emulsifier (322) Common Salt. CONTAINS COLOR-CARAMEL (1508).",
+  "per_100g": {
+    "energy_kcal": 242,
+    "fat": 7.8,
+    "saturated_fat": 5.8,
+    "carbohydrates": 38.6,
+    "sugars": 23.3,
+    "fiber": null,
+    "protein": 4.4,
+    "salt": 0.05525,
+    "sodium": 0.0221
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-11-14T10:00:42Z",
+  "fetched_at": "2026-08-19T01:28:26Z"
+}

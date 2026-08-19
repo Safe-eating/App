@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262261425",
+  "name": "Amul A2 Gir Cow Fresh Milk",
+  "brand": "Amul",
+  "quantity": "1 L",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:whole-milks",
+    "en:cow-milks"
+  ],
+  "ingredients": "Milk",
+  "per_100g": {
+    "energy_kcal": 67,
+    "fat": 4,
+    "saturated_fat": 3,
+    "carbohydrates": 4.7,
+    "sugars": 4.7,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.12,
+    "sodium": 0.048
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-05T14:49:07Z",
+  "fetched_at": "2026-08-19T00:47:11Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8908014047023",
+  "name": "Smoked Cheese",
+  "brand": "Soft spot",
+  "quantity": "200g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses"
+  ],
+  "ingredients": "Water, potato starch, coconut oil, cashews, corn starch, salt, vegan flavours, carrageenan, nutritional yeast, lactic acid, annatto",
+  "per_100g": {
+    "energy_kcal": 288,
+    "fat": 25.2,
+    "saturated_fat": 19.2,
+    "carbohydrates": 13.2,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 1.6,
+    "salt": 1.78,
+    "sodium": 0.712
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-04-09T13:08:15Z",
+  "fetched_at": "2026-08-19T13:15:41Z"
+}

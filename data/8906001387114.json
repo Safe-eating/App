@@ -1,0 +1,32 @@
+{
+  "barcode": "8906001387114",
+  "name": "Multi Grain High Fibre Bread",
+  "brand": "English Oven",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:sliced-breads",
+    "en:multigrain-sliced-breads"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), WATER, MULTIGRAIN MIX (20% - OAT FLAKES, SUNFLOWER, LINSEED, SESAME SEED, SOYA GRIT, MELON SEEDS), YEAST, SUGAR, EDIBLE VEGETABLE OILS (PALM), WHEAT GLUTEN, EDIBLE COMMON SALT, MALT FLOUR, BROKEN WHEAT, SOYA FLOUR, CLASS II PRESERVATIVE (282), ACIDITY REGULATOR (260), EMULSIFIERS [471,472e, 481 (0)1, IMPROVERS [1700), 510, 923, 1100] AND ANTIOXIDANT (300). (NUMBERS IN BRACKETS ARE AS PER INTERNATIONAL NUMBERING SYSTEM) ALLERGEN DECLARATION: PRODUCT CONTAINS WHEAT FLOUR (GLUTEN), SEEDS, OATS, SOYA FLOUR AS ALLERGENS.",
+  "per_100g": {
+    "energy_kcal": 310.55,
+    "fat": 3.09,
+    "saturated_fat": 1.1,
+    "carbohydrates": 54.31,
+    "sugars": 4.74,
+    "fiber": 10.27,
+    "protein": 11.21,
+    "salt": 1.0875,
+    "sodium": 0.435
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-02T09:06:07Z",
+  "fetched_at": "2026-08-19T01:48:45Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8906129220539",
+  "name": "Vanilla Ice Cream",
+  "brand": "Chhaswala",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 109,
+    "fat": 5.7,
+    "saturated_fat": 3.5,
+    "carbohydrates": 12.2,
+    "sugars": 12.2,
+    "fiber": null,
+    "protein": 2.2,
+    "salt": 0.035,
+    "sodium": 0.014
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-22T15:32:40Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

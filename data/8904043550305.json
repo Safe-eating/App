@@ -1,0 +1,31 @@
+{
+  "barcode": "8904043550305",
+  "name": "Royal plum cake",
+  "brand": "Modern Products",
+  "quantity": "650 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes",
+    "en:fruit-cakes",
+    "en:plum-cakes"
+  ],
+  "ingredients": "Sugar, Refined Wheat Flour (Maida), Edible Vegetable Fat (Margarine), Egg, Dry Fruits (17.92%) Raisin (12.6%), Cashew Nuts (3.65%), Dates (2.1%), Glazed Fruit (8.16%), Papaya, Sugar, Acidity Regulator (330), Preservative (211), Food Colours (102,110 \u0026 129), Humectants (422, 420(ii)}, Mixed Fruit Jam , Sugar, Mixed Fruit Pulp, Gelling Agent (440), Acidity Regulator (296), Preservative (211, 282), Food Colours (122), Nature Identical Flavouring Substances, Candied Orange Peel Preservatives (211, 224), Golden Syrup, Food Colour (150a), Candied Ginger, Preservatives (211, 224)), Cake Gel, Emulsifiers (471), (477), {470, Humectants (422, 420(ii)",
+  "per_100g": {
+    "energy_kcal": 365,
+    "fat": 16.1,
+    "saturated_fat": 8.6,
+    "carbohydrates": 50.4,
+    "sugars": 33.67,
+    "fiber": 16.1,
+    "protein": 4.6,
+    "salt": 0.2775,
+    "sodium": 0.111
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-11T14:37:11Z",
+  "fetched_at": "2026-08-19T01:27:21Z"
+}

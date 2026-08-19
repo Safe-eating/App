@@ -1,0 +1,38 @@
+{
+  "barcode": "8902710100150",
+  "name": "White Oats",
+  "brand": "Bagrry’s",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereal-grains",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats",
+    "en:oat"
+  ],
+  "ingredients": "Oats",
+  "per_100g": {
+    "energy_kcal": 397.142857142857,
+    "fat": 8.57142857142857,
+    "saturated_fat": 1.42857142857143,
+    "carbohydrates": 66,
+    "sugars": 0,
+    "fiber": 10.2857142857143,
+    "protein": 14.2857142857143,
+    "salt": 0.0121428571428571,
+    "sodium": 0.00485714285714286
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-01T10:27:35Z",
+  "fetched_at": "2026-08-19T01:16:50Z"
+}

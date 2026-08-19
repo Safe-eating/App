@@ -1,0 +1,31 @@
+{
+  "barcode": "8901262173490",
+  "name": "Vanilla ice cream",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-in-a-box"
+  ],
+  "ingredients": "Milk solids, sugar, emulsifier (471) and stabilizers (407, 466, 415, 412), artificial flavouring substances (vanilla)",
+  "per_100g": {
+    "energy_kcal": 215,
+    "fat": 13,
+    "saturated_fat": 7.8,
+    "carbohydrates": 20.8,
+    "sugars": 20.8,
+    "fiber": null,
+    "protein": 3.7,
+    "salt": 0.13,
+    "sodium": 0.052
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-12T11:26:50Z",
+  "fetched_at": "2026-08-19T00:44:41Z"
+}

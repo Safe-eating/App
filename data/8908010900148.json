@@ -1,0 +1,33 @@
+{
+  "barcode": "8908010900148",
+  "name": "Pintola Peanut Butter",
+  "brand": "Pintola",
+  "quantity": "350 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 605,
+    "fat": 44.6,
+    "saturated_fat": 9,
+    "carbohydrates": 22,
+    "sugars": 9,
+    "fiber": 7.2,
+    "protein": 26,
+    "salt": 0.7,
+    "sodium": 0.28
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-03T11:44:48Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

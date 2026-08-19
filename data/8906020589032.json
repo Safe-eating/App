@@ -1,0 +1,31 @@
+{
+  "barcode": "8906020589032",
+  "name": "Digestive Wheat Bread",
+  "brand": "iD",
+  "quantity": "300g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:sliced-breads"
+  ],
+  "ingredients": "WHOLE WHEAT FLOUR (ATTA) (55%), REFINED WHEAT FLOUR (MAIDA)(45%), RO-PURIFIED WATER, SUGAR, GLUTEN, SUNFLOWER OIL, WHEAT BRAN (3%), COMPRESSED YEAST, IODISED SALT, FERMENTED WHEAT FLOUR, MALT, NATURAL IMPROVER, GLUTEN AND APPLE CIDER VINEGAR.",
+  "per_100g": {
+    "energy_kcal": 276.54,
+    "fat": 3.06,
+    "saturated_fat": 0.43,
+    "carbohydrates": 55.2,
+    "sugars": 4,
+    "fiber": 7.31,
+    "protein": 8.56,
+    "salt": 1.510625,
+    "sodium": 0.60425
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-15T13:22:02Z",
+  "fetched_at": "2026-08-19T02:08:26Z"
+}

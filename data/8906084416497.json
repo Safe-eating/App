@@ -1,0 +1,26 @@
+{
+  "barcode": "8906084416497",
+  "name": "M.O.M",
+  "brand": "M.O.M",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 500,
+    "fat": 28,
+    "saturated_fat": 5,
+    "carbohydrates": 49,
+    "sugars": 20,
+    "fiber": 4,
+    "protein": 13,
+    "salt": 0.0375,
+    "sodium": 0.015
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-15T16:27:56Z",
+  "fetched_at": "2026-08-19T12:48:22Z"
+}

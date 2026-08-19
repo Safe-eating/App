@@ -1,0 +1,26 @@
+{
+  "barcode": "8906004565373",
+  "name": "Yellow Diamond sizzling cheese",
+  "brand": "Yellow Diamond",
+  "quantity": "80 gm",
+  "categories": [
+    "en:Chips potato"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 541.49,
+    "fat": 32.29,
+    "saturated_fat": 12.73,
+    "carbohydrates": 55.28,
+    "sugars": 4.33,
+    "fiber": null,
+    "protein": 7.44,
+    "salt": 2106.625,
+    "sodium": 842.65
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-10T03:11:00Z",
+  "fetched_at": "2026-08-19T01:50:49Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8901262020558",
+  "name": "Diced Cheese",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 289,
+    "fat": 21,
+    "saturated_fat": 13,
+    "carbohydrates": 2,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 23,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T12:01:23Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8901030900105",
+  "name": "knorr Thick tomato soup",
+  "brand": "knorr",
+  "quantity": "51g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:meals",
+    "en:soups",
+    "en:vegetable-soups",
+    "en:tomato-soups"
+  ],
+  "ingredients": "Sugar, Maize Starch, Tomato Paste Solids (15%), Refined Wheat Flour (Maida), lodised salt, Hydrogenated Palm Oil, *Dehydrated Vegetables (Onion Powder (2.8%), Leeks (1.1%)), Hydrolyzed Vegetable Protein, Spices \u0026 Condiments (Black pepper (0.4%)), Anti caking agent - 551, Thickener - 415, Red Beet Juice Powder (Anti caking agent - 551), Flavours - Natural (Garlic) and Nature Identical Flavouring Substances, Flavour Enhancer - 627 \u0026 631, Oleoresin Chilli, Acidity Regulator - 330. Contains Wheat. May Contain Traces of Milk, Mustard, Soya, Celery \u0026 Nuts.",
+  "per_100g": {
+    "energy_kcal": 27.649769585253,
+    "fat": 0.43010752688172,
+    "saturated_fat": 0.2457757296467,
+    "carbohydrates": 5.5913978494624,
+    "sugars": 2.7035330261137,
+    "fiber": 0.36866359447005,
+    "protein": 0.43010752688172,
+    "salt": 0.7757296466974,
+    "sodium": 0.31029185867896
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-26T08:32:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

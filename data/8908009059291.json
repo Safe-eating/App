@@ -1,0 +1,31 @@
+{
+  "barcode": "8908009059291",
+  "name": "Zero Maida Pizza Base",
+  "brand": "The Health Factory",
+  "quantity": "140g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:bakery-products",
+    "en:pizza-dough",
+    "en:raw-pizza-base"
+  ],
+  "ingredients": "Whole Wheat Flour, Yeast, Wheat Gluten, Rice Bran Oil (Edible Vegetable Oil), Cane Sugar, lodised Salt, Cultured Wheat Flour, Cultured Glucose.",
+  "per_100g": {
+    "energy_kcal": 239.7,
+    "fat": 1.34285714285714,
+    "saturated_fat": 0.157142857142857,
+    "carbohydrates": 43.5142857142857,
+    "sugars": 4.11428571428571,
+    "fiber": 6.38571428571429,
+    "protein": 13.4,
+    "salt": 0.828571428571429,
+    "sodium": 0.331428571428571
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-23T11:15:51Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

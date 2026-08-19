@@ -1,0 +1,27 @@
+{
+  "barcode": "8901058017687",
+  "name": "maggi",
+  "brand": "Maggi",
+  "quantity": "75",
+  "categories": [
+    "en:maggi",
+    "en:maggie"
+  ],
+  "ingredients": "Refined maida,palm oil,lodized salt,wheat gluten,thickeners(500\u0026412),acidity regulators(501\u0026500)and humectant(451(i)).",
+  "per_100g": {
+    "energy_kcal": 384,
+    "fat": 12.5,
+    "saturated_fat": 8.2,
+    "carbohydrates": 59.4,
+    "sugars": 1.8,
+    "fiber": null,
+    "protein": 8.2,
+    "salt": 2.5,
+    "sodium": 1
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-22T06:29:00Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

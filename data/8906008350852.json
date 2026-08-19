@@ -1,0 +1,32 @@
+{
+  "barcode": "8906008350852",
+  "name": "Health Mix",
+  "brand": "Manna",
+  "quantity": "675g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:porridge"
+  ],
+  "ingredients": "Millets \u0026 Cereals 82% (Ragi, Bajra, Corn, Jowar, Wheat, Red rice \u0026 Barley), Pulses 12 % (Bengal gram \u0026 Green gram), Sago, Nuts 2% ( Ground nut, Almond \u0026 Cashewnut), Cardamom. Allergen Advice: Contains Wheat, Barley and Nuts",
+  "per_100g": {
+    "energy_kcal": 360,
+    "fat": 4,
+    "saturated_fat": 0.8,
+    "carbohydrates": 76,
+    "sugars": 2.1,
+    "fiber": 10,
+    "protein": 10,
+    "salt": 0.0375,
+    "sodium": 0.015
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-14T12:54:04Z",
+  "fetched_at": "2026-08-19T01:55:26Z"
+}

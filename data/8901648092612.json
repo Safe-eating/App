@@ -1,0 +1,29 @@
+{
+  "barcode": "8901648092612",
+  "name": "cheese slices",
+  "brand": "mother dairy",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 309,
+    "fat": 25,
+    "saturated_fat": 16,
+    "carbohydrates": 4,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 17,
+    "salt": 3.565,
+    "sodium": 1.426
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-04T12:26:00Z",
+  "fetched_at": "2026-08-19T00:58:09Z"
+}

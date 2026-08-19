@@ -1,0 +1,27 @@
+{
+  "barcode": "8991102771238",
+  "name": "Tango brownies crispy",
+  "brand": "Tango",
+  "quantity": "35 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods"
+  ],
+  "ingredients": "Komposisi: Gula, Tepung Terigu, Minyak Nabati (Mengandung Antioksidan TBHQ), Sirup Tinggi Fruktosa, Remahan Kukis 3.6% (Mengandung Telur, Susu, Antioksidan (Askorbil Palmital Tokoferol Campuran Pekat), Pewarna Alami (Karamel IV, Karbon Tanaman CI 77266), Pewarna Sintetik Merah Allura Cl 16035), Kakao Bubuk 3.5%, Bubuk Albumen Telur, Tapioka, Susu Bubuk Rasa Plain, Kakao Massa 0.9%, Ekstrak Malt, Garam, Kalsium Karbonat, Pengerusi Leitin Kedelai, Perisa Sintetik (Mengandung Pewarna Alami Karamel IV, Pewarna Sintet Ponceau 4R CI 16255), Krim Kelapa, Bumbu Rasa Cokelat Susu (Mengandung Susu), Pewan Alami (Karamel IV, Karbon Tanaman CI 77266), Pengembang, Pewarna Sintetik Merah Allura 16035.",
+  "per_100g": {
+    "energy_kcal": 466.666666666667,
+    "fat": 13.3333333333333,
+    "saturated_fat": 6.66666666666667,
+    "carbohydrates": 80,
+    "sugars": 40,
+    "fiber": 6.66666666666667,
+    "protein": 6.66666666666667,
+    "salt": 0.3,
+    "sodium": 0.12
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-30T22:46:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

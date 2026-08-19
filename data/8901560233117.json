@@ -1,0 +1,30 @@
+{
+  "barcode": "8901560233117",
+  "name": "Nilon's Szechuan Chutney",
+  "brand": "Nilon's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:chutneys"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 130,
+    "fat": 7.5,
+    "saturated_fat": 3.2,
+    "carbohydrates": 14.6,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 0.6,
+    "salt": 5.5,
+    "sodium": 2.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-12T15:32:22Z",
+  "fetched_at": "2026-08-19T00:56:09Z"
+}

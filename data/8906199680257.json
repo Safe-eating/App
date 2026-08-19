@@ -1,0 +1,24 @@
+{
+  "barcode": "8906199680257",
+  "name": "Whey Protein Isolate (Chocolate)",
+  "brand": "The Func Lab",
+  "quantity": "1 kg",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 374,
+    "fat": 1.71428571428571,
+    "saturated_fat": 1.14285714285714,
+    "carbohydrates": 6.28571428571429,
+    "sugars": 0,
+    "fiber": 1.14285714285714,
+    "protein": 82.8571428571429,
+    "salt": 0.792857142857143,
+    "sodium": 0.317142857142857
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T03:33:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

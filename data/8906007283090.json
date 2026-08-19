@@ -1,0 +1,31 @@
+{
+  "barcode": "8906007283090",
+  "name": "mini soya chunks",
+  "brand": "Fortune",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:meat-alternatives",
+    "en:textured-vegetable-protein",
+    "en:textured-soy-protein"
+  ],
+  "ingredients": "Defatted Soy Flour",
+  "per_100g": {
+    "energy_kcal": 316,
+    "fat": 0.9,
+    "saturated_fat": 0.3,
+    "carbohydrates": 31.7,
+    "sugars": 4.9,
+    "fiber": 15.3,
+    "protein": 52.9,
+    "salt": 0.02775,
+    "sodium": 0.0111
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-19T17:07:28Z",
+  "fetched_at": "2026-08-19T01:54:29Z"
+}

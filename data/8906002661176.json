@@ -1,0 +1,35 @@
+{
+  "barcode": "8906002661176",
+  "name": "Coconãd Coconut Milk",
+  "brand": "KLF",
+  "quantity": "400ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:dairy-substitutes",
+    "en:milk-substitutes",
+    "en:plant-based-beverages",
+    "en:plant-based-milk-alternatives",
+    "en:coconut-milks-and-creams",
+    "en:coconut-milks"
+  ],
+  "ingredients": "Real Coconut milk extract, Water, Stabilizer: E466, Acidity Regulator: E 330 Thickener \u0026 Emulsifier: E 415, E 407, Edible Salt.",
+  "per_100g": {
+    "energy_kcal": 173,
+    "fat": 17,
+    "saturated_fat": 16,
+    "carbohydrates": 4,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 1,
+    "salt": 0.03,
+    "sodium": 0.012
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-08T13:47:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

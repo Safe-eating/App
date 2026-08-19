@@ -1,0 +1,29 @@
+{
+  "barcode": "8906036675521",
+  "name": "Dharwad Peda",
+  "brand": "Nandini",
+  "quantity": "250g",
+  "categories": [
+    "en:dairies",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:peda"
+  ],
+  "ingredients": "Milk Solids, Sugar",
+  "per_100g": {
+    "energy_kcal": 449,
+    "fat": 18.3,
+    "saturated_fat": 11.9,
+    "carbohydrates": 58,
+    "sugars": 58,
+    "fiber": null,
+    "protein": 13,
+    "salt": 0.5075,
+    "sodium": 0.203
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-10T02:22:39Z",
+  "fetched_at": "2026-08-19T12:35:51Z"
+}

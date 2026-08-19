@@ -1,0 +1,32 @@
+{
+  "barcode": "8906070210030",
+  "name": "Ginger with honey",
+  "brand": "Honeyman",
+  "quantity": "",
+  "categories": [
+    "en:breakfasts",
+    "en:spreads",
+    "en:sweet-spreads",
+    "en:bee-products",
+    "en:farming-products",
+    "en:sweeteners",
+    "en:honeys"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 327.9,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 81.5,
+    "sugars": 81.5,
+    "fiber": null,
+    "protein": 0.4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-22T17:21:26Z",
+  "fetched_at": "2026-08-19T12:42:36Z"
+}

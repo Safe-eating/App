@@ -1,0 +1,27 @@
+{
+  "barcode": "8903754000826",
+  "name": "Grand Cold Coffee",
+  "brand": "Tata",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "Double Toned Milk (80%), Water, Sugar, Instant Coffee (0.8%), Nature-Identical Flavouring Substances, Stabilizers (INS 471, INS 412, INS 407), Acidity Regulator [INS 339(1)] Sterilized Double Toned Flavoured Milk. ALLERGENS: Contains Milk",
+  "per_100g": {
+    "energy_kcal": 154,
+    "fat": 4.7,
+    "saturated_fat": 3.5,
+    "carbohydrates": 22.5,
+    "sugars": 19.6,
+    "fiber": null,
+    "protein": 5.4,
+    "salt": 0.3925,
+    "sodium": 0.157
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-09T17:15:28Z",
+  "fetched_at": "2026-08-19T01:23:39Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8901052007219",
+  "name": "Tetley Immuno Chai",
+  "brand": "Tetley",
+  "quantity": "200g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:hot-beverages",
+    "en:plant-based-beverages",
+    "en:teas"
+  ],
+  "ingredients": "Tea (95%), Natural Masala Flavour, Natural Flavouring Substances [Turmeric bits (1.2%), Ginger Oleoresin, Ashwagandha Extract (0.2%)]. Zinc Sulphate (0.4%) Natural masala flavour has black pepper extract.",
+  "per_100g": {
+    "energy_kcal": 358,
+    "fat": 1.1,
+    "saturated_fat": 0.4,
+    "carbohydrates": 66.9,
+    "sugars": 0.9,
+    "fiber": null,
+    "protein": 20.1,
+    "salt": 0.015,
+    "sodium": 0.006
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-22T13:05:27Z",
+  "fetched_at": "2026-08-19T00:23:58Z"
+}

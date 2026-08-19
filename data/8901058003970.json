@@ -1,0 +1,32 @@
+{
+  "barcode": "8901058003970",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:nestle"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 279,
+    "fat": 2.2,
+    "saturated_fat": 1.6,
+    "carbohydrates": 61.1,
+    "sugars": 22,
+    "fiber": 5.1,
+    "protein": 6.2,
+    "salt": 366,
+    "sodium": 146.4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T08:58:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

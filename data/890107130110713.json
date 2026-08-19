@@ -1,0 +1,36 @@
+{
+  "barcode": "890107130110713",
+  "name": "Soya Milk",
+  "brand": "Hershey's Sofit",
+  "quantity": "1 L",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:dairy-substitutes",
+    "en:milk-substitutes",
+    "en:plant-based-beverages",
+    "en:plant-based-milk-alternatives",
+    "en:legume-based-drinks",
+    "en:soy-based-drinks"
+  ],
+  "ingredients": "Water, Soyabeans, Acidity Regulator (E500), Oligofructose",
+  "per_100g": {
+    "energy_kcal": 34.4,
+    "fat": 1.6,
+    "saturated_fat": 0.2,
+    "carbohydrates": 1.8,
+    "sugars": 0,
+    "fiber": 1.1,
+    "protein": 3.2,
+    "salt": 0.0455,
+    "sodium": 0.0182
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-16T11:47:54Z",
+  "fetched_at": "2026-08-19T00:34:49Z"
+}

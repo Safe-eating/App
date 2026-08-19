@@ -1,0 +1,28 @@
+{
+  "barcode": "8901826224002",
+  "name": "Kheer",
+  "brand": "Verka",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:desserts",
+    "en:dairy-desserts"
+  ],
+  "ingredients": "Milk Solids, Sugar, Rice \u0026 Cardamom, CONTAINS PERMITTED CLASS II PRESERVATIVE (E 211)",
+  "per_100g": {
+    "energy_kcal": 114,
+    "fat": 3.4,
+    "saturated_fat": 2.2,
+    "carbohydrates": 17,
+    "sugars": 17,
+    "fiber": null,
+    "protein": 4,
+    "salt": 0.1925,
+    "sodium": 0.077
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-09T17:57:37Z",
+  "fetched_at": "2026-08-19T01:10:04Z"
+}

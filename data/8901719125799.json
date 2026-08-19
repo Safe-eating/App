@@ -1,0 +1,24 @@
+{
+  "barcode": "8901719125799",
+  "name": "Parle hide and seek milano jazelnut",
+  "brand": "Parle",
+  "quantity": "60g",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 536,
+    "fat": 29.5,
+    "saturated_fat": 13.8,
+    "carbohydrates": 63.4,
+    "sugars": 33.5,
+    "fiber": null,
+    "protein": 4.3,
+    "salt": 0.295,
+    "sodium": 0.118
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-10T07:29:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

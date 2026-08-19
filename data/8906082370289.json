@@ -1,0 +1,30 @@
+{
+  "barcode": "8906082370289",
+  "name": "chocochips",
+  "brand": "Nic",
+  "quantity": "100ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Milk, Chocolate, Sugar and Chocolate Crush.",
+  "per_100g": {
+    "energy_kcal": 204,
+    "fat": 10,
+    "saturated_fat": 6.4,
+    "carbohydrates": 24,
+    "sugars": 12.3,
+    "fiber": 1.9,
+    "protein": 4.4,
+    "salt": 0.08425,
+    "sodium": 0.0337
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-29T07:16:14Z",
+  "fetched_at": "2026-08-19T12:47:18Z"
+}

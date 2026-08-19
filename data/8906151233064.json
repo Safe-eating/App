@@ -1,0 +1,30 @@
+{
+  "barcode": "8906151233064",
+  "name": "Ginger Snap Cookies",
+  "brand": "Snackible",
+  "quantity": "70g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Edible vegetable butter, oatmeal powder, whole wheat flour, refined wheat flour, jaggery, ginger powder, ginger oleoresin, vanilla extract, rock salt.",
+  "per_100g": {
+    "energy_kcal": 522.857142857143,
+    "fat": 26.8571428571429,
+    "saturated_fat": 15.6,
+    "carbohydrates": 64.2857142857143,
+    "sugars": 32.7,
+    "fiber": 4.34285714285714,
+    "protein": 5.8,
+    "salt": 0.54875,
+    "sodium": 0.2195
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-09-04T17:02:57Z",
+  "fetched_at": "2026-08-19T13:00:11Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8901262071581",
+  "name": "Chocozoo",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks"
+  ],
+  "ingredients": "Sugar, hydrogenated edible vegetable oil, cocoa solids, emulsifiers (492, 322), artificial flavouring",
+  "per_100g": {
+    "energy_kcal": 526,
+    "fat": 29.3333333333333,
+    "saturated_fat": 28.3333333333333,
+    "carbohydrates": 61.1111111111111,
+    "sugars": 56.5555555555556,
+    "fiber": null,
+    "protein": 5.33333333333333,
+    "salt": 15,
+    "sodium": 6
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-25T03:24:07Z",
+  "fetched_at": "2026-08-19T00:42:37Z"
+}

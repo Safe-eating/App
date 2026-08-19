@@ -1,0 +1,27 @@
+{
+  "barcode": "8906069400640",
+  "name": "Peri Peri Sauce",
+  "brand": "Veeba",
+  "quantity": "",
+  "categories": [
+    "en:condiments",
+    "en:sauces"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 64.8,
+    "fat": 3.6,
+    "saturated_fat": 0.6,
+    "carbohydrates": 7.7,
+    "sugars": 3,
+    "fiber": null,
+    "protein": 0.4,
+    "salt": 3.8,
+    "sodium": 1.52
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-04T04:35:48Z",
+  "fetched_at": "2026-08-19T12:41:29Z"
+}

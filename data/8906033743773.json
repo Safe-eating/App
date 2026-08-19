@@ -1,0 +1,30 @@
+{
+  "barcode": "8906033743773",
+  "name": "Mc vities hobnobs",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Oats (36%), Wheat Flour (Atta), Edible Vegetable Oil (Palm Oil), Choco Chips (15%) [Sugar, Edible Vegetable Fat (Hydrogenated), Cocoa Solids, Emulsifier (INS 492), Dextrose, Emulsifier {INS 322 (i)- Lecithin of Soya Origin}, Nature Identical Flavouring Substances], Sugar, Invert Sugar Syrup, Raising Agents [INS 500 (ii), INS 503 (ii)], Milk Solids, Wheat Bran, Honey, lodised Salt, Emulsifiers INS 471, INS 322], Nature Identical Flavouring Substances. At a hand Milk and Sov May contain Nuts and Sulphite.",
+  "per_100g": {
+    "energy_kcal": 492,
+    "fat": 21.3,
+    "saturated_fat": 10.2,
+    "carbohydrates": 68.2,
+    "sugars": 23.2,
+    "fiber": null,
+    "protein": 6.9,
+    "salt": 0.925,
+    "sodium": 0.37
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T05:00:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

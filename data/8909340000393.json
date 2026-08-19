@@ -1,0 +1,24 @@
+{
+  "barcode": "8909340000393",
+  "name": "Plant Protein Indonesian Cacao",
+  "brand": "Cosmix",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 370.078947368421,
+    "fat": 1.55263157894737,
+    "saturated_fat": 0.763157894736842,
+    "carbohydrates": 27.3684210526316,
+    "sugars": 9.78947368421053,
+    "fiber": 9.60526315789474,
+    "protein": 61.6578947368421,
+    "salt": 1.20052631578947,
+    "sodium": 0.480210526315789
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T15:50:58Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

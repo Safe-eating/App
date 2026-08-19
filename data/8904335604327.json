@@ -1,0 +1,28 @@
+{
+  "barcode": "8904335604327",
+  "name": "Daily Energy Bar Mixed Fruit Flavour",
+  "brand": "Yoga Bar",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 337.5,
+    "fat": 2.75,
+    "saturated_fat": 0.5,
+    "carbohydrates": 75,
+    "sugars": 34.25,
+    "fiber": 11.25,
+    "protein": 8.75,
+    "salt": 0.17375,
+    "sodium": 0.0695
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-18T06:56:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

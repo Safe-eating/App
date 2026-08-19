@@ -1,0 +1,30 @@
+{
+  "barcode": "8901491003537",
+  "name": "Cheetos Masala Balls",
+  "brand": "Cheetos",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 504,
+    "fat": 23.1,
+    "saturated_fat": 5.4,
+    "carbohydrates": 65.7,
+    "sugars": 1.6,
+    "fiber": null,
+    "protein": 8.2,
+    "salt": 2.155,
+    "sodium": 0.862
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-16T06:42:11Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

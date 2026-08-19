@@ -1,0 +1,35 @@
+{
+  "barcode": "8906007280259",
+  "name": "Fortune Physically Refined Rice Bran Oil",
+  "brand": "Fortune",
+  "quantity": "1L",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:fats",
+    "en:cereals-and-their-products",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:cereal-oils",
+    "en:rice-bran-oils",
+    "en:Oils"
+  ],
+  "ingredients": "Physically Refined Rice Bran Oil, Permitted Antioxidants - TBHQ (E-319) \u0026 Citric Acid (E-330), Permitted antifoaming Agent-DMPS (E-900a), Vitamins A\u0026D",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 31,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-20T16:08:26Z",
+  "fetched_at": "2026-08-19T01:54:25Z"
+}

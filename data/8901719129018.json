@@ -1,0 +1,31 @@
+{
+  "barcode": "8901719129018",
+  "name": "Marie",
+  "brand": "Parle",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Biscuit whole"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 451,
+    "fat": 12.4,
+    "saturated_fat": 5.7,
+    "carbohydrates": 77.2,
+    "sugars": 20.5,
+    "fiber": null,
+    "protein": 7.7,
+    "salt": 0.5775,
+    "sodium": 0.231
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-28T21:17:54Z",
+  "fetched_at": "2026-08-19T01:01:46Z"
+}

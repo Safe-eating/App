@@ -1,0 +1,34 @@
+{
+  "barcode": "8901058851304",
+  "name": "Maggi Masala Noodles",
+  "brand": "Nestlé",
+  "quantity": "70g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "Wheat flour, Palm oil, Salt, Wheat gluten, calcium carbonate, Thickeners(508 \u0026 412), Acidity regulators (501i \u0026 500i), Humectant (451i), Masala Tastemaker (hydrolysed groundnut protein, mixed spices, Noodle powder, Palm oil, Salt, Wheat gluten, Calcium carbonate, Thickeners (508 \u0026 412), acidity regulators (501i \u0026 500i), Sugar, Edible starch, Ferric pyrophosphate)",
+  "per_100g": {
+    "energy_kcal": 427,
+    "fat": 15.7,
+    "saturated_fat": 6.8,
+    "carbohydrates": 63.5,
+    "sugars": 1.2,
+    "fiber": 3.6,
+    "protein": 8,
+    "salt": 2.93075,
+    "sodium": 1.1723
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-19T23:27:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8908016029249",
+  "name": "Crax curls",
+  "brand": "CRAX",
+  "quantity": "57g",
+  "categories": [
+    "en:Packeged food"
+  ],
+  "ingredients": "Corn Grits (65%), Edible Vegetable Oil (Refined Palmolein Oil), *Seasoning [lodised Salt, Sugar Onion Powder, Corn Starch, Chilli Powder, Garlic Powder Hydrolysed Soy Protein, Coriander, Acidity Regulators (INS 330, INS 296), Anticaking Agent (INS 551), Flavour Enhancers (INS 627, INS 631), Flavour(s) (Natural \u0026 Nature Identical Flavouring Substances) Used as part of flavouring agent Contains Soy. May Contains Milk and Wheat Manufactured \u0026 Marketed By: DFM Foods Limited 149, First Floor, Kilokari, Ring Road, Ashram, New Delhi-110014 fssat Lic. No. 10014011002061 For manufacturing unit read the first character of the batch no. \u0026 see below",
+  "per_100g": {
+    "energy_kcal": 490,
+    "fat": 24,
+    "saturated_fat": 10.8,
+    "carbohydrates": 62,
+    "sugars": 2.3,
+    "fiber": 0,
+    "protein": 6.3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-02T12:46:31Z",
+  "fetched_at": "2026-08-19T13:17:17Z"
+}

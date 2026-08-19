@@ -1,0 +1,30 @@
+{
+  "barcode": "8904043551555",
+  "name": "Atta Shakti",
+  "brand": "Modern",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour (Atta) (62.2%). Sugar, Gluten, Yeast, lodized Salt, Edible Vegetable Oil (Refined Palmolein Oil). Milk Solids, Malt Product, Preservatives (282, 200). Emulsifier (471). Acidity Regulators (341, 260), Flour Treatment Agents (1100, 1104, 1102) and Antioxidant (300).",
+  "per_100g": {
+    "energy_kcal": 243.06,
+    "fat": 2.34,
+    "saturated_fat": 1.06,
+    "carbohydrates": 45.6,
+    "sugars": 4.38,
+    "fiber": 8.4,
+    "protein": 9.9,
+    "salt": 1.239,
+    "sodium": 0.4956
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-01T09:05:10Z",
+  "fetched_at": "2026-08-19T01:27:46Z"
+}

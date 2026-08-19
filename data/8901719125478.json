@@ -1,0 +1,33 @@
+{
+  "barcode": "8901719125478",
+  "name": "Parle-G gold 75g",
+  "brand": "Parle",
+  "quantity": "50 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:dry-biscuits",
+    "en:plain-biscuit",
+    "en:Gluco biscuit"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (68%), SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP* [SUGAR, CITRIC ACID], IODISED SALT, RAISING AGENTS [503 (ii), 500 (ii)], MILK SOLIDS, FLOUR TREATMENT AGENT [1101 (ii)] AND EMULSIFIER OF VEGETABLE ORIGIN [472e] CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES VANILLA) (D-GLUCOSE, LEVULOSE) CONTAINS: WHEAT, MILK",
+  "per_100g": {
+    "energy_kcal": 454,
+    "fat": 13,
+    "saturated_fat": 6,
+    "carbohydrates": 77.3,
+    "sugars": 25.5,
+    "fiber": 0,
+    "protein": 6.9,
+    "salt": 0.74,
+    "sodium": 0.296
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-18T11:10:03Z",
+  "fetched_at": "2026-08-19T01:00:50Z"
+}

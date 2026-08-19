@@ -1,0 +1,31 @@
+{
+  "barcode": "8901972062930",
+  "name": "creme 4 fun",
+  "brand": "dukes",
+  "quantity": "150g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Chocolate flavored sandwich biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 468.3,
+    "fat": 16.3,
+    "saturated_fat": 7,
+    "carbohydrates": 74.4,
+    "sugars": 36.1,
+    "fiber": 0,
+    "protein": 5.9,
+    "salt": 0.56425,
+    "sodium": 0.2257
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-31T23:49:24Z",
+  "fetched_at": "2026-08-19T01:11:08Z"
+}

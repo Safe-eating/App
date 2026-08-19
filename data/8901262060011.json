@@ -1,0 +1,32 @@
+{
+  "barcode": "8901262060011",
+  "name": "Cheese Spread",
+  "brand": "Amul",
+  "quantity": "200 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:spreads",
+    "en:cheeses",
+    "en:salted-spreads",
+    "en:cheese-spreads"
+  ],
+  "ingredients": "Milk Solids, Cheese, Common Salt, Permitted Emulsifiers (E339, E452, E471, E331) and Class II Preservatives (E234, E200)",
+  "per_100g": {
+    "energy_kcal": 276,
+    "fat": 20,
+    "saturated_fat": 13.2,
+    "carbohydrates": 12.8,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 11.2,
+    "salt": 2.1,
+    "sodium": 0.84
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-28T08:15:44Z",
+  "fetched_at": "2026-08-19T00:42:03Z"
+}

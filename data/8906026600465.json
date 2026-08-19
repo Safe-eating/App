@@ -1,0 +1,27 @@
+{
+  "barcode": "8906026600465",
+  "name": "Acai vibe",
+  "brand": "rio",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "PURIFIED WATER, SUGAR, APPLE JUICE (7%), MIX BERRY JUICE (5%), CARBON DIOXIDE (INS290), ACIDITY REGULATORS (INS296, INS330 \u0026 INS331), VITAMINS, PERMITTED CLASS II PRESERVATIVE (INS211) CONTAINS PERMITTED SYNTHETIC COLOURS (INS133 \u0026 INS122). CONTAINS PERMITTED NATURE IDENTICAL FLAVOUR (ACAI BERRY)",
+  "per_100g": {
+    "energy_kcal": 40,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 10,
+    "sugars": 10,
+    "fiber": null,
+    "protein": 0,
+    "salt": 36.25,
+    "sodium": 14.5
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-05T03:16:27Z",
+  "fetched_at": "2026-08-19T12:31:49Z"
+}

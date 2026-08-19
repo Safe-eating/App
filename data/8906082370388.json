@@ -1,0 +1,30 @@
+{
+  "barcode": "8906082370388",
+  "name": "Malai Kulfi",
+  "brand": "Cream Pot",
+  "quantity": "70 ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Milk and Sugar",
+  "per_100g": {
+    "energy_kcal": 221.428571428571,
+    "fat": 10.1428571428571,
+    "saturated_fat": 7.71428571428571,
+    "carbohydrates": 26.1428571428571,
+    "sugars": 19.8571428571429,
+    "fiber": 0,
+    "protein": 6.42857142857143,
+    "salt": 0.121428571428571,
+    "sodium": 0.0485714285714286
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-09T19:35:07Z",
+  "fetched_at": "2026-08-19T12:47:19Z"
+}

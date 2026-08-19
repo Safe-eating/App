@@ -1,0 +1,30 @@
+{
+  "barcode": "8906036670878",
+  "name": "Pure Ghee",
+  "brand": "Nandini",
+  "quantity": "500ml",
+  "categories": [
+    "en:fats",
+    "en:animal-fats",
+    "en:butter-fat",
+    "en:clarified-butter",
+    "en:ghee"
+  ],
+  "ingredients": "Milk Solids [Milk Fat]",
+  "per_100g": {
+    "energy_kcal": 897,
+    "fat": 99.7,
+    "saturated_fat": 70,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-24T11:02:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

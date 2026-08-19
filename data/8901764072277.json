@@ -1,0 +1,28 @@
+{
+  "barcode": "8901764072277",
+  "name": "Kinley Soda 750ml",
+  "brand": "kinley",
+  "quantity": "24",
+  "categories": [
+    "en:beverages",
+    "en:carbonated-drinks",
+    "en:sodas"
+  ],
+  "ingredients": "Carbonated water,Salts of Magnesium and Sodium",
+  "per_100g": {
+    "energy_kcal": 0,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0.0022
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T12:38:23Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

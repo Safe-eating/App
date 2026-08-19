@@ -1,0 +1,30 @@
+{
+  "barcode": "0072668479229",
+  "name": "Low fat Panner",
+  "brand": "Sid's Farm",
+  "quantity": "200g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer"
+  ],
+  "ingredients": "Pasteurized Milk, Curd/Lemon Juice Concentrate",
+  "per_100g": {
+    "energy_kcal": 168,
+    "fat": 6,
+    "saturated_fat": 4,
+    "carbohydrates": 3.7,
+    "sugars": 3.4,
+    "fiber": null,
+    "protein": 25,
+    "salt": 0.1125,
+    "sodium": 0.045
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-29T13:15:47Z",
+  "fetched_at": "2026-08-18T23:54:02Z"
+}

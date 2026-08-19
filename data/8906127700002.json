@@ -1,0 +1,28 @@
+{
+  "barcode": "8906127700002",
+  "name": "Talod Nylon Khaman Flour",
+  "brand": "Talod",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:flours"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 369.090909090909,
+    "fat": 4.01818181818182,
+    "saturated_fat": 0.536363636363636,
+    "carbohydrates": 71.7363636363636,
+    "sugars": 16.8818181818182,
+    "fiber": 0,
+    "protein": 11.9,
+    "salt": 0.393227272727273,
+    "sodium": 0.157290909090909
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-05T21:10:49Z",
+  "fetched_at": "2026-08-19T12:56:04Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "0701098222618",
+  "name": "Soya Milk Powder",
+  "brand": "Urban Platter",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:powdered-plant-milks",
+    "en:powdered-legume-milks",
+    "en:powdered-soy-milks"
+  ],
+  "ingredients": "Soya Milk Powder (100%).",
+  "per_100g": {
+    "energy_kcal": 432,
+    "fat": 18.9,
+    "saturated_fat": 0,
+    "carbohydrates": 22.5,
+    "sugars": 3.4,
+    "fiber": 11.7,
+    "protein": 49,
+    "salt": 0.64,
+    "sodium": 0.256
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-18T04:56:06Z",
+  "fetched_at": "2026-08-18T23:55:07Z"
+}

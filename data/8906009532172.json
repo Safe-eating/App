@@ -1,0 +1,33 @@
+{
+  "barcode": "8906009532172",
+  "name": "Max Protein Daily Choco Almond",
+  "brand": "RiteBite",
+  "quantity": "50g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:energy-bars",
+    "en:protein-bars",
+    "en:protein-energy-bars"
+  ],
+  "ingredients": "Protein Blend (29%) (Soy Nuggets, Whey Protein Concentrate, Calcium Caseinate, Soy Concentrate), Dietary Fiber (16%) (Fructooligosacharide, Chicory Root Fiber), Dark Compound No Added Sugar (19%) (Maltitol, Edible Vegetable Oil, Cocoa Solids, Emulsifier (Soy Lecithin), Maltitol, Whole Grain Rolled Oats (8%), Almonds (7%), Brown Rice Crispy, Edible Vegetable Oil (High Oleic Sunflower Oil), Humectant (Glycerine), Cocoa Powder, Cocoa Mass, Flaxseeds, Tribasic Calcium Phosphate, Emulsifier (Soy Lecithin), Binding Agent (Guar Gum), Soy Protein Isolate, Salt and Citric Acid, Antioxidants (Vitamin C), Added Vitamins and Minerals, Glutamine and Amino Acids.",
+  "per_100g": {
+    "energy_kcal": 179,
+    "fat": 6.8,
+    "saturated_fat": 1.2,
+    "carbohydrates": 27.5,
+    "sugars": 0.5,
+    "fiber": 5,
+    "protein": 10,
+    "salt": 147,
+    "sodium": 58.8
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-08T05:58:27Z",
+  "fetched_at": "2026-08-19T01:58:07Z"
+}

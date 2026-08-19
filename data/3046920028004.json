@@ -1,0 +1,31 @@
+{
+  "barcode": "3046920028004",
+  "name": "Lindt Excellence 70% Cocoa",
+  "brand": "Lindt",
+  "quantity": "100 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:chocolates-negros"
+  ],
+  "ingredients": "Pasta de cacao, azúcar, manteca de cacao, vainilla, almendras, avellanas, pistachos, leche.",
+  "per_100g": {
+    "energy_kcal": 561.663479923517,
+    "fat": 41,
+    "saturated_fat": 24,
+    "carbohydrates": 34,
+    "sugars": 30,
+    "fiber": 0,
+    "protein": 9,
+    "salt": 0.21,
+    "sodium": 0.081
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-25T19:34:17Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

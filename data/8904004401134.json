@@ -1,0 +1,26 @@
+{
+  "barcode": "8904004401134",
+  "name": "Haldiram's Khatta Sweet and Salty mix",
+  "brand": "Haldiram",
+  "quantity": "1 400grams",
+  "categories": [
+    "en:mix-of-sago-and-rice-flakes"
+  ],
+  "ingredients": "Refined Rice Flakes (22%), Bengal Gram Flour (Besan) (21%/ Split Pulse Bengal Gram (Chana Dal) (7%), Groundnut (Peanuts) (5%), Sago (4%), Refined Sugar (4%), Red Lentils (Masur Whole) (2.5%), Green Peas (2%), Iodised Salt, Blac Red Chilli, Acidity Regulator \u0026 Antioxidant (E 330) and Turmeric. Allergy Advice : Contains Peanut May Contain Tree nuts, Gluten, Sesame Seed, Milk, Soya \u0026 Mustard Seed",
+  "per_100g": {
+    "energy_kcal": 530,
+    "fat": 29.25,
+    "saturated_fat": 12.48,
+    "carbohydrates": 57.38,
+    "sugars": 4.26,
+    "fiber": 0.53,
+    "protein": 9.26,
+    "salt": 0.36,
+    "sodium": 0.144
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-24T13:39:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

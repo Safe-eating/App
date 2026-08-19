@@ -1,0 +1,28 @@
+{
+  "barcode": "8906010500290",
+  "name": "Shing Bhujia",
+  "brand": "Balaji",
+  "quantity": "210g",
+  "categories": [
+    "en:snacks",
+    "en:Indian snack and savouries",
+    "en:namkeen"
+  ],
+  "ingredients": "PEANUT (63%), CHICKPEA FLOUR (13%), EDIBLE VEGETABLE OIL (PALMOLEIN RICE BRAN), CORN FLOUR, BLACK GRAM FLOUR, SPICES \u0026 CONDIMENTS 2% (CHILLI, BLACK PEPPER, GINGER, DRY MANGO, CLOVE, CAROM SEEDS, TAMARIND), EDIBLE COMMON SALT, ACIDITY REGULATOR (INS 330).",
+  "per_100g": {
+    "energy_kcal": 640,
+    "fat": 47.4,
+    "saturated_fat": 12,
+    "carbohydrates": 26.5,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 20.3,
+    "salt": 1.995,
+    "sodium": 0.798
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-19T03:49:47Z",
+  "fetched_at": "2026-08-19T02:00:36Z"
+}

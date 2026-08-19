@@ -1,0 +1,33 @@
+{
+  "barcode": "8906142774385",
+  "name": "Prunes",
+  "brand": "Bolas",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruits-based-foods",
+    "en:dried-products",
+    "en:dried-plant-based-foods",
+    "en:dried-fruits",
+    "en:dried-prunes"
+  ],
+  "ingredients": "Pitted Prunes,Potassium Sorbate (E202)",
+  "per_100g": {
+    "energy_kcal": 250,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 70,
+    "sugars": 42.5,
+    "fiber": 7.5,
+    "protein": 2.5,
+    "salt": 0.01,
+    "sodium": 0.004
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T03:14:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

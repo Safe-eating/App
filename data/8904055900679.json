@@ -1,0 +1,31 @@
+{
+  "barcode": "8904055900679",
+  "name": "Chicken jumbo hotdog",
+  "brand": "Meatzza",
+  "quantity": "500g",
+  "categories": [
+    "en:meats-and-their-products",
+    "en:meats",
+    "en:chicken-and-its-products",
+    "en:poultries",
+    "en:chickens",
+    "en:Chicken Hotdogs"
+  ],
+  "ingredients": "Boneless Chicken Meat (71%), Water, Seasoning [Sequestrant (INS 451), Beet Juice Powder, Starch, Art Oxidant (INS 316,4 Dextrose, Sakes \u0026 Condiments), todised Salt, Wheat fiber, Soy Protein, Colour Fixative (INS 250).",
+  "per_100g": {
+    "energy_kcal": 205.5,
+    "fat": 14.9,
+    "saturated_fat": 8.63,
+    "carbohydrates": 5.17,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 10.5,
+    "salt": 0.8725,
+    "sodium": 0.349
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-06T15:27:38Z",
+  "fetched_at": "2026-08-19T01:28:49Z"
+}

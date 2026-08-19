@@ -1,0 +1,28 @@
+{
+  "barcode": "8903553601613",
+  "name": "Pickel",
+  "brand": "RAM BANDHU",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles"
+  ],
+  "ingredients": "Green mangoes, edible common salt, edible rice bran oil, mustard chilli powder, fenugreek , turmeric powder, acidity regulator, compounded Asafoetida, preservative",
+  "per_100g": {
+    "energy_kcal": 200,
+    "fat": 11.3,
+    "saturated_fat": 3.19,
+    "carbohydrates": 21.3,
+    "sugars": 3.26,
+    "fiber": null,
+    "protein": 3.39,
+    "salt": 10.89715,
+    "sodium": 4.35886
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-11T14:24:41Z",
+  "fetched_at": "2026-08-19T01:23:12Z"
+}

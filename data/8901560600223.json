@@ -1,0 +1,32 @@
+{
+  "barcode": "8901560600223",
+  "name": "Soya chunks",
+  "brand": "Nilon's",
+  "quantity": "100g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:meat-alternatives",
+    "en:meat-analogues",
+    "en:textured-vegetable-protein",
+    "en:textured-soy-protein"
+  ],
+  "ingredients": "soya flour",
+  "per_100g": {
+    "energy_kcal": 349,
+    "fat": 1,
+    "saturated_fat": 0,
+    "carbohydrates": 34,
+    "sugars": 16,
+    "fiber": 17,
+    "protein": 51,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-11T06:11:46Z",
+  "fetched_at": "2026-08-19T00:56:32Z"
+}

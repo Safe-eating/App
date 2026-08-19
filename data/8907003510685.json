@@ -1,0 +1,26 @@
+{
+  "barcode": "8907003510685",
+  "name": "Gulab Jamun",
+  "brand": "A2B",
+  "quantity": "1 kg",
+  "categories": [
+    "en:Sweetened Milk Solids balls in sugar syrup"
+  ],
+  "ingredients": "Sugar syrup, Milk solids (18%), Refined palm superolein oil, Cardamom.",
+  "per_100g": {
+    "energy_kcal": 309,
+    "fat": 8,
+    "saturated_fat": 5,
+    "carbohydrates": 55,
+    "sugars": 45,
+    "fiber": null,
+    "protein": 4.2,
+    "salt": 0.025,
+    "sodium": 0.01
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-30T13:01:11Z",
+  "fetched_at": "2026-08-19T13:03:47Z"
+}

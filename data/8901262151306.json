@@ -1,0 +1,28 @@
+{
+  "barcode": "8901262151306",
+  "name": "Kool cafe",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:coffees"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 110,
+    "fat": 5,
+    "saturated_fat": 3.05,
+    "carbohydrates": 12.5,
+    "sugars": 12,
+    "fiber": 0.5,
+    "protein": 3.5,
+    "salt": 0.14375,
+    "sodium": 0.0575
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T20:19:14Z",
+  "fetched_at": "2026-08-19T00:43:35Z"
+}

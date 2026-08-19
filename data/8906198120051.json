@@ -1,0 +1,24 @@
+{
+  "barcode": "8906198120051",
+  "name": "The Priority Whey",
+  "brand": "Exalt",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 371.5,
+    "fat": 2,
+    "saturated_fat": 0.5,
+    "carbohydrates": 7.1,
+    "sugars": 1.2,
+    "fiber": null,
+    "protein": 80,
+    "salt": 0.686416666666667,
+    "sodium": 0.274566666666667
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-28T16:26:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

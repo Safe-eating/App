@@ -1,0 +1,30 @@
+{
+  "barcode": "8904092400118",
+  "name": "Kulcha",
+  "brand": "Kabhi b",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 227,
+    "fat": 3.5,
+    "saturated_fat": 1.5,
+    "carbohydrates": 43,
+    "sugars": 2.8,
+    "fiber": 1.4,
+    "protein": 5.8,
+    "salt": 0.985,
+    "sodium": 0.394
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-11T15:01:59Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

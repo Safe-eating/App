@@ -1,0 +1,33 @@
+{
+  "barcode": "8901262072267",
+  "name": "Amul White Chocolate",
+  "brand": "Amul",
+  "quantity": "Net Weight: 150g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:chocolates",
+    "en:candy-chocolate-bars"
+  ],
+  "ingredients": "Sugar, cocoa butter, milk solids (30%), emulsifiers (322, 476), nature identical and artificial flavouring substances (vanilla). Allergen Information: Contains milk.",
+  "per_100g": {
+    "energy_kcal": 570,
+    "fat": 36.2,
+    "saturated_fat": 21.9,
+    "carbohydrates": 51,
+    "sugars": 50.7,
+    "fiber": 0,
+    "protein": 10,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-02T05:25:49Z",
+  "fetched_at": "2026-08-19T00:43:03Z"
+}

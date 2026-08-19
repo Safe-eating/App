@@ -1,0 +1,31 @@
+{
+  "barcode": "8904422700260",
+  "name": "PUSHTAHAR DALIA",
+  "brand": "PATANJALI",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 368,
+    "fat": 3.09,
+    "saturated_fat": 1.2,
+    "carbohydrates": 72.29,
+    "sugars": 0,
+    "fiber": 4.23,
+    "protein": 12.87,
+    "salt": 70,
+    "sodium": 28
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-17T15:03:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

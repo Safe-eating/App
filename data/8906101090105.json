@@ -1,0 +1,26 @@
+{
+  "barcode": "8906101090105",
+  "name": "Strawberry, Chocolate, Jaggery",
+  "brand": "again",
+  "quantity": "180 ml",
+  "categories": [
+    "en:Double toned milk drink"
+  ],
+  "ingredients": "Double Toned _Milk_, Strawberry Puree, Jaggery, Cocoa Mass and less than 1% of Acidity Regulator (INS 340 (ii)) and Thickener (Gellan Gum, Carrageenan) CONTAINS PERMITTED NATURAL COLOURS (BEETROOT) AND ADDED FLAVOURS-NATURAL (STRAWBERRY) FLAVOURING SUBSTANCES",
+  "per_100g": {
+    "energy_kcal": 78,
+    "fat": 2,
+    "saturated_fat": 1.2,
+    "carbohydrates": 12,
+    "sugars": 11,
+    "fiber": 0,
+    "protein": 3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-08-16T12:39:16Z",
+  "fetched_at": "2026-08-19T12:50:21Z"
+}

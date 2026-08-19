@@ -1,0 +1,24 @@
+{
+  "barcode": "8906090578516",
+  "name": "Hot \u0026 Sweet",
+  "brand": "Too Yum",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 548,
+    "fat": 33.3,
+    "saturated_fat": 7.8,
+    "carbohydrates": 54,
+    "sugars": 5.8,
+    "fiber": null,
+    "protein": 8.1,
+    "salt": 1.6,
+    "sodium": 0.64
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-01T02:31:37Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

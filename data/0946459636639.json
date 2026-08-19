@@ -1,0 +1,26 @@
+{
+  "barcode": "0946459636639",
+  "name": "epigamia TURBO 25g protein shake",
+  "brand": "epigamia",
+  "quantity": "250",
+  "categories": [
+    "en:Protein milkshake"
+  ],
+  "ingredients": "Skimmed Milk (79%), Milk Solids, Water, Cocoa Powder, Nature Identical Flavouring Substances (Cookie \u0026 Cream), Acidity Regulators [INS 340, INS 452, INS 339 Stabilizers (INS 407), Sweetener (INS 955), Edible Common Salt",
+  "per_100g": {
+    "energy_kcal": 65.6,
+    "fat": 0.08,
+    "saturated_fat": 0,
+    "carbohydrates": 3.6,
+    "sugars": 3.2,
+    "fiber": 0,
+    "protein": 10,
+    "salt": 0.246,
+    "sodium": 0.0984
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-18T07:09:43Z",
+  "fetched_at": "2026-08-18T23:59:51Z"
+}

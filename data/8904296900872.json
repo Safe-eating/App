@@ -1,0 +1,30 @@
+{
+  "barcode": "8904296900872",
+  "name": "Fabsta Masala Mazza",
+  "brand": "Fabsta",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles",
+    "en:Packaged food"
+  ],
+  "ingredients": "INSTANT NOODLES WITH SEASONING NOODLES 90%: Refined Wheat Flour (Maida), Refined Palm Oil, lodised Salt, Acidity Regulators (INS 451 \u0026 INS 500], Mixed Spices 0.17% [Turmeric, Coriander, Cumin \u0026 Red Chilli (0.02%)], Antioxidant (INS 319) \u0026 Thickener (INS 412) SEASONING 10%: Sugar, Onion Powder 18%, lodised Salt, Mixed Spices 11.41% [Coriander, Red Chilli (1.94%), Turmeric, Cumin, Fennel, Black Pepper (0.99%), Fenugreek, Ginger, Clove (0.29%), Nutmeg \u0026 Green Cardamom, Noodle Powder (Refined Wheat Flour (Maida), Refined Palm Oil, lodised Salt, Acidity Regulators [INS 451(i) \u0026 INS 500(0), Mixed Spices 0.17% (Turmeric, Coriander, Cumin \u0026 Red Chilli), Antioxidant (INS 319) \u0026 Thickener (INS 412)), Maltodextrin, Hydrolyzed Vegetable Protein (Soya), Corn Starch, Garlic Powder, Flavour Enhancers [INS 631\u0026INS 627, Yeast Extract Powder, Acidity Regulator (INS 330) \u0026 Natural Flavour.",
+  "per_100g": {
+    "energy_kcal": 441.89,
+    "fat": 16.77,
+    "saturated_fat": 8.13,
+    "carbohydrates": 65.81,
+    "sugars": 3.82,
+    "fiber": null,
+    "protein": 6.93,
+    "salt": 4.0767,
+    "sodium": 1.63068
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-05T19:29:57Z",
+  "fetched_at": "2026-08-19T01:41:50Z"
+}

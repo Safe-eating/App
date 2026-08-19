@@ -1,0 +1,33 @@
+{
+  "barcode": "3596710496037",
+  "name": "Feuilletée",
+  "brand": "Auchan",
+  "quantity": "0.46 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:cooking-helpers",
+    "en:pie-dough",
+    "en:puff-pastry-sheets",
+    "en:refrigerated-cooking-helpers"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 398,
+    "fat": 22,
+    "saturated_fat": 11,
+    "carbohydrates": 39,
+    "sugars": 1.2,
+    "fiber": 1.4,
+    "protein": 5.7,
+    "salt": 0.88,
+    "sodium": 0.352
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T06:11:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

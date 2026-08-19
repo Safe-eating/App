@@ -1,0 +1,26 @@
+{
+  "barcode": "8906022212037",
+  "name": "Supreme Refined Oil",
+  "brand": "Supreme",
+  "quantity": "1l",
+  "categories": [
+    "en:Oils"
+  ],
+  "ingredients": "Refined Cottonseed Oil, Permitted Antioxidant TBHQ (E-319).",
+  "per_100g": {
+    "energy_kcal": 884,
+    "fat": 100,
+    "saturated_fat": 26,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-10T11:58:07Z",
+  "fetched_at": "2026-08-19T02:09:32Z"
+}

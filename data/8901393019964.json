@@ -1,0 +1,29 @@
+{
+  "barcode": "8901393019964",
+  "name": "Centerfresh Soft Chews",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:candies"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 380,
+    "fat": 1.21,
+    "saturated_fat": 1.2,
+    "carbohydrates": 92.4,
+    "sugars": 68,
+    "fiber": null,
+    "protein": 0.06,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2021-10-15T13:51:11Z",
+  "fetched_at": "2026-08-19T00:47:43Z"
+}

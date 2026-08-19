@@ -1,0 +1,32 @@
+{
+  "barcode": "5026489484761",
+  "name": "Quinoa chips",
+  "brand": "Cofresh",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips",
+    "en:quinoa-crisps"
+  ],
+  "ingredients": "Quinoa Flour (29%), Corn Flour, Rice Flour, Corn Starch, Lentil Flour, Pea Flour, Rapeseed Oil, Sugar, Salt, Chilli \u0026 Lime Seasoning (2.5%) (Sugar, Rice Flour, Salt, Dried Bell Pepper , Spices (Cayenne, Cumin), Garlic Powder, Citric Acid, Natural Flavourings, Herb (Parsley), Onion Powder, Natural Colour (E160c)",
+  "per_100g": {
+    "energy_kcal": 480,
+    "fat": 21,
+    "saturated_fat": 1.9,
+    "carbohydrates": 63.7,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 6.8,
+    "salt": 1.9,
+    "sodium": 0.76
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T15:39:19Z",
+  "fetched_at": "2026-08-19T00:05:30Z"
+}

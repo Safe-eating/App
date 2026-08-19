@@ -1,0 +1,31 @@
+{
+  "barcode": "8904300201643",
+  "name": "TRDP Mario Milk Rusk",
+  "brand": "TRDP Mario",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:rusks"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EDIBLE VEGETABLE OIL (REFINED PALM OIL), SEMOLINA (WHEAT), YEAST, MILK SOLIDS (3%), INVERT SYRUP, MALT EXTRACT, IODIZED SALT, WHEAT FIBER, EMULS - IFIER (471, 472e \u0026 481 (i)), ANTIOXIDANT (300) \u0026 FLOUR TREATMENT AGENTS 1100(i). CONTAINS ADDED FLAVOUR [NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES (MILK \u0026 VANILLA)].",
+  "per_100g": {
+    "energy_kcal": 395,
+    "fat": 10.5,
+    "saturated_fat": 5,
+    "carbohydrates": 67,
+    "sugars": 25,
+    "fiber": 1.5,
+    "protein": 7,
+    "salt": 0.565,
+    "sodium": 0.226
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-28T07:33:06Z",
+  "fetched_at": "2026-08-19T01:42:24Z"
+}

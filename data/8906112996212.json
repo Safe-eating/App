@@ -1,0 +1,30 @@
+{
+  "barcode": "8906112996212",
+  "name": "High Protein Bread",
+  "brand": "Protein Chef",
+  "quantity": "270 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour (Atta), High Protein Blend (Soya Flour, Peanut Flour), Vital Wheat Gluten, Broken Wheat, Vinegar, Yeast, Iodised Salt, Sugar, Refined Sunflower oil, Bread Premix, Bread Improver.",
+  "per_100g": {
+    "energy_kcal": 287,
+    "fat": 2.4,
+    "saturated_fat": 0.3,
+    "carbohydrates": 53,
+    "sugars": 3.6,
+    "fiber": 10.5,
+    "protein": 18.5,
+    "salt": 1.325,
+    "sodium": 0.53
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-29T06:01:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

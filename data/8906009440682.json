@@ -1,0 +1,32 @@
+{
+  "barcode": "8906009440682",
+  "name": "Saras Dahi",
+  "brand": "Saras",
+  "quantity": "200",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts"
+  ],
+  "ingredients": "MILK SOLIDS, Pasteurized toned milk \u0026 active culture. (MIN. SNF 8.5%, FAT 3.0%) Lic. No. 10012013000010 Batch No., PKD \u0026 USE BY DATE, MRP,U.S.P/gm (incl.of all taxes) SEE TOP LID 0090 8 सरस पाश्चुराइ",
+  "per_100g": {
+    "energy_kcal": 58,
+    "fat": 3,
+    "saturated_fat": 1.9,
+    "carbohydrates": 4.6,
+    "sugars": 4.6,
+    "fiber": null,
+    "protein": 3.2,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-15T19:41:37Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

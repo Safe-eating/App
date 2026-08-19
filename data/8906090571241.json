@@ -1,0 +1,26 @@
+{
+  "barcode": "8906090571241",
+  "name": "Multigrain Chips",
+  "brand": "Too Yumm",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 483.33333333333,
+    "fat": 20,
+    "saturated_fat": 9.1666666666667,
+    "carbohydrates": 66.666666666667,
+    "sugars": 9.1666666666667,
+    "fiber": 5,
+    "protein": 8.3333333333333,
+    "salt": 2.5,
+    "sodium": 1
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-21T11:21:01Z",
+  "fetched_at": "2026-08-19T12:48:53Z"
+}

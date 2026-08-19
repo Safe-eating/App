@@ -1,0 +1,30 @@
+{
+  "barcode": "8904063220028",
+  "name": "Chips Mast Masala",
+  "brand": "Haldiram's",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 546,
+    "fat": 34,
+    "saturated_fat": 16,
+    "carbohydrates": 54,
+    "sugars": 0.3,
+    "fiber": null,
+    "protein": 6,
+    "salt": 2.2675,
+    "sodium": 0.907
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-15T13:24:47Z",
+  "fetched_at": "2026-08-19T01:30:23Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8904063210685",
+  "name": "Haldiram's Roasted Crushed Peanuts",
+  "brand": "Haldiram's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:nut-based-snacks",
+    "en:peanuts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 499,
+    "fat": 25.5,
+    "saturated_fat": 6,
+    "carbohydrates": 55,
+    "sugars": 10.5,
+    "fiber": 4.53,
+    "protein": 12.5,
+    "salt": 2.43,
+    "sodium": 0.972
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T15:37:22Z",
+  "fetched_at": "2026-08-19T01:29:57Z"
+}

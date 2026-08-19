@@ -1,0 +1,32 @@
+{
+  "barcode": "8906032019664",
+  "name": "Aarogya Multigrain Biscuits",
+  "brand": "Patanjali",
+  "quantity": "75g",
+  "categories": [
+    "en:snacks",
+    "en:meals",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:vegetarian-meals"
+  ],
+  "ingredients": "Wheat flour (Atta 53.8%), Refined Palm oil, Sugar, Invert syrup, Multi grain flour mix 2.8% {Jowar, Water caltrope, Amaranth, Maize, Black Gram}, Dextrose, man Wheat bran, Milk solids, lodized Salt, Honey, Raising Agents [INS 500(ii), INS 503(ii)], Emulsifier [INS-322(i), INS 472) Vegetable Extracts {Carrot \u0026 Tomato }, Butter, Dough PO. Conditioner (INS 223), Nature Identical (Butter, Honey) \u0026 Artificial Flavouring Substances (Milk \u0026 Vanilla). 287 84105 0938 Soya 452 CONTAINS ALLERGEN: WHEAT, MILK, SOY, SULPHITE NET QUANTIT",
+  "per_100g": {
+    "energy_kcal": 495,
+    "fat": 19,
+    "saturated_fat": 9.3,
+    "carbohydrates": 71,
+    "sugars": 24.7,
+    "fiber": 7,
+    "protein": 7,
+    "salt": 0.6,
+    "sodium": 0.24
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-18T09:11:19Z",
+  "fetched_at": "2026-08-19T12:33:20Z"
+}

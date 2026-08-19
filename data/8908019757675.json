@@ -1,0 +1,34 @@
+{
+  "barcode": "8908019757675",
+  "name": "MADAGASCAR CHOCOBAR",
+  "brand": "GO ZERO",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:frozen-sticks",
+    "en:ice-creams",
+    "en:ice-cream-bars",
+    "en:coated-ice-cream-bars",
+    "en:ice-cream-bars-coated-with-chocolate"
+  ],
+  "ingredients": "Inner Ice Cream Layer (77%): Milk \u0026 Milk Solids (Skimmed Milk Powder, Butter), Maltitol, Oligofructose, Cocoa Solids, Cocoa Mass, Starch, Permitted Emulsifier (471, 433) and Stabilizer (412, 407, 461), Stevia. Outer Layer (23%): Chocolate Paste (Maltitol, Edible Vegetable Oil, Cocoa Solids, Soya Lecithin), Edible Vegetable Oil, Cocoa Butter, Wheat Crunch (2%). CONTAINS ADDED NATURE IDENTICAL VANILLA FLAVOURING SUBSTANCES",
+  "per_100g": {
+    "energy_kcal": 149,
+    "fat": 10.2,
+    "saturated_fat": 4.2,
+    "carbohydrates": 18.1,
+    "sugars": 2.5,
+    "fiber": 3.2,
+    "protein": 2.8,
+    "salt": 0.072,
+    "sodium": 0.0288
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-04T10:15:49Z",
+  "fetched_at": "2026-08-19T13:19:56Z"
+}

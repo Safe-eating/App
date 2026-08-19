@@ -1,0 +1,28 @@
+{
+  "barcode": "8901058003055",
+  "name": "Maggi pazzta cheese macaroni",
+  "brand": "Maggi",
+  "quantity": "150",
+  "categories": [
+    "en:meals",
+    "en:pasta-dishes",
+    "en:instant-pasta"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 321,
+    "fat": 3,
+    "saturated_fat": 2.9,
+    "carbohydrates": 63.7,
+    "sugars": 7.2,
+    "fiber": null,
+    "protein": 9.9,
+    "salt": 1815.25,
+    "sodium": 726.1
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-25T09:41:34Z",
+  "fetched_at": "2026-08-19T00:24:55Z"
+}

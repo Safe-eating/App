@@ -1,0 +1,28 @@
+{
+  "barcode": "0846203004731",
+  "name": "Kaju Katli Classic",
+  "brand": "Chitale",
+  "quantity": "80 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries"
+  ],
+  "ingredients": "Cashewnuts (46.5%), Refined Sugar, Khoya, Cardamom Powder, Preservative (INS 202), Silver Leaf. Allergen Advice: Contains Treenuts and Milk.",
+  "per_100g": {
+    "energy_kcal": 480,
+    "fat": 23,
+    "saturated_fat": 6,
+    "carbohydrates": 58,
+    "sugars": 49,
+    "fiber": null,
+    "protein": 10,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-07T08:01:42Z",
+  "fetched_at": "2026-08-18T23:56:43Z"
+}

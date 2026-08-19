@@ -1,0 +1,28 @@
+{
+  "barcode": "8906143891289",
+  "name": "Double Cocoa Protein Bar",
+  "brand": "The whole foods",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars"
+  ],
+  "ingredients": "cocoa powder, cocoa butter, dates, cashews, almonds and whey.",
+  "per_100g": {
+    "energy_kcal": 271.609375,
+    "fat": 36.7953125,
+    "saturated_fat": 7.34401041666667,
+    "carbohydrates": 14.9583333333333,
+    "sugars": 7.73046875,
+    "fiber": 18.5234375,
+    "protein": 14.71875,
+    "salt": 0.0766666666666667,
+    "sodium": 0.0312239583333333
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-02T13:27:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

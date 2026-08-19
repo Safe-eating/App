@@ -1,0 +1,27 @@
+{
+  "barcode": "12345678",
+  "name": "dsdsds",
+  "brand": "bfgfg",
+  "quantity": "0.33l",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "Potatoes, Vegetable Oil Contains One Or More Of The Following: Corn, Cottonseed, Soybean, Sunflower, Seasoning Whey, Nonfat Dry Milk, Dextrose, Maltodextrin, Buttermilk Solids, Salt, Dehydrated Onion, Sugar, Butter Cream, Salt, Sour Cream Cream, Nonfat Milk, Cultures, Monosodium Glutamate, Corn Syrup Solids, Citric Acid, Parsley, Artificial Flavor, Malic Acid, Sodium Diacetate, Lactose, Salt.",
+  "per_100g": {
+    "energy_kcal": 536,
+    "fat": 32.14,
+    "saturated_fat": 8.93,
+    "carbohydrates": 57.14,
+    "sugars": 3.57,
+    "fiber": 3.6,
+    "protein": 7.14,
+    "salt": 2.41,
+    "sodium": 0.964
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-18T19:52:11Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

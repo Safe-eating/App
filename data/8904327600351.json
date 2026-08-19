@@ -1,0 +1,35 @@
+{
+  "barcode": "8904327600351",
+  "name": "Chocolate Peanut butter smooth",
+  "brand": "Myfitness",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "Roasted Peanuts (83%). Dark Chocolate (10%), Sugar, Salt, Stabilizer (INS 471) Allergen Info: Contain Peanuts \u0026 Soya Produced in a facility that also handles nuts",
+  "per_100g": {
+    "energy_kcal": 627.8125,
+    "fat": 49.375,
+    "saturated_fat": 13.75,
+    "carbohydrates": 17.5,
+    "sugars": 8.125,
+    "fiber": 8.4375,
+    "protein": 28.125,
+    "salt": 1.0859375,
+    "sodium": 0.434375
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T02:53:58Z",
+  "fetched_at": "2026-08-19T01:43:01Z"
+}

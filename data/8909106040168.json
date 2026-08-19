@@ -1,0 +1,28 @@
+{
+  "barcode": "8909106040168",
+  "name": "Horlicks",
+  "brand": "Hindustan Unilever Ltd.",
+  "quantity": "550 g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "Malt (66.7%) [Barley (32%), Wheat Flour (Atta), Wheat, Millet], Milk Solids (14%), Sugar, Wheat Gluten, Minerals, Edible lodized Salt, Soy Protein Isolate, Acidity Regulators [INS 501(ii), INS 500(ii)], Vitamins. Allergen Information: Contains Wheat, Barley, Milk \u0026 Soy.",
+  "per_100g": {
+    "energy_kcal": 377,
+    "fat": 2,
+    "saturated_fat": 1.4,
+    "carbohydrates": 79,
+    "sugars": 46,
+    "fiber": null,
+    "protein": 11,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-15T13:13:59Z",
+  "fetched_at": "2026-08-19T13:24:00Z"
+}

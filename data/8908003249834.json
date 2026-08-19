@@ -1,0 +1,29 @@
+{
+  "barcode": "8908003249834",
+  "name": "Organic Plain Buttermilk",
+  "brand": "Akshayakalpa Organic",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:buttermilks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 27.8,
+    "fat": 1.2,
+    "saturated_fat": 0.96,
+    "carbohydrates": 2.8,
+    "sugars": 2.35,
+    "fiber": null,
+    "protein": 1.45,
+    "salt": 0.66,
+    "sodium": 0.264
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-20T06:58:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

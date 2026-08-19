@@ -1,0 +1,24 @@
+{
+  "barcode": "8901595864355",
+  "name": "Chilli Oil",
+  "brand": "Ching",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 599,
+    "fat": 54.2,
+    "saturated_fat": 6.2,
+    "carbohydrates": 24.5,
+    "sugars": 5.5,
+    "fiber": 9.8,
+    "protein": 3.2,
+    "salt": 3.2125,
+    "sodium": 1.285
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-19T06:17:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

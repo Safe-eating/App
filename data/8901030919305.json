@@ -1,0 +1,29 @@
+{
+  "barcode": "8901030919305",
+  "name": "pizza \u0026 pasta sauce",
+  "brand": "Knorr",
+  "quantity": "200g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:pasta-sauces",
+    "en:pizza-sauces"
+  ],
+  "ingredients": "Water, Vegetables (Crushed Tomato - 25%, Diced Tomato - 20%, Chopped Onion-3.5% and Garlic Paste-2.5%), Sugar, lodised Salt, Soyabean Oil, Stabilisers - E1422, E415, Acidity Regulator - E260, Herbs (Oregano and Basil - 0.12%), White Pepper Powder, Preservative-E211",
+  "per_100g": {
+    "energy_kcal": 83,
+    "fat": 2.4,
+    "saturated_fat": 0.4,
+    "carbohydrates": 14,
+    "sugars": 10.7,
+    "fiber": 1,
+    "protein": 1.4,
+    "salt": 2.2725,
+    "sodium": 0.909
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-25T08:05:00Z",
+  "fetched_at": "2026-08-19T00:20:50Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8905507003146",
+  "name": "Mixed Pickle",
+  "brand": "Imli Tree",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles"
+  ],
+  "ingredients": "Fruit \u0026 Vegetable (65%)[Mango (22%), Carrot (20%), Lime (11%) Green Chilli], Brine, Iodized Salt, Edible Vegetable Oil (Mustard Oil), Spices \u0026 Condiments (7.2%) Mustard Seeds, Fenugreek, Turmeric, Red Chill Powder (2%), Fennel (1.5%), Nigella Seed, Coriander \u0026 Bishop seed, Asafoetida, Acidity Regulator (INS 260) \u0026 Preservative (INS 211)",
+  "per_100g": {
+    "energy_kcal": 100,
+    "fat": 7,
+    "saturated_fat": 0.5,
+    "carbohydrates": 8,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 2,
+    "salt": 12.0025,
+    "sodium": 4.801
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-19T11:59:55Z",
+  "fetched_at": "2026-08-19T01:47:34Z"
+}

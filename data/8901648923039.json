@@ -1,0 +1,26 @@
+{
+  "barcode": "8901648923039",
+  "name": "Super T Milk",
+  "brand": "Mother Dairy",
+  "quantity": "1L",
+  "categories": [
+    "en:dairies"
+  ],
+  "ingredients": "Standardised Milk, Vitamin A, Vitamin D2 (Ergocalciferol)",
+  "per_100g": {
+    "energy_kcal": 73,
+    "fat": 4.6,
+    "saturated_fat": 3.2,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": null,
+    "protein": 3.1,
+    "salt": 0.1375,
+    "sodium": 0.055
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-06T04:14:49Z",
+  "fetched_at": "2026-08-19T00:58:39Z"
+}

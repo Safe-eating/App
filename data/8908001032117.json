@@ -1,0 +1,32 @@
+{
+  "barcode": "8908001032117",
+  "name": "Everyday 100% whole wheat bread",
+  "brand": "Everyday",
+  "quantity": "450g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:white-breads",
+    "en:wheat-breads"
+  ],
+  "ingredients": "Whole Wheat Flour (Atta), Gluten, Yeast, Salt, Jaggery, Cultured wheat flour, Vinegar, Sunflower Oil.",
+  "per_100g": {
+    "energy_kcal": 249.22,
+    "fat": 1.1,
+    "saturated_fat": 0.32,
+    "carbohydrates": 42.26,
+    "sugars": 4.18,
+    "fiber": 6.68,
+    "protein": 14.42,
+    "salt": 1.2875,
+    "sodium": 320.52
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-11T11:11:42Z",
+  "fetched_at": "2026-08-19T13:05:55Z"
+}

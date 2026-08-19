@@ -1,0 +1,30 @@
+{
+  "barcode": "8906106620062",
+  "name": "Bell Whole Wheat Chapati",
+  "brand": "Bell",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour, RO Purified Water, Edible Vegetable Oil and Low Sodium Salt",
+  "per_100g": {
+    "energy_kcal": 303,
+    "fat": 5.58,
+    "saturated_fat": 1.77,
+    "carbohydrates": 55.4,
+    "sugars": 1.36,
+    "fiber": null,
+    "protein": 7.7,
+    "salt": 1.385,
+    "sodium": 0.554
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-28T07:13:17Z",
+  "fetched_at": "2026-08-19T12:50:23Z"
+}

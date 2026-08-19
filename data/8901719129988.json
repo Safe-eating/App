@@ -1,0 +1,31 @@
+{
+  "barcode": "8901719129988",
+  "name": "Happy happy - Parl",
+  "brand": "Parle",
+  "quantity": "31.5 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:happy-happy-biscuit"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR(MAIDA), SUGAR, REFINED PALM OIL, CHOCO CHIPS(8.4%), [SUGAR, EDIBLE VEGETABLE FAT (HYDROGENATED OILS), COCOA SOLIDS, DEXTROSE, EMULSIFIER (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA)], INVERT SUGAR SYRUP, COCOA SOLIDS (0.5%), IODISED SALT, RAISING AGENTS [503 (ii), 500 (ii)] AND EMULSIFIER OF VEGETABLE ORIGIN (472e) CONTAINS PERMITTED NATURAL FOOD COLOURS [ 150c, 150d ] AND ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES - CHOCOLATE).",
+  "per_100g": {
+    "energy_kcal": 469,
+    "fat": 15.9,
+    "saturated_fat": 8.6,
+    "carbohydrates": 75.2,
+    "sugars": 31,
+    "fiber": 0,
+    "protein": 6.1,
+    "salt": 0,
+    "sodium": 0.205
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-23T08:46:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

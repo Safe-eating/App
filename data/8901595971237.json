@@ -1,0 +1,27 @@
+{
+  "barcode": "8901595971237",
+  "name": "Sweet Corn Veg Instant Soup",
+  "brand": "Ching's",
+  "quantity": "13",
+  "categories": [
+    "en:meals",
+    "en:soups"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 346.153846153846,
+    "fat": 1.53846153846154,
+    "saturated_fat": 0.769230769230769,
+    "carbohydrates": 80.7692307692308,
+    "sugars": 35.3846153846154,
+    "fiber": 6.92307692307692,
+    "protein": 3.07692307692308,
+    "salt": 13.3461538461538,
+    "sodium": 5.33846153846154
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-18T12:46:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

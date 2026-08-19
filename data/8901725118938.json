@@ -1,0 +1,33 @@
+{
+  "barcode": "8901725118938",
+  "name": "Bingo Tedhe Medhe",
+  "brand": "Bingo",
+  "quantity": "19.2g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:crackers-appetizers",
+    "en:plain-salty-snacks"
+  ],
+  "ingredients": "chili powder extra",
+  "per_100g": {
+    "energy_kcal": 546,
+    "fat": 32.8,
+    "saturated_fat": 15.5,
+    "carbohydrates": 57.3,
+    "sugars": 1.7,
+    "fiber": null,
+    "protein": 5.5,
+    "salt": 1.846,
+    "sodium": 0.7384
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-17T17:42:45Z",
+  "fetched_at": "2026-08-19T01:06:28Z"
+}

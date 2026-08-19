@@ -1,0 +1,26 @@
+{
+  "barcode": "8904004410617",
+  "name": "Orange Burfee",
+  "brand": "Haldiram's",
+  "quantity": "250g",
+  "categories": [
+    "en:Sweets desserts"
+  ],
+  "ingredients": "Refined Sugar, Ash Gourd, Milk Solids (Khoa), Orange Pulp (2%), Preservative (INS 202), Colours [Sunset Yellow (INS 110), Carmoisine (INS 122)], Silver Leaf (0.035%) \u0026 Natural Flavouring Substances \u0026 Nature Identical Flavouring Substances",
+  "per_100g": {
+    "energy_kcal": 296,
+    "fat": 1.3,
+    "saturated_fat": 0.52,
+    "carbohydrates": 66.91,
+    "sugars": 57.74,
+    "fiber": 1.81,
+    "protein": 3.38,
+    "salt": 0.0652,
+    "sodium": 0.02608
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-30T20:28:43Z",
+  "fetched_at": "2026-08-19T01:25:47Z"
+}

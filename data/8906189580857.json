@@ -1,0 +1,36 @@
+{
+  "barcode": "8906189580857",
+  "name": "Freshly Frozen Grated Coconut",
+  "brand": "Pluckk",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:dried-products",
+    "en:fruits-based-foods",
+    "en:fruits",
+    "en:dried-plant-based-foods",
+    "en:tropical-fruits",
+    "en:coconuts",
+    "en:dried-fruits",
+    "en:grated-coconut"
+  ],
+  "ingredients": "Coconut",
+  "per_100g": {
+    "energy_kcal": 411.42,
+    "fat": 38.54,
+    "saturated_fat": 35.67,
+    "carbohydrates": 10.18,
+    "sugars": 4.78,
+    "fiber": 9,
+    "protein": 5.96,
+    "salt": 0.015575,
+    "sodium": 0.00623
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-08T17:27:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

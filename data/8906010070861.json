@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010070861",
+  "name": "Ganesh Chana Sattu-500g",
+  "brand": "Ganesh",
+  "quantity": "500g",
+  "categories": [
+    "en:Sattu"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 393.84,
+    "fat": 6.05,
+    "saturated_fat": 0.85,
+    "carbohydrates": 58.56,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 25.11,
+    "salt": 17.825,
+    "sodium": 7.13
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-30T15:31:56Z",
+  "fetched_at": "2026-08-19T01:59:07Z"
+}

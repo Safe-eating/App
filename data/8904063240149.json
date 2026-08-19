@@ -1,0 +1,32 @@
+{
+  "barcode": "8904063240149",
+  "name": "Haldiram's Salted Peanuts",
+  "brand": "Haldiram's",
+  "quantity": "38g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:peanuts"
+  ],
+  "ingredients": "Peanuts (89%), Edible Vegetable (Palmolein, cotton Seed, Rice Bran) and lodised Salt (1.6%). Allergen Information: Contains Nut.",
+  "per_100g": {
+    "energy_kcal": 610,
+    "fat": 48,
+    "saturated_fat": 24,
+    "carbohydrates": 18.5,
+    "sugars": 0,
+    "fiber": 6.8,
+    "protein": 26,
+    "salt": 1.825,
+    "sodium": 0.73
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-20T02:26:20Z",
+  "fetched_at": "2026-08-19T01:30:54Z"
+}

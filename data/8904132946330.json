@@ -1,0 +1,27 @@
+{
+  "barcode": "8904132946330",
+  "name": "Upma",
+  "brand": "Masti Oye!",
+  "quantity": "60g",
+  "categories": [
+    "en:Instant foods",
+    "en:Upmas"
+  ],
+  "ingredients": "SUJI (70%), EDIBLE VEGETABLE FAT - INTERSTERIFIED PALM \u0026 PALM KERNEL, IODIZED SALT, GREEN CHILLIES, DEHYDRATED CARROT, MUSTARD, GINGER, SUGAR, BENGAL GRAM, CURRY LEAVES, DEHYDRATED ONION, ACIDITY REGULATORS (330, 334), NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES",
+  "per_100g": {
+    "energy_kcal": 387,
+    "fat": 3.4,
+    "saturated_fat": 2,
+    "carbohydrates": 83.1666666666667,
+    "sugars": 2.5,
+    "fiber": null,
+    "protein": 6,
+    "salt": 3.86,
+    "sodium": 1.544
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-24T09:29:29Z",
+  "fetched_at": "2026-08-19T01:37:09Z"
+}

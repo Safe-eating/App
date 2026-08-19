@@ -1,0 +1,26 @@
+{
+  "barcode": "8908015676710",
+  "name": "TBH Crispy Sweet Potato",
+  "brand": "TBH",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Sweet Potato, Refined Rice Bran Oil, lodized Salt, Mixed Spices (Cumin, Chilli, Fennel), Sugar, Dehydrated Vegetables Powder (Tomato, Garlic), Lime Juice Powder, Acidity Regulator (INS 330), Natural Color (INS 160c(i)), Dehydrated Parsley. Used as Natural and Nature Identical Flavouring Substances.",
+  "per_100g": {
+    "energy_kcal": 422,
+    "fat": 14.89,
+    "saturated_fat": 3.28,
+    "carbohydrates": 69.66,
+    "sugars": 10.54,
+    "fiber": 10.55,
+    "protein": 2.45,
+    "salt": 0.505,
+    "sodium": 0.202
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-22T05:14:25Z",
+  "fetched_at": "2026-08-19T13:17:14Z"
+}

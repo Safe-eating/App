@@ -1,0 +1,32 @@
+{
+  "barcode": "8904296902968",
+  "name": "Fabsta Muesli Fruit N' Nut",
+  "brand": "Fabsta",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Multigrain Flakes (64.78%) [Wheat Flakes MANUFACTURED E 29.75%) (Wheat, Sugar, lodised Salt, Malt Extract, Emulsifier [INS 22 Antioxidant (INS 320)), Corn Flakes (12.6%) (Corn Grits, Sugar, lodised Salt, Malt Extract, Emulsifier [INS 322 (1)], Antioxidant (INS 320)), Rice Flakes (9.43%) (Rice, lodised Salt), Bed Oats (7%), Rolled Barley (6%)], Dehydrated Candied Fruits \u0026 Nuts (22%) [Dehydrated Papaya (9%) (Papaya, Sugar, Preservative (INS 220)), Dehydrated Pineapple (4%), Dehydrated Apple (3%), Almonds (3%), Raisin (3%)], Strawberry Crush (6%) [Sugar, Strawberry Pulp, Water, Acidity Regulator (INS 330), Thickener (INS 440), Colours (INS 122, INS 124, INS 127), Natural and Nature Identical Flavour (Strawberry), Preservative (INS 224)], Sugar, Invert Syrup, Pineapple Crush (1%) [Acidity Regulator (INS 330), Thickener (INS 440), Colour (INS 102), Preservative (INS 224)], Honey, Natural \u0026 Nature Identical Flavour (Strawberry), Antioxidant (INS 320)",
+  "per_100g": {
+    "energy_kcal": 392.59,
+    "fat": 4.07,
+    "saturated_fat": 0.5,
+    "carbohydrates": 81.66,
+    "sugars": 22.07,
+    "fiber": null,
+    "protein": 7.33,
+    "salt": 0.65285,
+    "sodium": 0.26114
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-16T06:13:11Z",
+  "fetched_at": "2026-08-19T01:41:54Z"
+}

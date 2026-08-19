@@ -1,0 +1,24 @@
+{
+  "barcode": "8906018553137",
+  "name": "Frozen Sweet Corn",
+  "brand": "Pagro",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 101.17,
+    "fat": 2.37,
+    "saturated_fat": 0.42,
+    "carbohydrates": 16.44,
+    "sugars": 2,
+    "fiber": 6.8,
+    "protein": 3.52,
+    "salt": 0.021975,
+    "sodium": 0.00879
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-03T05:17:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

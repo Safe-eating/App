@@ -1,0 +1,29 @@
+{
+  "barcode": "8939120144764",
+  "name": "Mawa Cake",
+  "brand": "Awsum",
+  "quantity": "40g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes"
+  ],
+  "ingredients": "Wheat Flour, Jaggery, Milk Solids, Butter, Ghee, Baking Powder, Iodised Salt, saffron, Pistachio, Emulsifiers (INS 472a, INS 472b)",
+  "per_100g": {
+    "energy_kcal": 374,
+    "fat": 21.53,
+    "saturated_fat": 0.46,
+    "carbohydrates": 31.86,
+    "sugars": 31.86,
+    "fiber": 3.815173203125,
+    "protein": 8.56,
+    "salt": 0.849175,
+    "sodium": 0.33967
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-21T06:36:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

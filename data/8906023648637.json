@@ -1,0 +1,30 @@
+{
+  "barcode": "8906023648637",
+  "name": "Paneer",
+  "brand": "Thirumala",
+  "quantity": "400g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer"
+  ],
+  "ingredients": "Milk solids \u0026 Preservative (Naturally sourced food protectant)-INS 234.",
+  "per_100g": {
+    "energy_kcal": 291,
+    "fat": 23,
+    "saturated_fat": 14.4,
+    "carbohydrates": 2.5,
+    "sugars": 2.5,
+    "fiber": null,
+    "protein": 18.5,
+    "salt": 0.045,
+    "sodium": 0.018
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-11T04:38:53Z",
+  "fetched_at": "2026-08-19T02:10:03Z"
+}

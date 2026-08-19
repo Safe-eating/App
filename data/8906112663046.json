@@ -1,0 +1,32 @@
+{
+  "barcode": "8906112663046",
+  "name": "Pumpkin Seeds Roasted",
+  "brand": "True Elements",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:pumpkin-and-squash-plant-products",
+    "en:cucurbitacea-seeds",
+    "en:pumpkin-seeds-and-their-products",
+    "en:pumpkin-seeds"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 617.5,
+    "fat": 49.8,
+    "saturated_fat": 10.5,
+    "carbohydrates": 27.3,
+    "sugars": 0,
+    "fiber": 16.2,
+    "protein": 14.9,
+    "salt": 0.0095,
+    "sodium": 0.0038
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-26T06:50:58Z",
+  "fetched_at": "2026-08-19T12:51:27Z"
+}

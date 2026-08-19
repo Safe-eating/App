@@ -1,0 +1,28 @@
+{
+  "barcode": "8901042964478",
+  "name": "Multigrain Dosa",
+  "brand": "MTR",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:flours"
+  ],
+  "ingredients": "Multigrain Flour (32.2% of which is Corn, Ragi, Barley and Oats), Rice, Blackgram splits, Refined wheat flour Rice flakes, Edible vegetable fat (Palmolein oil and Sesame Oil), Salt, Leavening Agent Sodium Bicarbonate (E 500) Acidity regulatory Malic Acid (E 296) and Fenugreek.",
+  "per_100g": {
+    "energy_kcal": 388.6,
+    "fat": 5.4,
+    "saturated_fat": 2.97,
+    "carbohydrates": 72,
+    "sugars": 0,
+    "fiber": 8,
+    "protein": 13,
+    "salt": 1.85,
+    "sodium": 0.74
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-29T21:19:57Z",
+  "fetched_at": "2026-08-19T00:22:25Z"
+}

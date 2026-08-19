@@ -1,0 +1,32 @@
+{
+  "barcode": "8901262020367",
+  "name": "A+ Cheese Slices",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:cheese-preparations",
+    "en:processed-cheeses",
+    "en:processed-cheese-in-slices"
+  ],
+  "ingredients": "Cheese, milk solids, emulsifying salts (452, 339, 341, 331), iodized salt, preservatives (200, 234), natural colour [160a(ii)].\n\nAllergen Information: Contains milk",
+  "per_100g": {
+    "energy_kcal": 316,
+    "fat": 25,
+    "saturated_fat": 16,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": null,
+    "protein": 18,
+    "salt": 2.6,
+    "sodium": 1.04
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-01T15:40:15Z",
+  "fetched_at": "2026-08-19T00:41:35Z"
+}

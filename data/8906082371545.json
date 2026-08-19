@@ -1,0 +1,30 @@
+{
+  "barcode": "8906082371545",
+  "name": "Tender Coconut",
+  "brand": "nic",
+  "quantity": "500 ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Milk, Tender Coconut Pulp and Fructose Oligo Saccharide (FOS). Allergen Information: Contains Milk. May Contain Traces of Nuts. Contains Oligofructose. \nContains Naturally Occuring Sugars In Milk. \nNO ADDED SUCROSE. \nFOS MAY HAVE LAXATIVE EFFECT.",
+  "per_100g": {
+    "energy_kcal": 132,
+    "fat": 7.1,
+    "saturated_fat": 5.2,
+    "carbohydrates": 13.2,
+    "sugars": 5.6,
+    "fiber": 3.8,
+    "protein": 3.7,
+    "salt": 0.13125,
+    "sodium": 0.0525
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-09T20:03:33Z",
+  "fetched_at": "2026-08-19T12:47:22Z"
+}

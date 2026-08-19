@@ -1,0 +1,24 @@
+{
+  "barcode": "8906191631349",
+  "name": "Choco Peanut Butter Protein Bat",
+  "brand": "phab",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 310.72,
+    "fat": 12.76,
+    "saturated_fat": 5.94,
+    "carbohydrates": 28.2,
+    "sugars": 7.06,
+    "fiber": 18.46,
+    "protein": 30,
+    "salt": 0.465,
+    "sodium": 0.186
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-31T12:51:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

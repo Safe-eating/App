@@ -1,0 +1,32 @@
+{
+  "barcode": "7622202815096",
+  "name": "Dairy Milk Crackle Chocolate",
+  "brand": "Cadbury",
+  "quantity": "10.5g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:candy-chocolate-bars"
+  ],
+  "ingredients": "Sugar, Milk Solids (17%), Cocoa Butter, Rice crispies (11%) (Rice Flour, Sugar, Refined Wheat Flour (Maida), Barley Malt Extract, lodised Salt), Cocoa Solids, Fractionated Fat Emulsifiers (442,476), Flavours (Natural, Nature Identical and Artificial (Caramel and Vanilla) Flavouring Substances). CONTAINS COCOA BUTTER EQUIVALENT IN ADDITION TO COCOA BUTTER Allergen Information: Contains Milk, Wheat, Sulphites, Soy, Barley",
+  "per_100g": {
+    "energy_kcal": 507,
+    "fat": 24.6,
+    "saturated_fat": 16.3,
+    "carbohydrates": 65.3,
+    "sugars": 53.3,
+    "fiber": null,
+    "protein": 7.1,
+    "salt": 0.23525,
+    "sodium": 0.0941
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-18T11:17:09Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

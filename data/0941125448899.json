@@ -1,0 +1,36 @@
+{
+  "barcode": "0941125448899",
+  "name": "Corn Flakes Original",
+  "brand": "Kellogg's",
+  "quantity": "24 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:extruded-cereals",
+    "en:extruded-flakes",
+    "en:corn-flakes"
+  ],
+  "ingredients": "Corn Grits (90%), Sugar, Cereal Extract lodized Salt, Vitamins, Antioxidant (INS 307b), Minerals.\r\n\r\nCONTAINS WHEAT \u0026 BARLEY.\r\nMAY CONTAIN SOY.",
+  "per_100g": {
+    "energy_kcal": 378,
+    "fat": 86.9,
+    "saturated_fat": 0.6,
+    "carbohydrates": null,
+    "sugars": 9.2,
+    "fiber": 2.5,
+    "protein": 8.5,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-13T22:48:23Z",
+  "fetched_at": "2026-08-18T23:59:17Z"
+}

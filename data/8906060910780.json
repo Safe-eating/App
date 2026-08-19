@@ -1,0 +1,24 @@
+{
+  "barcode": "8906060910780",
+  "name": "Spaghetti",
+  "brand": "VeroBella",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 353,
+    "fat": 0.3,
+    "saturated_fat": 0.2,
+    "carbohydrates": 76,
+    "sugars": 3.1,
+    "fiber": 2.9,
+    "protein": 11.5,
+    "salt": 0.0035,
+    "sodium": 0.0014
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-27T07:34:40Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

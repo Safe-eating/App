@@ -1,0 +1,32 @@
+{
+  "barcode": "8801043018470",
+  "name": "NONGSP 席 GOURMET SPICY SPICY \u0026 CREAMY FLAVOUR Toom",
+  "brand": "Shin Ramyun",
+  "quantity": "137g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "NOEDELS 77%: Tarwebloem, aardappelzetmeel, palmolie, zout, zuurteregelaars: E501, E500, E339, antioxidant: E306, emulgator: E322 (bevat soja), kleurstof: E101. KRUIDENPOEDER 12% : Smaakmaker (maltodextrine, kokosolie, rijst, aardappelzetmeel, palmolie, gistextract, zout, amandel, haver, knoflook, sojabonen, tarwe), maltose, glucose, smaakversterkers: E621, E627, E631, aardappelzetmeel, zout, maiszetmeel, peterselie, shiitake, koolzaadolie. KRUIDENPASTA 11%: Suiker, Oliebereiding (rijstolie, water, koolzaadolie, groene uien), smaakversterkers: E621, E627, E631, smaakmaker (maltodextrine, smaakversterker: E640, gehydrolyseerd plantaardig eiwit (soja, tarwe), mosterdzaad, sojabonen, maïszetmeel, wortel), smaakmaker (chilli, knoflook, ui), zout, glucose, shiitake, voedingszuur: E330. Kan sporen van gerst, schaaldieren, eieren, vis, pinda's, melk, selderij, sesamzaad en weekdieren bevatten.",
+  "per_100g": {
+    "energy_kcal": 425,
+    "fat": 13,
+    "saturated_fat": 6.7,
+    "carbohydrates": 59,
+    "sugars": 5.2,
+    "fiber": 10.9489051094891,
+    "protein": 13,
+    "salt": 2.5,
+    "sodium": 0.983
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-24T08:33:29Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

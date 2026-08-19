@@ -1,0 +1,32 @@
+{
+  "barcode": "8906059638329",
+  "name": "Mishti Doi",
+  "brand": "Epigamia",
+  "quantity": "80g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts"
+  ],
+  "ingredients": "Low Lactose Full Cream Milk [Milk, Milk Solids, Enzyme (B-galactosidase)], Sugar, Colour (INS 150a), Flavour (Natural Flavouring Substances), Permitted Lactic Acid Culture",
+  "per_100g": {
+    "energy_kcal": 136.25,
+    "fat": 5,
+    "saturated_fat": 3.75,
+    "carbohydrates": 17.5,
+    "sugars": 17.5,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0.196875,
+    "sodium": 0.07875
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T13:10:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

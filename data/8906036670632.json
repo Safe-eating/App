@@ -1,0 +1,29 @@
+{
+  "barcode": "8906036670632",
+  "name": "Buttermilk",
+  "brand": "Nandini",
+  "quantity": "200ml",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:buttermilks"
+  ],
+  "ingredients": "Milk Solids. Pasteurised was fodised Satt Spices \u0026 Condiments Allergen Advice: contains Milk",
+  "per_100g": {
+    "energy_kcal": 23,
+    "fat": 1.2,
+    "saturated_fat": 0.8,
+    "carbohydrates": 1.8,
+    "sugars": 1.8,
+    "fiber": 0,
+    "protein": 1.4,
+    "salt": 0.85,
+    "sodium": 0.34
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-29T14:28:39Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,37 @@
+{
+  "barcode": "8904335600329",
+  "name": "Dark Chocolate And Cranberry Muesli",
+  "brand": "Yoga Bar",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:mueslis",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats",
+    "en:rolled-oats-small"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 408,
+    "fat": 11.6,
+    "saturated_fat": 3.4,
+    "carbohydrates": 69,
+    "sugars": 14.9,
+    "fiber": 10,
+    "protein": 12,
+    "salt": 0.28575,
+    "sodium": 0.1143
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-01T05:45:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

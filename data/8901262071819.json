@@ -1,0 +1,33 @@
+{
+  "barcode": "8901262071819",
+  "name": "Dark compound DCO-18",
+  "brand": "",
+  "quantity": "500g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cocoa-and-its-products",
+    "en:cakes",
+    "en:chocolates",
+    "en:chocolate-cakes",
+    "en:Chockl"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 543,
+    "fat": 31,
+    "saturated_fat": 23,
+    "carbohydrates": 61.5,
+    "sugars": 51.7,
+    "fiber": 0,
+    "protein": 4.5,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-10T09:25:10Z",
+  "fetched_at": "2026-08-19T00:43:00Z"
+}

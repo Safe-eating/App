@@ -1,0 +1,34 @@
+{
+  "barcode": "3948764012273",
+  "name": "Coca cola Soft Drink 750ml",
+  "brand": "Coca cola",
+  "quantity": "750ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:non-alcoholic-beverages",
+    "en:carbonated-drinks",
+    "en:soft-drinks",
+    "en:sodas",
+    "en:colas",
+    "en:cola-with-sugar-and-artificial-sweetener",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "Carbonated water ,Sugar, Acidity Regulator (338), Caffeine (8.7 mg/100g), Colour (150d), Flavours (Natural Flavoring substances)",
+  "per_100g": {
+    "energy_kcal": 44,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 10.9,
+    "sugars": 10.6,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.02125,
+    "sodium": 0.0085
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-10T10:04:13Z",
+  "fetched_at": "2026-08-18T23:38:17Z"
+}

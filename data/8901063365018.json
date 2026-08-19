@@ -1,0 +1,33 @@
+{
+  "barcode": "8901063365018",
+  "name": "Biscafe Biscuit 🍪",
+  "brand": "Britannia",
+  "quantity": "100 gm",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:sweet-snacks",
+    "en:appetizers",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:crackers-appetizers"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR (19%) REFINED PALM \u0026 PALMOLEIN OIL, LIQUID GLUCOSE, MAIZE STARCH, INSTANT COFFEE POWDER (1.3%), BUTTER, MILK SOLIDS, IODISED SALT, RAISING AGENTS [503(ii) \u0026 500(ii)], COLOURS (150a \u0026 150d), YEAST, NATURE IDENTICAL FLAVOURING SUBSTANCES, EMULSIFIERS [322(i) \u0026 471], DOUGH CONDITIONER (223) AND IMPROVER [1101(i)]. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK, SOYA AND SULPHITE",
+  "per_100g": {
+    "energy_kcal": 485,
+    "fat": 19,
+    "saturated_fat": 9.3,
+    "carbohydrates": 71.8,
+    "sugars": 22.6,
+    "fiber": null,
+    "protein": 6.8,
+    "salt": 1.155,
+    "sodium": 0.462
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-28T03:41:16Z",
+  "fetched_at": "2026-08-19T00:34:17Z"
+}

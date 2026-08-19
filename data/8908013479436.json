@@ -1,0 +1,31 @@
+{
+  "barcode": "8908013479436",
+  "name": "Cocoa Cranberry Fudge",
+  "brand": "The Whole Truth",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:energy-bars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 488.5,
+    "fat": 25.5,
+    "saturated_fat": 6,
+    "carbohydrates": 52,
+    "sugars": 25,
+    "fiber": 9,
+    "protein": 12.5,
+    "salt": 0.026875,
+    "sodium": 0.01075
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-22T15:23:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

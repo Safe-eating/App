@@ -1,0 +1,30 @@
+{
+  "barcode": "8901088074063",
+  "name": "Roasted Makhana",
+  "brand": "Saffola, Munchiez",
+  "quantity": "75g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:seeds",
+    "en:fox-nuts"
+  ],
+  "ingredients": "Roasted Makhana (Fox Nut) (58%), Edible Vegetable Oil (Refined Rice Bran Oil), Sugar, Maltodextrin, Iodised Salt, ~Spices and Condiments, Milk Solids, Flavour (Natural and Nature Identical Flavouring Substance), Flavour Enhancer (INS 627, INS 631), Cheese powder (0.05%)",
+  "per_100g": {
+    "energy_kcal": 507,
+    "fat": 26,
+    "saturated_fat": 6.3,
+    "carbohydrates": 62,
+    "sugars": 6,
+    "fiber": 2,
+    "protein": 7.1,
+    "salt": 2.26,
+    "sodium": 0.904
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-22T02:52:16Z",
+  "fetched_at": "2026-08-19T00:36:17Z"
+}

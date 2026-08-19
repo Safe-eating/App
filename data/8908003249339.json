@@ -1,0 +1,24 @@
+{
+  "barcode": "8908003249339",
+  "name": "Organic Set Curd",
+  "brand": "Akshayakalpa",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 71.73,
+    "fat": 3.65,
+    "saturated_fat": 2.62,
+    "carbohydrates": 5.82,
+    "sugars": 5.82,
+    "fiber": null,
+    "protein": 3.9,
+    "salt": 0.1375,
+    "sodium": 0.0482
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-21T04:27:25Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

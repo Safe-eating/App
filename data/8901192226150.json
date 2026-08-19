@@ -1,0 +1,31 @@
+{
+  "barcode": "8901192226150",
+  "name": "Hing (Asafoetida)",
+  "brand": "Catch",
+  "quantity": "100g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:spices",
+    "en:asafoetida"
+  ],
+  "ingredients": "Wheat Flour (55%), Asafoetida, Edible Gum. ALLERGN: Conatins Wheat Flour",
+  "per_100g": {
+    "energy_kcal": 382,
+    "fat": 4,
+    "saturated_fat": 1.7,
+    "carbohydrates": 71.8,
+    "sugars": 12.3,
+    "fiber": null,
+    "protein": 8.6,
+    "salt": 0.15325,
+    "sodium": 0.0613
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T10:18:13Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

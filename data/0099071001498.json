@@ -1,0 +1,28 @@
+{
+  "barcode": "0099071001498",
+  "name": "Prostar 100% Whey Protein",
+  "brand": "Ultimate Nutrition",
+  "quantity": "5 lbs",
+  "categories": [
+    "en:proteinas",
+    "en:proteinas-de-suero",
+    "en:suplementos"
+  ],
+  "ingredients": "Mezcla de proteínas (Proteína de suero aislada, proteína de suero concentrada) cacao en polvo, saborizante natural y artificial, cloruro de sodio, sucralosa, acesulfame de potasio, lecitina de soya.",
+  "per_100g": {
+    "energy_kcal": 400,
+    "fat": 3.3,
+    "saturated_fat": 1.7,
+    "carbohydrates": 6.7,
+    "sugars": 3.3,
+    "fiber": 0,
+    "protein": 83.3,
+    "salt": 0,
+    "sodium": 0.133
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-12T18:20:15Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8902433003882",
+  "name": "Galaxy Milk Chocolate with Fruit \u0026 Nut",
+  "brand": "Galaxy, Mars",
+  "quantity": "100 g",
+  "categories": [
+    "en:Chocolate bar with fruit and nuts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 526,
+    "fat": 30.5,
+    "saturated_fat": 17.3,
+    "carbohydrates": 56.5,
+    "sugars": 53.2,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 0.16,
+    "sodium": 0.064
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-08T14:56:04Z",
+  "fetched_at": "2026-08-19T01:15:20Z"
+}

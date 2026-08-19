@@ -1,0 +1,30 @@
+{
+  "barcode": "8908000407008",
+  "name": "Goat Cheese",
+  "brand": "Flanders Dairy Products",
+  "quantity": "500g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:goat-cheeses"
+  ],
+  "ingredients": "Pasteurised Goat Milk, Lactic acid culture, common salt, permitted class 2 preservative",
+  "per_100g": {
+    "energy_kcal": 205,
+    "fat": 15,
+    "saturated_fat": 15,
+    "carbohydrates": 3.5,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 14,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2020-06-16T02:55:19Z",
+  "fetched_at": "2026-08-19T13:04:49Z"
+}

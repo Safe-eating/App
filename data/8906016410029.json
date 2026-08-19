@@ -1,0 +1,28 @@
+{
+  "barcode": "8906016410029",
+  "name": "Godrej Jersey Full Cream Milk",
+  "brand": "Godrej, Jersey",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk solids, Vitamin A (Retinyl palmitate), Vitamin D2 (Ergocalciferol)",
+  "per_100g": {
+    "energy_kcal": 88,
+    "fat": 6,
+    "saturated_fat": 4.1,
+    "carbohydrates": 5.3,
+    "sugars": 5.3,
+    "fiber": null,
+    "protein": 3.2,
+    "salt": 0.105,
+    "sodium": 0.042
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-08T13:06:45Z",
+  "fetched_at": "2026-08-19T02:04:18Z"
+}

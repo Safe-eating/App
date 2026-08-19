@@ -1,0 +1,30 @@
+{
+  "barcode": "8903363006820",
+  "name": "Almond Kernels",
+  "brand": "DMart Swaad",
+  "quantity": "500 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:almonds"
+  ],
+  "ingredients": "Almond Kernels",
+  "per_100g": {
+    "energy_kcal": 642.21,
+    "fat": 55.05,
+    "saturated_fat": 4.66,
+    "carbohydrates": 11.59,
+    "sugars": 5.51,
+    "fiber": null,
+    "protein": 25.1,
+    "salt": 0.001925,
+    "sodium": 0.00077
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-03T13:31:00Z",
+  "fetched_at": "2026-08-19T01:22:09Z"
+}

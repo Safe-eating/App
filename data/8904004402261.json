@@ -1,0 +1,28 @@
+{
+  "barcode": "8904004402261",
+  "name": "PHALHARI CHIWDA",
+  "brand": "Haldiram",
+  "quantity": "45g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers"
+  ],
+  "ingredients": "Potato, (Peanuts), Refined Palmolein Oil, Refined Sugar, Rock Salt, Red Chilli, Black Pepper, Poppy Seed, Dried Ginger Powder, Clove Powder, Cumin, Nutmeg, Cardamom \u0026 Cinnamon. Groundnut",
+  "per_100g": {
+    "energy_kcal": 595.555555555556,
+    "fat": 42,
+    "saturated_fat": 8.66666666666667,
+    "carbohydrates": 38,
+    "sugars": 10,
+    "fiber": 4.44444444444444,
+    "protein": 14.2222222222222,
+    "salt": 0.5588,
+    "sodium": 0.22352
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-17T14:22:45Z",
+  "fetched_at": "2026-08-19T01:24:46Z"
+}

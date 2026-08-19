@@ -1,0 +1,30 @@
+{
+  "barcode": "8908009059024",
+  "name": "Protein Bread",
+  "brand": "The Health Factory",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Refined Wheat Flour, Protein Blend (Whey Protein Concentrate, Rice Protein Isolate, Pea Protein Isolate, Soya Protein Isolate), Wheat Gluten, Milk Solids, Yeast, Rice Bran Oil (Edible Vegetable Oil), Iodised Salt, Cane Sugar, Cultured Wheat Flour. I",
+  "per_100g": {
+    "energy_kcal": 264.66,
+    "fat": 1.74,
+    "saturated_fat": 0.19,
+    "carbohydrates": 41.46,
+    "sugars": 4.36,
+    "fiber": null,
+    "protein": 20.79,
+    "salt": 1.30208,
+    "sodium": 0.520832
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-09T04:33:56Z",
+  "fetched_at": "2026-08-19T13:11:05Z"
+}

@@ -1,0 +1,36 @@
+{
+  "barcode": "8901262030151",
+  "name": "Amul Ghee 1ltr",
+  "brand": "Amul",
+  "quantity": "1 ltr",
+  "categories": [
+    "en:dairies",
+    "en:fats",
+    "en:spreads",
+    "en:spreadable-fats",
+    "en:animal-fats",
+    "en:dairy-spreads",
+    "en:milkfat",
+    "en:butters",
+    "en:butter-fat",
+    "en:clarified-butter",
+    "en:ghee"
+  ],
+  "ingredients": "Cream",
+  "per_100g": {
+    "energy_kcal": 897,
+    "fat": 99.7,
+    "saturated_fat": 63,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 1.39,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-13T17:31:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8904155829528",
+  "name": "Nuts About You Premium Almonds",
+  "brand": "Aplus Foods",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:almonds"
+  ],
+  "ingredients": "Almond Kernels Net Wt.: 200 g",
+  "per_100g": {
+    "energy_kcal": 596,
+    "fat": 43.8,
+    "saturated_fat": 3.6,
+    "carbohydrates": 29.9,
+    "sugars": 5.5,
+    "fiber": 0,
+    "protein": 20.6,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-07T20:52:17Z",
+  "fetched_at": "2026-08-19T01:38:43Z"
+}

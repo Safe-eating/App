@@ -1,0 +1,35 @@
+{
+  "barcode": "8906064651474",
+  "name": "Cheesy Sauce",
+  "brand": "Wingreens Farms",
+  "quantity": "180 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:spreads",
+    "en:cheeses",
+    "en:condiments",
+    "en:salted-spreads",
+    "en:sauces",
+    "en:cheese-sauces",
+    "en:cheese-spreads"
+  ],
+  "ingredients": "Refined Sunflower Oil, Water, Sugar, Cheese Powder (3%), Liquid Glucose, Milk Solids, lodized Salt, Thickeners (INS 415 \u0026 INS 1442), Acidity Regulators (INS 260 \u0026 INS 330), Yeast Powder, Preservatives (INS 200 \u0026 INS 211), Antioxidant (INS 386), Nature-Identical Flavouring Substances.",
+  "per_100g": {
+    "energy_kcal": 492,
+    "fat": 50.5,
+    "saturated_fat": 8.5,
+    "carbohydrates": 8.3,
+    "sugars": 6.5,
+    "fiber": null,
+    "protein": 1.1,
+    "salt": 2.16306,
+    "sodium": 0.865224
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-24T04:35:47Z",
+  "fetched_at": "2026-08-19T12:39:03Z"
+}

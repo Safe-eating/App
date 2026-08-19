@@ -1,0 +1,29 @@
+{
+  "barcode": "8906009079707",
+  "name": "Fruit And Nut Energy Bar",
+  "brand": "Unions",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars",
+    "en:cereal-bars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 392,
+    "fat": 14,
+    "saturated_fat": 2.7,
+    "carbohydrates": 56.7,
+    "sugars": 25.3,
+    "fiber": 5.3,
+    "protein": 7.3,
+    "salt": 0.3,
+    "sodium": 0.12
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-05T07:55:57Z",
+  "fetched_at": "2026-08-19T01:57:34Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "81000071400255",
+  "name": "Carrot",
+  "brand": "Fresho!",
+  "quantity": "250gm",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:vegetables-based-foods",
+    "en:vegetables",
+    "en:carrots"
+  ],
+  "ingredients": "Carrot",
+  "per_100g": {
+    "energy_kcal": 40.2,
+    "fat": 0.25,
+    "saturated_fat": 0.005,
+    "carbohydrates": 7.59,
+    "sugars": 6,
+    "fiber": 2.7,
+    "protein": 0.63,
+    "salt": 0.11,
+    "sodium": 0.043
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-13T13:06:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

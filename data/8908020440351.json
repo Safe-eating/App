@@ -1,0 +1,24 @@
+{
+  "barcode": "8908020440351",
+  "name": "Whole Wheat Tortilla Wraps 8 Inches",
+  "brand": "Habanero",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 305.454545454545,
+    "fat": 5.43636363636364,
+    "saturated_fat": 2.69090909090909,
+    "carbohydrates": 57.1636363636364,
+    "sugars": 9.81818181818182,
+    "fiber": 3.83636363636364,
+    "protein": 6.8,
+    "salt": 1.17272727272727,
+    "sodium": 0.469090909090909
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-05T21:23:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,35 @@
+{
+  "barcode": "8906143890008",
+  "name": "5 Grain Muesli",
+  "brand": "The Whole Truth",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:sweet-snacks",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:bars",
+    "en:mueslis"
+  ],
+  "ingredients": "Multigrain(rolled oats, ragi flakes, bajra flakes, jowar flakes, brown rice flakes), nuts (almonds, peanut butter), dried fruits (dates, black \u0026 golden raisins, apricots),seeds (pumpkin seeds, watermelon seeds),cocoa butter,cinnamon",
+  "per_100g": {
+    "energy_kcal": 472.6,
+    "fat": 19.4,
+    "saturated_fat": 3.2,
+    "carbohydrates": 66,
+    "sugars": 4.4,
+    "fiber": 7.4,
+    "protein": 12.4,
+    "salt": 0.026,
+    "sodium": 0.0104
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-05T02:22:26Z",
+  "fetched_at": "2026-08-19T12:58:42Z"
+}

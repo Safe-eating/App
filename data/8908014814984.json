@@ -1,0 +1,30 @@
+{
+  "barcode": "8908014814984",
+  "name": "Millet Bread",
+  "brand": "Mr Bakewell",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Water, Millet Flour 11.7% Ragi - Finger Millet Flour. Sorghum - Jowar Flour, Bajra  -  Pearl Millet Flour, Rajgira - Amaranth Flour, Baghar - Barnyard Flour), Sunflower Oil, Sugar, Yeast, Wheat Gluten, Iodised Salt, Sourdough Flour, Preservative (INS 282), Anticaking Agent (INS 170(i)). Emulsifier (INS 472e), Antioxidant (INS 300), Enzymes, Soya Flour",
+  "per_100g": {
+    "energy_kcal": 245,
+    "fat": 1.9,
+    "saturated_fat": 0.5,
+    "carbohydrates": 51.75,
+    "sugars": 1.28,
+    "fiber": null,
+    "protein": 7.9,
+    "salt": 1.5,
+    "sodium": 0.6
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-17T08:00:34Z",
+  "fetched_at": "2026-08-19T13:16:44Z"
+}

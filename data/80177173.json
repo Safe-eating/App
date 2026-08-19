@@ -1,0 +1,32 @@
+{
+  "barcode": "80177173",
+  "name": "nutella",
+  "brand": "Ferrero",
+  "quantity": "350 g",
+  "categories": [
+    "en:breakfasts",
+    "en:spreads",
+    "en:sweet-spreads",
+    "fr:pates-a-tartiner",
+    "en:hazelnut-spreads",
+    "en:chocolate-spreads",
+    "en:cocoa-and-hazelnuts-spreads"
+  ],
+  "ingredients": "sugar, palm oil,  hazelnuts  (13%), skimmed  milk  powder (8,7%), fat-reduced cocoa (7,4%), emulsifier: lecithins ( soya ), vanillin,",
+  "per_100g": {
+    "energy_kcal": 539,
+    "fat": 30.9,
+    "saturated_fat": 10.6,
+    "carbohydrates": 57.5,
+    "sugars": 56.3,
+    "fiber": null,
+    "protein": 6.3,
+    "salt": 0.107,
+    "sodium": 0.0428
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T16:05:51Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

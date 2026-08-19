@@ -1,0 +1,28 @@
+{
+  "barcode": "8901058903959",
+  "name": "milkmaid 100+ recipes",
+  "brand": "Nestlé",
+  "quantity": "380 g",
+  "categories": [
+    "en:dairies",
+    "en:condensed-milks",
+    "en:sweetened-condensed-milk"
+  ],
+  "ingredients": "Milk solids and Sugar.",
+  "per_100g": {
+    "energy_kcal": 303,
+    "fat": 3.9,
+    "saturated_fat": 2.9,
+    "carbohydrates": 58.4,
+    "sugars": 58.4,
+    "fiber": 0,
+    "protein": 8.5,
+    "salt": 0.275,
+    "sodium": 0.11
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-09T12:10:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

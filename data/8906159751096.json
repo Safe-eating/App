@@ -1,0 +1,31 @@
+{
+  "barcode": "8906159751096",
+  "name": "Nabati Richoco Cocoa Cream Wafer",
+  "brand": "Nabati",
+  "quantity": "30 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers"
+  ],
+  "ingredients": "Cream (Sugar, Refined Palm Olein, Whey Powder, Cocoa Powder (Cocoa Solids (3.6%)), Corn Starch, Emulsifier (INS 322), lodized Salt, Acidity Regulator (INS 330)). Wafer Sheet (Refined Wheat Flour (Maida), Cocoa Powder (Cocoa Solids (2.4%)), Refined Palm Olein, Flour Treatment Agent (INS 11010, lodized Salt, Raising Agent (INS 500(ii)), Emulsifier (INS 322)). Numbers in the bracket as per international numbering system Allergen: contains wheat, milk and soya",
+  "per_100g": {
+    "energy_kcal": 473,
+    "fat": 17,
+    "saturated_fat": 10,
+    "carbohydrates": 73,
+    "sugars": 34,
+    "fiber": null,
+    "protein": 7,
+    "salt": 0.475,
+    "sodium": 0.19
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-15T15:07:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

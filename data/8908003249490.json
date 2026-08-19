@@ -1,0 +1,29 @@
+{
+  "barcode": "8908003249490",
+  "name": "Probiotic Buttermilk",
+  "brand": "Akshayakalpa Organic",
+  "quantity": "180ml",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:buttermilks"
+  ],
+  "ingredients": "Water, Organic Pasteurized Cow Milk, Himalayan Pink Salt. Active Culture. Active Probiotics: Bifidobacterium animalis subsp. lactis - 12, Lactobacillus acidophilus-5. Contains ≥108 CFU/serving viable organisms.",
+  "per_100g": {
+    "energy_kcal": 27.9,
+    "fat": 1.26,
+    "saturated_fat": 0.9,
+    "carbohydrates": 2.78,
+    "sugars": 2.78,
+    "fiber": null,
+    "protein": 1.37,
+    "salt": 0.56675,
+    "sodium": 0.2267
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T19:10:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

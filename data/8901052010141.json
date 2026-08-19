@@ -1,0 +1,24 @@
+{
+  "barcode": "8901052010141",
+  "name": "Amritsari Style Panner Tikka Mix",
+  "brand": "Tata Sampann",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 342,
+    "fat": 5.6,
+    "saturated_fat": 2,
+    "carbohydrates": 62.7,
+    "sugars": 34.6,
+    "fiber": 0,
+    "protein": 10.2,
+    "salt": 12.9075,
+    "sodium": 5.163
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-21T05:28:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

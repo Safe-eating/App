@@ -1,0 +1,31 @@
+{
+  "barcode": "3760287220122",
+  "name": "",
+  "brand": "nüMorning",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "Céréales cro torréfiée, beu SOURCE SANS G SUCRE SUPER NUTTY NON R ORICHE NGREDIENTS flocons davoine', pomme', beurre de cocohuete 13%, cacahuete grillée 8% , sucre de coco noix de coco rapée, huile de colza ingrédients issus de lagriculture biologique",
+  "per_100g": {
+    "energy_kcal": 351,
+    "fat": 18.6,
+    "saturated_fat": 5.2,
+    "carbohydrates": 35.8,
+    "sugars": 11.4,
+    "fiber": null,
+    "protein": 11.9,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-09T11:54:41Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

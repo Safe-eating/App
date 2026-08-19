@@ -1,0 +1,36 @@
+{
+  "barcode": "8906143890398",
+  "name": "The Whole Truth Choco Fruit Crunch Muesli",
+  "brand": "The Whole Truth",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:chocolate-cereals",
+    "en:mueslis",
+    "en:crunchy-mueslis",
+    "en:mueslis-with-chocolate",
+    "en:crunchy-mueslis-with-chocolate"
+  ],
+  "ingredients": "Whole grains (rolled oats, brown rice flakes, ragi flakes) 47%, dried fruits  (cranberries, black \u0026 golden raisins, dates) 17%,  cocoa  (cocoa nibs, cocoa butter, cocoa powder) 13%, kakvi 13%,  seeds(pumpkin \u0026 watermelon seeds) 4%,   whole milk powder 3%,  almonds. 3%",
+  "per_100g": {
+    "energy_kcal": 449.8,
+    "fat": 14.2,
+    "saturated_fat": 6,
+    "carbohydrates": 68.4,
+    "sugars": 21,
+    "fiber": 10,
+    "protein": 12,
+    "salt": 0.1345,
+    "sodium": 0.0538
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-17T11:23:06Z",
+  "fetched_at": "2026-08-19T12:59:08Z"
+}

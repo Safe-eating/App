@@ -1,0 +1,26 @@
+{
+  "barcode": "8908014021153",
+  "name": "Afrodille Dried Blueberry",
+  "brand": "Afrodille",
+  "quantity": "250g",
+  "categories": [
+    "en:Dried blueberry"
+  ],
+  "ingredients": "Blueberries, Sugar, Citric Acid SO₂. CONTAINS PERMITTED SYNTHETIC FOOD COLOURS.",
+  "per_100g": {
+    "energy_kcal": 317,
+    "fat": 2.5,
+    "saturated_fat": 0.2,
+    "carbohydrates": 80,
+    "sugars": 68,
+    "fiber": 7.5,
+    "protein": 2.5,
+    "salt": 0.0075,
+    "sodium": 0.003
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-25T02:17:51Z",
+  "fetched_at": "2026-08-19T13:15:20Z"
+}

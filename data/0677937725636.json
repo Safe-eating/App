@@ -1,0 +1,33 @@
+{
+  "barcode": "0677937725636",
+  "name": "Raw, Unroasted Basil Seeds",
+  "brand": "Livyor",
+  "quantity": "400 grams",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:culinary-plants",
+    "en:herbs-and-spices",
+    "en:aromatic-plants",
+    "en:herbs",
+    "en:basils"
+  ],
+  "ingredients": "Raw Basil Seeds",
+  "per_100g": {
+    "energy_kcal": 350,
+    "fat": 4.1,
+    "saturated_fat": 2.2,
+    "carbohydrates": 48,
+    "sugars": 2,
+    "fiber": 27.7,
+    "protein": 17.3,
+    "salt": 0.5275,
+    "sodium": 0.211
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-07T06:54:17Z",
+  "fetched_at": "2026-08-18T23:54:53Z"
+}

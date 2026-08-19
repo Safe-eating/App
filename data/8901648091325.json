@@ -1,0 +1,33 @@
+{
+  "barcode": "8901648091325",
+  "name": "Mother Dairy Butter",
+  "brand": "Mother Dairy",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:spreads",
+    "en:fats",
+    "en:spreadable-fats",
+    "en:animal-fats",
+    "en:dairy-spreads",
+    "en:milkfat",
+    "en:butters"
+  ],
+  "ingredients": "Butter \u0026 lodized Salt.",
+  "per_100g": {
+    "energy_kcal": 723,
+    "fat": 80,
+    "saturated_fat": 50.3,
+    "carbohydrates": 0.4,
+    "sugars": 0.4,
+    "fiber": null,
+    "protein": 0.3,
+    "salt": 2.1875,
+    "sodium": 0.875
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-28T18:39:24Z",
+  "fetched_at": "2026-08-19T00:58:08Z"
+}

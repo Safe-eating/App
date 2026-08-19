@@ -1,0 +1,28 @@
+{
+  "barcode": "8901764082054",
+  "name": "smart water",
+  "brand": "smart water",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:waters"
+  ],
+  "ingredients": "TREATED WATER, MINERALS (SALTS OF MAGNESIUM (0.8* mg), CALCIUM (1.2* mg) AND POTASSIUM (0.2* mg)). *",
+  "per_100g": {
+    "energy_kcal": 0,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 0,
+    "sugars": 2,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 3,
+    "sodium": 1.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-16T14:50:26Z",
+  "fetched_at": "2026-08-19T01:08:31Z"
+}

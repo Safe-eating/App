@@ -1,0 +1,32 @@
+{
+  "barcode": "8903363007643",
+  "name": "Nutri Delite Crunchies",
+  "brand": "Nutri Delite",
+  "quantity": "25 gms",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (41.8%), SUGAR, CORN FLOUR, WHEAT BRAN, LIQUID GLUCOSE, COCOA POWDER (1.9 PALMOLEN OIL, MALT EXTRACT, ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA \u0026 BUTTERSCOTCH CALCIUM CARBONATE, IODISED SALT, SOYA LECITHIN (INS 322 (i)), NATURAL COLOUR (INS 150d), TOCOPHEROL (INS 07b).",
+  "per_100g": {
+    "energy_kcal": 386,
+    "fat": 2.4,
+    "saturated_fat": 1.1,
+    "carbohydrates": 82.5,
+    "sugars": 27.9,
+    "fiber": 7.59755729166667,
+    "protein": 6.6,
+    "salt": 0.25,
+    "sodium": 0.1
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-25T07:59:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

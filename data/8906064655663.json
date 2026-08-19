@@ -1,0 +1,24 @@
+{
+  "barcode": "8906064655663",
+  "name": "pizza pasta sauce 450g",
+  "brand": "Wingreens Farm",
+  "quantity": "450",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 229,
+    "fat": 10.5333333333333,
+    "saturated_fat": 1.73333333333333,
+    "carbohydrates": 31.2,
+    "sugars": 29.5333333333333,
+    "fiber": null,
+    "protein": 2.4,
+    "salt": 3.6,
+    "sodium": 1.44
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-22T09:27:17Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

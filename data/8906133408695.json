@@ -1,0 +1,30 @@
+{
+  "barcode": "8906133408695",
+  "name": "Whey Protein Concentrate (Cocoa Edition)",
+  "brand": "Only What's Needed",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders",
+    "en:whey-powder"
+  ],
+  "ingredients": "93.0% Whey Protein Concentrate,2% sunflower lecithin,6.8% Cocoa Powder, 0.2% Stevia Leaf Extract",
+  "per_100g": {
+    "energy_kcal": 394.1,
+    "fat": 5.1,
+    "saturated_fat": 2.9,
+    "carbohydrates": 13.3,
+    "sugars": 2.5,
+    "fiber": 2.1,
+    "protein": 72.7,
+    "salt": 0.8,
+    "sodium": 0.32
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T05:53:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

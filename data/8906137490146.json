@@ -1,0 +1,30 @@
+{
+  "barcode": "8906137490146",
+  "name": "Coconut Dreamz Biscuit",
+  "brand": "DiamondR",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 442,
+    "fat": 12.7,
+    "saturated_fat": 6.1,
+    "carbohydrates": 76,
+    "sugars": 31.5,
+    "fiber": 0,
+    "protein": 6.2,
+    "salt": 0.37,
+    "sodium": 0.148
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-26T09:01:36Z",
+  "fetched_at": "2026-08-19T12:58:04Z"
+}

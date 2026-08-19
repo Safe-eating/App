@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010500078",
+  "name": "Balaji Farali Chivda",
+  "brand": "Balaji Namkeen",
+  "quantity": "22g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "POTATO (75%) ROASTED PEANUT (12%), EDIBLE VEGETABLE OIL, SUGAR, ROCK SALT, SPICES \u0026 CONDIMENTS (CHILLI, TURMERIC, DRY MANGO, CLOVE, CAROM SEED, CARDAMOM NUTMEG, MACE, BAY LEAVES).",
+  "per_100g": {
+    "energy_kcal": 589,
+    "fat": 38.9,
+    "saturated_fat": 14,
+    "carbohydrates": 8,
+    "sugars": 8,
+    "fiber": 7.6,
+    "protein": 15.2,
+    "salt": 1.01,
+    "sodium": 0.404
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-08T18:24:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

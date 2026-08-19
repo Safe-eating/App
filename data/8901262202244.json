@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262202244",
+  "name": "Tadka Chhach Probiotic Buttermilk",
+  "brand": "Amul",
+  "quantity": "300 ml",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:buttermilks",
+    "en:Chaas"
+  ],
+  "ingredients": "Milk solids, water, iodized salt, spices and condiments (0.8%), active culture, probiotic bacterial strain (Bifidobacterium lactis - minimum 10° CFU per mL).",
+  "per_100g": {
+    "energy_kcal": 25,
+    "fat": 1.3,
+    "saturated_fat": 0.8,
+    "carbohydrates": 1.8,
+    "sugars": 1.8,
+    "fiber": null,
+    "protein": 1.4,
+    "salt": 0.575,
+    "sodium": 0.23
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-03T09:37:52Z",
+  "fetched_at": "2026-08-19T00:46:10Z"
+}

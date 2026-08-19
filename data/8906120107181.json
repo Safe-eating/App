@@ -1,0 +1,31 @@
+{
+  "barcode": "8906120107181",
+  "name": "Raw Sunflower Seeds",
+  "brand": "Farmley",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:sunflower-seeds-and-their-products",
+    "en:sunflower-seeds",
+    "en:roasted-sunflower-seeds"
+  ],
+  "ingredients": "Raw Sunflower Seeds",
+  "per_100g": {
+    "energy_kcal": 625,
+    "fat": 48,
+    "saturated_fat": 4.6,
+    "carbohydrates": 20.1,
+    "sugars": 5.7,
+    "fiber": 10.1,
+    "protein": 23.1,
+    "salt": 0.04975,
+    "sodium": 0.0199
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-01T06:18:00Z",
+  "fetched_at": "2026-08-19T12:55:02Z"
+}

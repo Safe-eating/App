@@ -1,0 +1,28 @@
+{
+  "barcode": "8906159980007",
+  "name": "Humpy Farms A2 Milk",
+  "brand": "Humpy Farms",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Cow Milk",
+  "per_100g": {
+    "energy_kcal": 62,
+    "fat": 3.5,
+    "saturated_fat": 2,
+    "carbohydrates": 4.7,
+    "sugars": 4.7,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.11,
+    "sodium": 0.044
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-22T12:07:00Z",
+  "fetched_at": "2026-08-19T13:00:50Z"
+}

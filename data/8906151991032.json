@@ -1,0 +1,24 @@
+{
+  "barcode": "8906151991032",
+  "name": "Strawberry Ice Cream",
+  "brand": "Camerry",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 200,
+    "fat": 10,
+    "saturated_fat": 6.5,
+    "carbohydrates": 24,
+    "sugars": 21,
+    "fiber": null,
+    "protein": 3.5,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-09T05:51:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

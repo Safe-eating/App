@@ -1,0 +1,33 @@
+{
+  "barcode": "8908000233034",
+  "name": "Chilly Papad",
+  "brand": "Iyer's",
+  "quantity": "160 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:flatbreads",
+    "en:special-breads",
+    "en:papadum"
+  ],
+  "ingredients": "Urad dal, Iodised salt, Chilly powder, Edible oil, Papad khar, Asafoetida.",
+  "per_100g": {
+    "energy_kcal": 360,
+    "fat": 0.66,
+    "saturated_fat": 0.451,
+    "carbohydrates": 58.49,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 19.82,
+    "salt": 3.4,
+    "sodium": 1.36
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-08T12:38:31Z",
+  "fetched_at": "2026-08-19T13:04:19Z"
+}

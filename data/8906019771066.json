@@ -1,0 +1,30 @@
+{
+  "barcode": "8906019771066",
+  "name": "California Pistachio Inshell Roasted \u0026 Salted",
+  "brand": "Nutraj",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:pistachios"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 568,
+    "fat": 46,
+    "saturated_fat": 6,
+    "carbohydrates": 27,
+    "sugars": 8,
+    "fiber": 10,
+    "protein": 21,
+    "salt": 1.0125,
+    "sodium": 0.405
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-25T15:12:07Z",
+  "fetched_at": "2026-08-19T02:06:53Z"
+}

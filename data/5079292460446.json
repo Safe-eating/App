@@ -1,0 +1,26 @@
+{
+  "barcode": "5079292460446",
+  "name": "Dharwad Peda",
+  "brand": "Lal",
+  "quantity": "200g",
+  "categories": [
+    "en:desserts"
+  ],
+  "ingredients": "Sugar, Milk Solids, Edible Vegetable Oil (Palmolein) and Clarified Butter (Desi Ghee).",
+  "per_100g": {
+    "energy_kcal": 420,
+    "fat": 16,
+    "saturated_fat": 6,
+    "carbohydrates": 65,
+    "sugars": 52,
+    "fiber": null,
+    "protein": 4,
+    "salt": 0.2875,
+    "sodium": 0.115
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-27T14:29:02Z",
+  "fetched_at": "2026-08-19T00:05:58Z"
+}

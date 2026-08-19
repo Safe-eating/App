@@ -1,0 +1,38 @@
+{
+  "barcode": "8901725007447",
+  "name": "Original Style Potato Chips",
+  "brand": "Bingo",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:flavoured-potato-crisps",
+    "en:Chips"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 524,
+    "fat": 33.5,
+    "saturated_fat": 7.8,
+    "carbohydrates": 50.6,
+    "sugars": 1.6,
+    "fiber": null,
+    "protein": 7.1,
+    "salt": 2.0875,
+    "sodium": 0.835
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-02T08:20:59Z",
+  "fetched_at": "2026-08-19T01:03:56Z"
+}

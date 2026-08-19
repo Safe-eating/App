@@ -1,0 +1,32 @@
+{
+  "barcode": "8908005144632",
+  "name": "Muesli dark chocolate cranberry",
+  "brand": "Yoga bar",
+  "quantity": "400",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Whole Grains 66% {Rolled Oats, Rice Flakes, Quinoa Flakes), Dark Chocolate Paste 12% (Sugar, Edible Vegetable Fat, Cocoa Solids, Soy Lecithi \u0026Natural Flavours), Seeds \u0026 Nuts 10.8% (Chia. Flax. Almond, Pumpkin). Dehydrated Fruits 6.5% (Raisins. Cranberry 2.5%). Dates Syrup. Cocoa Powder. Rice Br Oil, Natural Flavours, Jaggery Syrup. Cocoa Mass. Himalayan",
+  "per_100g": {
+    "energy_kcal": 437,
+    "fat": 13.3,
+    "saturated_fat": 4.9,
+    "carbohydrates": 67,
+    "sugars": 6.7,
+    "fiber": 9.4,
+    "protein": 12.3,
+    "salt": 0.2265,
+    "sodium": 0.0906
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-04T13:11:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

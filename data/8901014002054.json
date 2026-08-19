@@ -1,0 +1,32 @@
+{
+  "barcode": "8901014002054",
+  "name": "Top Ramen Masala Noodles",
+  "brand": "Nissin",
+  "quantity": "360 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "INSTANT NOODLES WITH SEASONING REDIENTS: NOODLES (91%): Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), lodised Salt, Acidity Regulators [INS 451(i) \u0026 INS 500(i)], Mixed Spices 0.17% (Turmeric, Coriander, Cumin \u0026 Red Chilli), Antioxidant (INS 319) \u0026 Thickener (INS 412). SEASONING MIX (9%): Sugar, Mixed Spices 17.51% (Coriander, Turmeric, Cumin, Red Chilli, Ginger, Fenugreek, Black Pepper, Clove Cinnamon, Green Cardamom, Nutmeg \u0026 Star Anise), lodised Salt, Hydrolysed Vegetable Protein Powder (Soya), Onion Powder, Noodle Powder (Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), lodised Salt, Acidity Regulators [INS 451 (i) \u0026 INS 500(i)], Mixed Spices 0.17% (Turmeric, Coriander, Cumin \u0026 Red Chilli), Antioxidant (INS 319) \u0026 Thickener (INS 412)), Corn Starch, Garlic Powder, Flavour Enhancers (INS 631\u0026INS 627), Yeast Extract Powder, Acidity Regulator (INS 330), Colour [INS 100(ii)] \u0026 Natural Flavour.  ALLERGEN INFORMATION: CONTAINS WHEAT \u0026 SOY.  MAY CONTAIN MILK.",
+  "per_100g": {
+    "energy_kcal": 460.32,
+    "fat": 16.01,
+    "saturated_fat": 8.12,
+    "carbohydrates": 67.9,
+    "sugars": 2.21,
+    "fiber": null,
+    "protein": 8.88,
+    "salt": 5.01,
+    "sodium": 2.004
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T23:14:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

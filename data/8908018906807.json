@@ -1,0 +1,30 @@
+{
+  "barcode": "8908018906807",
+  "name": "Troo Good Magic Masala Jowar Ribbons",
+  "brand": "Troo Good",
+  "quantity": "25g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "JOWAR FLOUR, REFINED EDIBLE OIL, BENGAL GRAM FLOUR, RICE FLOUR, SESAME SEEDS, IODISED SALT, CHILLI POWDER, MUSTARD, FENUGREEK, TURMERIC, FLAVOUR ENHANCER (820), SPICES AND CONDIMENTS",
+  "per_100g": {
+    "energy_kcal": 566,
+    "fat": 37.7,
+    "saturated_fat": 17.8,
+    "carbohydrates": 49.8,
+    "sugars": 2.1,
+    "fiber": 3,
+    "protein": 7.2,
+    "salt": 0.2525,
+    "sodium": 0.101
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-30T03:05:56Z",
+  "fetched_at": "2026-08-19T13:19:19Z"
+}

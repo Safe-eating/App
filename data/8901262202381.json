@@ -1,0 +1,33 @@
+{
+  "barcode": "8901262202381",
+  "name": "Amul Curd",
+  "brand": "Amul",
+  "quantity": "800g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:curd"
+  ],
+  "ingredients": "Pasteurised toned milk, active culture.",
+  "per_100g": {
+    "energy_kcal": 53,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 3.5,
+    "sugars": 3.5,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-01T05:45:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

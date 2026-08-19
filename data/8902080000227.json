@@ -1,0 +1,29 @@
+{
+  "barcode": "8902080000227",
+  "name": "Sting Energy",
+  "brand": "Sting",
+  "quantity": "1",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:energy-drinks",
+    "en:energy-drink-with-sugar"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS (330, 331), SEQUESTERANTS (452(1), 385),TAURINE, CAFFEINE (0.03%), PRESERVATIVES (211, 202), SWEETENERS (955, 950), INOSITOL, VITAMINS PREMIX. CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (129) AND ADDED FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "per_100g": {
+    "energy_kcal": 28,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 7,
+    "sugars": 6.8,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.1325,
+    "sodium": 0.053
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-25T12:59:03Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

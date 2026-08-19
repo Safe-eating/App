@@ -1,0 +1,26 @@
+{
+  "barcode": "8906036674173",
+  "name": "Nandini Creamy delight",
+  "brand": "Nandini",
+  "quantity": "200ml",
+  "categories": [
+    "en:Juice"
+  ],
+  "ingredients": "Low fat cream Containing milk fat 25% minimum UHT needs no refrigeration until opened.",
+  "per_100g": {
+    "energy_kcal": 246,
+    "fat": 25,
+    "saturated_fat": 16,
+    "carbohydrates": 3.3,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 2,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-25T13:10:12Z",
+  "fetched_at": "2026-08-19T12:35:47Z"
+}

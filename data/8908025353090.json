@@ -1,0 +1,36 @@
+{
+  "barcode": "8908025353090",
+  "name": "Nuts Fusion",
+  "brand": "Greenfinity",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:dried-products",
+    "en:fruits-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:dried-plant-based-foods",
+    "en:dietary-supplements",
+    "en:dried-fruits",
+    "en:bodybuilding-supplements"
+  ],
+  "ingredients": "Almond, cashew, dry dates, pumpkin seeds, sunflower seeds, processed gooseberry, processed cherry, raisins, black raisins, dry apricot",
+  "per_100g": {
+    "energy_kcal": 390.38130859375,
+    "fat": 41.511580078125,
+    "saturated_fat": 2.3601869140625,
+    "carbohydrates": 18.191525390625,
+    "sugars": 11.87545703125,
+    "fiber": 7.88755078125,
+    "protein": 16.577775390625,
+    "salt": 0.04309201171875,
+    "sodium": 0.01710595703125
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-08T09:51:56Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

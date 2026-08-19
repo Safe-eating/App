@@ -1,0 +1,29 @@
+{
+  "barcode": "8901262260152",
+  "name": "Slim 'n' Trim",
+  "brand": "Amul",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:dietary-supplements"
+  ],
+  "ingredients": "Milk",
+  "per_100g": {
+    "energy_kcal": 46,
+    "fat": 1.5,
+    "saturated_fat": 1,
+    "carbohydrates": 5,
+    "sugars": 5,
+    "fiber": null,
+    "protein": 3.2,
+    "salt": 0.105,
+    "sodium": 0.042
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-18T03:39:15Z",
+  "fetched_at": "2026-08-19T00:46:45Z"
+}

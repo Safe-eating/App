@@ -1,0 +1,34 @@
+{
+  "barcode": "8901058823844",
+  "name": "Maggie 8pk",
+  "brand": "Nestlé, Maggi",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:dried-products",
+    "en:pastas",
+    "en:spices",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "Noodles: Refined wheat flour (Maida), Palm oil, lodized salt, Wheat gluten, Thickeners (508\u0026412), Acidity regulators (501 (i) \u0026 500 (i)) and Humectant (451()). Masala *TASTEMAKER: Mixed spices Guideline Daily Amounts of an average adult (2000 kcal (25.6%) (Onion powder, Coriander powder, Turmeric powder, Red chilli powder, Garlic powder, Cumin powder, Aniseed powder, Ginger powder, Fenugreek powder, Black pepper powder, Clove powder, Green cardamom powder \u0026 Nutmeg powder), Refined wheat flour (Maida), Hydrolysed groundnut protein, Sugar, Palm oil, Starch, lodized salt, Thickener (508), Flavour enhancer (635), Toasted onion flakes, Acidity regulator (330), Colour (150d), Mineral and Wheat gluten.",
+  "per_100g": {
+    "energy_kcal": 132.3,
+    "fat": 4.7,
+    "saturated_fat": 2.1,
+    "carbohydrates": 19,
+    "sugars": 1,
+    "fiber": 1.2,
+    "protein": 2.9,
+    "salt": 0.95,
+    "sodium": 0.38
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T20:38:03Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

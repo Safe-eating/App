@@ -1,0 +1,26 @@
+{
+  "barcode": "8906112661233",
+  "name": "Oats",
+  "brand": "True Elements",
+  "quantity": "500g",
+  "categories": [
+    "en:oats"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 419.2,
+    "fat": 12.2,
+    "saturated_fat": 2.8,
+    "carbohydrates": 65.7,
+    "sugars": 0,
+    "fiber": 10.7,
+    "protein": 11.5,
+    "salt": 0.01025,
+    "sodium": 0.0041
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-12T11:44:40Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

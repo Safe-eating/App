@@ -1,0 +1,24 @@
+{
+  "barcode": "8908012945765",
+  "name": "Edamame Rice",
+  "brand": "Pink Harvest",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 354,
+    "fat": 2,
+    "saturated_fat": 2,
+    "carbohydrates": 41,
+    "sugars": 3,
+    "fiber": 20,
+    "protein": 43,
+    "salt": 0.995,
+    "sodium": 0.398
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-07T07:23:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

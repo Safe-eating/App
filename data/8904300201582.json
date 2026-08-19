@@ -1,0 +1,30 @@
+{
+  "barcode": "8904300201582",
+  "name": "Coconut Crunchy",
+  "brand": "Mario",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EDIBLE VEGETABLE OIL (REFINED PALM OIL), EDIBLE DESICCATED COCONUT POWDER (5.5%), EDIBLE COCONUT MILK POWDER, EDIBLE OATS POWDER, GLUCOSE POWDER, RAISING AGENTS (503(ii),500(ii)), IODIZED SALT, MILK SOLIDS, CORN STARCH INVERT SYRUP, EMULSIFIERS (322,471), STABILIZER (450(i)) AND FIRMING AGENT (341 (i)).",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 20.5,
+    "saturated_fat": 12.8,
+    "carbohydrates": 68,
+    "sugars": 19,
+    "fiber": 1.6,
+    "protein": 6,
+    "salt": 1.05,
+    "sodium": 0.42
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-27T10:22:07Z",
+  "fetched_at": "2026-08-19T01:42:23Z"
+}

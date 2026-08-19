@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262223379",
+  "name": "Jiralu Masala Ghee Khakhra",
+  "brand": "Amul",
+  "quantity": "200g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:Khakhra",
+    "en:Whole wheat crisps"
+  ],
+  "ingredients": "Wheat flour (atta), ghee (12.8%), jiralu (2.5%) (rock salt, black salt, coriander powder, cumin powder, asafoetida, dry ginger powder, dry mango powder, black pepper, pomegranate powder, cinnamon, clove), iodized salt",
+  "per_100g": {
+    "energy_kcal": 501,
+    "fat": 23,
+    "saturated_fat": 13,
+    "carbohydrates": 63,
+    "sugars": 0.3,
+    "fiber": null,
+    "protein": 10.5,
+    "salt": 2.575,
+    "sodium": 1.03
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-05T19:30:15Z",
+  "fetched_at": "2026-08-19T00:46:18Z"
+}

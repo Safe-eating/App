@@ -1,0 +1,27 @@
+{
+  "barcode": "8901262110242",
+  "name": "Whey Protein Lactose Free",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:whey-powder"
+  ],
+  "ingredients": "Whey protein concentrate, enzyme (beta-galactosidase). Allergen Information: Contains milk. CONTAINS NATURALLY OCCURRING SUGARS'",
+  "per_100g": {
+    "energy_kcal": 400,
+    "fat": 5,
+    "saturated_fat": 3,
+    "carbohydrates": 10.8,
+    "sugars": 10.8,
+    "fiber": null,
+    "protein": 78,
+    "salt": 0.35,
+    "sodium": 0.14
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-08T01:03:34Z",
+  "fetched_at": "2026-08-19T00:43:07Z"
+}

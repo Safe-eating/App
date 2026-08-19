@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010504878",
+  "name": "Khichiya Papad",
+  "brand": "Balaji Wafers",
+  "quantity": "200",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "RICE FLOUR (97%), EDIBLE COMMON SALT, INS 500(II), CUMIN SEEDS (0.05%), INS 330",
+  "per_100g": {
+    "energy_kcal": 397,
+    "fat": 2.9,
+    "saturated_fat": 1,
+    "carbohydrates": 87.2,
+    "sugars": 1.4,
+    "fiber": 2.1,
+    "protein": 4.4,
+    "salt": 3.2,
+    "sodium": 1.28
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-10T19:18:33Z",
+  "fetched_at": "2026-08-19T02:02:16Z"
+}

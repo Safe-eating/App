@@ -1,0 +1,32 @@
+{
+  "barcode": "8904083302070",
+  "name": "MilkyMist Fruit Yogurt",
+  "brand": "Milky Mist",
+  "quantity": "100g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 103.5,
+    "fat": 3.1,
+    "saturated_fat": 1.3,
+    "carbohydrates": 15.3,
+    "sugars": 15.3,
+    "fiber": null,
+    "protein": 3.6,
+    "salt": 0.0525,
+    "sodium": 0.021
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T18:30:40Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

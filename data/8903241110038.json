@@ -1,0 +1,28 @@
+{
+  "barcode": "8903241110038",
+  "name": "Mango Pickle",
+  "brand": "Pravin",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 200,
+    "fat": 14.6666666666667,
+    "saturated_fat": 4.33333333333333,
+    "carbohydrates": 13.3333333333333,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 3.33333333333333,
+    "salt": 11.925,
+    "sodium": 4.77
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-20T06:39:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

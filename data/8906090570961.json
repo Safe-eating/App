@@ -1,0 +1,27 @@
+{
+  "barcode": "8906090570961",
+  "name": "Veggie stix",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:meat-alternatives",
+    "en:meat-analogues"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 470,
+    "fat": 17.9,
+    "saturated_fat": 2.6,
+    "carbohydrates": 71,
+    "sugars": 2.9,
+    "fiber": null,
+    "protein": 6.6,
+    "salt": 7.6,
+    "sodium": 3.04
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-04T15:52:30Z",
+  "fetched_at": "2026-08-19T12:48:52Z"
+}

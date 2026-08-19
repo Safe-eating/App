@@ -1,0 +1,30 @@
+{
+  "barcode": "8904004420111",
+  "name": "Soya Sticks",
+  "brand": "Haldiram's",
+  "quantity": "400g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:Fried Soy Sticks",
+    "en:Fried snacks"
+  ],
+  "ingredients": "Tapioca Starch, Refined Palmolein Oil, Soya Flour (9%), Split Pulse Urad (Urad Dal) Flour, Mixed Spices (Refined Sugar, Edible Common Salt, Maltodextrin, Black Salt, Red Chilli Powder, Dried Mango Powder, Onion Powder, Glucose Powder, Preservative (INS 262i), Coriander Powder, Cumin Powder, Fennel, Whey Powder, Ginger Powder, Garlic Powder, Clove Powder, Yeast Extract, Pipal, Black Pepper, Acidity Regulator (INS 296), Flavour Enhancer (INS 627, INS 631), Turmeric Powder, Anticaking Agent (INS 551), Bay Leaf, Acidity Regulator (INS 330), Colour (INS 160c), Nutmeg, Capsicum Powder, Cinnamon, Asafoetida), Hydrogenated Vegetable Oil (Vanaspati), Natural Flavouring Substance And Nature Identical Flavouring Substance",
+  "per_100g": {
+    "energy_kcal": 564,
+    "fat": 38.21,
+    "saturated_fat": 18.56,
+    "carbohydrates": 45,
+    "sugars": 1.86,
+    "fiber": 5.25,
+    "protein": 7.46,
+    "salt": 1.5725,
+    "sodium": 0.629
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-01T03:50:04Z",
+  "fetched_at": "2026-08-19T01:25:49Z"
+}

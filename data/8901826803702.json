@@ -1,0 +1,36 @@
+{
+  "barcode": "8901826803702",
+  "name": "Verka Dahi Cup",
+  "brand": "Verka",
+  "quantity": "350 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:snacks",
+    "en:desserts",
+    "en:sweet-snacks",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:bars",
+    "en:yogurts",
+    "en:curd"
+  ],
+  "ingredients": "Pasteurised toned milk with 10.5% SNF, Milk solids and Active Lactic Culture",
+  "per_100g": {
+    "energy_kcal": 58,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 4,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 3.7,
+    "salt": 0.17,
+    "sodium": 0.068
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-12T10:55:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

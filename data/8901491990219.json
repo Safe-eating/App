@@ -1,0 +1,31 @@
+{
+  "barcode": "8901491990219",
+  "name": "Doritos",
+  "brand": "Doritos",
+  "quantity": "10rs",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 499,
+    "fat": 23.4,
+    "saturated_fat": 9,
+    "carbohydrates": 65.1,
+    "sugars": 4.5,
+    "fiber": null,
+    "protein": 7.1,
+    "salt": 1.5125,
+    "sodium": 0.605
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-21T07:26:49Z",
+  "fetched_at": "2026-08-19T00:51:57Z"
+}

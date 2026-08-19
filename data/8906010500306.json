@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010500306",
+  "name": "Ratlami Sev",
+  "brand": "Balaji Wafers",
+  "quantity": "",
+  "categories": [
+    "en:ratlami-sev"
+  ],
+  "ingredients": "potato, edible vegetable oil, seasoning (iodised salt, black salt, dry mango powder, onion powder, garlic powder, black pepper, cumin powder, coriander powder, chilli powder, citric acid, sugar, tomato powder, flavour enhancer (E621), anticaking agent (E551))",
+  "per_100g": {
+    "energy_kcal": 570,
+    "fat": 36.1,
+    "saturated_fat": 16,
+    "carbohydrates": 42.1,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 14.8,
+    "salt": 2.71,
+    "sodium": 1.084
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T11:14:50Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

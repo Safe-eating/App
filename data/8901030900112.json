@@ -1,0 +1,27 @@
+{
+  "barcode": "8901030900112",
+  "name": "Hot and sour vegetable soup",
+  "brand": "Knorr",
+  "quantity": "50",
+  "categories": [
+    "en:meals",
+    "en:soups"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 341,
+    "fat": 2.9268292682927,
+    "saturated_fat": 0.97560975609756,
+    "carbohydrates": 72.19512195122,
+    "sugars": 15.609756097561,
+    "fiber": 3.9024390243902,
+    "protein": 4.8780487804878,
+    "salt": 9.780487804878,
+    "sodium": 3.9121951219512
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-25T12:24:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

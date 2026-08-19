@@ -1,0 +1,32 @@
+{
+  "barcode": "8908019757064",
+  "name": "Belgian Dark Chocolate Guilt Free Ice Cream Tub",
+  "brand": "Go Zero",
+  "quantity": "500ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-tubs",
+    "en:chocolate-ice-cream-tubs"
+  ],
+  "ingredients": "Milk \u0026 Milk Solids (Cream, Skimmed Milk Powder), Maltitol, Oligofructose, Cocoa Solids, Cocoa Mass, Permitted Emulsifier (471, 433) and Stabilizer (412, 407, 461), Stevia. Allergen Declaration: Contains milk. Made in a facility that also processes soy, nuts, and wheat.",
+  "per_100g": {
+    "energy_kcal": 97,
+    "fat": 5.3,
+    "saturated_fat": 3.4,
+    "carbohydrates": 16.8,
+    "sugars": 3,
+    "fiber": 3,
+    "protein": 2.7,
+    "salt": 0.08,
+    "sodium": 0.032
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-21T08:02:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

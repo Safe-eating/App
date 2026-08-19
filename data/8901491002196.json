@@ -1,0 +1,32 @@
+{
+  "barcode": "8901491002196",
+  "name": "Oats Muesli",
+  "brand": "Quaker",
+  "quantity": "700g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Multigrain(55%), (Rolled Oats 26%, Rice \u0026 Rice Flour 14%, Corn Grit \u0026 Flour 7%, Rolled Barley 5%, Wheat 3%, Refined Wheat Flour (Maida) 1.4%, Berries \u0026 Seeds (22%), (Candied Cranberries 8%, Dried Blackcurrents 7%, Sunflower seeds 4%, Pumpkin Seeds 3% ), Sugar, Palmolein Oil, Maltodextrin, Invert Syrup, Stabilizer (1422, 170i, 322), Liquid Glucose, iodised Salt, Cereals Extracts, Flavour (natural and nature Identical Flavouring Substances), Colour (150d), Antioxidents (307b)",
+  "per_100g": {
+    "energy_kcal": 448,
+    "fat": 14,
+    "saturated_fat": 4,
+    "carbohydrates": 71,
+    "sugars": 16,
+    "fiber": 6,
+    "protein": 9,
+    "salt": 0.605,
+    "sodium": 0.242
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-31T07:24:39Z",
+  "fetched_at": "2026-08-19T00:49:20Z"
+}

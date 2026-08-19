@@ -1,0 +1,26 @@
+{
+  "barcode": "8906115100333",
+  "name": "Haldiram's Peeloz",
+  "brand": "Haldiram's",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Icing Sugar, Edible Vegetable Oil (Palmolien), Refined Wheat Flour (Maida), Skimmed Milk Powder, Maltodextrin, Dextrose, Starch (Maize) Emulsifier (INS 322), lodized Salt. Natural Colour (INS 150d), Synthetic Food Colour (INS 102) and Flavour (Nature Identical Flavouring Substances).",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 21.8,
+    "saturated_fat": 13.6,
+    "carbohydrates": 55.75,
+    "sugars": 42.75,
+    "fiber": null,
+    "protein": 4.98,
+    "salt": 0.53,
+    "sodium": 0.212
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-20T08:11:27Z",
+  "fetched_at": "2026-08-19T12:52:27Z"
+}

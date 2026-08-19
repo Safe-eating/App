@@ -1,0 +1,29 @@
+{
+  "barcode": "8901242226604",
+  "name": "Bambino Soan Papdi Badam",
+  "brand": "Bambino",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "xx:soan-papdi"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 501,
+    "fat": 23.25,
+    "saturated_fat": 11.5,
+    "carbohydrates": 67.18,
+    "sugars": 45.83,
+    "fiber": null,
+    "protein": 4.46,
+    "salt": 0.006275,
+    "sodium": 0.00251
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-05T04:48:40Z",
+  "fetched_at": "2026-08-19T00:40:25Z"
+}

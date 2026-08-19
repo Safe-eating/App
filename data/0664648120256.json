@@ -1,0 +1,24 @@
+{
+  "barcode": "0664648120256",
+  "name": "LADDU",
+  "brand": "Daily Delight",
+  "quantity": "454g",
+  "categories": null,
+  "ingredients": "Basen Flour, sugar, cashewnut(0.1%). Raisin,Cardamom,Hydrogenated Vegetable Oil, FD \u0026 C Yellow No.5(102).",
+  "per_100g": {
+    "energy_kcal": 400,
+    "fat": 7.1428571428571,
+    "saturated_fat": 1.4285714285714,
+    "carbohydrates": 62.857142857143,
+    "sugars": 21.428571428571,
+    "fiber": 8.5714285714286,
+    "protein": 18.571428571429,
+    "salt": 0.14285714285714,
+    "sodium": 0.057142857142856
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-16T22:42:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

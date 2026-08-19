@@ -1,0 +1,32 @@
+{
+  "barcode": "8903363001726",
+  "name": "Refined Sunflower Oil",
+  "brand": "Dmart,Swaad",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fats",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:sunflower-seeds-and-their-products",
+    "en:sunflower-oils"
+  ],
+  "ingredients": "REFINED SUNFLOWER OIL, ANTIOXIDANT (INS 319), VITAMS (A \u0026 D). REFINED SUNFLOWER OIL FREE FROM ARGEN NE",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 13,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-22T17:53:37Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

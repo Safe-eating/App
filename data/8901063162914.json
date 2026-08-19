@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063162914",
+  "name": "Marie Gold Biscuit",
+  "brand": "Britannia",
+  "quantity": "64 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (73%), SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP, MILK PRODUCTS (MILK SOLIDS \u0026 SWEETENED CONDENSED PARTLY SKIMMED MILK), RAISING AGENTS [503(i)\u0026500), 10DISED SALT, MINERALS, ARTIFICIAL (MILK \u0026 VANILLA) \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES, EMULSIFIER (472e), DOUGH CONDITIONER (223) VITAMINS AND COLOUR (150d).",
+  "per_100g": {
+    "energy_kcal": 445,
+    "fat": 10.6,
+    "saturated_fat": 5.1,
+    "carbohydrates": 79.5,
+    "sugars": 21.2,
+    "fiber": 0,
+    "protein": 7.9,
+    "salt": 0.79,
+    "sodium": 0.316
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T23:47:28Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

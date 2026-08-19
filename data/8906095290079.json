@@ -1,0 +1,27 @@
+{
+  "barcode": "8906095290079",
+  "name": "Instant Rava Pongal Mix",
+  "brand": "Adukele,Sankethi",
+  "quantity": "",
+  "categories": [
+    "en:meals",
+    "en:microwave-meals"
+  ],
+  "ingredients": "Rava (50%), Green Gram Dal Flour (24%), Refined Palmoil (6%), Mustard, Cashew, Turmeric, Copra, Hing, Black Pepper, Salt, Sugar, Green Chillis \u0026 Curry Leaves.",
+  "per_100g": {
+    "energy_kcal": 387,
+    "fat": 3,
+    "saturated_fat": 0,
+    "carbohydrates": 59,
+    "sugars": 1,
+    "fiber": 1,
+    "protein": 13,
+    "salt": 3.4475,
+    "sodium": 1.379
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T16:10:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

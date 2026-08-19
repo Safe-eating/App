@@ -1,0 +1,29 @@
+{
+  "barcode": "8902080364565",
+  "name": "Mountain Dew",
+  "brand": "MEWATI 🔔",
+  "quantity": "1.25 l",
+  "categories": [
+    "en:beverages",
+    "en:carbonated-drinks",
+    "en:sodas",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS (330, 331), FLAVOUR (NATURAL FLAVOURING SUBSTANCES), PRESERVATIVE (211), CAFFEINE (1,3 mg/100 g), STABILIZERS (445), COULOUR (102)",
+  "per_100g": {
+    "energy_kcal": 49,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 12.3,
+    "sugars": 12.3,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.02,
+    "sodium": 0.008
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-02T11:38:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

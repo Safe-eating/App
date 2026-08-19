@@ -1,0 +1,30 @@
+{
+  "barcode": "8906009079288",
+  "name": "Kesar Cashew Badam Cookies",
+  "brand": "Unibic",
+  "quantity": "200g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm), Milk Solids, Dry Nuts (1%) (Almond and Cashew), Golden Syrup, Leavening Agents (INS 503(ii), INS 500(ii)), Emulsifiers (INS 322(Soy), INS 472E), iodised Salt, Artificial Flavouring(Saffron, Cashew, Almond ,Milk), Contains _Wheat_, _Milk_, _Soy_,_Nut_.",
+  "per_100g": {
+    "energy_kcal": 487,
+    "fat": 22.3,
+    "saturated_fat": 10,
+    "carbohydrates": 66,
+    "sugars": 26,
+    "fiber": null,
+    "protein": 5.5,
+    "salt": 0.4875,
+    "sodium": 0.195
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-30T13:11:41Z",
+  "fetched_at": "2026-08-19T01:57:33Z"
+}

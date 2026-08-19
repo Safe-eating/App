@@ -1,0 +1,32 @@
+{
+  "barcode": "8901491100045",
+  "name": "Jowar puffs",
+  "brand": "Kurkure",
+  "quantity": "50g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:crackers-appetizers",
+    "en:puffed-salty-snacks",
+    "en:Namkeen"
+  ],
+  "ingredients": "'Millet (Jowar Meal (27%)), Cereal Products (Corn Meal (26%), Rice Meal (18%)), Edible Vegetable Oil (Rice Bran Oil), Seasoning (Spices and Condiments, Sugar, lodised Salt, Maltodextrin, Flavour (Natural and Nature Identical Flavouring Substances), Salt Substitute (Potassium Chloride), Black Salt Hydrolysed Vegetable Protein, Tomato Powder, Acidity Regulator (330), Lemon Powder, Yeast Extract, Flavour Enhancers (627, 631)) Firming Agent (170(i)), Emulsifier (471). \u0026quot;As Flavouring Agent. \u0026quot;Contains Onion and Garlic. ALERGEN ADVICE: Contains Soy. May Contain Wheat.",
+  "per_100g": {
+    "energy_kcal": 519,
+    "fat": 28.4,
+    "saturated_fat": 6.3,
+    "carbohydrates": 59.2,
+    "sugars": 3.4,
+    "fiber": null,
+    "protein": 6.7,
+    "salt": 1.6125,
+    "sodium": 0.645
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-05T06:35:20Z",
+  "fetched_at": "2026-08-19T00:49:54Z"
+}

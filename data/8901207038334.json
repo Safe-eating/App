@@ -1,0 +1,32 @@
+{
+  "barcode": "8901207038334",
+  "name": "Anmol Gold Coconut Oil",
+  "brand": "Dabur",
+  "quantity": "550ml (503.25g)",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fats",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:fruit-and-fruit-seed-oils",
+    "en:coconut-oils"
+  ],
+  "ingredients": "Coconut Oil (100%)",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 93.4,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T09:17:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

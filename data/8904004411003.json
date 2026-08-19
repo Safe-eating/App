@@ -1,0 +1,31 @@
+{
+  "barcode": "8904004411003",
+  "name": "Rusky",
+  "brand": "Haldiram's",
+  "quantity": "250 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:rusks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 418,
+    "fat": 6.93,
+    "saturated_fat": 3.05,
+    "carbohydrates": 81.86,
+    "sugars": 16.3,
+    "fiber": 0.78,
+    "protein": 7.16,
+    "salt": 0.9615,
+    "sodium": 0.3846
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-22T16:42:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

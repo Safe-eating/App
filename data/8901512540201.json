@@ -1,0 +1,27 @@
+{
+  "barcode": "8901512540201",
+  "name": "ACT TT GOlDEN SIZZLE",
+  "brand": "ACT II",
+  "quantity": "35",
+  "categories": [
+    "en:snacks",
+    "en:popcorn"
+  ],
+  "ingredients": "Popping Corn (70.8%), Refined Edible Palmolein Oil (TBHQ), lodized Salt \u0026 Beta Carotene.",
+  "per_100g": {
+    "energy_kcal": 493,
+    "fat": 29,
+    "saturated_fat": 13,
+    "carbohydrates": 55,
+    "sugars": 0,
+    "fiber": 10,
+    "protein": 8,
+    "salt": 1.5,
+    "sodium": 0.6
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-29T11:53:30Z",
+  "fetched_at": "2026-08-19T00:54:30Z"
+}

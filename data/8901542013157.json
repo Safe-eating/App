@@ -1,0 +1,31 @@
+{
+  "barcode": "8901542013157",
+  "name": "Heinz \u0026quot;Tomato Ketchup\u0026quot; 900GM",
+  "brand": "Heinz",
+  "quantity": "900 gms",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup",
+    "en:tomato-ketchup",
+    "en:groceries"
+  ],
+  "ingredients": "Water, Tomato paste (26%), Sugar, Vinegar, Salt, Extracts of spice, Onion, Garlic. Contains celery.",
+  "per_100g": {
+    "energy_kcal": 109,
+    "fat": 0,
+    "saturated_fat": 0.024455,
+    "carbohydrates": 26,
+    "sugars": 22,
+    "fiber": 1.411,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-24T00:53:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8901552005036",
+  "name": "Dal Makhani",
+  "brand": "Ashoka",
+  "quantity": "280g",
+  "categories": [
+    "en:dahl-indian-curry"
+  ],
+  "ingredients": "Water, Black gram, Cream (Milk) (6.5%), Onion, Red Kidney Beans, Tomato Paste, Sunflower Oil, Butter (Milk, Salt) (1.5%), Cashewnut, Ginger, Salt, Coriander leaves, Garlic, Chilli Powder, Spices (Anistar, Black Cardamom, Black Pepper, Caraway, Cassia, Chilli, Clove, Salt, Coriander, Cumin, Dry Ginger, Fennel Seeds), Green Chilli, Turmeric Powder, Cardamom, Cinnamon, Clove. CONTAINS: MILK \u0026 CASHEWNUT Processed in a facility that also processes tree nuts, peanuts, soya, mustard and sesame.",
+  "per_100g": {
+    "energy_kcal": 129.285714285714,
+    "fat": 6.78571428571429,
+    "saturated_fat": 1.28571428571429,
+    "carbohydrates": 12.1428571428571,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 4.28571428571429,
+    "salt": 876.071428571429,
+    "sodium": 350.428571428571
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T14:36:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

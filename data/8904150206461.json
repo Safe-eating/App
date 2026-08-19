@@ -1,0 +1,24 @@
+{
+  "barcode": "8904150206461",
+  "name": "Mix Dried Berries",
+  "brand": "Nutty Gritties",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 385.7,
+    "fat": 9.8,
+    "saturated_fat": 3.5,
+    "carbohydrates": 72.6,
+    "sugars": 65.6,
+    "fiber": 5.2,
+    "protein": 1.7,
+    "salt": 0.005,
+    "sodium": 0.002
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T14:16:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8906113490894",
+  "name": "Soulfull Millet muesli",
+  "brand": "Tata",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Rolled Oats (35%), Whole Wheat Flakes (20%), Millets (16%) [Ragi (9.7%), Jowar (6.3%)], Refined Sugar, Corn Flakes (5%), Invert Sugar Syrup, Almond (3%), Raisins (3%), Honey (1.3%), Malt Extract, Wheat Bran, Edible Vegetable Oil (Palmolein), Emulsifier (INS 322(i)), lodised Salt, Anticaking Agent (INS 170(i)), Natural Flavour, Antioxidant (INS 320). ALLERGENS: Contains Nut, Oats, Soy, Wheat.",
+  "per_100g": {
+    "energy_kcal": 405,
+    "fat": 5.7,
+    "saturated_fat": 1.6,
+    "carbohydrates": 80,
+    "sugars": 16,
+    "fiber": 8.7,
+    "protein": 8.8,
+    "salt": 0.4625,
+    "sodium": 0.185
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-27T05:44:42Z",
+  "fetched_at": "2026-08-19T12:52:03Z"
+}

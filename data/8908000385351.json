@@ -1,0 +1,33 @@
+{
+  "barcode": "8908000385351",
+  "name": "Masala peanut",
+  "brand": "Dev",
+  "quantity": "150 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:peanuts",
+    "en:Spiced peanuts"
+  ],
+  "ingredients": "Peanut, Palmolein Oil, Pepper Powder, Chilli Powder, Asafoetida, Salt \u0026 Curry Leaves ALLERGY ADVICE: CONTAINS PEANUT",
+  "per_100g": {
+    "energy_kcal": 630,
+    "fat": 48.5,
+    "saturated_fat": 7.2,
+    "carbohydrates": 20,
+    "sugars": 8.4,
+    "fiber": 6.8,
+    "protein": 27.6,
+    "salt": 1.1,
+    "sodium": 0.44
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-13T12:35:01Z",
+  "fetched_at": "2026-08-19T13:04:27Z"
+}

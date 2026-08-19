@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063028227",
+  "name": "Britannia nice time (8)",
+  "brand": "Britannia",
+  "quantity": "4",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Buscuit"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 463,
+    "fat": 15,
+    "saturated_fat": 8,
+    "carbohydrates": 76,
+    "sugars": 30.5,
+    "fiber": null,
+    "protein": 6,
+    "salt": 274,
+    "sodium": 109.6
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-14T08:53:29Z",
+  "fetched_at": "2026-08-19T00:29:42Z"
+}

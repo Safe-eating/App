@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063163287",
+  "name": "Tiger glucose biscuits",
+  "brand": "Britannia",
+  "quantity": "49.7 grams",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:biscuit-with-milk"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 457,
+    "fat": 13.4,
+    "saturated_fat": 6.5,
+    "carbohydrates": 76.6,
+    "sugars": 24.1,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 0.317,
+    "sodium": 0.1268
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2022-08-30T07:16:46Z",
+  "fetched_at": "2026-08-19T00:32:49Z"
+}

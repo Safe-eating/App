@@ -1,0 +1,32 @@
+{
+  "barcode": "8908022408588",
+  "name": "",
+  "brand": "RDM Foods",
+  "quantity": "500 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:biscuit-cookie-vitamins-and-chemical-elements-content-guaranteed",
+    "en:roasted-biscuits"
+  ],
+  "ingredients": "Protein",
+  "per_100g": {
+    "energy_kcal": 502,
+    "fat": 26,
+    "saturated_fat": 11,
+    "carbohydrates": 63,
+    "sugars": 1,
+    "fiber": 6,
+    "protein": 4,
+    "salt": 1485,
+    "sodium": 594
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T18:20:13Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

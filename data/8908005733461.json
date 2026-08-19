@@ -1,0 +1,41 @@
+{
+  "barcode": "8908005733461",
+  "name": "Soy - Coconut Curd",
+  "brand": "White Cub",
+  "quantity": "450g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:dairy-substitutes",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:non-dairy-desserts",
+    "en:non-dairy-fermented-foods",
+    "en:fermented-dairy-desserts",
+    "en:non-dairy-yogurts",
+    "en:yogurts",
+    "en:curd",
+    "en:soy-curd",
+    "en:soy-coconut-curd",
+    "en:vegan-curd"
+  ],
+  "ingredients": "Soybeans, Coconut, Water, Live Culture",
+  "per_100g": {
+    "energy_kcal": 53.02,
+    "fat": 3.02,
+    "saturated_fat": 2,
+    "carbohydrates": 0.85,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 5.67,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T13:24:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

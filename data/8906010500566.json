@@ -1,0 +1,28 @@
+{
+  "barcode": "8906010500566",
+  "name": "Balaji Wafers Tikha Mitha Mix",
+  "brand": "Balaji Wafers",
+  "quantity": "500g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:Indian snacks"
+  ],
+  "ingredients": "EDIBLE VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWINGS: PALMOLEIN, RICE BRAN, CORN, COTTONSEED), CHICKPEA FLOUR (17%), **SEASONING (SUGAR, SPICES \u0026 CONDIMENTS 4% (CHILLI, CORIANDER, SESAME SEEDS, TURMERIC, BLACK PEPPER, CUMIN, DRY MANGO, CAROM SEED, BAY LEAVES, CARDAMOM, NUTMEG, MACE, CINNAMON, FENNEL, CURRY LEAVES, GINGER, CLOVE), EDIBLE COMMON SALT, ACIDITY REGULATOR (INS 330), RAISING AGENT (INS 500(1))], RICE FLAKES (9%), ROASTED PEANUT (7%), CHICKPEA SPLITS (6%), REFINED WHEAT FLOUR (MAIDA), CORN FLAKES, PEAS, RICE FLOUR. **AS SEASONING AGENT AMVEENL",
+  "per_100g": {
+    "energy_kcal": 575,
+    "fat": 34,
+    "saturated_fat": 13.3,
+    "carbohydrates": 0.001,
+    "sugars": 8,
+    "fiber": null,
+    "protein": 14.9,
+    "salt": 2.04,
+    "sodium": 0.816
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-26T08:21:21Z",
+  "fetched_at": "2026-08-19T02:01:08Z"
+}

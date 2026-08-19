@@ -1,0 +1,24 @@
+{
+  "barcode": "8906095143061",
+  "name": "Elite Beet 420",
+  "brand": "Unived",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 340,
+    "fat": 0.246153846153846,
+    "saturated_fat": 0.153846153846154,
+    "carbohydrates": 73.8461538461538,
+    "sugars": 20.9230769230769,
+    "fiber": 7.07692307692308,
+    "protein": 10.7692307692308,
+    "salt": 3.69230769230769,
+    "sodium": 1.47692307692308
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-09T02:35:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

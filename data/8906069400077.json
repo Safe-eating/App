@@ -1,0 +1,28 @@
+{
+  "barcode": "8906069400077",
+  "name": "veeba barbeque sauce",
+  "brand": "VEEBA",
+  "quantity": "330g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:barbecue-sauces"
+  ],
+  "ingredients": "WATER, SYNTHETIC VINEGAR [WATER, ACETIC ACID (INS260)], JAGGERY, SUGAR, TOMATO PASTE, IODISED SALT, STABILIZERS (INS1422, INS415), TAMARIND, SPICES AND CONDIMENTS, NATURAL FLAVOURING SUBSTANCES, NATURAL COLOUR (INS150d) AND PRESERVATIVE (INS211).",
+  "per_100g": {
+    "energy_kcal": 110.9,
+    "fat": 0.1,
+    "saturated_fat": 0.1,
+    "carbohydrates": 27.1,
+    "sugars": 23.3,
+    "fiber": null,
+    "protein": 0.4,
+    "salt": 2.75,
+    "sodium": 1.1
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-10T13:56:12Z",
+  "fetched_at": "2026-08-19T12:41:02Z"
+}

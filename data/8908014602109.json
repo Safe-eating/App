@@ -1,0 +1,24 @@
+{
+  "barcode": "8908014602109",
+  "name": "Ice Pops (Lemon Flavour)",
+  "brand": "SKIPPI",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 85,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 21,
+    "sugars": 21,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.0375,
+    "sodium": 0.015
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-29T14:15:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,39 @@
+{
+  "barcode": "8906065166007",
+  "name": "Farmland frozen green peas",
+  "brand": "Farmland",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:legumes-and-their-products",
+    "en:vegetable-based-foods-and-beverages",
+    "en:frozen-foods",
+    "en:legumes",
+    "en:vegetables-based-foods",
+    "en:vegetables",
+    "en:frozen-plant-based-foods",
+    "en:frozen-legumes",
+    "en:frozen-vegetables",
+    "en:green-peas",
+    "en:frozen-green-peas"
+  ],
+  "ingredients": "Farmland Ewhering labe FROZEN GREEN PEAS No Added Colours or Preservati",
+  "per_100g": {
+    "energy_kcal": 75,
+    "fat": 0.3,
+    "saturated_fat": 0,
+    "carbohydrates": 13.5,
+    "sugars": 1,
+    "fiber": 0,
+    "protein": 4,
+    "salt": 0.00825,
+    "sodium": 0.0033
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-10T14:02:04Z",
+  "fetched_at": "2026-08-19T12:39:58Z"
+}

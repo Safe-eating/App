@@ -1,0 +1,28 @@
+{
+  "barcode": "8906177761084",
+  "name": "High Protein Milk",
+  "brand": "Akshayakalpa Organic",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk solids (Pasteurized skimmed cow milk)",
+  "per_100g": {
+    "energy_kcal": 65.1,
+    "fat": 0.3,
+    "saturated_fat": 0.11,
+    "carbohydrates": 5.6,
+    "sugars": 5.6,
+    "fiber": 0,
+    "protein": 10,
+    "salt": 0.111,
+    "sodium": 0.0444
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T19:04:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

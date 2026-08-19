@@ -1,0 +1,29 @@
+{
+  "barcode": "8906036670441",
+  "name": "goodlife slim",
+  "brand": "nandini",
+  "quantity": "1l",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:skimmed-milks"
+  ],
+  "ingredients": "Milk Solids, Added Vitamin A \u0026 Added Vitamin D",
+  "per_100g": {
+    "energy_kcal": 39,
+    "fat": 0.5,
+    "saturated_fat": 0.3,
+    "carbohydrates": 5.1,
+    "sugars": 5.1,
+    "fiber": 0,
+    "protein": 3.5,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-26T05:40:42Z",
+  "fetched_at": "2026-08-19T12:35:19Z"
+}

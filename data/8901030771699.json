@@ -1,0 +1,28 @@
+{
+  "barcode": "8901030771699",
+  "name": "cornetto oreo disc",
+  "brand": "kwality walls",
+  "quantity": "72g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts"
+  ],
+  "ingredients": "Water, Compound Coating (21.95%) (Sugar, Palm Kernel Oil, Palm oil, Cocoa Solids, Coconut Oil, Emulsifier - E322, CONTAINS ADDED ARTIFICIAL CHOCOLATE AND VANILLA FLAVOURING SUBSTANCES), Wafer Biscuit Cone (14.63%) (Refined Wheat Flour (Maida), Sugar, Cocoa Powder, Palm Oil, Emulsifier - E322, Iodised Salt, CONTAINS ADDED ARTIFICIAL VANILLA FLAVOURING SUBSTANCE), Oreo Biscuit - Crushed (10.98%) (Refined Wheat Flour (Maida), Sugar, Palmolein, Invert Syrup, Cocoa Solids (3%*), Leavening Agents (E500(ii), E503(ii)), Edible Salt, Emulsifier (E322) and CONTAINS ADDED FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCES), Sugar, Palm Oil, Milk Solids, Liquid Glucose, Vegetable Protein (Soy), Emulsifier - E471, Stabilisers - E410, E412, E407.",
+  "per_100g": {
+    "energy_kcal": 249,
+    "fat": 12.8,
+    "saturated_fat": 7.7,
+    "carbohydrates": 30.5,
+    "sugars": 21.2,
+    "fiber": 0,
+    "protein": 3,
+    "salt": 0.1325,
+    "sodium": 0.053
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-16T14:38:24Z",
+  "fetched_at": "2026-08-19T00:15:09Z"
+}

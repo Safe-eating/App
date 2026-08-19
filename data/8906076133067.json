@@ -1,0 +1,24 @@
+{
+  "barcode": "8906076133067",
+  "name": "Zero Maida Donut Cake",
+  "brand": "Baker's Dozen",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 462,
+    "fat": 23,
+    "saturated_fat": 4,
+    "carbohydrates": 57,
+    "sugars": 22,
+    "fiber": 2,
+    "protein": 6,
+    "salt": 0.4125,
+    "sodium": 0.165
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-10T09:04:44Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

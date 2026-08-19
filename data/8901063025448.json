@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063025448",
+  "name": "Milk Bikis",
+  "brand": "",
+  "quantity": "60 g + 6.5 g (extra) = 66.5 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (63%), SUGAR, REFINED PALM OIL, MILK PRODUCTS (4%) [SWEETENED CONDENSED PARTLY SKIMMED MILK MILK \u0026 MILK SOLIDS], INVERT SUGAR SYRUP, RAISING AGENTS [503(ii) \u0026 500(i)], IODISED SALT, EMULSIFIERS [322(i) \u0026 471], MINERALS**, ARTIFICIAL [MILK \u0026 VANILLA] \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES AND VITAMINS*. (Numbers in brackets as per International Numbering System) \nCONTAINS WHEAT, MILK AND SOY.",
+  "per_100g": {
+    "energy_kcal": 459,
+    "fat": 13.5,
+    "saturated_fat": 6.6,
+    "carbohydrates": 77.1,
+    "sugars": 26,
+    "fiber": null,
+    "protein": 7.4,
+    "salt": 0.745,
+    "sodium": 0.298
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-04T06:47:30Z",
+  "fetched_at": "2026-08-19T00:29:35Z"
+}

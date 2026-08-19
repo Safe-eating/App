@@ -1,0 +1,24 @@
+{
+  "barcode": "8906191630052",
+  "name": "Millet Wafer Var",
+  "brand": "Phabulous",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 377.5,
+    "fat": 23.25,
+    "saturated_fat": 15.75,
+    "carbohydrates": 17.75,
+    "sugars": 8.5,
+    "fiber": 2.5,
+    "protein": 25,
+    "salt": 0.3875,
+    "sodium": 0.155
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-26T06:27:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

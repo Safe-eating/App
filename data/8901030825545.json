@@ -1,0 +1,26 @@
+{
+  "barcode": "8901030825545",
+  "name": "Horlicks Protein Plus Vanilla Flavour",
+  "brand": "Unilever Horlicks",
+  "quantity": "200g",
+  "categories": [
+    "en:Vanilla Protein shake"
+  ],
+  "ingredients": "Skimmed Milk Powder [(50%) of which Casein (14%)], Protein Products (21%) [Whey Protein Concentrate (15%), Soy Protein Isolate (6%)], Cereal Extract (Barley, Malted Barley, Millet, Wheat), Edible Vegetable Fat Powder (High Oleic Sunflower oil) [Emulsifier (INS 471), Antioxidant (INS 305)], Dietary Fibre (Wheat Dextrin-Soluble Fibre), Nature Identical Flavouring Substances, Minerals, Vitamins, Non-Caloric Sweetener (INS 960). Allergen Information: Contains Soy, Milk, Wheat and Barley.",
+  "per_100g": {
+    "energy_kcal": 374,
+    "fat": 4,
+    "saturated_fat": 3,
+    "carbohydrates": 52,
+    "sugars": 30,
+    "fiber": 3,
+    "protein": 34,
+    "salt": 1.375,
+    "sodium": 0.55
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-07T15:03:56Z",
+  "fetched_at": "2026-08-19T00:15:37Z"
+}

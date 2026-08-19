@@ -1,0 +1,36 @@
+{
+  "barcode": "8906040980604",
+  "name": "Cold pressed coconut oil",
+  "brand": "Hareena",
+  "quantity": "500 Ml",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fats",
+    "en:fruit-based-foods",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:coconuts-and-their-products",
+    "en:fruit-and-fruit-seed-oils",
+    "en:coconut-oils"
+  ],
+  "ingredients": "Coconut",
+  "per_100g": {
+    "energy_kcal": 899,
+    "fat": 99.9,
+    "saturated_fat": 89.2,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-03T16:56:56Z",
+  "fetched_at": "2026-08-19T12:36:21Z"
+}

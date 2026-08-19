@@ -1,0 +1,33 @@
+{
+  "barcode": "8908008674808",
+  "name": "Wafer",
+  "brand": "Nabati",
+  "quantity": "28 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers",
+    "en:chocolate-biscuits",
+    "en:stuffed-wafers"
+  ],
+  "ingredients": "Cream (Sugar, Refined Palm Olein, Whey Powder, Cocoa Powder (Cocoa Solids (3.6%)), Corn Starch, Emulsifier (INS 322), lodized Salt, Acidity Regulator (INS 330)). Wafer Sheet (Refined Wheat Flour (Maida), Cocoa Powder (Cocoa Solids (2.4%)), Refined Palm Olein, Flour Treatment Agent (INS 1101 (i))), lodized Salt, Raising Agent (INS 500(ii)), Emulsifier (INS 322)). Numbers in the bracket as per international numbering system Allergen:contains wheat, milk, and soya.",
+  "per_100g": {
+    "energy_kcal": 473,
+    "fat": 17,
+    "saturated_fat": 10,
+    "carbohydrates": 73,
+    "sugars": 34,
+    "fiber": null,
+    "protein": 7,
+    "salt": 0.475,
+    "sodium": 0.19
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-26T23:57:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

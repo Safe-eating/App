@@ -1,0 +1,32 @@
+{
+  "barcode": "10822926",
+  "name": "Skyr High Protein Plain Yoghurt",
+  "brand": "Milky Mist",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts"
+  ],
+  "ingredients": "Pasteurized Skimmed Milk, Milk Solids and Active Lactic Cultures (L.bacillus delbrueckii subsp. bulgaricus, S.thermophilus)",
+  "per_100g": {
+    "energy_kcal": 95,
+    "fat": 1.5,
+    "saturated_fat": 0.5,
+    "carbohydrates": 9.5,
+    "sugars": 9.5,
+    "fiber": null,
+    "protein": 11,
+    "salt": 0.36,
+    "sodium": 0.144
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T12:49:25Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

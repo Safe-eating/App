@@ -1,0 +1,30 @@
+{
+  "barcode": "8904250701521",
+  "name": "Palak Paneer",
+  "brand": "Kohinoor",
+  "quantity": "300 g",
+  "categories": [
+    "en:meals",
+    "en:combination-meals",
+    "en:microwave-meals",
+    "en:ready-to-eat-combination-meals",
+    "en:ready"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 176,
+    "fat": 13,
+    "saturated_fat": 6,
+    "carbohydrates": 9,
+    "sugars": 2.6,
+    "fiber": null,
+    "protein": 5.6,
+    "salt": 0.245,
+    "sodium": 0.098
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T16:22:17Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

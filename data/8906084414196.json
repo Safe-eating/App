@@ -1,0 +1,30 @@
+{
+  "barcode": "8906084414196",
+  "name": "MOM Roasted Makhana Cheddar Cheese",
+  "brand": "MOM (Meal of the Moment)",
+  "quantity": "64 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:fox-nuts",
+    "en:lotus-seeds"
+  ],
+  "ingredients": "Makhana (Fox Nuts - 64%), Edible Vegetable Oil (Sunflower), Seasoning [Milk Solids, Cheese Powder (2.7 %), lodized Salt, Flavours [Natural, Nature Identical (Cheese)], Maltodextrin, Sugar, Ghee, Anticaking Agent (INS 551), Acidity Regula - tor (INS 270), Flavour Enhancers (INS 627, INS 631) and Antioxidant (INS 319)]. \nALLERGEN ADVICE: Milk \u0026 Sulphite",
+  "per_100g": {
+    "energy_kcal": 500,
+    "fat": 22,
+    "saturated_fat": 3,
+    "carbohydrates": 68,
+    "sugars": 2,
+    "fiber": 4,
+    "protein": 7,
+    "salt": 2.3,
+    "sodium": 0.92
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-19T14:47:13Z",
+  "fetched_at": "2026-08-19T12:48:19Z"
+}

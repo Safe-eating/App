@@ -1,0 +1,24 @@
+{
+  "barcode": "8906140970871",
+  "name": "High protein paneer",
+  "brand": "Punjab Sindh",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 160,
+    "fat": 6,
+    "saturated_fat": 8.93,
+    "carbohydrates": 4.5,
+    "sugars": 4.4,
+    "fiber": null,
+    "protein": 22,
+    "salt": 0.13525,
+    "sodium": 0.0541
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-23T06:11:59Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

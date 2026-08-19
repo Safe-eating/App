@@ -1,0 +1,27 @@
+{
+  "barcode": "3529060691401",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 77.6,
+    "fat": 1.5,
+    "saturated_fat": 0.9,
+    "carbohydrates": 5,
+    "sugars": 13,
+    "fiber": null,
+    "protein": 3.1,
+    "salt": 0.13225,
+    "sodium": 0.0529
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-24T03:11:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

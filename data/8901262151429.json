@@ -1,0 +1,27 @@
+{
+  "barcode": "8901262151429",
+  "name": "Amul kool Cofe",
+  "brand": "Amul",
+  "quantity": "200 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 200,
+    "fat": 9,
+    "saturated_fat": 5.8,
+    "carbohydrates": 23.8,
+    "sugars": 23.8,
+    "fiber": null,
+    "protein": 6,
+    "salt": 0.2,
+    "sodium": 0.08
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-28T08:32:50Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

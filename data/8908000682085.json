@@ -1,0 +1,29 @@
+{
+  "barcode": "8908000682085",
+  "name": "Kaycee English Lime \u0026 Lemon",
+  "brand": "Kaycee English",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:carbonated-drinks",
+    "en:sodas"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS (330, 331), CAFFEINE, SWEETENERS (951, 950) AND PRESERVATIVE (211). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (102) AND ADDED FLAVOUR (NATURAL FLAVOURING SUBSTANCES).",
+  "per_100g": {
+    "energy_kcal": 16,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 3.9,
+    "sugars": 3.9,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-04T11:44:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

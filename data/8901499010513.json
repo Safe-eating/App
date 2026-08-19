@@ -1,0 +1,34 @@
+{
+  "barcode": "8901499010513",
+  "name": "Muesli Fruit, Nut \u0026 Seeds",
+  "brand": "Kellogg's",
+  "quantity": "750 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereals-with-fruits",
+    "en:mueslis",
+    "en:mueslis-with-fruits"
+  ],
+  "ingredients": "multigrain (66.4%) (wheat (24.6%), corn grits (15.7%) rice (10.1%), rolled barley (8 %), rolled oats (8%)), candied \u0026 dry fruits, nut \u0026 seed (21%) (candied papaya (6%), candied cranberry (4%), Raisins (4%), almonds (4%), pumpkin Seeds (3%), sugar. Cereal Extract, wheat bran, lodized Salt, vitamins, Flavour (Artificial (Coconut)), Minerals and Antioxidants (INS 320, INS 307b)",
+  "per_100g": {
+    "energy_kcal": 955,
+    "fat": 5.1,
+    "saturated_fat": 0.9,
+    "carbohydrates": 80,
+    "sugars": 21.8,
+    "fiber": 6.4,
+    "protein": 8.1,
+    "salt": 0.35,
+    "sodium": 0.14
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-05T14:19:54Z",
+  "fetched_at": "2026-08-19T00:53:03Z"
+}

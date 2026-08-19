@@ -1,0 +1,32 @@
+{
+  "barcode": "8901063017702",
+  "name": "50 50 Gol Maal",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:confectioneries",
+    "en:biscuits",
+    "en:bars"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), REFINED PALM \u0026 PALMOLEIN OIL, SUGAR (20.5%), RAISING AGENTS (503(ii), 500(ii) \u0026 341(i)), CUMIN BLACK (KALONJI) (0.9%), IODISED SALT, INVERT SUGAR SYRUP, MILK SOLIDS, EMULSIFIERS [322(1) \u0026 4711, NATURE IDENTICAL FLAVOURING SUBSTANCES, DOUGH CONDITIONER (223), IMPROVER [1101(i)] AND COLOUR (102).",
+  "per_100g": {
+    "energy_kcal": 508,
+    "fat": 23.2,
+    "saturated_fat": 11.2,
+    "carbohydrates": 68.4,
+    "sugars": 21.8,
+    "fiber": 0,
+    "protein": 6.4,
+    "salt": 1.145,
+    "sodium": 0.458
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-12T12:31:15Z",
+  "fetched_at": "2026-08-19T00:29:03Z"
+}

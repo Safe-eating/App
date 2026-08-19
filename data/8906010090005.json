@@ -1,0 +1,29 @@
+{
+  "barcode": "8906010090005",
+  "name": "D'lecta Cheese Cubes",
+  "brand": "D'lecta",
+  "quantity": "100 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 322,
+    "fat": 26,
+    "saturated_fat": 16.4,
+    "carbohydrates": 3,
+    "sugars": 3,
+    "fiber": null,
+    "protein": 19,
+    "salt": 3.0675,
+    "sodium": 1.227
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-28T13:39:27Z",
+  "fetched_at": "2026-08-19T01:59:09Z"
+}

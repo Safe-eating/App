@@ -1,0 +1,30 @@
+{
+  "barcode": "00712392",
+  "name": "Bread",
+  "brand": "Leinens Love Bakery",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "WHEAT FLOUR, WATER, SUGAR, EGG, UNSALTED BUTTER, (PASTEURIZE CREAM [MILK]), NATURAL GLAVURS), CANOLA DIL, CONTAINS LESS THAN 2% OF T. SOUR CREAM, (GR T CREAM), SALT, N SWEET WHEY, HED FLOUR (WHEAT FLOUR, REDUCED IRON, THIAMINE MONO NITRATE, RIBOFLAVIN, FOLIC ACID) AS OORLIC ACID (DOUGH CONDITIONER), ENDIMES, BETA CAROTENE (FOR COLOR)",
+  "per_100g": {
+    "energy_kcal": 355.55555556,
+    "fat": 11.11111111,
+    "saturated_fat": 3.33333333333333,
+    "carbohydrates": 57.77777778,
+    "sugars": 15.5555555555556,
+    "fiber": null,
+    "protein": 6.66666667,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-01T04:28:39Z",
+  "fetched_at": "2026-08-18T23:54:01Z"
+}

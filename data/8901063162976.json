@@ -1,0 +1,24 @@
+{
+  "barcode": "8901063162976",
+  "name": "Doodh Marie Gold",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 433,
+    "fat": 11,
+    "saturated_fat": 5.4,
+    "carbohydrates": 76.9,
+    "sugars": 21,
+    "fiber": 6.3,
+    "protein": 9.8,
+    "salt": 0.7325,
+    "sodium": 0.293
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-30T02:11:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

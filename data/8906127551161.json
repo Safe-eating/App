@@ -1,0 +1,32 @@
+{
+  "barcode": "8906127551161",
+  "name": "SUPER MUESLI Chocolate",
+  "brand": "Alpino",
+  "quantity": "750 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Wheat Flakes (29.1%), Rice Flakes (15.8%), Chocolate Peanut Butter Oats (14.9%), Corn Flakes(14.32%), Cocoa Cookie (9%) (Maida, Sugar, Cocoa Solids (16.5%), Milk Solids, Hydrogenated Vegetable Oil, Palm Kernel Oil, Water, Raising Agent (Baking Powder), Edible Common Salt, Preservatives (INS 282)), Cocoa Powder (5%), Sugar Milk Solids, Almonds (4.8%), Ragi Flakes (1.07%), Sugar, Edible Common Salt, Nature Identical' Flavouring Substances, Antioxidants (Tocopherol).",
+  "per_100g": {
+    "energy_kcal": 410.2,
+    "fat": 6.9,
+    "saturated_fat": 1,
+    "carbohydrates": 69.1,
+    "sugars": 13.3,
+    "fiber": 16.6,
+    "protein": 18,
+    "salt": 0.9855,
+    "sodium": 0.3942
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-27T07:01:00Z",
+  "fetched_at": "2026-08-19T12:56:01Z"
+}

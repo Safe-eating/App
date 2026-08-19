@@ -1,0 +1,33 @@
+{
+  "barcode": "8906002006083",
+  "name": "Funfoods Peanut Butter Crunchy",
+  "brand": "Dr. Oetker",
+  "quantity": "125g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Roasted Peanuts (91%), Sugar, Edible Vegetable Fat (Soyabean), lodised Salt. CONTAINS NUT.",
+  "per_100g": {
+    "energy_kcal": 636.4,
+    "fat": 50.3,
+    "saturated_fat": 10.1,
+    "carbohydrates": 20.3,
+    "sugars": 7.7,
+    "fiber": null,
+    "protein": 25.6,
+    "salt": 0.864,
+    "sodium": 0.3456
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-28T21:30:09Z",
+  "fetched_at": "2026-08-19T01:49:41Z"
+}

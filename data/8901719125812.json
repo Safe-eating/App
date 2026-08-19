@@ -1,0 +1,32 @@
+{
+  "barcode": "8901719125812",
+  "name": "hide \u0026 seek Milano choco filled cocoa rich biscuits",
+  "brand": "parle",
+  "quantity": "75g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits",
+    "en:filled-biscuits"
+  ],
+  "ingredients": "CHOCO CREME (40%) (SUGAR, REFINED OILS (PALMOLEIN \u0026 PALM OIL), COCOA SOLIDS, EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN), ARTIFICIAL FLAVOURING SUBSTANCES VANILLA)  REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, SUGAR, COCOA SOLIDS (4.3%), INVERT SUGAR SYRUP, LIQUID GLUCOSE, IODISED SALT, RAISING AGENTS (500 (1), 503 (i), 341] AND EMULSIFIER OF VEGETABLE ORIGIN (472). CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES CHOCOLATE AND VANILLA).",
+  "per_100g": {
+    "energy_kcal": 533,
+    "fat": 28.8,
+    "saturated_fat": 13.6,
+    "carbohydrates": 64,
+    "sugars": 38,
+    "fiber": null,
+    "protein": 4.4,
+    "salt": 0.255,
+    "sodium": 0.102
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-30T21:47:12Z",
+  "fetched_at": "2026-08-19T01:01:12Z"
+}

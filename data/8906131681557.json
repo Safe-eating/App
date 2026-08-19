@@ -1,0 +1,24 @@
+{
+  "barcode": "8906131681557",
+  "name": "Oats jumbo rolled",
+  "brand": "Slurrp farm",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 391.5,
+    "fat": 8.3,
+    "saturated_fat": 1.4,
+    "carbohydrates": 65.1,
+    "sugars": 1.2,
+    "fiber": 11.9,
+    "protein": 14.2,
+    "salt": 0.00575,
+    "sodium": 0.0023
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T06:18:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

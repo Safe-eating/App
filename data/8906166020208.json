@@ -1,0 +1,32 @@
+{
+  "barcode": "8906166020208",
+  "name": "Nuttoz Roasted Peanuts Tandoori",
+  "brand": "Nuttoz",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:roasted-nuts",
+    "en:peanuts",
+    "en:roasted-peanuts"
+  ],
+  "ingredients": "Acidity Regulator (INS 330), Anticaking Agent (INS 551), Natural \u0026 Nature Identical Flavouring Substance",
+  "per_100g": {
+    "energy_kcal": 610,
+    "fat": 50,
+    "saturated_fat": 6.66666666666667,
+    "carbohydrates": 20,
+    "sugars": 3.33333333333333,
+    "fiber": 3.33333333333333,
+    "protein": 20,
+    "salt": 1.08333333333333,
+    "sodium": 0.433333333333333
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-27T11:36:29Z",
+  "fetched_at": "2026-08-19T13:01:48Z"
+}

@@ -1,0 +1,35 @@
+{
+  "barcode": "8901491000789",
+  "name": "Lays India's magic masala",
+  "brand": "Lays",
+  "quantity": "90 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:potato-crisps",
+    "en:flavoured-potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Palmolein Oil, Rice Bran Oil), \u0026quot;Spices \u0026 Condiments (Onion Powder, Chilli Powder, Dried Mango Powder, Coriander Seed Powder, Ginger Powder, Garlic Powder, Black Pepper Powder, Spices Extract. Turmeric Powder), lodised Salt, Black Sal Sugar, Tomato Powder, Citric Acid (330).",
+  "per_100g": {
+    "energy_kcal": 537,
+    "fat": 33.1,
+    "saturated_fat": 12.5,
+    "carbohydrates": 52.9,
+    "sugars": 2.5,
+    "fiber": null,
+    "protein": 6.9,
+    "salt": 2.4825,
+    "sodium": 0.993
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-14T10:40:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8908009450029",
+  "name": "Homa Brown Bread",
+  "brand": "Homa",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "WHOLE WHEAT FLOUR - ATTA (52%), REFINED WHEAT FLOUR (MAIDA), PURIFIED WATER,SUGAR, WHEAT BRAN, YEAST, IODISED SALT, EDIBLE VEGETABLE OIL (PALM \u0026 SOYABEAN OIL), SOYA FLOUR, VITAL GLUTEN, MILK SOLIDS, PRESERVATIVE (282), FLOUR TREATMENT AGENT (516 \u0026 510), EMULSIFIER (472e), STABILIZERS [170(1), 412], ACIDITY REGULATOR (260), IMPROVERS [1101(1), 1102, 1104] AND ANTIOXIDANT (300), CONTAINS PERMITTED NATURAL FOOD COLOUR (150a)",
+  "per_100g": {
+    "energy_kcal": 237,
+    "fat": 1.08,
+    "saturated_fat": 0.28,
+    "carbohydrates": 50,
+    "sugars": 4.8,
+    "fiber": 3,
+    "protein": 7,
+    "salt": 1.23,
+    "sodium": 0.492
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-08T02:04:09Z",
+  "fetched_at": "2026-08-19T13:11:38Z"
+}

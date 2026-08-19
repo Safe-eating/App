@@ -1,0 +1,29 @@
+{
+  "barcode": "8908012945598",
+  "name": "Red Lentil Spaghetti / Noodles",
+  "brand": "Pink Harvest Farms",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "Red Lentil, Less than 2% of: Isabgol, Xanthan Gum (E415)",
+  "per_100g": {
+    "energy_kcal": 333,
+    "fat": 1,
+    "saturated_fat": 0.5,
+    "carbohydrates": 58,
+    "sugars": 2,
+    "fiber": 15,
+    "protein": 23,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-04T11:53:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

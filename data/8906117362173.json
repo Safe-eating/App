@@ -1,0 +1,26 @@
+{
+  "barcode": "8906117362173",
+  "name": "Country Delight Vermicelli",
+  "brand": "Country Delight",
+  "quantity": "400g",
+  "categories": [
+    "en:wheat-vermicelli"
+  ],
+  "ingredients": "Hard Wheat Semolina",
+  "per_100g": {
+    "energy_kcal": 347,
+    "fat": 1.2,
+    "saturated_fat": 0.3,
+    "carbohydrates": 76.7,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 10.5,
+    "salt": 0.014,
+    "sodium": 0.0056
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-03T04:19:47Z",
+  "fetched_at": "2026-08-19T12:53:59Z"
+}

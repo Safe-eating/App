@@ -1,0 +1,31 @@
+{
+  "barcode": "8938506900857",
+  "name": "Dark Chocolate Signature Hoi An",
+  "brand": "Alluvia Chocolatier",
+  "quantity": "30 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:dark-chocolate-bar-with-more-than-70-cocoa"
+  ],
+  "ingredients": "Cocoa nibs and cocoa butter (70%), cane sugar (30%)",
+  "per_100g": {
+    "energy_kcal": 89.2,
+    "fat": 6.3,
+    "saturated_fat": 5.10588235294118,
+    "carbohydrates": 6.7,
+    "sugars": 4.9,
+    "fiber": 12.1470588235294,
+    "protein": 1.38,
+    "salt": 0.0462470588235294,
+    "sodium": 0.0189123529411765
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T11:53:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

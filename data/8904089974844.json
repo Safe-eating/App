@@ -1,0 +1,34 @@
+{
+  "barcode": "8904089974844",
+  "name": "Heritage Milk Shake",
+  "brand": "Heritage",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:dairy-drinks",
+    "en:milks",
+    "en:flavoured-milks",
+    "en:chocolate-milks",
+    "en:milkshakes"
+  ],
+  "ingredients": "Toned Milk, Sugar, Cocoa Powder, Emulsifier and Stabilizers (INS 471, INS 412, INS 407), Acidity Regulator (INS339) CONTAINS ADDED FOOD COLOUR INS1500) AND ADDED NATURAL FLAVOURING SUBSTANCES. Allergen Information: Contains milk.",
+  "per_100g": {
+    "energy_kcal": 101.5,
+    "fat": 3.5,
+    "saturated_fat": 2.1,
+    "carbohydrates": 14.1,
+    "sugars": 8.5,
+    "fiber": 0,
+    "protein": 3.4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-04T11:48:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

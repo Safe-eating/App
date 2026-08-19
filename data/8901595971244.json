@@ -1,0 +1,27 @@
+{
+  "barcode": "8901595971244",
+  "name": "Ching's Hot and sour",
+  "brand": "",
+  "quantity": "12",
+  "categories": [
+    "en:meals",
+    "en:soups"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 300,
+    "fat": 0.66666666666667,
+    "saturated_fat": 0,
+    "carbohydrates": 69.333333333333,
+    "sugars": 20,
+    "fiber": null,
+    "protein": 4,
+    "salt": 21.1,
+    "sodium": 8.44
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-25T15:51:13Z",
+  "fetched_at": "2026-08-19T00:57:12Z"
+}

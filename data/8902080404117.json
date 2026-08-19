@@ -1,0 +1,26 @@
+{
+  "barcode": "8902080404117",
+  "name": "slice",
+  "brand": "PEPSICO INDIA HOLDINGS PVT LTD.",
+  "quantity": "1.2kg",
+  "categories": [
+    "en:cold-drinks"
+  ],
+  "ingredients": "WATER, SUGAR, *CONCENTRATED MANGO PULP (5.1%), Acidity Regulator (330), Favour (Natural and nature identical falvouring substances ), Stabilizers (466, 440), sweetener (960a), preservative (202), colour (110) *Equivalent to 10.2% mango pulp IN Reconstituted Beverage",
+  "per_100g": {
+    "energy_kcal": 50,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 12.5,
+    "sugars": 10.8,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.01825,
+    "sodium": 0.0073
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-11T04:35:13Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

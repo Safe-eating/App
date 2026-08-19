@@ -1,0 +1,36 @@
+{
+  "barcode": "8901491981682",
+  "name": "Lays Cream and Onion Patato Chips",
+  "brand": "Lay's",
+  "quantity": "45 gms",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Paimolein Oil, Rice Bran Oil), Sugar, iodised Salt, Milk Products (Milk Solids, Cheese Powder) (1.4%), \u0026quot;Spices",
+  "per_100g": {
+    "energy_kcal": 537,
+    "fat": 33.1,
+    "saturated_fat": 14.8,
+    "carbohydrates": 53,
+    "sugars": 3.4,
+    "fiber": null,
+    "protein": 6.7,
+    "salt": 1.6075,
+    "sodium": 0.643
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-25T15:08:55Z",
+  "fetched_at": "2026-08-19T00:51:28Z"
+}

@@ -1,0 +1,37 @@
+{
+  "barcode": "8906066701030",
+  "name": "Sharp Jalapeno and Cream Cheese",
+  "brand": "Kettle Studio",
+  "quantity": "113 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:Kettle Cooked chips"
+  ],
+  "ingredients": "Fresh Potatoes, Vegetable Oils (Sunflower Oil, Palmolein Oil, Cotton Seed Oil), Sugar, lodized Salt, Rice Powder, Milk Solids (Skimmed Milk, Sucrose), Spices \u0026 Condiments, Corn Starch, Ghee, Anticaking Agent (E551), Dehydrated Herbs, Acidity Regulator (E270), Maltodextrin, Cheese, Flavour Enhancers (E627, E631), Antioxidants (E300, E319).\n\nCONTAINS ADDED NATURAL (CHEESE) AND NATURE IDENTICAL FLAVOURING (JALAPENO) SUBSTANCES.\n\nAlergen Advisory: Contains Milk Solids. Produced in factory which dies Peanuts, Soya, Wheat, Sesame \u0026 other Nuts on separate machines",
+  "per_100g": {
+    "energy_kcal": 564.285714285714,
+    "fat": 30.7142857142857,
+    "saturated_fat": 9.64285714285714,
+    "carbohydrates": 60.7142857142857,
+    "sugars": 2.5,
+    "fiber": 3.92857142857143,
+    "protein": 5.35714285714286,
+    "salt": 1.40178571428571,
+    "sodium": 0.560714285714286
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-14T18:09:12Z",
+  "fetched_at": "2026-08-19T12:40:32Z"
+}

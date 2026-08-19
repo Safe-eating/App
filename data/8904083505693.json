@@ -1,0 +1,32 @@
+{
+  "barcode": "8904083505693",
+  "name": "24 mantra peanut",
+  "brand": "24 Mantra Organic",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:peanuts"
+  ],
+  "ingredients": "Peanuts",
+  "per_100g": {
+    "energy_kcal": 610,
+    "fat": 49.1,
+    "saturated_fat": 8.4,
+    "carbohydrates": 14.8,
+    "sugars": 5.9,
+    "fiber": 8.6,
+    "protein": 22.8,
+    "salt": 0.022,
+    "sodium": 0.0086
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-23T12:56:44Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

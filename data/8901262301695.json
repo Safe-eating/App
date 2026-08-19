@@ -1,0 +1,31 @@
+{
+  "barcode": "8901262301695",
+  "name": "Ice Malai",
+  "brand": "Amul",
+  "quantity": "67g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-in-individual-cup"
+  ],
+  "ingredients": "Milk solids, polydextrose, fructo-oligosaccharides, emulsifiers (471, 491), stabilizers (407, 412).\nAllergen Information: Contains milk.",
+  "per_100g": {
+    "energy_kcal": 235.820895522388,
+    "fat": 12.9850746268657,
+    "saturated_fat": 7.76119402985075,
+    "carbohydrates": 25.9701492537313,
+    "sugars": 5.82089552238806,
+    "fiber": null,
+    "protein": 3.73134328358209,
+    "salt": 0.130597014925373,
+    "sodium": 0.0522388059701493
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-22T14:48:31Z",
+  "fetched_at": "2026-08-19T00:47:15Z"
+}

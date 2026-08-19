@@ -1,0 +1,26 @@
+{
+  "barcode": "8908002846034",
+  "name": "Goodrich",
+  "brand": "pizza topping",
+  "quantity": "200 g",
+  "categories": [
+    "en:Mozzarella cheese"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 284,
+    "fat": 24,
+    "saturated_fat": 19.7,
+    "carbohydrates": 5,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 12,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2018-10-14T09:10:13Z",
+  "fetched_at": "2026-08-19T13:07:34Z"
+}

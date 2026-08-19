@@ -1,0 +1,32 @@
+{
+  "barcode": "8904335605737",
+  "name": "High Protein Oats Dark Chocolate",
+  "brand": "Yoga Bar",
+  "quantity": "50g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 354,
+    "fat": 7.2,
+    "saturated_fat": 1.8,
+    "carbohydrates": 52,
+    "sugars": 12.4,
+    "fiber": 11.2,
+    "protein": 26,
+    "salt": 0.2495,
+    "sodium": 0.0998
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-23T01:44:11Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

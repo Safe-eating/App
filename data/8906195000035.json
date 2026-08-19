@@ -1,0 +1,33 @@
+{
+  "barcode": "8906195000035",
+  "name": "Cooked Sweet Corn Kernels",
+  "brand": "FreshCon",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:corn",
+    "en:sweet-corn"
+  ],
+  "ingredients": "Sweet Corn Kernels, Water, Salt",
+  "per_100g": {
+    "energy_kcal": 64,
+    "fat": 1,
+    "saturated_fat": 0.2,
+    "carbohydrates": 12,
+    "sugars": 2.7,
+    "fiber": null,
+    "protein": 1.7,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-11T13:11:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

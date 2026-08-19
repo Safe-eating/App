@@ -1,0 +1,30 @@
+{
+  "barcode": "8908010525037",
+  "name": "Popular's Maruti curstless sandwich bread",
+  "brand": "Popular's Maruti",
+  "quantity": "300g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Wheat Flour (Atta), Refined Wheat Flour (Maida), Sugar, Yeast, lodized Salt, Soya Flour, Corn Flour, Wheat Gluten, Edible Vegetable Oil (Palm), Class II Preservatives (282), Emulsifier (481), Acidity Regulator (260), Vitamin C (300), Improvers (1100, 1102, 1104), Flour Treatment Agent (510), (Numbers referred above are as per the International Numbering System) CONTAINS SOYA \u0026 WHEAT GLUTEN",
+  "per_100g": {
+    "energy_kcal": 260.6,
+    "fat": 3.8,
+    "saturated_fat": 0.8,
+    "carbohydrates": 49.2,
+    "sugars": 5.2,
+    "fiber": null,
+    "protein": 7.4,
+    "salt": 0.7005,
+    "sodium": 0.2802
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-29T13:14:39Z",
+  "fetched_at": "2026-08-19T13:12:12Z"
+}

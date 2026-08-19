@@ -1,0 +1,31 @@
+{
+  "barcode": "7622202325557",
+  "name": "Biscoff",
+  "brand": "Lotus",
+  "quantity": "25g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Caramel Cookie"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EDIBLE VEGETABLE OILS (PALM SUNFLOWER, PALM STEARIN), CANDY SUGAR SYRUP, RAISING AGENT (SODIUM BICARBONATE, SOY FLOUR, IODISED SALT, CINNAMON POWDER. ALLERGEN INFORMATION: CONTAINS WHEAT, SOY",
+  "per_100g": {
+    "energy_kcal": 476,
+    "fat": 18,
+    "saturated_fat": 8,
+    "carbohydrates": 73,
+    "sugars": 37,
+    "fiber": null,
+    "protein": 6,
+    "salt": 0.9225,
+    "sodium": 0.369
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-13T11:59:40Z",
+  "fetched_at": "2026-08-19T00:11:02Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8908017474444",
+  "name": "Safawy Kalmi",
+  "brand": "Date Crown",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:fruits",
+    "en:dates-and-their-products",
+    "en:dates"
+  ],
+  "ingredients": "High quality un-pitted loose dates.",
+  "per_100g": {
+    "energy_kcal": 314,
+    "fat": 0.1,
+    "saturated_fat": 0.05,
+    "carbohydrates": 76.1,
+    "sugars": 67.1,
+    "fiber": 7.4,
+    "protein": 2.3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-27T09:43:17Z",
+  "fetched_at": "2026-08-19T13:17:51Z"
+}

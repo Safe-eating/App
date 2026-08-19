@@ -1,0 +1,34 @@
+{
+  "barcode": "8908002984965",
+  "name": "Millet muesli",
+  "brand": "Tata Soulfoul",
+  "quantity": "500 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis",
+    "en:cereals-with-nuts",
+    "en:mueslis-with-nuts"
+  ],
+  "ingredients": "Rolled Oats (33.6%), Millets(20.2%) [Jowar(10.2%), Ragi(10%)], Brown Rice Fakes (15%), Seeds(12%) [Flax(8%), Chia(2%), Pumpkin(2%)], Corn Flakes (5%), Black Raisins (4%), Almonds (3%), Rice Flour(4.2%), Rice Bran Oil, Chia Seeds, Anticaking Agent [INS 170(i)] , Natural Flavour, Antioxidant [INS(307(b), INS 320], Acidity Regulator[INS 330].",
+  "per_100g": {
+    "energy_kcal": 390,
+    "fat": 11.7,
+    "saturated_fat": 2.9,
+    "carbohydrates": 59.6,
+    "sugars": 3.9,
+    "fiber": 7.9,
+    "protein": 11.5,
+    "salt": 0.1625,
+    "sodium": 0.065
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-13T13:53:06Z",
+  "fetched_at": "2026-08-19T13:07:57Z"
+}

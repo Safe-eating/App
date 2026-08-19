@@ -1,0 +1,29 @@
+{
+  "barcode": "5430446640587",
+  "name": "Shirataki Noodles Korean BBQ Chilli",
+  "brand": "Urban Platter",
+  "quantity": "282 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 23.7264150943396,
+    "fat": 0.188679245283019,
+    "saturated_fat": 0,
+    "carbohydrates": 4.43396226415094,
+    "sugars": 1.17924528301887,
+    "fiber": null,
+    "protein": 0.377358490566038,
+    "salt": 2.11143867924528,
+    "sodium": 0.844575471698113
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-11T04:32:00Z",
+  "fetched_at": "2026-08-19T00:06:09Z"
+}

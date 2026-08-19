@@ -1,0 +1,31 @@
+{
+  "barcode": "8908014250539",
+  "name": "Almond Brittle Brownie",
+  "brand": "Loyka",
+  "quantity": "17 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes",
+    "en:chocolate-cakes",
+    "en:brownies"
+  ],
+  "ingredients": "Almonds (40%), Sugar, Hydrogenated Palm Kernel Oil, Cocoa Solids, Refined Wheat Flour (Maida), Butter, Milk Solids. Emulsifier (INS 322), Raising agent [INS 500 (ii)] \u0026 Salt.",
+  "per_100g": {
+    "energy_kcal": 588.705882352941,
+    "fat": 40.8823529411765,
+    "saturated_fat": 21.5294117647059,
+    "carbohydrates": 42.5294117647059,
+    "sugars": 20.7058823529412,
+    "fiber": null,
+    "protein": 12.7058823529412,
+    "salt": 0.353529411764706,
+    "sodium": 0.141411764705882
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-30T08:12:50Z",
+  "fetched_at": "2026-08-19T13:15:44Z"
+}

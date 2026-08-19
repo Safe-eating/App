@@ -1,0 +1,32 @@
+{
+  "barcode": "8906166360229",
+  "name": "Un-junked Dates",
+  "brand": "Open Secret",
+  "quantity": "400 grams",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruits-based-foods",
+    "en:fruits",
+    "en:dates",
+    "en:pitted-dates"
+  ],
+  "ingredients": "Dates",
+  "per_100g": {
+    "energy_kcal": 366.233333333333,
+    "fat": 5.63333333333333,
+    "saturated_fat": 1.46666666666667,
+    "carbohydrates": 77,
+    "sugars": 47.1666666666667,
+    "fiber": 6.23333333333333,
+    "protein": 1.86666666666667,
+    "salt": 0.00176666666666667,
+    "sodium": 0.000706666666666667
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T10:33:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

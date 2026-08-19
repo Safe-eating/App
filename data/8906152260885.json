@@ -1,0 +1,35 @@
+{
+  "barcode": "8906152260885",
+  "name": "Marie go round",
+  "brand": "Sunder",
+  "quantity": "74g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:cooking-helpers",
+    "en:baking-mixes",
+    "en:dessert-mixes",
+    "en:pastry-helpers",
+    "en:biscuit-mixes"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Refined Palm Oil, Sugar, Invert Syrup, Raising Agents [INS 500(ii), INS 503(ii)], Todised Salt, Milk Solids, Emulsifiers [INS 322, INS 472e (Plant Origin)], Flour Treatment Agent [INS 223, INS 1100(i)] 20 15.60% \u0026 Colours (INS 150d, INS e102). Contains Added Flavour [Nature Identical and Artificial Flavouring Substances - Vanilla \u0026 Milk]. 7702420 7220 10.9 6% 5.2 9% ed Fat (g) 4.4 d Fat (g) 1.2 Contains Wheat, Milk Solids 0% and Soy. 9) 365 7%",
+  "per_100g": {
+    "energy_kcal": 440,
+    "fat": 10.9,
+    "saturated_fat": 5.2,
+    "carbohydrates": 77,
+    "sugars": 27,
+    "fiber": 2.2,
+    "protein": 8.5,
+    "salt": 0.9125,
+    "sodium": 0.365
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-10T17:49:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

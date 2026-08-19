@@ -1,0 +1,33 @@
+{
+  "barcode": "8906059638732",
+  "name": "Epigamia Refresh Lassi",
+  "brand": "Epigamia",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:dairy-drinks",
+    "en:fermented-drinks",
+    "en:fermented-milk-drinks"
+  ],
+  "ingredients": "Skimmed milk, Water, Sugar, Milk solids Mango pulp (5%), Stabilizer [INS 466, INS 451 INS 415 INS 440], Acidity regulator [INS 330, INS 331], Nature Identical Flavoring substances (Mango), Colour (INS 102) and Permitted lactic acid cultures.",
+  "per_100g": {
+    "energy_kcal": 75.3333333333333,
+    "fat": 0.0666666666666667,
+    "saturated_fat": 0,
+    "carbohydrates": 17.3333333333333,
+    "sugars": 17.3333333333333,
+    "fiber": null,
+    "protein": 1.6,
+    "salt": 0.106666666666667,
+    "sodium": 0.0426666666666667
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-08T10:56:13Z",
+  "fetched_at": "2026-08-19T12:38:55Z"
+}

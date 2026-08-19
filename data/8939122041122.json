@@ -1,0 +1,31 @@
+{
+  "barcode": "8939122041122",
+  "name": "Nitsun Vegan Paneer Tofu",
+  "brand": "Nitsun",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:plant-based-pates",
+    "en:vegetarian-tofu-pates"
+  ],
+  "ingredients": "Purified Water, Soyabean, Coagulant, Dextrose, Iodized salt.",
+  "per_100g": {
+    "energy_kcal": 166,
+    "fat": 8.51,
+    "saturated_fat": 3.64,
+    "carbohydrates": 3.14,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 19.3,
+    "salt": 0.014,
+    "sodium": 0.0056
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-02T18:18:26Z",
+  "fetched_at": "2026-08-19T13:25:33Z"
+}

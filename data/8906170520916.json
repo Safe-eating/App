@@ -1,0 +1,32 @@
+{
+  "barcode": "8906170520916",
+  "name": "High Protein Oats",
+  "brand": "Nutrabay",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "Instant Oats, Protein Blend (Pea Protein Isolate \u0026 Whey Protein Concentrate), Black Raisins, Cocoa Powder, Pumpkin Seeds, Sweetener (INS 955) and Pink Salt.",
+  "per_100g": {
+    "energy_kcal": 427.22,
+    "fat": 7.5,
+    "saturated_fat": 1.38,
+    "carbohydrates": 60.82,
+    "sugars": 1.04,
+    "fiber": 5.9,
+    "protein": 30,
+    "salt": 0.566275,
+    "sodium": 0.22651
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:29:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

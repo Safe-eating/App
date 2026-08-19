@@ -1,0 +1,37 @@
+{
+  "barcode": "8854761951413",
+  "name": "Real Almond Milk",
+  "brand": "137 Degrees, 137 ดีกรี",
+  "quantity": "1L",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:dairy-substitutes",
+    "en:vegetables-based-foods",
+    "en:milk-substitutes",
+    "en:nuts-and-their-products",
+    "en:plant-based-beverages",
+    "en:plant-based-milk-alternatives",
+    "en:nut-based-drinks",
+    "en:almond-based-drinks"
+  ],
+  "ingredients": "Lait d'amande frais 95% Des amandes entières cultivées en Californie, aux Etats-Unis Extrait de fleur de tournesol 5%",
+  "per_100g": {
+    "energy_kcal": 33.3333333333333,
+    "fat": 2.77777777777778,
+    "saturated_fat": 0.277777777777778,
+    "carbohydrates": 0.555555555555556,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 1.11111111111111,
+    "salt": 0.0138888888888889,
+    "sodium": 0.00555555555555556
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-17T22:32:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

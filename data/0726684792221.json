@@ -1,0 +1,28 @@
+{
+  "barcode": "0726684792221",
+  "name": "Toned Milk",
+  "brand": "Sid’s Farm",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk",
+  "per_100g": {
+    "energy_kcal": 59,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 5,
+    "sugars": 5,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.106,
+    "sodium": 0.0424
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-22T16:33:48Z",
+  "fetched_at": "2026-08-18T23:55:21Z"
+}

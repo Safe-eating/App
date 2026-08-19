@@ -1,0 +1,26 @@
+{
+  "barcode": "8901030986048",
+  "name": "Chocolate Delight flavour",
+  "brand": "Horlicks",
+  "quantity": "200g",
+  "categories": [
+    "en:beverages"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 360,
+    "fat": 2,
+    "saturated_fat": 2,
+    "carbohydrates": 81,
+    "sugars": 46,
+    "fiber": null,
+    "protein": 7,
+    "salt": 0.875,
+    "sodium": 0.35
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-21T16:10:11Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

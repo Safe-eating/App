@@ -1,0 +1,29 @@
+{
+  "barcode": "8901063410282",
+  "name": "The Laughing Cow Cheese Slices",
+  "brand": "Britannia",
+  "quantity": "400g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses"
+  ],
+  "ingredients": "CHEESE, WATER, MILK PRODUCTS (BUTTER, MILK SOLIDS \u0026 RENNET CASEIN), EMULSIFIERS (331 (iii) \u0026 339(iii)), ACIDITY REGULATOR (330), VITAMINS AND MINERAL, PRESERVATIVES (200\u0026235), IODIZED SALT, COLOURS (160a(ii) \u0026 160b(i)). (Numbers in brackets as per International Numbering System) CONTAINS MILK. Naturally rich in Protein",
+  "per_100g": {
+    "energy_kcal": 315.4,
+    "fat": 25.5,
+    "saturated_fat": 16.7,
+    "carbohydrates": 4.3,
+    "sugars": 4.2,
+    "fiber": 0,
+    "protein": 17.2,
+    "salt": 3.565,
+    "sodium": 1.426
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-24T15:32:01Z",
+  "fetched_at": "2026-08-19T00:34:45Z"
+}

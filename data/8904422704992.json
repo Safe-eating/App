@@ -1,0 +1,26 @@
+{
+  "barcode": "8904422704992",
+  "name": "Ragi Digestive Cookies",
+  "brand": "Patanjali",
+  "quantity": "200 g",
+  "categories": [
+    "en:Millet cookies"
+  ],
+  "ingredients": "Wheat flour (Atta - 42.8%), Edible vegetable oil ( Refined Palm oil), Ragi flour (15.65%), Sugar, Wheat bran, Invert sugar syrup, Raising agent (INS 500 (ii), INS 503) lodized salt, Malt extract, Artificial flavouring substances(vanilla \u0026 Mix Fruit), Acidity regulator (INS 296, INS 334, INS 450(i)), Natural colour (INS 150d), Flour Treatment agent (INS 223)",
+  "per_100g": {
+    "energy_kcal": 477.8,
+    "fat": 20.4,
+    "saturated_fat": 9.62,
+    "carbohydrates": 61.76,
+    "sugars": 21.1,
+    "fiber": 6.58,
+    "protein": 8.5,
+    "salt": 0.38,
+    "sodium": 0.152
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-24T10:37:31Z",
+  "fetched_at": "2026-08-19T01:46:05Z"
+}

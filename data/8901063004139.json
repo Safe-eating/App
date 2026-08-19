@@ -1,0 +1,37 @@
+{
+  "barcode": "8901063004139",
+  "name": "Britannia Good day Chocolate Cookies 400g",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:biscuits",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:chocolate-biscuits",
+    "en:candy-chocolate-bars",
+    "en:chocolate-biscuity-bars"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, DARK CHOCOLATE CHIPS (13%) SUGAR COCOA SOLIDS, COCOA BUTTER, DEXTROSE, EMULSIFIER [322(i)] AND NATURE IDENTICAL FLAVOURING SUBSTANCES, DAK CHOCOCHIPS (5.8%) [SUGAR, HYDROGENATED VEGETABLE FAT, COCOA SOLIDS, DEXTROSE, EMULSIFIER [22] A NATURE IDENTICAL FLAVOURING SUBSTANCES], MILK CHOCOCHIPS (5.8%) [SUGAR, HYDROGENATED VEGETABLE FAT, MIK SOLIDS, COCOA SOLIDS, EMULSIFIER [322(i)] AND NATURAL FLAVOURING SUBSTANCES], INVERT SUGAR SYRUP, W SOLIDS, RAISING AGENTS [503 (ii), 500(ii)], COCOA SOLIDS (0.4%), IODISED SALT, EMULSIFIERS [322(i), 471 \u0026 472 COLOUR (150c) AND NATURE IDENTICAL \u0026 ARTIFICIAL (MILKY COCOA AND VANILLIN) FLAVOURING SUBSTANCES.",
+  "per_100g": {
+    "energy_kcal": 512,
+    "fat": 24,
+    "saturated_fat": 14.1,
+    "carbohydrates": 68,
+    "sugars": 33.4,
+    "fiber": null,
+    "protein": 6.1,
+    "salt": 0.51,
+    "sodium": 0.204
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-27T10:10:28Z",
+  "fetched_at": "2026-08-19T00:27:38Z"
+}

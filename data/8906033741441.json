@@ -1,0 +1,31 @@
+{
+  "barcode": "8906033741441",
+  "name": "Digestive mcvities",
+  "brand": "McVitie's",
+  "quantity": "200",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:biscuit-cookie-snack-w-chocolate-filling"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida) (50.5%), Wheat Flour(Atta) (18.3%), Edible Vegetable Oil Palm Oil), Sugar, Wheat Bran (3.1%), Invert Sugar Syrup, Raising Agents [INS 500. INS 503(6), INS 450], lodised Salt, Malt Extract, Emulsifiers (INS 322, INS 472e), Acidity Regulator INS 296), Dough Conditioner (INS 223).",
+  "per_100g": {
+    "energy_kcal": 475,
+    "fat": 18.2,
+    "saturated_fat": 8.8,
+    "carbohydrates": null,
+    "sugars": 17.6,
+    "fiber": 6.4,
+    "protein": 7.8,
+    "salt": 1307.5,
+    "sodium": 523
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-24T09:31:19Z",
+  "fetched_at": "2026-08-19T12:34:16Z"
+}

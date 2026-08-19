@@ -1,0 +1,29 @@
+{
+  "barcode": "8901063365964",
+  "name": "Britannia Chocolate Cake 100gm",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EGG, VANASPATI, INTERESTERIFIED VEGETABLE FAT, HUMECTANT (422), DEXTROSE, REFINED PALMOLEIN OIL, LIQUID GLUCOSE, COCOA SOLIDS (2.1%), HIGH MALTOSE SYRUP, FRUCTOOLIGOSACCHARIDES, COLOURS (150d, 150c, 102, 122, 132, 133), CAKE GEL [EMULSIFIERS (471, 477, 470(i)) \u0026 HUMECTANTS (1520, 422)), RAISING AGENTS (341(i), 500(ii), 450(vii) \u0026 450(i)), NATURE IDENTICAL (CHOCOLATE) \u0026 ARTIFICIAL (CREAMY VANILLA) FLAVOURING SUBSTANCES, INVERT SYRUP, IODIZED SALT, PRESERVATIVES (202 \u0026 282), ACIDITY REGULATOR (330), BAKING POWDER, EMULSIFIER (475) AND STABILIZER (415). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT \u0026 EGG. STORE UNDER COOL, DRY AND HYGIENIC CONDITIONS AWAY FROM SUNLIGHT",
+  "per_100g": {
+    "energy_kcal": 420,
+    "fat": 18.4,
+    "saturated_fat": 10.2,
+    "carbohydrates": 58,
+    "sugars": 27.5,
+    "fiber": null,
+    "protein": 5.8,
+    "salt": 0.45275,
+    "sodium": 0.1811
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T19:49:51Z",
+  "fetched_at": "2026-08-19T00:34:22Z"
+}

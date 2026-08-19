@@ -1,0 +1,28 @@
+{
+  "barcode": "8908003249063",
+  "name": "Organic Farm Fresh Cow Milk",
+  "brand": "Akshayakalpa Organic",
+  "quantity": "500 ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Organic Cow Milk",
+  "per_100g": {
+    "energy_kcal": 61.1,
+    "fat": 3.5,
+    "saturated_fat": 2.48,
+    "carbohydrates": 4.1,
+    "sugars": 4.1,
+    "fiber": null,
+    "protein": 3.3,
+    "salt": 0.10625,
+    "sodium": 0.0425
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-22T05:38:24Z",
+  "fetched_at": "2026-08-19T13:08:01Z"
+}

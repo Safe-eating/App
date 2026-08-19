@@ -1,0 +1,27 @@
+{
+  "barcode": "8904004406313",
+  "name": "Agra Taj petha",
+  "brand": "Haldiram's",
+  "quantity": "350 g",
+  "categories": [
+    "en:sweeteners",
+    "en:sugars"
+  ],
+  "ingredients": "refined sugar, ash gourd (pumpkin), natural kewra water , potassium metabisulphite (e 224 contains sulphite may contain milk , wheat ingredients: refined sugar, winter melon (pumpkin natural kewra water and potassium metabisulphite (e 224) contains sulphites may contain milk and ble store in cool , dry place / store in a cool, dry place fssat lic,  no, 10012022000234 keep your city clean suitable for vegetarians 8904004406313 tion and packaging national pvt,  ltd, (unit-krishi",
+  "per_100g": {
+    "energy_kcal": 320,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 80,
+    "sugars": 62,
+    "fiber": null,
+    "protein": 0.8,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-05T05:24:30Z",
+  "fetched_at": "2026-08-19T01:25:41Z"
+}

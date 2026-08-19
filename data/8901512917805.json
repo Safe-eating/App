@@ -1,0 +1,30 @@
+{
+  "barcode": "8901512917805",
+  "name": "Act II Caramel Bliss",
+  "brand": "Act II",
+  "quantity": "168",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:popcorn",
+    "en:popcorn-with-caramel",
+    "en:caramel-in-popcorn-snacks"
+  ],
+  "ingredients": "Liquid Glucose, Popped Corn (25.9%), Sugar, Table Butter, Caramel 1 (0.7%), lodized Salt, Raising Agent (Sodium Bicarbonate), Emulsifier (Lecithin), Refined Edible Palmolein Oil (TBHQ), Nature Identical Flavour (Caramel Butter) \u0026 Beta Carotene. Contains Milk, Soy and their products.",
+  "per_100g": {
+    "energy_kcal": 425,
+    "fat": 9,
+    "saturated_fat": 4,
+    "carbohydrates": 84,
+    "sugars": 37,
+    "fiber": 4,
+    "protein": 4,
+    "salt": 0.5,
+    "sodium": 0.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T22:11:00Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

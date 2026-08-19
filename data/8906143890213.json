@@ -1,0 +1,24 @@
+{
+  "barcode": "8906143890213",
+  "name": "Protein Bar",
+  "brand": "Whole Truth - Double Cocoa Mini",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 492.962962962963,
+    "fat": 26.6666666666667,
+    "saturated_fat": 6.66666666666667,
+    "carbohydrates": 37.7777777777778,
+    "sugars": 20,
+    "fiber": 10.3703703703704,
+    "protein": 25.5555555555556,
+    "salt": 0.0351851851851852,
+    "sodium": 0.0140740740740741
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-20T12:07:41Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

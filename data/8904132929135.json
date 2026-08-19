@@ -1,0 +1,33 @@
+{
+  "barcode": "8904132929135",
+  "name": "Good Life Fard Dates 500gm",
+  "brand": "Good Life",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:fruits",
+    "en:dates-and-their-products",
+    "en:dates"
+  ],
+  "ingredients": "Dates",
+  "per_100g": {
+    "energy_kcal": 312,
+    "fat": 0.3,
+    "saturated_fat": 0.1,
+    "carbohydrates": 72.7,
+    "sugars": 68.8,
+    "fiber": 9.1,
+    "protein": 2.4,
+    "salt": 0.00775,
+    "sodium": 0.0031
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-02T08:07:01Z",
+  "fetched_at": "2026-08-19T01:36:43Z"
+}

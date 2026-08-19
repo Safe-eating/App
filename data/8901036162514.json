@@ -1,0 +1,32 @@
+{
+  "barcode": "8901036162514",
+  "name": "Super Strong Blend Coffee",
+  "brand": "Continental",
+  "quantity": "50 g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:beverage-preparations",
+    "en:coffees",
+    "en:instant-beverages",
+    "en:instant-coffees"
+  ],
+  "ingredients": "Coffee \u0026 chicory",
+  "per_100g": {
+    "energy_kcal": 5.05,
+    "fat": 11.6125,
+    "saturated_fat": 0.00125,
+    "carbohydrates": 30.8575,
+    "sugars": 0.6,
+    "fiber": 15.125,
+    "protein": 11.0975,
+    "salt": 0.144075,
+    "sodium": 0.056125
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T15:01:49Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

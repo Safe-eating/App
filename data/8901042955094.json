@@ -1,0 +1,29 @@
+{
+  "barcode": "8901042955094",
+  "name": "Mango Sliced Pickles",
+  "brand": "MTR",
+  "quantity": "300 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles",
+    "en:plant-based-pickles"
+  ],
+  "ingredients": "Mango (54%), lodised salt brine, Refined sesame oil, Red chilli powder (5.7%), Mixed spices powder, Mustard seeds (0.3%), Acidity regulators (INS 330 \u0026 INS 260) and Preservative (INS 211).",
+  "per_100g": {
+    "energy_kcal": 109,
+    "fat": 7.7,
+    "saturated_fat": 1.2,
+    "carbohydrates": 8.3,
+    "sugars": 1.7,
+    "fiber": null,
+    "protein": 1.7,
+    "salt": 12.61,
+    "sodium": 5.044
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-19T08:43:03Z",
+  "fetched_at": "2026-08-19T00:21:58Z"
+}

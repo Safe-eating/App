@@ -1,0 +1,28 @@
+{
+  "barcode": "8906016421117",
+  "name": "Peanut Butter Bar",
+  "brand": "Rajaram's",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars"
+  ],
+  "ingredients": "Roasted Peanuts, Jaggery, Cane Sugar, Liquid Glucose and Cardamom.",
+  "per_100g": {
+    "energy_kcal": 492.04,
+    "fat": 20.28,
+    "saturated_fat": 6.51,
+    "carbohydrates": 61.62,
+    "sugars": 27.94,
+    "fiber": null,
+    "protein": 15.76,
+    "salt": 0.0945,
+    "sodium": 0.0378
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-06T02:49:24Z",
+  "fetched_at": "2026-08-19T02:05:16Z"
+}

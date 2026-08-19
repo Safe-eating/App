@@ -1,0 +1,32 @@
+{
+  "barcode": "8906127551703",
+  "name": "Oats - Classic Coffee",
+  "brand": "Alpino",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "Rolled Oats (45%), Texturised Soya Protein (21%), Unsweetened Peanut Butter (20%), Organic Jaggery (10%), Instant coffee (4%), Rosemary Extract",
+  "per_100g": {
+    "energy_kcal": 394,
+    "fat": 14,
+    "saturated_fat": 3,
+    "carbohydrates": 43,
+    "sugars": 12,
+    "fiber": 11,
+    "protein": 24,
+    "salt": 0.1125,
+    "sodium": 0.045
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-12T06:41:43Z",
+  "fetched_at": "2026-08-19T12:56:03Z"
+}

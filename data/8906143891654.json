@@ -1,0 +1,30 @@
+{
+  "barcode": "8906143891654",
+  "name": "Cocoa Whey Protein",
+  "brand": "The Whole Truth",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders",
+    "en:whey-powder"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 396.571428571429,
+    "fat": 4.28571428571429,
+    "saturated_fat": 2.28571428571429,
+    "carbohydrates": 18.2857142857143,
+    "sugars": 2.57142857142857,
+    "fiber": 4.28571428571429,
+    "protein": 71.1428571428571,
+    "salt": 0.73,
+    "sodium": 0.292
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-18T05:14:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8901725121228",
+  "name": "Aashirbaad 5kg select aata",
+  "brand": "Aashirvaad",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 338,
+    "fat": 1.5,
+    "saturated_fat": 0.3,
+    "carbohydrates": 76,
+    "sugars": 3.5,
+    "fiber": 10.4,
+    "protein": 10,
+    "salt": 0.00525,
+    "sodium": 0.0021
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-12T07:47:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

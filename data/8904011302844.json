@@ -1,0 +1,28 @@
+{
+  "barcode": "8904011302844",
+  "name": "Gold Milk",
+  "brand": "Aavin",
+  "quantity": "500 ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk \u0026 Milk Solids",
+  "per_100g": {
+    "energy_kcal": 73,
+    "fat": 4.5,
+    "saturated_fat": 2.7,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": 0,
+    "protein": 3.4,
+    "salt": 175,
+    "sodium": 70
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-05T09:01:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

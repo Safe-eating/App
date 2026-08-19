@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063017221",
+  "name": "Brittania Maska chaska",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:biscuit-cookie-snack-w-chocolate-filling"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), EDIBLE VEGETABLE OIL (PALM), SUGAR, LIQUID GLUCOSE, RAISING AGENTS [503(ii), 500(ii), 450(i)], BUTTER (1.2%), BLACK SALT, MILK SOLIDS, EDIBLE VEGETABLE PRODUCT (1%), IODISED SALT, ACIDITY REGULATOR [341(ii)], DOUGH CONDITIONER (223) AND IMPROVER [1101(0)1. CONTAINS ADDED FLAVOUR [ARTIFICIAL FLAVOURING SUBSTANCE (BUTTER)).",
+  "per_100g": {
+    "energy_kcal": 502,
+    "fat": 26,
+    "saturated_fat": 13,
+    "carbohydrates": 60,
+    "sugars": 10,
+    "fiber": 0,
+    "protein": 7,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-09-07T04:54:09Z",
+  "fetched_at": "2026-08-19T00:28:38Z"
+}

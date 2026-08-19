@@ -1,0 +1,29 @@
+{
+  "barcode": "8908012945505",
+  "name": "Red Lentil Penne",
+  "brand": "Pink Harvest Farms",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:penne"
+  ],
+  "ingredients": "Red Lentil, Less than 2% of: Isabgol, Xanthan Gum (E415)",
+  "per_100g": {
+    "energy_kcal": 333,
+    "fat": 1,
+    "saturated_fat": 0.5,
+    "carbohydrates": 58,
+    "sugars": 2,
+    "fiber": 15,
+    "protein": 23,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-28T15:23:34Z",
+  "fetched_at": "2026-08-19T13:14:14Z"
+}

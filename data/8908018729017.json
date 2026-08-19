@@ -1,0 +1,31 @@
+{
+  "barcode": "8908018729017",
+  "name": "Suchali's Artisan Sourdough Multigrain",
+  "brand": "Suchali's",
+  "quantity": "600 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:sourdough-breads"
+  ],
+  "ingredients": "Whole Wheat Flour, White Flour, Water, Melon Seeds, Flax Seeds, Chia Seeds, White Sesame Seeds, Salt",
+  "per_100g": {
+    "energy_kcal": 244.99,
+    "fat": 1.51,
+    "saturated_fat": 0.583,
+    "carbohydrates": 47.41,
+    "sugars": 2.79,
+    "fiber": null,
+    "protein": 10.44,
+    "salt": 1.295525,
+    "sodium": 0.51821
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-28T07:41:23Z",
+  "fetched_at": "2026-08-19T13:18:53Z"
+}

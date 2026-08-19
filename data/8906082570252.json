@@ -1,0 +1,34 @@
+{
+  "barcode": "8906082570252",
+  "name": "Cornitos Roasted Cashew",
+  "brand": "Cornitos",
+  "quantity": "25g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:salty-snacks",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:cashew-nuts",
+    "en:salted-nuts",
+    "en:salted-cashews"
+  ],
+  "ingredients": "REDIENTS: Cashew (95%), lodised Salt, Spices \u0026 Herbs (Black Pepper, Chilli, Parsley), Sugar, Maltodextrin \u0026 Starch (Corn), Hydrolysed Vegetable Protein (Soya), Acidity Regulator (INS 330), Yeast Extract Powder, Anticaking Agent (INS 551), Antioxidant (INS 319)",
+  "per_100g": {
+    "energy_kcal": 614.285714285714,
+    "fat": 46.4285714285714,
+    "saturated_fat": 10.7142857142857,
+    "carbohydrates": 17.8571428571429,
+    "sugars": 7.14285714285714,
+    "fiber": 7.14285714285714,
+    "protein": 14.2857142857143,
+    "salt": 1.75,
+    "sodium": 0.7
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-11T14:57:54Z",
+  "fetched_at": "2026-08-19T12:47:45Z"
+}

@@ -1,0 +1,35 @@
+{
+  "barcode": "8908004415054",
+  "name": "Crunchy Nutty Peanut Butter",
+  "brand": "United Foods",
+  "quantity": "12 oz",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "Roasted _Peanuts_, Sugar, Salt, Fully hydrogenated _Soya_ Oil.",
+  "per_100g": {
+    "energy_kcal": 651,
+    "fat": 53.45,
+    "saturated_fat": 11.47,
+    "carbohydrates": 18.23,
+    "sugars": 9.46,
+    "fiber": 4.75,
+    "protein": 24.47,
+    "salt": 0.600579999,
+    "sodium": 0.2402319996
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-06T16:48:26Z",
+  "fetched_at": "2026-08-19T13:09:00Z"
+}

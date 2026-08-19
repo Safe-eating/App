@@ -1,0 +1,26 @@
+{
+  "barcode": "8906009079462",
+  "name": "Unibic oats digestive600g",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:food"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 484,
+    "fat": 19.4,
+    "saturated_fat": 9.4,
+    "carbohydrates": 68,
+    "sugars": 18.8,
+    "fiber": 9.2,
+    "protein": 8.3,
+    "salt": 1639.25,
+    "sodium": 655.7
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-10T06:21:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

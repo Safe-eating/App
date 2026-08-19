@@ -1,0 +1,26 @@
+{
+  "barcode": "8909081010156",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 541,
+    "fat": 32.7,
+    "saturated_fat": 13.6,
+    "carbohydrates": 55.7,
+    "sugars": 1.5,
+    "fiber": 0,
+    "protein": 7.6,
+    "salt": 1851,
+    "sodium": 740.4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-31T04:43:09Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

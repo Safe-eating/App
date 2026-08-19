@@ -1,0 +1,27 @@
+{
+  "barcode": "8909081005619",
+  "name": "Bingo Mad Angles Mystery Pickle",
+  "brand": "Bingo",
+  "quantity": "119.5",
+  "categories": [
+    "en:snacks",
+    "en:namkeen"
+  ],
+  "ingredients": "CEREALS AND PULSE MIX {RICE GRITS, DEGERMED CORN GRITS, BENGAL GRAM GRITS AND PEA GRITS), *EDIBLE VEGETABLE OIL, SUGAR, IODIZED SALT, #SPICES AND CONDIMENTS, ACIDITY REGULATOR (CITRIC ACID), NATURE IDENTICAL FLAVOURING SUBSTANCES, CITRUS AURANTIFOLIA JUICE POWDER, FRUCTOSE, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES AND FLAVOUR ENHANCER (635).",
+  "per_100g": {
+    "energy_kcal": 536,
+    "fat": 31.7,
+    "saturated_fat": 14.1,
+    "carbohydrates": 58.3,
+    "sugars": 4.3,
+    "fiber": null,
+    "protein": 5.9,
+    "salt": 2830.5,
+    "sodium": 1132.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-18T16:45:23Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

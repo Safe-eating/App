@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262030908",
+  "name": "Amul Cow Ghee",
+  "brand": "Amul",
+  "quantity": "1L",
+  "categories": [
+    "en:fats",
+    "en:animal-fats",
+    "en:butter-fat",
+    "en:clarified-butter",
+    "en:ghee"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 897,
+    "fat": 99.7,
+    "saturated_fat": 60,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.7,
+    "sodium": 0.28
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-14T03:38:37Z",
+  "fetched_at": "2026-08-19T00:42:01Z"
+}

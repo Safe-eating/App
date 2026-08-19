@@ -1,0 +1,37 @@
+{
+  "barcode": "7622202230257",
+  "name": "Perk Plus",
+  "brand": "Cadburys",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:biscuits",
+    "en:chocolate-candies",
+    "en:wafers",
+    "en:chocolate-biscuits",
+    "en:stuffed-wafers",
+    "en:chocolate-stuffed-wafers"
+  ],
+  "ingredients": "Sugar, Refined Wheat Flour (Maida), Interesterified Vegetable Fat, Starch, Milk solids, Cocoa Solids (3%), Emulsifiers (442, 322, 476), Palmolein, Flavours (Natural, Natural Identical and Artificial (Milk and Vanilla) Flavouring Substances), lodised Salt, Yeast, Raising Agent (500(ii)), Improver (1101(1)). Allergen Information: Contains Milk, Wheat, Sulphites, Soy. Packaging Material Mfd. By: Uflex Ltd. Registration No.: PR-10-JAM-05-AAACF0109J-23 Super Chocolatey and Extra Crispy in comparison with Perk Rs. 5 Unit No. 2001, 20th Floor, Tower-3 Wing C One International Center, Parel Mkt. By: Mondelez India Foods P Mumbai - 400 013. Lic. No. 1074022002711 Mfd. By: Mondelez India Foods Private Limited Makson Pharmaceuticals (Private Limited 195, Rajkot Highway, Surendranagar-363 020 Lic. No. 1801312104",
+  "per_100g": {
+    "energy_kcal": 509,
+    "fat": 24.3,
+    "saturated_fat": 35,
+    "carbohydrates": 0.0683,
+    "sugars": 42.2,
+    "fiber": null,
+    "protein": 4.9,
+    "salt": 0.2725,
+    "sodium": 0.109
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-07T09:25:16Z",
+  "fetched_at": "2026-08-19T00:10:06Z"
+}

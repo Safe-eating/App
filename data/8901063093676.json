@@ -1,0 +1,26 @@
+{
+  "barcode": "8901063093676",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:good-day-cookies"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 503,
+    "fat": 22.4,
+    "saturated_fat": 10.8,
+    "carbohydrates": 68.3,
+    "sugars": 19.6,
+    "fiber": null,
+    "protein": 7,
+    "salt": 0.545,
+    "sodium": 0.218
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-15T15:02:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

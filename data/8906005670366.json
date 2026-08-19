@@ -1,0 +1,27 @@
+{
+  "barcode": "8906005670366",
+  "name": "Charli masala butter chakli",
+  "brand": "Charliee",
+  "quantity": "105 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks"
+  ],
+  "ingredients": "Tapioca Flour (44%), Refined Palmolein Oil (28%), Black Matpe Flour (23%), lodised Salt (2%), Red Chilli Powder (2%), Butter (1%).",
+  "per_100g": {
+    "energy_kcal": 474,
+    "fat": 21.5,
+    "saturated_fat": 11.3,
+    "carbohydrates": 62.3,
+    "sugars": 3.2,
+    "fiber": 4.9,
+    "protein": 7.7,
+    "salt": 2.25,
+    "sodium": 0.9
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-13T04:07:15Z",
+  "fetched_at": "2026-08-19T01:52:19Z"
+}

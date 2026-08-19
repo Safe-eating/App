@@ -1,0 +1,30 @@
+{
+  "barcode": "8904474000332",
+  "name": "Multigrain high fibre bread",
+  "brand": "Bonn",
+  "quantity": "200gm",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour - Atta (43.5%), Water, Grain Mix (8.7%) [Rolled Per RDA Per Seeds, Gluten, Wheat Bran, Malt Flour, Niger Seed, Starch, Soy Flour, Improver Seeds], Multigrain Mix (4.8%) [Broken, Wheat, Linseed, Iodized Salt, Sunflower Oats, Soyabean, Linseeds, Sesame Seeds, Sunflower Seeds, Wheat Bran \u0026 Melon 300 7.65% Gluten, lodize Salt, Preservatives [280, 281 \u0026 2001, Vinegar, Emulsifiers [481(1). {170(i)} \u0026 Enzyme (Xylanase)], Sugar, Yeast, Edible Sunflower Oil, Malt Extract, 631 3.96% 471 \u0026 472e], Soy Flour, Flour Improver [1100(i) \u0026 1104] and Antioxidants [300\u0026 100 174 Serve # 68% 1102].",
+  "per_100g": {
+    "energy_kcal": 306,
+    "fat": 5.31,
+    "saturated_fat": 0.74,
+    "carbohydrates": 51.18,
+    "sugars": 4.2,
+    "fiber": 6.4,
+    "protein": 10.2,
+    "salt": 1.31,
+    "sodium": 0.524
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-07T10:03:36Z",
+  "fetched_at": "2026-08-19T01:46:38Z"
+}

@@ -1,0 +1,34 @@
+{
+  "barcode": "8901595863280",
+  "name": "Schezwan Chutney",
+  "brand": "Ching's Secret",
+  "quantity": "600 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:spreads",
+    "en:fruit-based-foods",
+    "en:plant-based-spreads",
+    "en:chutneys",
+    "en:fruit-chutneys"
+  ],
+  "ingredients": "Water, Cotton Seed Oil, Sugar, iodised Salt, Chilli, Garlic, Onion, Thickener (INS 1422), Ginger, Acidity Regulator (INS 260), Flavour Enhancer (INS 635), Spices (White Pepper, Schezwan Pepper), Preservatives (INS 202, INS 211), Natural Flavouring Substances. _Contains: Celery. May contain: Wheat, Soy, Nuts, Sesame Seeds, Mustard and Milk._",
+  "per_100g": {
+    "energy_kcal": 176,
+    "fat": 6.66667,
+    "saturated_fat": 2,
+    "carbohydrates": 16.7,
+    "sugars": 8,
+    "fiber": 0,
+    "protein": 2.2,
+    "salt": 4.93,
+    "sodium": 1.972
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-25T08:24:13Z",
+  "fetched_at": "2026-08-19T00:57:07Z"
+}

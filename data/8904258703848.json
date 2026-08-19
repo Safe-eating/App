@@ -1,0 +1,30 @@
+{
+  "barcode": "8904258703848",
+  "name": "Coconut Water",
+  "brand": "Raw Pressery",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:coconut-waters"
+  ],
+  "ingredients": "COCONUT WATER(100%), BIO-PRESERVATIVE (INS 234)",
+  "per_100g": {
+    "energy_kcal": 24.78,
+    "fat": 0.18,
+    "saturated_fat": 0.005,
+    "carbohydrates": 5.6,
+    "sugars": 4.4,
+    "fiber": 0.85,
+    "protein": 0.19,
+    "salt": 0.02875,
+    "sodium": 0.0115
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-12T12:27:40Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

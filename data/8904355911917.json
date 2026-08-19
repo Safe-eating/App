@@ -1,0 +1,35 @@
+{
+  "barcode": "8904355911917",
+  "name": "Upsnac Sweet Cinnoman Peanut Butter",
+  "brand": "Upsnac",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 592.2,
+    "fat": 42.53,
+    "saturated_fat": 6.23,
+    "carbohydrates": 30.3,
+    "sugars": 17.89,
+    "fiber": 6.93,
+    "protein": 22.05,
+    "salt": 0.1125,
+    "sodium": 0.045
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-02T08:13:21Z",
+  "fetched_at": "2026-08-19T01:45:08Z"
+}

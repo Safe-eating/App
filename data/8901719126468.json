@@ -1,0 +1,31 @@
+{
+  "barcode": "8901719126468",
+  "name": "parle 20-20",
+  "brand": "Parle",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:buiscuit"
+  ],
+  "ingredients": "Refined wheat flour  Sugar refined palm oil  Invert sugar syrup  Cashew (1%) Raising agents",
+  "per_100g": {
+    "energy_kcal": 490,
+    "fat": 20.2,
+    "saturated_fat": 9.3,
+    "carbohydrates": 70.6,
+    "sugars": 24.4,
+    "fiber": 0,
+    "protein": 6.4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-24T19:34:50Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

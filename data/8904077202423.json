@@ -1,0 +1,27 @@
+{
+  "barcode": "8904077202423",
+  "name": "Maniarr's Plain Dry Bhakhri",
+  "brand": "Maniarr's",
+  "quantity": "200 g",
+  "categories": [
+    "en:snacks",
+    "en:Khakhara"
+  ],
+  "ingredients": "Wheat Flour (75%), Edible Vegetable Oil (Palmolein Oil) (21%), lodized Salt, Asafoetida, Turmeric Powder.",
+  "per_100g": {
+    "energy_kcal": 468,
+    "fat": 24.7,
+    "saturated_fat": 9,
+    "carbohydrates": 52.1,
+    "sugars": 0,
+    "fiber": 5.4,
+    "protein": 9.4,
+    "salt": 2.0975,
+    "sodium": 0.839
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-22T01:01:41Z",
+  "fetched_at": "2026-08-19T01:32:58Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8901262260947",
+  "name": "Buffalo Milk A2",
+  "brand": "Amul",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks"
+  ],
+  "ingredients": "Milk",
+  "per_100g": {
+    "energy_kcal": 91,
+    "fat": 6.5,
+    "saturated_fat": 4.2,
+    "carbohydrates": 5,
+    "sugars": 5,
+    "fiber": null,
+    "protein": 3.2,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-21T15:24:00Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

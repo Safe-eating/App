@@ -1,0 +1,31 @@
+{
+  "barcode": "8904083320005",
+  "name": "Prime strawberry icecream",
+  "brand": "Milky mist",
+  "quantity": "550g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:luxury-ice-cream-in-a-cup"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 121.8,
+    "fat": 7.2,
+    "saturated_fat": 4.9,
+    "carbohydrates": 12.3,
+    "sugars": 12.3,
+    "fiber": 0,
+    "protein": 2,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-09T18:40:27Z",
+  "fetched_at": "2026-08-19T01:33:38Z"
+}

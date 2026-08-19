@@ -1,0 +1,33 @@
+{
+  "barcode": "8908003059129",
+  "name": "murli soyabean oil 1ltr",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:fats",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:legume-oils",
+    "en:soybean-oils"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 362,
+    "fat": 1.9,
+    "saturated_fat": 0.4,
+    "carbohydrates": 74,
+    "sugars": 4.6,
+    "fiber": 12,
+    "protein": 12.2,
+    "salt": 0.00625,
+    "sodium": 0.0025
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-09T08:18:03Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

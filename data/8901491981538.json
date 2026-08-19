@@ -1,0 +1,26 @@
+{
+  "barcode": "8901491981538",
+  "name": "Lay’s Chile Limon",
+  "brand": "Lay's",
+  "quantity": "10rs",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 535,
+    "fat": 33.2,
+    "saturated_fat": 14.8,
+    "carbohydrates": 52,
+    "sugars": 3.3,
+    "fiber": 0,
+    "protein": 6.4,
+    "salt": 2.475,
+    "sodium": 0.99
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-01T10:55:44Z",
+  "fetched_at": "2026-08-19T00:51:25Z"
+}

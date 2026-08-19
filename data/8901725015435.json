@@ -1,0 +1,29 @@
+{
+  "barcode": "8901725015435",
+  "name": "Sunfeast Marie Light Vita Orange",
+  "brand": "Sunfeast, ITC",
+  "quantity": "95.6g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits"
+  ],
+  "ingredients": "ng.erients med Wheat Flour (Maida) (67%), Sugar, Refined Paim o, Raising Agents [INS 503(ii), INS 500(ii), INS 450(i)], Milk Solids, evert Syrup, lodized Salt, Nature Identical Flavouring Substances, Wheat Fibre (0.12%), Artificial Flavouring Substances (Butter, Vanilla, Butterscotch, Milk), Emulsifier [Mono - and di-glycerides of fatty acids (from Palm Oil)], Flour Treatment Agent (INS 223), Vitamins, Colours INS 150d, INS 110, INS 127) and Dehydrated Orange Powder (0.01%).",
+  "per_100g": {
+    "energy_kcal": 449,
+    "fat": 13.4,
+    "saturated_fat": 7.1,
+    "carbohydrates": 73.5,
+    "sugars": 20.8,
+    "fiber": null,
+    "protein": 9.3,
+    "salt": 0.83325,
+    "sodium": 0.3333
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-24T10:29:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

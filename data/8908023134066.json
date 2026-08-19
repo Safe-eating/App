@@ -1,0 +1,30 @@
+{
+  "barcode": "8908023134066",
+  "name": "Beetroot chips Mint",
+  "brand": "Krunchillo",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "Beetroot (61%), Palmolein Oil, Seasoning [Spices \u0026 Condiments, Sugar, Refined Wheat Flour (Maida), lodized Salt, Black Salt, Acidity Regulator (INS 330), Tamarind Powder, Flavour Enhancers (INS 627, INS 631), Natural \u0026 Nature Identical Artificial (Tamarind) Flavouring Substances, Hydrolysed Vegetable Protein (Soy), Anti-Caking Agent (INS 551)]",
+  "per_100g": {
+    "energy_kcal": 513.333333333333,
+    "fat": 30.4666666666667,
+    "saturated_fat": 13.3333333333333,
+    "carbohydrates": 52.3,
+    "sugars": 30.5,
+    "fiber": null,
+    "protein": 8.03333333333333,
+    "salt": 1.9535,
+    "sodium": 0.7814
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-24T08:45:14Z",
+  "fetched_at": "2026-08-19T13:21:31Z"
+}

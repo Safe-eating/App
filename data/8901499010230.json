@@ -1,0 +1,38 @@
+{
+  "barcode": "8901499010230",
+  "name": "Oats",
+  "brand": "Kellog's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereal-grains",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats",
+    "en:oat"
+  ],
+  "ingredients": "Oats",
+  "per_100g": {
+    "energy_kcal": 379,
+    "fat": 9,
+    "saturated_fat": 1.7,
+    "carbohydrates": 67.8,
+    "sugars": 1.3,
+    "fiber": 10,
+    "protein": 11.6,
+    "salt": 0.0175,
+    "sodium": 0.007
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-17T14:13:15Z",
+  "fetched_at": "2026-08-19T00:52:59Z"
+}

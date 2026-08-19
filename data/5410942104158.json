@@ -1,0 +1,33 @@
+{
+  "barcode": "5410942104158",
+  "name": "Passendale classic",
+  "brand": "Passendale, Savencia",
+  "quantity": "190g (5*38g)",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:cow-cheeses",
+    "en:belgian-cheeses",
+    "en:sliced-cheeses",
+    "en:abbaye-cheeses"
+  ],
+  "ingredients": "pasteurized cow's milk, salt, lactic acid ferments, rennet, natural dye: annatto,",
+  "per_100g": {
+    "energy_kcal": 353,
+    "fat": 29,
+    "saturated_fat": 20,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 23,
+    "salt": 1.5,
+    "sodium": 0.6
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-23T12:54:58Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

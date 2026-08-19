@@ -1,0 +1,26 @@
+{
+  "barcode": "8906009532875",
+  "name": "Max Protein Protein Snack",
+  "brand": "Max Protein",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 483.333333333333,
+    "fat": 23.6666666666667,
+    "saturated_fat": 4.66666666666667,
+    "carbohydrates": 49,
+    "sugars": 3.33333333333333,
+    "fiber": 6.66666666666667,
+    "protein": 16.6666666666667,
+    "salt": 2.5,
+    "sodium": 1
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-27T11:55:03Z",
+  "fetched_at": "2026-08-19T01:58:30Z"
+}

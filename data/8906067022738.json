@@ -1,0 +1,26 @@
+{
+  "barcode": "8906067022738",
+  "name": "Raw Whey Protein 80%",
+  "brand": "MuscleBlaze",
+  "quantity": "1 kg",
+  "categories": [
+    "en:whey protein"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 395,
+    "fat": 5,
+    "saturated_fat": 4.2,
+    "carbohydrates": 7.5,
+    "sugars": 7,
+    "fiber": null,
+    "protein": 80,
+    "salt": 0.43,
+    "sodium": 0.172
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-02T18:59:17Z",
+  "fetched_at": "2026-08-19T12:40:35Z"
+}

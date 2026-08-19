@@ -1,0 +1,34 @@
+{
+  "barcode": "8906097592911",
+  "name": "goodeatz Lentil Soup",
+  "brand": "Fast\u0026Up, goodeatz",
+  "quantity": "22g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:meals",
+    "en:soups",
+    "en:vegetable-soups",
+    "en:reheatable-soups",
+    "en:reheatable-vegetable-soups",
+    "en:lentil-soups"
+  ],
+  "ingredients": "Pea Protein (57.3%), Edible Starches (Tapioca, Potato), Pink Salt, Flavouring Substances (Natural and Nature Identical), Spices and Condiments, Dehydrated Vegetables (4.7%) (Canned tomato), Toor Dal (4.5%), Inulin (3.3%), Refined Sunflower oil, Thickener (INS 412), Flavour Enhancers (INS 627, INS 631), Anti caking Agent (INS 551), Extracts (Curcumin, Tulsi)",
+  "per_100g": {
+    "energy_kcal": 354.2,
+    "fat": 2.8,
+    "saturated_fat": 0.52,
+    "carbohydrates": 26.7,
+    "sugars": 8,
+    "fiber": 8.9,
+    "protein": 51.1,
+    "salt": 8.70175,
+    "sodium": 3.4807
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-29T05:59:58Z",
+  "fetched_at": "2026-08-19T12:49:56Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8901499008701",
+  "name": "Special K original",
+  "brand": "Kellogg's",
+  "quantity": "900 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "Rice (36.2%), Whole Wheat (33.2%), Sugar, Wheat Bran (4.7%), Liquid Glucose, lodized Salt, Cereal Extract, Vitamins, Mineral and Antioxidant (INS 320).",
+  "per_100g": {
+    "energy_kcal": 360,
+    "fat": 1,
+    "saturated_fat": 0.3,
+    "carbohydrates": 85.3,
+    "sugars": 25,
+    "fiber": 1.5,
+    "protein": 8.3,
+    "salt": 0.42,
+    "sodium": 0.168
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-20T14:07:49Z",
+  "fetched_at": "2026-08-19T00:52:29Z"
+}

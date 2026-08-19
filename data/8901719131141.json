@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719131141",
+  "name": "Parle 20-20 Cashew Cookies",
+  "brand": "Parle",
+  "quantity": "35 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 495,
+    "fat": 21.2,
+    "saturated_fat": 9.5,
+    "carbohydrates": 69.1,
+    "sugars": 23,
+    "fiber": null,
+    "protein": 7,
+    "salt": 0.1836,
+    "sodium": 0.07344
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-10T07:58:49Z",
+  "fetched_at": "2026-08-19T01:02:16Z"
+}

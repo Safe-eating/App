@@ -1,0 +1,26 @@
+{
+  "barcode": "8901725013837",
+  "name": "Mad angles",
+  "brand": "Bingo",
+  "quantity": "14g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 531,
+    "fat": 31.1,
+    "saturated_fat": 14.5,
+    "carbohydrates": 57.3,
+    "sugars": 3.7,
+    "fiber": null,
+    "protein": 7.4,
+    "salt": 1.8775,
+    "sodium": 0.751
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-12T13:54:11Z",
+  "fetched_at": "2026-08-19T01:04:54Z"
+}

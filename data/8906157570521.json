@@ -1,0 +1,32 @@
+{
+  "barcode": "8906157570521",
+  "name": "Nutty Delight Cereal",
+  "brand": "Gaia",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 418.666666666667,
+    "fat": 6.33333333333333,
+    "saturated_fat": 0.666666666666667,
+    "carbohydrates": 78.3333333333333,
+    "sugars": 14.2,
+    "fiber": 7.26666666666667,
+    "protein": 12.1333333333333,
+    "salt": 0.975833333333333,
+    "sodium": 0.390333333333333
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-22T04:06:01Z",
+  "fetched_at": "2026-08-19T13:00:44Z"
+}

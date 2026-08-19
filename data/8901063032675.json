@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063032675",
+  "name": "B. waffy choco",
+  "brand": "Britannia",
+  "quantity": "50g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, INTERESTERIFIED VEGETABLE FAT, MILK PRODUCTS (WHEY POWDER, MILK PERMEATE POWDER), REFINED COCONUT OIL, COCOA SOLIDS (3.2%), EMULSIFIER [322(i)], WHEAT FIBRE, IODISED SALT, RAISING AGENT [500(ii)], NATURE IDENTICAL FLAVOURING SUBSTANCE, MALTODEXTRIN AND IMPROVER [1101(i)]",
+  "per_100g": {
+    "energy_kcal": 514,
+    "fat": 24.3,
+    "saturated_fat": 17,
+    "carbohydrates": 67.2,
+    "sugars": 40.3,
+    "fiber": null,
+    "protein": 6.5,
+    "salt": 0.3675,
+    "sodium": 0.155
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-05T08:39:37Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

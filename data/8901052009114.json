@@ -1,0 +1,24 @@
+{
+  "barcode": "8901052009114",
+  "name": "Tata Soulfull Mast misal",
+  "brand": "Tata",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 383,
+    "fat": 8.2,
+    "saturated_fat": 2.2,
+    "carbohydrates": 68.5,
+    "sugars": 8.3,
+    "fiber": 14.4,
+    "protein": 8.7,
+    "salt": 6.0775,
+    "sodium": 2.431
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-04T12:24:07Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

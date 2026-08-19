@@ -1,0 +1,35 @@
+{
+  "barcode": "8901491000772",
+  "name": "Lays american onion 80gm",
+  "brand": "Lay's",
+  "quantity": "82 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:potato-crisps",
+    "en:flavoured-potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Palmolein, Sunflower Oil), *Seasoning (Sugar, lodised Salt, Milk Solids, Spices \u0026 Condiments, Maltodextrin, Flavour (Natural and Nature Identical Flavouring Substances), Cheese Powder, Hydrolysed Vegetable Protein, Flavour Enhancers (627, 631), Edible Vegetable Oil (Palm, Coconut), Anticaking Agent (551)).",
+  "per_100g": {
+    "energy_kcal": 537,
+    "fat": 33.1,
+    "saturated_fat": 14.8,
+    "carbohydrates": 53,
+    "sugars": 3.4,
+    "fiber": 0,
+    "protein": 6.7,
+    "salt": 1.6075,
+    "sodium": 0.643
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-22T04:23:12Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

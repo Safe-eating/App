@@ -1,0 +1,31 @@
+{
+  "barcode": "8906159751089",
+  "name": "Nabati Richeese Cheese Wafer",
+  "brand": "Nabati",
+  "quantity": "30 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers"
+  ],
+  "ingredients": "Cream (Sugar, Refined Palm Olein, Cheese Powder (Sugar, Cheese Solids (3.5%), Maltodextrin, Colours (INS 110, INS 100(i))), Maltodextrin, Milk Powder, Corn Starch, Emulsifier (INS 322), Acidity Regulator (INS 330)). Wafer Sheet (Refined Wheat Flour (Maida), Refined Palm Olein, Flour Treatment Agent (INS 1101 (i)), lodized Salt, Raising Agent (INS 500(ii)), Emulsifier (INS 322)). Numbers in the bracket as per international numbering system Allergen: contains wheat, milk and soya",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 20,
+    "saturated_fat": 9,
+    "carbohydrates": 22.34795,
+    "sugars": 33,
+    "fiber": 0.6233,
+    "protein": 6,
+    "salt": 1.28,
+    "sodium": 0.512
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-15T15:08:40Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

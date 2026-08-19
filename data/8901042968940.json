@@ -1,0 +1,26 @@
+{
+  "barcode": "8901042968940",
+  "name": "MTR Veggie Upma",
+  "brand": "MTR",
+  "quantity": "60g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Wheat semolina (72%), Interesterified vegetable fat, lodised salt, Dehydrated carrot (2.9%), Green chilli (2.1%), Ginger, Sugar, Maltodextrin (Corn), Curry leaves, Mustard, Bengal gram splits, Dehydrated onion, Anticaking agent (INS 551), Acidity regulators (INS 330 \u0026 334), Natural and nature identical flavouring substance.",
+  "per_100g": {
+    "energy_kcal": 420,
+    "fat": 11.3333333333333,
+    "saturated_fat": 6.66666666666667,
+    "carbohydrates": 69.5,
+    "sugars": 4,
+    "fiber": 3.33333333333333,
+    "protein": 8,
+    "salt": 2.91666666666667,
+    "sodium": 1.16666666666667
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-03T08:29:19Z",
+  "fetched_at": "2026-08-19T00:22:28Z"
+}

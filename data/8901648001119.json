@@ -1,0 +1,30 @@
+{
+  "barcode": "8901648001119",
+  "name": "White Bread",
+  "brand": "Mother Diary",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Water, Sugar, Yeast, lodized Salt, Edible Vegetable Oil (Soyabean, Palmolein), Wheat Gluten, Soya Flour, Preservative (282), Emulsifier [471, 481 (i)], Acidity Regulator (260), Enzyme Preparations (1100(i), 1102, 1104, Xylanase) and Antioxidant (300).",
+  "per_100g": {
+    "energy_kcal": 233,
+    "fat": 1,
+    "saturated_fat": 0.4,
+    "carbohydrates": 48,
+    "sugars": 3.5,
+    "fiber": 2,
+    "protein": 7,
+    "salt": 1.245,
+    "sodium": 0.498
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-27T03:54:16Z",
+  "fetched_at": "2026-08-19T00:57:38Z"
+}

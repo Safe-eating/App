@@ -1,0 +1,31 @@
+{
+  "barcode": "7622202324758",
+  "name": "Crispello",
+  "brand": "Cadbury",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:chocolates"
+  ],
+  "ingredients": "Filled chocolate ingredients: Milk Chocolate 50%*-Sugar, Milk Solids (11%) Cocoa Butter, Cocoa Solids, Fractionated Fat, Emulsifiers (442, 476), Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances)  Centre 50%:Sugar, Fractionated Fat, Wheat Crispies 11%* Refined Wheat Flour (Maida), Sugar, Com Starch, Cocoa Solids, lodised Palm Kernel Oil, Leavening Agents (450(i)). 500(ii)), 34(i))), Com Starch, Conga Solids, Emulsifiers (442,476), lodised Salt, Artificial (Manila) Flavouring Substances. CONTAINS COCOA BUTTER EQUIVALENT IN ADDITION TO COCOA BUTTER. Allergen Information: Contains Milk, Wheat, Sulphites, Soy. May Contain Tree Nuts, Barley.",
+  "per_100g": {
+    "energy_kcal": 523,
+    "fat": 27.6,
+    "saturated_fat": 17.7,
+    "carbohydrates": 64.5,
+    "sugars": 50.2,
+    "fiber": null,
+    "protein": 5.2,
+    "salt": 0.48,
+    "sodium": 0.192
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-18T06:54:37Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

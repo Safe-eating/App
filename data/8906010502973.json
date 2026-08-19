@@ -1,0 +1,32 @@
+{
+  "barcode": "8906010502973",
+  "name": "Papdi gathiya",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:seeds",
+    "en:legume-seeds",
+    "en:pulses"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 628,
+    "fat": 46.5,
+    "saturated_fat": 21,
+    "carbohydrates": 36,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 12.5,
+    "salt": 1.9775,
+    "sodium": 0.791
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2023-01-31T12:30:42Z",
+  "fetched_at": "2026-08-19T02:01:46Z"
+}

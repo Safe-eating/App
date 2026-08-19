@@ -1,0 +1,31 @@
+{
+  "barcode": "8906112993723",
+  "name": "Double Protein Brown Bread",
+  "brand": "Protein Chef",
+  "quantity": "270 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:Protein"
+  ],
+  "ingredients": "Atta (Whole Wheat Flour), High Protein Blend (Peanut Flour, Vital Wheat Protein, Soy Protein Isolate), Yeast, Rolled Oats, Sugar, Edible Common Salt, Edible Vegetable Oil (Refined Sunflower Oil), Vinegar, Cultured Wheat Flour",
+  "per_100g": {
+    "energy_kcal": 214.814814814815,
+    "fat": 1.48148148148148,
+    "saturated_fat": 0.185185185185185,
+    "carbohydrates": 32.2222222222222,
+    "sugars": 3.7037037037037,
+    "fiber": 11.4814814814815,
+    "protein": 23.7037037037037,
+    "salt": 0.545,
+    "sodium": 0.475925925925926
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-20T06:14:21Z",
+  "fetched_at": "2026-08-19T12:51:31Z"
+}

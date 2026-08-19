@@ -1,0 +1,29 @@
+{
+  "barcode": "8901042957104",
+  "name": "Alu Methi",
+  "brand": "MTR",
+  "quantity": "300 g",
+  "categories": [
+    "en:meals",
+    "en:combination-meals",
+    "en:microwave-meals",
+    "en:ready-to-eat-combination-meals"
+  ],
+  "ingredients": "Potato (48%), Onion, Tomato, Fenugreek Leaves (12%), Refined Sunflower Oil, Yogurt, Green chilli, Salt, Ginger, Garlic, Coriander Leaves, Cumin and Turmeric Powder. ALLERGEN ADVICE: Contains Milk. May Contain traces of Mustard, Tree nuts, Peanuts and Sesame. المكونات: بطاطا (%48)، بصل، طماطم، أوراق الحلبة (%12)، زيت دوار الشمس المكرر، زبادي، فلفل أخضر، ملح، زنجبيل، ثوم، أوراق الكزبرة، کمون، مسحوق الكركم. نصيحة لمن يعانون الحساسية: يحتوي على الحليب. قد يحتوي المنتج على مقادير ضئيلة من الخردل، المكسرات، الفول السوداني، السمسم.",
+  "per_100g": {
+    "energy_kcal": 83,
+    "fat": 4.9,
+    "saturated_fat": 0.6,
+    "carbohydrates": 8.1,
+    "sugars": 1.3,
+    "fiber": null,
+    "protein": 1.6,
+    "salt": 0.94,
+    "sodium": 0.376
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-09T04:06:17Z",
+  "fetched_at": "2026-08-19T00:22:22Z"
+}

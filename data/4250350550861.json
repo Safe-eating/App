@@ -1,0 +1,27 @@
+{
+  "barcode": "4250350550861",
+  "name": "Whey Protein",
+  "brand": "Body Attack",
+  "quantity": "2000g",
+  "categories": [
+    "en:dairies",
+    "en:whey-powder"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 394,
+    "fat": 7.3,
+    "saturated_fat": 2.7,
+    "carbohydrates": 7,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 73,
+    "salt": 0.33,
+    "sodium": 0.132
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-07T20:31:12Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,36 @@
+{
+  "barcode": "8901491001052",
+  "name": "Lays salted Chips 30",
+  "brand": "Lay's",
+  "quantity": "73g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 550,
+    "fat": 34,
+    "saturated_fat": 13.3,
+    "carbohydrates": 54,
+    "sugars": 2.6,
+    "fiber": null,
+    "protein": 7,
+    "salt": 1.275,
+    "sodium": 0.51
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-19T10:49:17Z",
+  "fetched_at": "2026-08-19T00:48:44Z"
+}

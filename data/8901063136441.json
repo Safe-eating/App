@@ -1,0 +1,32 @@
+{
+  "barcode": "8901063136441",
+  "name": "The Original Bourbon Creme Biscuit with Chocolate",
+  "brand": "Britannia",
+  "quantity": "390 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits",
+    "en:biscuit-cookie-snack-w-chocolate-filling"
+  ],
+  "ingredients": "Wheat flour, Sugar (34%), Bakery shortening [Palm oil, Interesterified fat (Palm), sesame oil], Corn starch, Colour (Caramel I \u0026 IV), Cocoa powder (2.8%), Whey powder, Raising agents (Sodium bicarbonate, Ammonium bicarbonate), Artificial flavouring substances (Vanillin, milky cocoa \u0026 chocolate), Emulsifiers (Mono - and di-glycerides of fatty acids, Soya lecithin), Milk chocolate (0.1%) (Contains milk) and lodized salt  Contains: Wheat (gluten), Sesame, Milk products and Soy",
+  "per_100g": {
+    "energy_kcal": 493.939393939394,
+    "fat": 21.2121212121212,
+    "saturated_fat": 9.09090909090909,
+    "carbohydrates": 72.7272727272727,
+    "sugars": 39.3939393939394,
+    "fiber": 1.81818181818182,
+    "protein": 6.06060606060606,
+    "salt": 0.295454545454545,
+    "sodium": 0.118181818181818
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T13:43:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

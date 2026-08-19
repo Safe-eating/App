@@ -1,0 +1,30 @@
+{
+  "barcode": "8906163830640",
+  "name": "Farmley Makhana Munchies",
+  "brand": "Farmley",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:seeds",
+    "en:fox-nuts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 429.5,
+    "fat": 9.7,
+    "saturated_fat": 0.8,
+    "carbohydrates": 76.1,
+    "sugars": 2.6,
+    "fiber": 3.6,
+    "protein": 7.7,
+    "salt": 1.792,
+    "sodium": 0.7168
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T17:35:28Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

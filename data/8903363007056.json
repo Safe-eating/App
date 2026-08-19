@@ -1,0 +1,27 @@
+{
+  "barcode": "8903363007056",
+  "name": "Gulab Jamun",
+  "brand": "Royal",
+  "quantity": "500g",
+  "categories": [
+    "en:desserts",
+    "en:Gulab Jamun"
+  ],
+  "ingredients": "SUGAR, WATER, KHOA, EDIBLE VEGETABLE OIL (REFINED PALMOLEIN OIL), REFINED WHEAT FLOUR (MAIDA).",
+  "per_100g": {
+    "energy_kcal": 303.8,
+    "fat": 5.8,
+    "saturated_fat": 2.3,
+    "carbohydrates": 59.5,
+    "sugars": 56.8,
+    "fiber": null,
+    "protein": 3.5,
+    "salt": 0.105,
+    "sodium": 0.042
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-01T01:00:21Z",
+  "fetched_at": "2026-08-19T01:22:10Z"
+}

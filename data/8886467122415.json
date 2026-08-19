@@ -1,0 +1,37 @@
+{
+  "barcode": "8886467122415",
+  "name": "Pringles",
+  "brand": "Pringles",
+  "quantity": "107gm",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:stacked-extruded-potato-crisps"
+  ],
+  "ingredients": "Approximate Recommended Dietary Allowance Regulators (INS 296, 330), Flavour Enhancer (INS 635)/E 635, A Emulsifier (INS 471)/E 471, Maltodextrin, Acidity Regulator (INS 33 Contains wheat and milk READY TO EAT SAVOURIES TARY FOOD) OD SUNLIGHT",
+  "per_100g": {
+    "energy_kcal": 514,
+    "fat": 27.4,
+    "saturated_fat": 14,
+    "carbohydrates": 61.1,
+    "sugars": 2.4,
+    "fiber": null,
+    "protein": 5.7,
+    "salt": 1.6925,
+    "sodium": 0.677
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T20:39:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8908001246873",
+  "name": "Curls Crax",
+  "brand": "Crax",
+  "quantity": "23g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:crackers-appetizers",
+    "en:puffed-salty-snacks"
+  ],
+  "ingredients": "Corn Grits (66%), Edible Vegetable Oil (Refined Palmolein Oil), \u0026quot;Seasoning (iodised Salt, Sugar, Onion Powder, Chilli Powder, Cumin Powder, Garlic Powder, Coriander) CONTAINS ADDED FLAVOUR(S) (NATURAL",
+  "per_100g": {
+    "energy_kcal": 450,
+    "fat": 24,
+    "saturated_fat": 10.8,
+    "carbohydrates": 62,
+    "sugars": 2.3,
+    "fiber": null,
+    "protein": 6.3,
+    "salt": 3.45,
+    "sodium": 1.38
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-21T01:57:28Z",
+  "fetched_at": "2026-08-19T13:05:58Z"
+}

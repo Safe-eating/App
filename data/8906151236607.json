@@ -1,0 +1,24 @@
+{
+  "barcode": "8906151236607",
+  "name": "Millet Fingers Chatpata Masala",
+  "brand": "Snackible",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 482.1,
+    "fat": 20.1,
+    "saturated_fat": 9.4,
+    "carbohydrates": 67.9,
+    "sugars": 1.36,
+    "fiber": 3.5,
+    "protein": 7.4,
+    "salt": 2.98125,
+    "sodium": 1.1925
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-09T13:14:32Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

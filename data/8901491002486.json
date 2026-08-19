@@ -1,0 +1,31 @@
+{
+  "barcode": "8901491002486",
+  "name": "8901491002486",
+  "brand": "Kurkure",
+  "quantity": "84g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:Kurkure"
+  ],
+  "ingredients": "Cereal Products (67%) (Corn Meal (53%), Rice Meal), Edible Vegetable Oil (Palmolein), **Seasoning (Sugar, lodised Salt, Maltodextrin, ~Spices and Condiments, Milk Solids, Cheese, Salt Substitute (Potassium Chloride), Flavour (Natural and Nature Identical Flavouring Substances), Flavour Enhancers (627, 631), Acidity Regulators (296, 330), Emulsifying \u0026 Stabilising Agent ((331 (iii), 471, 327)), Gram Meal, Firming Agent (170(i)), lodised Salt. As flavouring agent. Contains Onion and Garlic ALLERGEN ADVICE: Contains Soy, Milk, Wheat",
+  "per_100g": {
+    "energy_kcal": 536,
+    "fat": 27.1,
+    "saturated_fat": 22.2,
+    "carbohydrates": 66.5,
+    "sugars": 4.5,
+    "fiber": 0,
+    "protein": 6.4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-10T17:05:53Z",
+  "fetched_at": "2026-08-19T00:49:23Z"
+}

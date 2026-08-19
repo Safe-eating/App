@@ -1,0 +1,24 @@
+{
+  "barcode": "7622202335488",
+  "name": "CADBURY NUTTIES CHOCOLATE 30G",
+  "brand": "Cadbury",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 511,
+    "fat": 24.5,
+    "saturated_fat": 13.9,
+    "carbohydrates": 67.2,
+    "sugars": 61.5,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0.2925,
+    "sodium": 0.117
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-25T12:26:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

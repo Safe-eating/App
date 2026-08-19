@@ -1,0 +1,34 @@
+{
+  "barcode": "8901491100533",
+  "name": "Chilli Chatka 20rs",
+  "brand": "Kurkure",
+  "quantity": "75g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:sweet-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:biscuits-and-cakes",
+    "en:crisps",
+    "en:biscuits",
+    "en:crispy-biscuits"
+  ],
+  "ingredients": "Rice meal (43.2%), edible vegetable oil (palmolein oil), corn meal (20.0%), gram meal (3.3%), spices and condiments (chilli powder, onion powder, fennel powder, ajwain powder, cumin powder, garlic powder, coriander powder, black pepper powder, spice extract, fenugreek powder), sugar, salt, citric acid (330).",
+  "per_100g": {
+    "energy_kcal": 562,
+    "fat": 35.1,
+    "saturated_fat": 15.8,
+    "carbohydrates": 55.8,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 5.6,
+    "salt": 1.8075,
+    "sodium": 0.723
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-16T06:45:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

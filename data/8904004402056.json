@@ -1,0 +1,24 @@
+{
+  "barcode": "8904004402056",
+  "name": "All in one",
+  "brand": "Haldiram's",
+  "quantity": "200 g",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 558.8,
+    "fat": 36.5,
+    "saturated_fat": 8.5,
+    "carbohydrates": 43.12,
+    "sugars": 0.8,
+    "fiber": null,
+    "protein": 15.36,
+    "salt": 1.4675,
+    "sodium": 0.587
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T21:17:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

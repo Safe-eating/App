@@ -1,0 +1,26 @@
+{
+  "barcode": "8901595972159",
+  "name": "Hakka noodles masala",
+  "brand": "ching's",
+  "quantity": "20 g",
+  "categories": [
+    "en:condiments"
+  ],
+  "ingredients": "Iodised Salt, Mixed Spices (17.5%) (Chilli, Cumin, Coriander), Sugar, Garlic Powder, Onion Powder, Flavour Enhancer (INS 635), Soy Sauce Powder (Soybean, Wheat, Salt), Anticaking Agent (INS 551), Acidity Regulators (INS 330, INS 260), Sunflower Oil, Natural Flavouring Substances.",
+  "per_100g": {
+    "energy_kcal": 351.931330472103,
+    "fat": 0.858369098712446,
+    "saturated_fat": 0.214592274678112,
+    "carbohydrates": 75.5364806866953,
+    "sugars": 3.6480686695279,
+    "fiber": null,
+    "protein": 10.7296137339056,
+    "salt": 23.6266094420601,
+    "sodium": 9.45064377682403
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-04T19:02:58Z",
+  "fetched_at": "2026-08-19T00:57:33Z"
+}

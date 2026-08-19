@@ -1,0 +1,28 @@
+{
+  "barcode": "8904089916134",
+  "name": "Goodness Standardised Milk",
+  "brand": "Heritage",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk Solids (Standardised Milk), Vitamin A Palmitate \u0026 Vitamin D (Ergocalciferol)",
+  "per_100g": {
+    "energy_kcal": 71.8,
+    "fat": 4.5,
+    "saturated_fat": 3,
+    "carbohydrates": 4.6,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 3.1,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-24T03:51:15Z",
+  "fetched_at": "2026-08-19T01:34:38Z"
+}

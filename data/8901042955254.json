@@ -1,0 +1,26 @@
+{
+  "barcode": "8901042955254",
+  "name": "MTR Puliogare Paste",
+  "brand": "Mtr Foods Pvt. Ltd.",
+  "quantity": "200g",
+  "categories": [
+    "en:condiments"
+  ],
+  "ingredients": "Refined palmolein oil, Mixed spices, Tamarind concentrate (13%), Sugar, lodised salt, Peanut (5.8%), Coconut products (2.6%) [Dry coconut (Copra) \u0026 Desiccated coconut), Curry Leaves (Fresh leaves \u0026 Dry powder), Black sesame (1.8%), Jaggery (1.4%), Black gram splits, Bengal gram splits, Acidity regulators (INS 260 \u0026 INS 334) and Preservative (INS 210). Allergen Advice: Contains Nut. May contains Milk.",
+  "per_100g": {
+    "energy_kcal": 518,
+    "fat": 45,
+    "saturated_fat": 21,
+    "carbohydrates": 23.5,
+    "sugars": 17.4,
+    "fiber": null,
+    "protein": 4.8,
+    "salt": 8.025,
+    "sodium": 3.21
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-03T04:38:38Z",
+  "fetched_at": "2026-08-19T00:22:20Z"
+}

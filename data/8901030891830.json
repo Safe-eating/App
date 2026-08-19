@@ -1,0 +1,28 @@
+{
+  "barcode": "8901030891830",
+  "name": "double chocolate cornetto",
+  "brand": "Kwality Walls",
+  "quantity": "61g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts"
+  ],
+  "ingredients": "Dark and Milk Chocolate delights in a wafer cone (16%) with chocolate compound coating (14%) Water, Wafer Biscuit Cone (16%) (Refined Wheat Flour (Maida), Sugar, Palm Oil, Emulsifier - E322, Iodised Salt, CONTAINS NATURAL COLOUR - E150d), Compound Coating (14%) (Sugar, Palm Oil, Coconut Oil, Cocoa Solids, Emulsifier - E322, CONTAINS ADDED ARTIFICIAL VANILLA FLAVOURING SUBSTANCE), Sugar, Palm Oil, Milk Solids, Chocolate Coated Confectionery (2.8%), Liquid Glucose, Maltodextrin, Cocoa Solids, Vegetable Protein (Soy), Emulsifier - E471, Stabilisers - E412, E410, E407.",
+  "per_100g": {
+    "energy_kcal": 182,
+    "fat": 10.5,
+    "saturated_fat": 6.4,
+    "carbohydrates": 19.6,
+    "sugars": 15.6,
+    "fiber": 1.5,
+    "protein": 2.2,
+    "salt": 212.5,
+    "sodium": 85
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-22T18:28:03Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

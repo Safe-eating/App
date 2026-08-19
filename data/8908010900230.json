@@ -1,0 +1,33 @@
+{
+  "barcode": "8908010900230",
+  "name": "Pintola peanut butter Dark Chocolate",
+  "brand": "Pintola",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Peanuts (68%), Dark Chocolate (30%) (Sugar Cocoa Solids, Cocoa butter, Emulsifier (INS 322)}, Stabilizer (INS471)",
+  "per_100g": {
+    "energy_kcal": 580,
+    "fat": 40,
+    "saturated_fat": 11,
+    "carbohydrates": 36.4,
+    "sugars": 19,
+    "fiber": 5.2,
+    "protein": 18.6,
+    "salt": 0.0375,
+    "sodium": 0.015
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-02T23:57:07Z",
+  "fetched_at": "2026-08-19T13:12:44Z"
+}

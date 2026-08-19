@@ -1,0 +1,32 @@
+{
+  "barcode": "8906172780141",
+  "name": "Muesli, Dark Chocolate",
+  "brand": "True Elements",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 389.4,
+    "fat": 5.4,
+    "saturated_fat": 1.1,
+    "carbohydrates": 72.7,
+    "sugars": 9.1,
+    "fiber": 8.9,
+    "protein": 12.4,
+    "salt": 0.15125,
+    "sodium": 0.0605
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-06T05:50:56Z",
+  "fetched_at": "2026-08-19T13:02:44Z"
+}

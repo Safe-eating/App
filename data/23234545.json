@@ -1,0 +1,26 @@
+{
+  "barcode": "23234545",
+  "name": "Cheeku",
+  "brand": "Cheeku",
+  "quantity": "500g",
+  "categories": [
+    "en:cheeku"
+  ],
+  "ingredients": "Sugar, Milk",
+  "per_100g": {
+    "energy_kcal": 307.95,
+    "fat": 0.0475,
+    "saturated_fat": 0.0275,
+    "carbohydrates": 76.0975,
+    "sugars": 76.0825,
+    "fiber": 0,
+    "protein": 0.82,
+    "salt": 0.03155,
+    "sodium": 0.0124275
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-09T06:37:19Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

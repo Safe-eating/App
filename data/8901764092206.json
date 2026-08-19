@@ -1,0 +1,28 @@
+{
+  "barcode": "8901764092206",
+  "name": "Maaza Original 600ml",
+  "brand": "Maaza",
+  "quantity": "600",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "WATER, MANGO PULP (19.5%), SUGAR, ACIDITY REGULATOR (330), ANTIOXIDANT(300) AND PRESERVATIVE (202). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (110) AND ADDED MANGO FLAVOURS NATURAL, NATURE-IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES).",
+  "per_100g": {
+    "energy_kcal": 63,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 15.8,
+    "sugars": 14.9,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.05475,
+    "sodium": 0.0219
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-21T13:35:58Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

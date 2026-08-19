@@ -1,0 +1,30 @@
+{
+  "barcode": "8901044652090",
+  "name": "Mapro Toppings Chocolate Syrup",
+  "brand": "Mapro",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:syrups"
+  ],
+  "ingredients": "SUGAR, WATER, LIQUID GLUCOSE, COCOA POWDER (7%), THICKENERS (INS-440, INS-415), ACIDITY REGULATOR (INS-330) PRESERVATIVE (INS-202) CONTAINS ADDED FLAVOURS-NATURAL, NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES (CHOCOLATE)",
+  "per_100g": {
+    "energy_kcal": 349,
+    "fat": 1.64,
+    "saturated_fat": 1,
+    "carbohydrates": 84,
+    "sugars": 80,
+    "fiber": null,
+    "protein": 1.65,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-20T14:28:14Z",
+  "fetched_at": "2026-08-19T00:23:25Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8906010090869",
+  "name": "Dlecta 100 % cheese",
+  "brand": "Dlecta",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:italian-cheeses",
+    "en:stretched-curd-cheeses",
+    "en:mozzarella",
+    "en:grated-cheese"
+  ],
+  "ingredients": "Mozzarella Cheese (Pasteurized Milk, Pasteurized Skimmed Milk, lodised Salt, Firming Agent (INS 509). Microbial Cultures and Microbial Rennet.)",
+  "per_100g": {
+    "energy_kcal": 282.5,
+    "fat": 20.5,
+    "saturated_fat": 12.9,
+    "carbohydrates": 0.5,
+    "sugars": 0.5,
+    "fiber": 0,
+    "protein": 24,
+    "salt": 1.6,
+    "sodium": 0.64
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-25T07:59:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

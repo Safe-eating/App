@@ -1,0 +1,31 @@
+{
+  "barcode": "8904057305106",
+  "name": "Arun Ice Cream Shake",
+  "brand": "Arun",
+  "quantity": "70g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:milkshakes"
+  ],
+  "ingredients": "Milk Solids, Sugar, Water, Liquid Glucose, Fructose, lodised Salt, Humectant (422), Emulsifier (471), Stabilizers (410, 412 \u0026 407), Color (133), Natural \u0026 Nature-Identical Flavoring Substances. Alls",
+  "per_100g": {
+    "energy_kcal": 203.5,
+    "fat": 9.1,
+    "saturated_fat": 1.6,
+    "carbohydrates": 26.7,
+    "sugars": 26.7,
+    "fiber": 0,
+    "protein": 3.7,
+    "salt": 0.198,
+    "sodium": 0.0792
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-26T15:31:45Z",
+  "fetched_at": "2026-08-19T01:28:56Z"
+}

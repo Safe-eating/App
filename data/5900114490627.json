@@ -1,0 +1,38 @@
+{
+  "barcode": "5900114490627",
+  "name": "Ragi Bites",
+  "brand": "Tata Soulfull",
+  "quantity": "375g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereal-grains",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:millet",
+    "en:millet-flakes"
+  ],
+  "ingredients": "Ragi (25%), Refined Sugar, Rice (19.5%), Wheat (11%), Maize (7.8%), Bengal Gram Dal (4.7%), Cocoa Solids (2.4%), Jowar (2.3%), Oats (1.5%), Palmolein Oil, Nature-Identical Flavouring Substance, lodised Salt, Stabilizer (170), Malt Extract, Natural Colour (150d), Natural Flavour, Antioxidant (320). ALLERGENS: Contains Wheat, Oats, Soy.",
+  "per_100g": {
+    "energy_kcal": 392,
+    "fat": 1.6,
+    "saturated_fat": 0.8,
+    "carbohydrates": 83.5,
+    "sugars": 26.5,
+    "fiber": 9.2,
+    "protein": 10.8,
+    "salt": 0.53,
+    "sodium": 0.212
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-11T03:20:22Z",
+  "fetched_at": "2026-08-19T00:06:20Z"
+}

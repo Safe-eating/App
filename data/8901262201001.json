@@ -1,0 +1,31 @@
+{
+  "barcode": "8901262201001",
+  "name": "Amul Spiced Buttermilk",
+  "brand": "Amul",
+  "quantity": "200ml",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:buttermilks"
+  ],
+  "ingredients": "Milk solids, iodized salt, spices \u0026 condiments (1%), stabilizer [460(i)].",
+  "per_100g": {
+    "energy_kcal": 57,
+    "fat": 3.2,
+    "saturated_fat": 1.9,
+    "carbohydrates": 3.6,
+    "sugars": 3.6,
+    "fiber": 0,
+    "protein": 3,
+    "salt": 1.25,
+    "sodium": 0.5
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-11T08:04:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

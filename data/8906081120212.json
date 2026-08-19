@@ -1,0 +1,31 @@
+{
+  "barcode": "8906081120212",
+  "name": "California Inshell Walnut",
+  "brand": "Happilo",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:shelled-nuts",
+    "en:walnuts"
+  ],
+  "ingredients": "Walnut",
+  "per_100g": {
+    "energy_kcal": 700,
+    "fat": 66.6666666666667,
+    "saturated_fat": 5,
+    "carbohydrates": 10,
+    "sugars": 0,
+    "fiber": 10,
+    "protein": 16.6666666666667,
+    "salt": 0.025,
+    "sodium": 0.01
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-26T12:19:02Z",
+  "fetched_at": "2026-08-19T12:46:17Z"
+}

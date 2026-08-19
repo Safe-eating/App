@@ -1,0 +1,31 @@
+{
+  "barcode": "8901207046810",
+  "name": "Koolerz Mango",
+  "brand": "Dabur",
+  "quantity": "135 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:juices-and-nectars",
+    "en:fruit-and-vegetable-juices"
+  ],
+  "ingredients": "Water, Sugar, Mango Pulp (10%), Acidity Regulator (INS 330), Stabilizers (INS 412 \u0026 INS 466), Antioxidant (INS 300), Flavours (Nature Identical and Artificial Mango Flavouring Substances) and Colour (INS 110).",
+  "per_100g": {
+    "energy_kcal": 53,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 13.2,
+    "sugars": 13.2,
+    "fiber": null,
+    "protein": 0.1,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-26T06:03:38Z",
+  "fetched_at": "2026-08-19T00:39:00Z"
+}

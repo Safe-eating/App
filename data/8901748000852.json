@@ -1,0 +1,31 @@
+{
+  "barcode": "8901748000852",
+  "name": "Garam Masala",
+  "brand": "Ruchi",
+  "quantity": "25 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:spices",
+    "en:garam-masala"
+  ],
+  "ingredients": "Small Cardamom, Cinnamon, Black Pepper, Cloves, Mace, Nutmeg, Bay Leaf, Coriander and Big Cardamom.",
+  "per_100g": {
+    "energy_kcal": 349,
+    "fat": 12.22,
+    "saturated_fat": 2,
+    "carbohydrates": 45.81,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 12.82,
+    "salt": 2.5575,
+    "sodium": 1.023
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-09T04:57:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

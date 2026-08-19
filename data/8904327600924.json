@@ -1,0 +1,35 @@
+{
+  "barcode": "8904327600924",
+  "name": "Myfitness Peanut Butter",
+  "brand": "Myfitness",
+  "quantity": "510 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 637,
+    "fat": 50,
+    "saturated_fat": 12,
+    "carbohydrates": 24,
+    "sugars": 12,
+    "fiber": 9,
+    "protein": 23,
+    "salt": 0.136,
+    "sodium": 0.0544
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-08T15:28:49Z",
+  "fetched_at": "2026-08-19T01:43:29Z"
+}

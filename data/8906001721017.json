@@ -1,0 +1,33 @@
+{
+  "barcode": "8906001721017",
+  "name": "Pasteurised Toned Milk Dahi",
+  "brand": "Paras",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:curd"
+  ],
+  "ingredients": "Pasteurised Toned Mik Milk Solids and Active Lactic Culture",
+  "per_100g": {
+    "energy_kcal": 63,
+    "fat": 3,
+    "saturated_fat": 1.8,
+    "carbohydrates": 5.3,
+    "sugars": 5.3,
+    "fiber": null,
+    "protein": 3.7,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T19:17:49Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906010912833",
+  "name": "choco Currant",
+  "brand": "",
+  "quantity": "66g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Outer Layer (25%): Choco Compound Coating - Sugar, Palm Kernel Oil, Cocoa Solids, Milk Solids, Emulsifier INS 322, CONTAINS NATURE IDENTICAL VANILLA FLAVOURING SUBSTANCES. Wheat Crispies (3%). Middle Layer (55%): Blackcurrant Flavoured Frozen Dessert - Milk Solids, Sugar, Edible Vegetable Oil (Palm Kernel 70ml (66g) Oil), Emulsifier and Stabiliser (INS 471,412,433,407,401), CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 122,133) AND ADDED FLAVOUR - NATURE IDENTICAL BLACKCURRANT FLAVOURING SUBSTANCES. Inner Layer (20%): Choco Compound Coating - Sugar, Palm Kernel Oil, Cocoa Solids, Milk Solids, Emulsifier INS 322, CONTAINS NATURE IDENTICAL VANILLA FLAVOURING SUBSTANCES. kcal 263 13% FSMS RDA Allergen Information: Contains Milk And Wheat. FROZEN DESSERT CONTAINS 11 % EDIBLE VEGETABLE OIL REST Drra CHOCO CURRANT BLACKCURRANT \u0026 CHOCO STICK",
+  "per_100g": {
+    "energy_kcal": 398.9,
+    "fat": 28.13,
+    "saturated_fat": 17.57,
+    "carbohydrates": 33.33,
+    "sugars": 27.62,
+    "fiber": 0,
+    "protein": 3.06,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-07T11:11:22Z",
+  "fetched_at": "2026-08-19T02:02:47Z"
+}

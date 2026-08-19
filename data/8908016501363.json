@@ -1,0 +1,32 @@
+{
+  "barcode": "8908016501363",
+  "name": "Tempayy Crumbles",
+  "brand": "Hello Tempayy",
+  "quantity": "75g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dairy-substitutes",
+    "en:vegan-products",
+    "en:cheese-substitutes",
+    "en:soy-based-paneer",
+    "en:Protein rich food"
+  ],
+  "ingredients": "Non-GMO Soybeans, Water, Red Chilli Paste, Vinegar, Sunflower Oil, Chilli Powder, Sugar, Iodized Salt, Lime Juice, Spices and Condiments, Hydrolysed Vegetable Protein, Rice Flour, Rhizopus (Culture), Iron, Vitamin B12.",
+  "per_100g": {
+    "energy_kcal": 134,
+    "fat": 5.7,
+    "saturated_fat": 1.1,
+    "carbohydrates": 8,
+    "sugars": 0,
+    "fiber": 6,
+    "protein": 14.9,
+    "salt": 0.7595,
+    "sodium": 0.3038
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-04T03:30:23Z",
+  "fetched_at": "2026-08-19T13:17:46Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8901058003079",
+  "name": "Maggi cheesy Tomato",
+  "brand": "Maggi",
+  "quantity": "68.5",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:meals",
+    "en:pasta-dishes",
+    "en:pastas",
+    "en:instant-pasta"
+  ],
+  "ingredients": "MA ##MACARONI (PASTA) Semolina (100%) [from Wheat]. CHEESY TOMATO *TASTEMAKER® Milk and sugar blend mix (Milk solids \u0026 Sugar), Sugar, Dehydrated tomato paste solids {Tomato paste (13.7%), Anticaking agent (551) \u0026 lodised salt), lodised salt, Mixed spices (Dehydrated onion, Dried garlic, Roasted garlic, Cumin powder, Red chilli, Capsicum extract, Black pepper, Coriander extract \u0026 Cumin extract), Dehydrated Green bell pepper (7.1%), Maltodextrin, Edible starch, Cheese powder (Cheese (3%) \u0026 Maltodextrin), Potato flakes (Potato, Margarine, lodised salt, Emulsifier (471) \u0026 Turmeric), Palm oil, Thickener (508), Flavour enhancer (635), Oregano bits and Acidity regulator (296).",
+  "per_100g": {
+    "energy_kcal": 339,
+    "fat": 2.1,
+    "saturated_fat": 1.4,
+    "carbohydrates": 69.8,
+    "sugars": 7.6,
+    "fiber": 4.2,
+    "protein": 10.3,
+    "salt": 3.045,
+    "sodium": 1.218
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-30T12:25:08Z",
+  "fetched_at": "2026-08-19T00:24:57Z"
+}

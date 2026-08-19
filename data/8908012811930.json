@@ -1,0 +1,30 @@
+{
+  "barcode": "8908012811930",
+  "name": "Double Choco Mini",
+  "brand": "Minus Thirty",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Almond Milk, Almond Butter, Dark Chocolate (Vegan), Cocoa Powder, Stevia, Coconut Oil",
+  "per_100g": {
+    "energy_kcal": 228.625,
+    "fat": 13.625,
+    "saturated_fat": 11.275,
+    "carbohydrates": 23.5,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.114375,
+    "sodium": 0.04575
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-07T07:57:12Z",
+  "fetched_at": "2026-08-19T13:14:11Z"
+}

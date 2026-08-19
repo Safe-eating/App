@@ -1,0 +1,33 @@
+{
+  "barcode": "8906080600067",
+  "name": "Chikki",
+  "brand": "paper boat",
+  "quantity": "31 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:nuts-and-their-products",
+    "en:bars",
+    "en:nut-bars",
+    "en:peanut-bars"
+  ],
+  "ingredients": "PEANUTS (50%), JAGGER SUGAR AND LIQUID GLUCOSE",
+  "per_100g": {
+    "energy_kcal": 497.6,
+    "fat": 24,
+    "saturated_fat": 5.41,
+    "carbohydrates": 56.5,
+    "sugars": 34,
+    "fiber": 0,
+    "protein": 13.9,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-31T08:45:48Z",
+  "fetched_at": "2026-08-19T12:44:15Z"
+}

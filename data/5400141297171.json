@@ -1,0 +1,30 @@
+{
+  "barcode": "5400141297171",
+  "name": "Noix de cajou nature",
+  "brand": "Boni",
+  "quantity": "250 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:cashew-nuts"
+  ],
+  "ingredients": "100 % _noix de cajou_.",
+  "per_100g": {
+    "energy_kcal": 581,
+    "fat": 44,
+    "saturated_fat": 7.8,
+    "carbohydrates": 27,
+    "sugars": 5.9,
+    "fiber": 3.3,
+    "protein": 18,
+    "salt": 0.03,
+    "sodium": 0.012
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-31T08:11:11Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

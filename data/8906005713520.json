@@ -1,0 +1,31 @@
+{
+  "barcode": "8906005713520",
+  "name": "Lite Bite Mini Toast Classic",
+  "brand": "Bangladesh, Dhaka, IFAD Multi Products Limited",
+  "quantity": "250g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:rusks"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, WATER, EDIBLE VEGETABLE OIL (PALM OIL), MILK SOLIDS, BUTTER OIL, EDIBLE COMMON SALT, YEAST, BLACK CUMIN AND SESAME SEED. CONTAINS WHEAT, SESAME AND MILK INGREDIENTS.",
+  "per_100g": {
+    "energy_kcal": 452.4,
+    "fat": 13.7,
+    "saturated_fat": 4.2,
+    "carbohydrates": 75.6,
+    "sugars": 25.7,
+    "fiber": null,
+    "protein": 6.8,
+    "salt": 1.17275,
+    "sodium": 0.4691
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-15T10:31:06Z",
+  "fetched_at": "2026-08-19T01:52:22Z"
+}

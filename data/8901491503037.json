@@ -1,0 +1,37 @@
+{
+  "barcode": "8901491503037",
+  "name": "American Style Cream \u0026 Onion 10rs",
+  "brand": "Lay's, PepsiCo",
+  "quantity": "24g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:flavoured-potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Palmolein, Rice Bran Oil), *Seasoning (Sugar, Iodised Sat, _Milk_ Solids, ~Spices \u0026 Condiments, Maltodextrin, Flavour (Natural and Nature Identical Flavouring Substances), Cheese Powder, Hydrolysed Vegetable Protein, Flavour Enhancers (627, 631), Edible Vegetable Oil (Palm, Coconut), Anticaking agent (551)).\r\n*As fiavouring agent. ~Contains Onion\r\nALLERGEN ADVICE: Contains _Soy_, _Milk_\r\nMay Contain _Sulphite_",
+  "per_100g": {
+    "energy_kcal": 537,
+    "fat": 33.1,
+    "saturated_fat": 12.5,
+    "carbohydrates": 53,
+    "sugars": 3.4,
+    "fiber": null,
+    "protein": 6.7,
+    "salt": 1.6075,
+    "sodium": 0.643
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-02T15:33:35Z",
+  "fetched_at": "2026-08-19T00:50:57Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8904103032017",
+  "name": "Mango Pickle",
+  "brand": "Swastiks",
+  "quantity": "100g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles",
+    "en:plant-based-pickles"
+  ],
+  "ingredients": "Mango pieces,Common salt,Mixed spices powder,Refined rice bran oil,garlic\u0026citric acid",
+  "per_100g": {
+    "energy_kcal": 0,
+    "fat": 2.4,
+    "saturated_fat": 0.3,
+    "carbohydrates": 2.5,
+    "sugars": 1.5,
+    "fiber": 0.7,
+    "protein": 0.4,
+    "salt": 0.0875,
+    "sodium": 0.035
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-27T06:19:08Z",
+  "fetched_at": "2026-08-19T01:35:08Z"
+}

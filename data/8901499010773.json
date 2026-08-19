@@ -1,0 +1,32 @@
+{
+  "barcode": "8901499010773",
+  "name": "Chocos Moons and Stars",
+  "brand": "Kellogg's",
+  "quantity": "350 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:extruded-cereals"
+  ],
+  "ingredients": "Wheat Solids (54.2%) (Wheat Flour (Atta) (29.6%), Refined Wheat Flour (Maida) (24.6%)), Sugar, Corn Flour, Cocoa Solids (5.6%), Minerals, Cereal Extract, Edible Vegetable Oil (Palmolein), lodized Salt, Colour (INS 150d), Vitamins, Antioxidant (INS 320). CONTAINS PERMITTED NATURAL COLOUR \u0026 ADDED FLAVOURS (NATURE IDENTICAL \u0026 ARTIFICIAL CREAM FLAVOURING SUBSTANCES) CONTAINS GLUTEN. MAY CONTAIN TRACES OF TREENUT.",
+  "per_100g": {
+    "energy_kcal": 390,
+    "fat": 3,
+    "saturated_fat": 1.33333333333333,
+    "carbohydrates": 84,
+    "sugars": 30,
+    "fiber": 3.66666666666667,
+    "protein": 8.66666666666667,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-20T14:54:31Z",
+  "fetched_at": "2026-08-19T00:53:27Z"
+}

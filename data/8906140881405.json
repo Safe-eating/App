@@ -1,0 +1,26 @@
+{
+  "barcode": "8906140881405",
+  "name": "Dryfruit Kachori",
+  "brand": "Radhe Prem ni Mithaas",
+  "quantity": "",
+  "categories": [
+    "en:Ready-to-eat Savouries"
+  ],
+  "ingredients": "Refined Wheat Flour(Maida) (35%), Edible Vegetable Oil (Palmolein), Date (12%), Raisin (10%), Bengal Gram Flour/ chick Pea Flour, Refined Sugar, Almond (7%, Edible Vegetable Fat (Partially Hydrogenated Palm), Cashew(7%), Red Chilli Powder, Dry Mango Powder, lodized Salt, Asafoetida, Dry Ginger Powder, Black Salt, Sesame Seed, Coriander Seed, ennel Seed, Coriander Powder, Cumin Powder, Cinnamon Powder, Clove Powder, Black Pepper Powder, Bay Leaf, Cardamom, Nutmeg, Mace.",
+  "per_100g": {
+    "energy_kcal": 400,
+    "fat": 17.1428571428571,
+    "saturated_fat": 4.28571428571429,
+    "carbohydrates": 51.4285714285714,
+    "sugars": 8.57142857142857,
+    "fiber": 5.71428571428571,
+    "protein": 5.71428571428571,
+    "salt": 1.42857142857143,
+    "sodium": 0.571428571428571
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-13T19:59:15Z",
+  "fetched_at": "2026-08-19T12:58:10Z"
+}

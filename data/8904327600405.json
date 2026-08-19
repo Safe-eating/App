@@ -1,0 +1,35 @@
+{
+  "barcode": "8904327600405",
+  "name": "Myfitness Chocolate Peanut Butter",
+  "brand": "Myfitness",
+  "quantity": "510 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "Roasted Peanuts, Dark Chocolate, Brown Sugar, Salt, Stabilizer (INS471). Allergen Info: Contains Peanuts And Soya Peanut Butter (Proprietary Food-4.2.2.5)",
+  "per_100g": {
+    "energy_kcal": 625,
+    "fat": 50,
+    "saturated_fat": 10,
+    "carbohydrates": 19,
+    "sugars": 10,
+    "fiber": null,
+    "protein": 26,
+    "salt": 0.875,
+    "sodium": 0.35
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-18T10:37:24Z",
+  "fetched_at": "2026-08-19T01:43:25Z"
+}

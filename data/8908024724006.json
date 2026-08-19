@@ -1,0 +1,31 @@
+{
+  "barcode": "8908024724006",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:energy-bars"
+  ],
+  "ingredients": "Dates 48%, Whey Protein Isolate 19%, Milk Chocolate (Cocoa Mass, Cocoa Saids Whole Milk Powder, Jaggery, Cocoa Butter) 8%, Almonds 6%,Cash Paste 5% Orange Bits 4%, Rolled Oats 3%, Cocoa Butter 3%, Cocoa Powder 3% Honey 133. Orange Oil",
+  "per_100g": {
+    "energy_kcal": 404,
+    "fat": 11.6,
+    "saturated_fat": 5.6,
+    "carbohydrates": 48.8,
+    "sugars": 26.6,
+    "fiber": 6.6,
+    "protein": 26,
+    "salt": 0.279,
+    "sodium": 0.1116
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-26T04:36:54Z",
+  "fetched_at": "2026-08-19T13:22:30Z"
+}

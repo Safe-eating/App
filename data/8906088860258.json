@@ -1,0 +1,33 @@
+{
+  "barcode": "8906088860258",
+  "name": "Current hot ´n’ spicy chilli+ pepper noodles",
+  "brand": "Current",
+  "quantity": "100 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles",
+    "xx:lamian"
+  ],
+  "ingredients": "INGREDIENTS OF NOODLES: Wheat Flour, Vegetable Oil, Wheat Gluten, Modified Tapioca Starch, Salt, Acidity Regulators [500(ii) \u0026 501(ii)], Stabilisers [400 \u0026 452(ii)] and Riboflavin (101). INGREDIENTS OF SEASONING: Salt, Garlic Powder, Hydrolysed Vegetable Protein (HVP), Soya Sauce Powder, Sugar, Red Chilli Pepper, Black Pepper, Maltodextrin (1400), Chicken Flavour, Flavour Enhancers (621, 627 \u0026 631), Food Acid (296), Paprika (160c) and Other Natural Herbs \u0026 Spices. INGREDIENTS OF DEHYDRATED VEGETABLES: Carrot, Cabbage, Peas, Red Chilli, Flakes and Chives. INGREDIENTS OF PASTE: Refined Vegetable Oil, Chilli Powder, Paprika (160c) and Other Spices.",
+  "per_100g": {
+    "energy_kcal": 472,
+    "fat": 16.2,
+    "saturated_fat": 8.1,
+    "carbohydrates": 71.52,
+    "sugars": 0.95,
+    "fiber": 0.13,
+    "protein": 10.08,
+    "salt": 1.88,
+    "sodium": 0.752
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-20T15:13:50Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

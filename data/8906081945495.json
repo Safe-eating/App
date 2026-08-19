@@ -1,0 +1,24 @@
+{
+  "barcode": "8906081945495",
+  "name": "Katsu Sauce",
+  "brand": "Meishi",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 120,
+    "fat": 0.666666666666667,
+    "saturated_fat": 0,
+    "carbohydrates": 29.3333333333333,
+    "sugars": 26.6666666666667,
+    "fiber": null,
+    "protein": 0,
+    "salt": 6.46666666666667,
+    "sodium": 2.58666666666667
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-18T16:41:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

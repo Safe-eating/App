@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719124754",
+  "name": "20-20 Nice - sugar sprinkled coconut biscuits",
+  "brand": "Parle",
+  "quantity": "5 x 100g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR , SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP, DESICCATED COCONUT POWDER (2.9%), RAISING AGENTS [503(ii), 500(ii)], IODISED SALT AND EMULSIFIERS OF VEGETABLE ORIGIN (322(i), 472e) CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES - COCONUT AND MILK). CONTAINS: WHEAT AND SOY",
+  "per_100g": {
+    "energy_kcal": 485.5,
+    "fat": 13.5,
+    "saturated_fat": 7.1,
+    "carbohydrates": 78,
+    "sugars": 28.9,
+    "fiber": null,
+    "protein": 6.5,
+    "salt": 0.62,
+    "sodium": 0.248
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-30T18:09:23Z",
+  "fetched_at": "2026-08-19T01:00:48Z"
+}

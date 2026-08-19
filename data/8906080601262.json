@@ -1,0 +1,29 @@
+{
+  "barcode": "8906080601262",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:packed-food"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 497.6,
+    "fat": 24,
+    "saturated_fat": 5.41,
+    "carbohydrates": 56.5,
+    "sugars": 45.3,
+    "fiber": 0,
+    "protein": 13.9,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-02T16:26:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

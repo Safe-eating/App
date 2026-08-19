@@ -1,0 +1,36 @@
+{
+  "barcode": "8904335602262",
+  "name": "Cornflakes+",
+  "brand": "Yogabar",
+  "quantity": "850g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:extruded-cereals",
+    "en:extruded-flakes",
+    "en:corn-flakes"
+  ],
+  "ingredients": "Corn Grits (92%), Sugar, lodized Salt, Malt Extract, Soy Lecithin, Vitamin \u0026 Minerals Premix, Probiotics (Bacillus Coagulans, 100 million CFU Per Serving.) Contains Added Natural Flavour : Rosemary Extract.",
+  "per_100g": {
+    "energy_kcal": 379,
+    "fat": 0.3,
+    "saturated_fat": 0.1,
+    "carbohydrates": 87.9,
+    "sugars": 10.5,
+    "fiber": 2.6,
+    "protein": 6.4,
+    "salt": 1.1,
+    "sodium": 0.44
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-22T12:37:41Z",
+  "fetched_at": "2026-08-19T01:44:05Z"
+}

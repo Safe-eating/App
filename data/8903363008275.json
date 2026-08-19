@@ -1,0 +1,33 @@
+{
+  "barcode": "8903363008275",
+  "name": "Roasted Yellow Chana",
+  "brand": "Dmart Premia",
+  "quantity": "200 grams",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:seeds",
+    "en:legume-seeds",
+    "en:pulses",
+    "en:roasted-chana"
+  ],
+  "ingredients": "Marked By: Avenue Supermarts Ltd. (ASL), Anjaneya Ltd., Orchard Avenue, Opp. Hiranandani ndation School, Powai, Mumbai-400076, Maharashtra. fssat Lic. No. 10018022008191 For Feedback/Suggestions, Please Contact Consumer are Executive At 'Marketed By' Address Email suggestion@dmartindia.com Phon No.: 022-71230555 dients: Roasted Gram, Edible Common Salt \u0026 Turmeric (No. of Servings per Pack = 4 ]",
+  "per_100g": {
+    "energy_kcal": 419.26,
+    "fat": 7.26,
+    "saturated_fat": 1.09,
+    "carbohydrates": 72.19,
+    "sugars": 2.01,
+    "fiber": null,
+    "protein": 16.29,
+    "salt": 852.75,
+    "sodium": 341.1
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T12:01:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

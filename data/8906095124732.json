@@ -1,0 +1,29 @@
+{
+  "barcode": "8906095124732",
+  "name": "Chia seeds",
+  "brand": "Wonderland",
+  "quantity": "100",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:chia"
+  ],
+  "ingredients": "Chia seeds",
+  "per_100g": {
+    "energy_kcal": 490,
+    "fat": 31,
+    "saturated_fat": 3,
+    "carbohydrates": 44,
+    "sugars": 0,
+    "fiber": 38,
+    "protein": 16,
+    "salt": 47.5,
+    "sodium": 19
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-21T15:33:46Z",
+  "fetched_at": "2026-08-19T12:49:28Z"
+}

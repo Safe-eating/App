@@ -1,0 +1,24 @@
+{
+  "barcode": "8906064917464",
+  "name": "Dried Blueberry",
+  "brand": "Candor Foods",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "Dried blueberries, Sugar  and edible vegetable oil (sunflower oil) allergy information: packed in a facility that handles nut, Soy, Sulphite \u0026 milk.",
+  "per_100g": {
+    "energy_kcal": 343,
+    "fat": 1.13,
+    "saturated_fat": 0.8,
+    "carbohydrates": 82,
+    "sugars": 73,
+    "fiber": 7,
+    "protein": 1.47,
+    "salt": 0.01,
+    "sodium": 0
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T20:33:07Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

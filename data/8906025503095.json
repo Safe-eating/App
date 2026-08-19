@@ -1,0 +1,28 @@
+{
+  "barcode": "8906025503095",
+  "name": "Milk Pasturesized And Homogenized Toned Milk",
+  "brand": "Vijaya",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk Solids. Vitamin A, Vitamin D2 (ergocalciferol).",
+  "per_100g": {
+    "energy_kcal": 58.2,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 4.7,
+    "sugars": 4.7,
+    "fiber": null,
+    "protein": 3.1,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-24T13:11:34Z",
+  "fetched_at": "2026-08-19T12:31:48Z"
+}

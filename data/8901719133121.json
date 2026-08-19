@@ -1,0 +1,26 @@
+{
+  "barcode": "8901719133121",
+  "name": "Hide \u0026 Seek Black Bourbon",
+  "brand": "Parle Platina",
+  "quantity": "100g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "SUGAR, REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, COCOA SOLIDS (3.4%), INVERT SUGAR SYRUP, IODISED SALT, RAISING AGENTS (503(ii), 500(ii)) AND EMULSIFIER OF VEGETABLE ORIGIN [SOY LECITHIN]. CONTAINS PERMITTED NATURAL FOOD COLOURS (150c, 150a) AND ADDED FLAVOURS (NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES - CHOCOLATE, VANILLA). *INCLUDING 2% AS SPRINKLED SUGAR",
+  "per_100g": {
+    "energy_kcal": 477.8,
+    "fat": 17.8,
+    "saturated_fat": 8.8,
+    "carbohydrates": 74.9,
+    "sugars": 44.2,
+    "fiber": 2.703,
+    "protein": 4.5,
+    "salt": 0.45,
+    "sodium": 0.18
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-30T04:09:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

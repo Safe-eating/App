@@ -1,0 +1,37 @@
+{
+  "barcode": "8906010503826",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:Palm oil in chips"
+  ],
+  "ingredients": "POTATO (87%), EDIBLE VEGETABLE OIL (PALMOLEIN), SUGAR, EDIBLE COMMON SALT, MALTODEXTRIN, SPICES \u0026 CONDIMENTS (CHILLI (0.4%), CORIANDER, DRY MANGO, CUMIN), DEHYDRATED VEGETABLE POWDER (ONION GARLIC, TOMATO), FLAVOUR ENHANCER (INS 627, INS 631), ACIDITY REGULATOR (INS 296, INS 330), NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUSBTANCES (CHILLI). PROPRIETARY FOOD POTATO WAFERS INDIAN SNACKS \u0026 SAVOURIES",
+  "per_100g": {
+    "energy_kcal": 540,
+    "fat": 31.1,
+    "saturated_fat": 14.3,
+    "carbohydrates": 54.5,
+    "sugars": 2,
+    "fiber": 7,
+    "protein": 7.1,
+    "salt": 2.0075,
+    "sodium": 0.803
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-01T15:39:25Z",
+  "fetched_at": "2026-08-19T02:02:14Z"
+}

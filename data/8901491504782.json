@@ -1,0 +1,26 @@
+{
+  "barcode": "8901491504782",
+  "name": "West Indies hotn sweet chilli",
+  "brand": "Lay's",
+  "quantity": "50gm",
+  "categories": [
+    "en:Chips"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Palmolein, Sunflower Oil), Sugar, Maltodextrin, Iodised Salt, Natural and Nature Identical Flavouring Substances, Spices ,  Condiments, Flavour Enhancers (627 ,  631), Edible Vegetable Oil (Palm, Sunflower, Peanut), Hydrolysed Vegetable Protein, Anticaking Agent (551), Cocoa Solids, Lactose",
+  "per_100g": {
+    "energy_kcal": 533.333333333333,
+    "fat": 33.3333333333333,
+    "saturated_fat": 14,
+    "carbohydrates": 53.3333333333333,
+    "sugars": 6.66666666666667,
+    "fiber": 0,
+    "protein": 6.66666666666667,
+    "salt": 1.66666666666667,
+    "sodium": 0.666666666666667
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-29T00:00:41Z",
+  "fetched_at": "2026-08-19T00:50:58Z"
+}

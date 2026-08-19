@@ -1,0 +1,32 @@
+{
+  "barcode": "8906007283144",
+  "name": "Fortune Soya Chunks-225g",
+  "brand": "Fortune",
+  "quantity": "225g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:meat-alternatives",
+    "en:meat-analogues",
+    "en:textured-vegetable-protein",
+    "en:textured-soy-protein"
+  ],
+  "ingredients": "*Milk (Cow Milk), Egg (Poultry Raw Egg) and Paneer protein comparison has been done on the basis of Per 100g",
+  "per_100g": {
+    "energy_kcal": 343,
+    "fat": 0.8,
+    "saturated_fat": 0.2,
+    "carbohydrates": 31.5,
+    "sugars": 4.7,
+    "fiber": 0,
+    "protein": 52.5,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-28T12:10:58Z",
+  "fetched_at": "2026-08-19T01:54:52Z"
+}

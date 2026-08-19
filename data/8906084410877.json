@@ -1,0 +1,29 @@
+{
+  "barcode": "8906084410877",
+  "name": "Roasted Makhana",
+  "brand": "M.O.M",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:fox-nuts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 468,
+    "fat": 20,
+    "saturated_fat": 3,
+    "carbohydrates": 65,
+    "sugars": 2,
+    "fiber": 6,
+    "protein": 7,
+    "salt": 1.42,
+    "sodium": 0.568
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-22T02:30:27Z",
+  "fetched_at": "2026-08-19T12:48:18Z"
+}

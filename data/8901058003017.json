@@ -1,0 +1,31 @@
+{
+  "barcode": "8901058003017",
+  "name": "Pazzta Masala Penne",
+  "brand": "Maggi",
+  "quantity": "69.5 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:meals",
+    "en:pasta-dishes",
+    "en:pastas",
+    "en:instant-pasta"
+  ],
+  "ingredients": "Semolina (Wheat) (100%). MASALA #TASTEMAKER® ● Creative visualization. Refer pack for more details Mixed spices (21.7%) (Dehydrated onion, Toasted onion flakes, Coriander powder, Roasted garlic flake Aniseed powder, Turmeric powder, Dehydrated coriander leaves, Cumin powder, Garlic powder, Red chilli powder, Black pepper powder, Fenugreek powder, Ginger powder, Capsicum extract, Clove powde Green cardamom powder, Nutmeg powder, Coriander extract and Cumin extract), Milk solids, Sugar lodized salt, Starch, Dehydrated Green peas (67%), Flavour enhancer (635), Palm oil, Yeast extract powder, Thickener (508), Colour (150d) and Acidity regulator (330). Contains Wheat \u0026 Milk. May contains Mustard \u0026 Soy.",
+  "per_100g": {
+    "energy_kcal": 279,
+    "fat": 2,
+    "saturated_fat": 1.5,
+    "carbohydrates": 58,
+    "sugars": 6.9,
+    "fiber": 3.5,
+    "protein": 8.9,
+    "salt": 2.0075,
+    "sodium": 0.803
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-22T08:04:01Z",
+  "fetched_at": "2026-08-19T00:24:33Z"
+}

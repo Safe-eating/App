@@ -1,0 +1,27 @@
+{
+  "barcode": "8904004408669",
+  "name": "Chekaralu",
+  "brand": "Haldiram's",
+  "quantity": "150g",
+  "categories": [
+    "en:Fried-snack",
+    "en:Indian snacks"
+  ],
+  "ingredients": "Rice Flour, Refined Palmolein Oil, Split Pulse Moong (Moong Dal) Flour, Roasted Bengal Gram Lentils (Daliya), Tapioca Starch, Hydrogenated Vegetable Oil (Vanaspati), lodised Salt, Sesame Seed, Cumin, Red Chilli, Asafoetida \u0026 Raising Agent (INS 500 ii) \n\nAllergen: Contains Sesame Seed May Contain Pear it, Almond, Cashew, Wheat, Milk, Soy \u0026 Mustard Seed",
+  "per_100g": {
+    "energy_kcal": 523,
+    "fat": 26.72,
+    "saturated_fat": 13.7,
+    "carbohydrates": 58.98,
+    "sugars": 0,
+    "fiber": 1.28,
+    "protein": 11.1,
+    "salt": 0.775,
+    "sodium": 0.31
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-18T09:51:08Z",
+  "fetched_at": "2026-08-19T01:25:44Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8903363014351",
+  "name": "DMart Healthy Choice Chia Seeds",
+  "brand": "DMart",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:chia"
+  ],
+  "ingredients": "CHIA SEEDS",
+  "per_100g": {
+    "energy_kcal": 491.91,
+    "fat": 27.51,
+    "saturated_fat": 3.13,
+    "carbohydrates": 41.65,
+    "sugars": 0.92,
+    "fiber": null,
+    "protein": 19.43,
+    "salt": 0.00245,
+    "sodium": 0.00098
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-13T09:38:51Z",
+  "fetched_at": "2026-08-19T01:23:07Z"
+}

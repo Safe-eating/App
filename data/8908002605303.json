@@ -1,0 +1,35 @@
+{
+  "barcode": "8908002605303",
+  "name": "roasted and salted almonds",
+  "brand": "kharawala's",
+  "quantity": "250g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:almonds",
+    "en:shelled-nuts",
+    "en:shelled-almonds",
+    "en:roasted-almonds",
+    "en:salted-almonds",
+    "en:roasted-and-salted-almonds"
+  ],
+  "ingredients": "Roasted Almonds And Edible Common Salt",
+  "per_100g": {
+    "energy_kcal": 603,
+    "fat": 53.57,
+    "saturated_fat": 3.57,
+    "carbohydrates": 17.86,
+    "sugars": 3.57,
+    "fiber": 10.71,
+    "protein": 21.43,
+    "salt": 0.8925,
+    "sodium": 0.357
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-06T18:10:03Z",
+  "fetched_at": "2026-08-19T13:07:28Z"
+}

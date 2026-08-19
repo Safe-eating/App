@@ -1,0 +1,31 @@
+{
+  "barcode": "8906143891296",
+  "name": "The Whole Truth Coffee Cocoa",
+  "brand": "The Whole Truth",
+  "quantity": "67g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-bars"
+  ],
+  "ingredients": "coffee, cocoa powder, cocoa butter, dates, cashews, almonds and whey.",
+  "per_100g": {
+    "energy_kcal": 510,
+    "fat": 28.955223880597,
+    "saturated_fat": 7.3134328358209,
+    "carbohydrates": 32.089552238806,
+    "sugars": 17.7611940298507,
+    "fiber": 10.5970149253731,
+    "protein": 30.2985074626866,
+    "salt": 0.45634328358209,
+    "sodium": 0.182537313432836
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-28T00:26:29Z",
+  "fetched_at": "2026-08-19T12:59:38Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "0834266007202",
+  "name": "SYNTHA-6 Ultra Premium Protein Matrix, Chocolate Milkshake",
+  "brand": "Bio-Engineered Supplements \u0026 Nutrition, Inc.",
+  "quantity": "2.27 kg",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders"
+  ],
+  "ingredients": "lecithin, salt, cellulose gum, acesulfame potassium, sucralose, papain, bromelain, t gedients: protein matrix comprised ewhey protein concentrate, whey fotein isolate, calcium caseinate, micellar casein, milk protein isolate, egg albumen, glutamine peptides), sunflower creamer (sunflower oil, corn syrup solids, sodium caseinate, mono - and diglycerides, dipotassium phosphate, tricalcium phosphate, soy lecithin, tocopherols), polydextrose, cocoa (processed with alkali), natural and artificial fla vor, mct powder (medium chain triglycerides, nonfat dry milk, disodium phosphate, silicon dioxide),",
+  "per_100g": {
+    "energy_kcal": 404.255319148936,
+    "fat": 10.6382978723404,
+    "saturated_fat": 4.25531914893617,
+    "carbohydrates": 29.7872340425532,
+    "sugars": 6.38297872340426,
+    "fiber": 12.7659574468085,
+    "protein": 46.8085106382979,
+    "salt": 1.27659574468085,
+    "sodium": 0.51063829787234
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-13T04:02:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

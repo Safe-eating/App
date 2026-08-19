@@ -1,0 +1,32 @@
+{
+  "barcode": "8901764012501",
+  "name": "Coke Brand Coca Cola 2ltr",
+  "brand": "Coca cola",
+  "quantity": "18",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:carbonated-drinks",
+    "en:sodas",
+    "en:colas",
+    "en:sweetened-beverages",
+    "en:200"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, ACIDITY REGULATOR (338), CAFFEINE (8.7 mg/100 g), COLOUR (150d), FLAVOURS (NATURAL FLAVOURING SUBSTANCES).",
+  "per_100g": {
+    "energy_kcal": 44,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 10.9,
+    "sugars": 10.6,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.02125,
+    "sodium": 0.0085
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T07:35:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

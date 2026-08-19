@@ -1,0 +1,24 @@
+{
+  "barcode": "8906009536590",
+  "name": "Blueberry blast",
+  "brand": "Ritebite",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 362.5,
+    "fat": 13,
+    "saturated_fat": 6.25,
+    "carbohydrates": 58.25,
+    "sugars": 28.25,
+    "fiber": 10.75,
+    "protein": 3,
+    "salt": 0.28125,
+    "sodium": 0.1125
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-18T11:38:49Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

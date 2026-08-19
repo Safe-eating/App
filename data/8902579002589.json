@@ -1,0 +1,26 @@
+{
+  "barcode": "8902579002589",
+  "name": "Smoodh Chocolate Hazelnut",
+  "brand": "Parle Agro",
+  "quantity": "80 ml",
+  "categories": [
+    "en:Chocolate milkshakes"
+  ],
+  "ingredients": "WATER, MILK SOLIDS, SUGAR, WHEY POWDER, COCOA SOLIDS (1%), MALT EXTRACT, EMULSIFIERS AND STABILIZERS [INS 460(1), INS 471, INS 466, INS 407, INS 340, INS 452], NATURE IDENTICAL FLAVOURING SUBSTANCE (CHOCOLATE, HAZELNUT) AND IODISED SALT. ALLERGEN INFORMATION: CONTAINS MILK, BARLEY, WHEAT AND MILLET.",
+  "per_100g": {
+    "energy_kcal": 83.8,
+    "fat": 1.8,
+    "saturated_fat": 1.2,
+    "carbohydrates": 14.7,
+    "sugars": 13.9,
+    "fiber": null,
+    "protein": 2.2,
+    "salt": 0.1695,
+    "sodium": 0.0678
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-20T09:07:08Z",
+  "fetched_at": "2026-08-19T01:15:56Z"
+}

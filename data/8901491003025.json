@@ -1,0 +1,30 @@
+{
+  "barcode": "8901491003025",
+  "name": "Dinamita Sizzling Hot",
+  "brand": "Doritos",
+  "quantity": "56 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 512,
+    "fat": 26,
+    "saturated_fat": 10.6,
+    "carbohydrates": 63,
+    "sugars": 1.4,
+    "fiber": null,
+    "protein": 6.8,
+    "salt": 1.7475,
+    "sodium": 0.699
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-27T14:57:08Z",
+  "fetched_at": "2026-08-19T00:49:47Z"
+}

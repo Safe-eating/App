@@ -1,0 +1,24 @@
+{
+  "barcode": "8906172784064",
+  "name": "Berried in bliss overnight oats",
+  "brand": "True elements",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 393.548387096774,
+    "fat": 8.87096774193548,
+    "saturated_fat": 1.45161290322581,
+    "carbohydrates": 72.4193548387097,
+    "sugars": 16.9354838709677,
+    "fiber": 8.06451612903226,
+    "protein": 10,
+    "salt": 0.467741935483871,
+    "sodium": 0.187096774193548
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-25T06:05:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

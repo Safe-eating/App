@@ -1,0 +1,30 @@
+{
+  "barcode": "8904063209849",
+  "name": "Takatak Baked Chilli Cheese",
+  "brand": "Haldiram's",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 469,
+    "fat": 17.5,
+    "saturated_fat": 8,
+    "carbohydrates": 71,
+    "sugars": 3.5,
+    "fiber": null,
+    "protein": 7,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-27T19:52:52Z",
+  "fetched_at": "2026-08-19T01:29:54Z"
+}

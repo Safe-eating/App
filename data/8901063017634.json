@@ -1,0 +1,40 @@
+{
+  "barcode": "8901063017634",
+  "name": "Britannia 5050",
+  "brand": "",
+  "quantity": "105g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:fats",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:flavoured-potato-crisps",
+    "en:salt-and-vinegar-crisps",
+    "en:salt-and-malt-vinegar-crisps"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), REFINED PALM \u0026 PALMOLEIN OIL, SUGAR, LIQUID GLUCOSE, RAISING AGENTS [503(ii), 341(ii), 500(ii) \u0026 450(i)], BUTTER (1.2%), BLACK SALT, MILK SOLIDS, DEHYDRATED VEGETABLE (CHIVES) (1%), IODISED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCE, DOUGH CONDITIONER (223) AND IMPROVERS [1101(i) \u0026 XYLANASE].",
+  "per_100g": {
+    "energy_kcal": 502,
+    "fat": 26,
+    "saturated_fat": 13,
+    "carbohydrates": 60,
+    "sugars": 10,
+    "fiber": null,
+    "protein": 7,
+    "salt": 2.705,
+    "sodium": 1.082
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-09T11:33:49Z",
+  "fetched_at": "2026-08-19T00:28:42Z"
+}

@@ -1,0 +1,27 @@
+{
+  "barcode": "8908023890009",
+  "name": "Whitty Cheese Masti Khakra",
+  "brand": "Whitty",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:KHAKHRA"
+  ],
+  "ingredients": "Whole wheat flour, Palmolein Oil, cheese seasoning (Cheese powder, milk solids, mixed spices, sugar) (5%), Salt",
+  "per_100g": {
+    "energy_kcal": 435,
+    "fat": 21.7,
+    "saturated_fat": 17.2,
+    "carbohydrates": 59,
+    "sugars": 1.5,
+    "fiber": 0,
+    "protein": 8,
+    "salt": 2.455,
+    "sodium": 0.982
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-13T15:12:56Z",
+  "fetched_at": "2026-08-19T13:21:59Z"
+}

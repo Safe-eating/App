@@ -1,0 +1,28 @@
+{
+  "barcode": "8906036674081",
+  "name": "Toned Milk",
+  "brand": "Nandini",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 71,
+    "fat": 4.1,
+    "saturated_fat": 2.7,
+    "carbohydrates": 5.1,
+    "sugars": 5.1,
+    "fiber": null,
+    "protein": 3.5,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-27T16:33:43Z",
+  "fetched_at": "2026-08-19T12:35:26Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8908020062676",
+  "name": "Whole Cashew",
+  "brand": "Open Secret",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:cashew-nuts"
+  ],
+  "ingredients": "Cashew Kernels",
+  "per_100g": {
+    "energy_kcal": 607.142857142857,
+    "fat": 46.4285714285714,
+    "saturated_fat": 9.28571428571429,
+    "carbohydrates": 32.1428571428571,
+    "sugars": 7.14285714285714,
+    "fiber": 3.57142857142857,
+    "protein": 17.8571428571429,
+    "salt": 0.0892857142857143,
+    "sodium": 0.0357142857142857
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-28T07:56:36Z",
+  "fetched_at": "2026-08-19T13:20:23Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8901499006936",
+  "name": "Kellogg's Chocos",
+  "brand": "Kellogg's",
+  "quantity": "12",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:chocos"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 387,
+    "fat": 2.9,
+    "saturated_fat": 1.2,
+    "carbohydrates": 83.6,
+    "sugars": 30,
+    "fiber": 5,
+    "protein": 9,
+    "salt": 0.825,
+    "sodium": 0.33
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T12:48:50Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

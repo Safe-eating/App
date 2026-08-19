@@ -1,0 +1,26 @@
+{
+  "barcode": "8906117091219",
+  "name": "Shortcuts Peanut Butter Wafer Bites",
+  "brand": "BRB",
+  "quantity": "100g",
+  "categories": [
+    "en:peanut-butter-wafer-bites"
+  ],
+  "ingredients": "Peanut Butter (54.5%), Refined Wheat Flour, Jaggery, Milk Solids, Refined Coconut Oil, Emulsifier (Soy Lecithin), Iodized Salt, Baking Soda, Milk Protein Concentrate, Butter \u0026 Vanilla. Wheat",
+  "per_100g": {
+    "energy_kcal": 483.904085582386,
+    "fat": 29.7944033203125,
+    "saturated_fat": 6.86715331143466,
+    "carbohydrates": 35.6979431818182,
+    "sugars": 14.1890384410511,
+    "fiber": 6.37738316761364,
+    "protein": 14.9850655806108,
+    "salt": 0.666035776811082,
+    "sodium": 0.260492661487927
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-27T14:40:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

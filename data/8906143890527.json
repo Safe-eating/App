@@ -1,0 +1,31 @@
+{
+  "barcode": "8906143890527",
+  "name": "Sea Salt Dark Chocolate",
+  "brand": "The Whole Truth",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:dark-chocolate-bar"
+  ],
+  "ingredients": "COCOA,DATES, SEASALT",
+  "per_100g": {
+    "energy_kcal": 592,
+    "fat": 44,
+    "saturated_fat": 31,
+    "carbohydrates": 40,
+    "sugars": 21,
+    "fiber": 8,
+    "protein": 8,
+    "salt": 0.615,
+    "sodium": 0.246
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-09T17:54:20Z",
+  "fetched_at": "2026-08-19T12:59:37Z"
+}

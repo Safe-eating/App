@@ -1,0 +1,27 @@
+{
+  "barcode": "8906071454259",
+  "name": "Chatpata Snacks Sauce",
+  "brand": "9 am",
+  "quantity": "800g",
+  "categories": [
+    "en:condiments",
+    "en:sauces"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 101.22,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 24.1,
+    "sugars": 21.2,
+    "fiber": 0.5,
+    "protein": 1.2,
+    "salt": 0,
+    "sodium": 1.202
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-05T08:50:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

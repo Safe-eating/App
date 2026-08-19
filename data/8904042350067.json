@@ -1,0 +1,29 @@
+{
+  "barcode": "8904042350067",
+  "name": "Dubai Kunafa Cheese Cake",
+  "brand": "Ditch The Guilt",
+  "quantity": "40 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates"
+  ],
+  "ingredients": "Cocoa Butter, Cocoa Butter Equivalent, Maltitol, Erythritol, Whey Protein, Pea Protein, Vermicellin, Pistachio, Wheat Flour, Coconut Oil, Vanilla Pod, Monk Fruit",
+  "per_100g": {
+    "energy_kcal": 437.7,
+    "fat": 34.7,
+    "saturated_fat": 18.7,
+    "carbohydrates": 2.8,
+    "sugars": 0.8,
+    "fiber": 1,
+    "protein": 30.7,
+    "salt": 0.025,
+    "sodium": 0.01
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-27T13:44:19Z",
+  "fetched_at": "2026-08-19T01:27:17Z"
+}

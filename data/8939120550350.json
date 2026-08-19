@@ -1,0 +1,26 @@
+{
+  "barcode": "8939120550350",
+  "name": "Mix Grain Bite Chikki",
+  "brand": "Ideal Chikki",
+  "quantity": "200g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Til, Black Til, Rajgira, Peanut \u0026 Jaggery MRP: 80/- (Inclusive of all taxes) Mfg Date: 24-10-2025",
+  "per_100g": {
+    "energy_kcal": 496,
+    "fat": 27.1,
+    "saturated_fat": 4,
+    "carbohydrates": 53.17,
+    "sugars": 48.72,
+    "fiber": null,
+    "protein": 9.85,
+    "salt": 0.0625,
+    "sodium": 0.025
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-22T03:32:02Z",
+  "fetched_at": "2026-08-19T13:25:11Z"
+}

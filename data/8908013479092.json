@@ -1,0 +1,28 @@
+{
+  "barcode": "8908013479092",
+  "name": "double cocoa protein bar",
+  "brand": "The Whole Truth",
+  "quantity": "52 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars"
+  ],
+  "ingredients": "Cashew, dates, whey protein concentrate, almond, cocoa powder, cocoa butter",
+  "per_100g": {
+    "energy_kcal": 492.692307692308,
+    "fat": 26.5384615384615,
+    "saturated_fat": 6.53846153846154,
+    "carbohydrates": 37.6923076923077,
+    "sugars": 20,
+    "fiber": 10.3846153846154,
+    "protein": 25.5769230769231,
+    "salt": 0.0350961538461538,
+    "sodium": 0.0140384615384615
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-16T09:07:43Z",
+  "fetched_at": "2026-08-19T13:14:45Z"
+}

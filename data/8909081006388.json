@@ -1,0 +1,35 @@
+{
+  "barcode": "8909081006388",
+  "name": "Yippee noodles",
+  "brand": "Sunfeast",
+  "quantity": "48g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles",
+    "en:instant-noodle-soups"
+  ],
+  "ingredients": "Instant Noodles: Maida (Refined Wheat Flour) (78.7%), *Edible Vegetable Oil, lodized Salt, Wheat Gluten (0.4%), Thickeners (508, 412), Acidity Regulators [501(1), 500(i)], Stabilizer [339(ii)]. Seasoning: Masala Mix: Dehydrated Vegetables [Beans (9.5%), Carrot (7.1%), Onion (4.6%), Cabbage (3.8%)], Instant Noodle Powder Maida (Refined Wheat Flour) (15.9%), *Edible Vegetable Oil, lodized Salt, Wheat Gluten (0.07%)}, Spices and Condiments (17.6%) [Garlic, Coriander, Cumin, Dried Ginger, Chillies, Aniseed, Fenugreek, Black Pepper, Cardamom, Nutmeg, Caraway, Cinnamon, Cloves, Turmeric], Sugar, lodized Salt, Hydrolyzed Vegetable Protein (Defatted Soya, Maltodextrin), Natural Flavours and Natural Flavouring Substances, Yeast Extract, Acidity Regulator (330), Nature Identical Flavouring Substances, Flavour Enhancer (635). *To know the specific type of oil(s) used, match the symbol (^ or ^^) with the last character of batch number wherein * denotes Refined Palm Oil, MA denotes the blend of oils Refined Rice Bran Oil, Refined Palm Oil. Contains Wheat, Soy. May Contain Milk, Nut.",
+  "per_100g": {
+    "energy_kcal": 457,
+    "fat": 19.1,
+    "saturated_fat": 6.8,
+    "carbohydrates": 64.5,
+    "sugars": 3.1,
+    "fiber": null,
+    "protein": 9,
+    "salt": 2.9555,
+    "sodium": 1.1822
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-07T21:52:39Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

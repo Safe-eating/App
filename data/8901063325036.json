@@ -1,0 +1,32 @@
+{
+  "barcode": "8901063325036",
+  "name": "Britannia toastea 250gm",
+  "brand": "Britannia",
+  "quantity": "250g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:rusks",
+    "en:Toaste"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (71%), SUGAR, REFINED PALM AND PALMOLEIN OIL, SEMOLINA (SUJI) (1.8%), YEAST, VITAL GLUTEN, COLOUR (150a), INVERT SUGAR SYRUP, IODISED SALT, EMULSIFIERS (472e, 471), SPICE (0.3%) (GREEN CARDAMOM SEEDS), BREAD IMPROVER (STARCH, SOYA FLOUR, IMPROVERS [1100(i), 1104, 1102]), WHEAT FIBER, NATURE IDENTICAL \u0026 ARTIFICIAL (MILK) FLAVOURING SUBSTANCES AND ANTIOXIDANT (300). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT AND SOY",
+  "per_100g": {
+    "energy_kcal": 432,
+    "fat": 8,
+    "saturated_fat": 3.7,
+    "carbohydrates": 80.9,
+    "sugars": 20.8,
+    "fiber": null,
+    "protein": 9.2,
+    "salt": 0.5325,
+    "sodium": 0.213
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-29T06:31:07Z",
+  "fetched_at": "2026-08-19T00:32:50Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8906033951369",
+  "name": "Gongura Red Chilli Pickle",
+  "brand": "G. Pulla Reddy",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles",
+    "en:plant-based-pickles"
+  ],
+  "ingredients": "Gongura, Red Chilli, Salt, Urad Dal, Refined Peanut Oil, Garlic, Tamarind Paste, Fenugreek, Coriander, Mustard, Turmeric",
+  "per_100g": {
+    "energy_kcal": 252,
+    "fat": 19.8,
+    "saturated_fat": 3.6,
+    "carbohydrates": 10.2,
+    "sugars": 2.2,
+    "fiber": 0,
+    "protein": 4.1,
+    "salt": 14.61,
+    "sodium": 5.844
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-31T15:51:03Z",
+  "fetched_at": "2026-08-19T12:34:44Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8904043902319",
+  "name": "Red Rice Aval / Poha",
+  "brand": "Tata Sampann",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:rices",
+    "en:flaked rice"
+  ],
+  "ingredients": "Flaked Rice (Poha)",
+  "per_100g": {
+    "energy_kcal": 354,
+    "fat": 1.4,
+    "saturated_fat": 0.3,
+    "carbohydrates": 78,
+    "sugars": 0.5,
+    "fiber": 6,
+    "protein": 7,
+    "salt": 0.01225,
+    "sodium": 0.0049
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-01T02:10:24Z",
+  "fetched_at": "2026-08-19T01:27:53Z"
+}

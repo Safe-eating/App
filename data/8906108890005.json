@@ -1,0 +1,28 @@
+{
+  "barcode": "8906108890005",
+  "name": "",
+  "brand": "Desi Pop,Go Desi",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries"
+  ],
+  "ingredients": "Jaggery, Tamarind, Edible Salt, Cumin Powder, Curry Leaves Powder, Chilli Powder, Refined Sunflower Oil, Acacia Gum (INS 414)",
+  "per_100g": {
+    "energy_kcal": 369.4,
+    "fat": 1.6,
+    "saturated_fat": 0.6,
+    "carbohydrates": 87.1,
+    "sugars": 64.3,
+    "fiber": null,
+    "protein": 1.7,
+    "salt": 1.5025,
+    "sodium": 0.601
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-10T12:28:13Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8906169990003",
+  "name": "Ribbon Pakoda",
+  "brand": "Sweet Karam Coffee",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Rice Flour, Edible Vegetable oil (Rice Bran), Besan, Edible Common Salt, Spices and Condiments (Chilli Powder \u0026 Asafoetida).",
+  "per_100g": {
+    "energy_kcal": 523,
+    "fat": 28,
+    "saturated_fat": 8.2,
+    "carbohydrates": 56.2,
+    "sugars": 0,
+    "fiber": 4,
+    "protein": 10.9,
+    "salt": 0.396,
+    "sodium": 0.1584
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-01T09:11:34Z",
+  "fetched_at": "2026-08-19T13:02:16Z"
+}

@@ -1,0 +1,34 @@
+{
+  "barcode": "8904083302100",
+  "name": "Fruit Yogurt Blueberry",
+  "brand": "Milky Mist",
+  "quantity": "100 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:fermented-dairy-desserts-with-fruits",
+    "en:yogurts",
+    "en:fruit-yogurts"
+  ],
+  "ingredients": "Milk \u0026 Milk Solids, Sugar, Active Lactic Culture (Lbacillus delbrueckii subsp. bulgaricus, S.thermophilus), Stabilizing agent (INS 440), Fruit Content (6%) from Blueberry preparation (Blueberry Fruit, Sugar, Water, Stabilizer (INS 440), Acidifying agent (INS 330), Preservative (INS 202)), Colours (INS 122, INS 133), Flavor (Nature - Identical Flavoring Substances - Blueberry). Allergen Information: Contains Milk. Manufactured \u0026 Marketed by: MILKY MIST DAIRY FOOD PRIVATE LIMITED SF No.: 43/1,2,3, Pattakaranpalayam Village, Perundurai Taluk - 638 057, Erode District, fssai Tamil Nadu, India. Lic. No. 10017042003191 FOR FEEDBACK/ QUERIES CONTACT OUR CUSTOMER CARE EXECUTIVE TOLL FREE NUMBER 1800-419-9000 OR CONTACT AT MFD. \u0026 MARKETED BY ADDRESS Write to us: / visit us at: www.milkymist.com Net Quantity: 100 g For Batch No., Date of Packaging, Expiry Date MRP (incl. of all taxes) - SEE TOP OF THE PACK",
+  "per_100g": {
+    "energy_kcal": 103.5,
+    "fat": 3.1,
+    "saturated_fat": 1.3,
+    "carbohydrates": 15.3,
+    "sugars": 15.3,
+    "fiber": null,
+    "protein": 3.6,
+    "salt": 0.0525,
+    "sodium": 0.021
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T18:29:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

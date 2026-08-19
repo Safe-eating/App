@@ -1,0 +1,24 @@
+{
+  "barcode": "8906188400385",
+  "name": "Roasted Rice Crackers Krispy Hopu",
+  "brand": "Kari Kari",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 453.333333333333,
+    "fat": 13.3333333333333,
+    "saturated_fat": 1.33333333333333,
+    "carbohydrates": 73.3333333333333,
+    "sugars": 11.3333333333333,
+    "fiber": 1.33333333333333,
+    "protein": 6,
+    "salt": 2.41666666666667,
+    "sodium": 0.966666666666667
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-22T16:21:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

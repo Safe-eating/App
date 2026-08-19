@@ -1,0 +1,32 @@
+{
+  "barcode": "8906058611194",
+  "name": "Oats",
+  "brand": "Gaia",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "Oats",
+  "per_100g": {
+    "energy_kcal": 414.33,
+    "fat": 10.49,
+    "saturated_fat": 2.15,
+    "carbohydrates": 69.02,
+    "sugars": 2.01,
+    "fiber": 10.39,
+    "protein": 10.96,
+    "salt": 0.00785,
+    "sodium": 0.00314
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-12T06:03:23Z",
+  "fetched_at": "2026-08-19T12:38:27Z"
+}

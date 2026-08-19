@@ -1,0 +1,32 @@
+{
+  "barcode": "8901262175814",
+  "name": "Amul VANILLA ROYALE",
+  "brand": "Amul",
+  "quantity": "125 mL / 67 g",
+  "categories": [
+    "en:snacks",
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-in-individual-cup"
+  ],
+  "ingredients": "Milk solids, sugar, emulsifier (471), artificial flavouring substances (vanilla) Stabilizer (407,466,415,412)",
+  "per_100g": {
+    "energy_kcal": 214.79,
+    "fat": 12.99,
+    "saturated_fat": 7.76,
+    "carbohydrates": 20.74,
+    "sugars": 20.74,
+    "fiber": null,
+    "protein": 3.73,
+    "salt": 130.6,
+    "sodium": 52.24
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-04T14:21:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8906076131971",
+  "name": "Zero Maida Country Sourdough",
+  "brand": "the Baker's Dozen",
+  "quantity": "",
+  "categories": [
+    "en:Sourdough"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 252,
+    "fat": 0.6,
+    "saturated_fat": 0.3,
+    "carbohydrates": 54,
+    "sugars": 6,
+    "fiber": 1.5,
+    "protein": 8.46,
+    "salt": 0.515,
+    "sodium": 0.206
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-08T03:19:16Z",
+  "fetched_at": "2026-08-19T12:43:35Z"
+}

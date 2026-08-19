@@ -1,0 +1,33 @@
+{
+  "barcode": "8901414018174",
+  "name": "Til Chikki",
+  "brand": "Bikano",
+  "quantity": "100 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:sesame",
+    "en:toasted-sesame"
+  ],
+  "ingredients": "Sugar (Sucrose), Sesame Seed (38%), Liquid Glucose, Clarified Butter, Pistachio (0.6%), Cardamom (0.3%), E110",
+  "per_100g": {
+    "energy_kcal": 500,
+    "fat": 23.3333333333333,
+    "saturated_fat": 3.33333333333333,
+    "carbohydrates": 60,
+    "sugars": 46.6666666666667,
+    "fiber": 0,
+    "protein": 10,
+    "salt": 0.0833333333333333,
+    "sodium": 0.0333333333333333
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-02T17:09:34Z",
+  "fetched_at": "2026-08-19T00:48:17Z"
+}

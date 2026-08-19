@@ -1,0 +1,36 @@
+{
+  "barcode": "8908003473031",
+  "name": "Chekku Groundnut Oil",
+  "brand": "Ras",
+  "quantity": "1 l",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:fats",
+    "en:nuts-and-their-products",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:nut-oils",
+    "en:legume-oils",
+    "en:peanut-oils",
+    "en:Groundnut oils"
+  ],
+  "ingredients": "Groundnut Oil",
+  "per_100g": {
+    "energy_kcal": 899,
+    "fat": 100,
+    "saturated_fat": 20,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-16T11:27:48Z",
+  "fetched_at": "2026-08-19T13:08:28Z"
+}

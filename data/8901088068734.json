@@ -1,0 +1,38 @@
+{
+  "barcode": "8901088068734",
+  "name": "Saffola Masala Oats - Classic Masala",
+  "brand": "Saffola",
+  "quantity": "38 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereal-grains",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats",
+    "en:oat"
+  ],
+  "ingredients": "Rolled Oats (73.9 %), Maltodectrin, Salt, Spices and Condiments (34%) (Onions, Tumeric, Pepper, Cumin, Garlic, Fenugreek, Clove, Nutmeg, Red Chili), Dried Vegetables (Carrots (1.15%), Onions Flakes (1.15%), Green Peas(0.69%)), Sugar, Starch, Hydrolysed Vegetable Protein, Wheat Powder, Flavour Enhancers NS 627,631), Anlioxidant (320). \r\nCONTAINS ADDED FLAVOUR-NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES.",
+  "per_100g": {
+    "energy_kcal": 365.789473684211,
+    "fat": 7.63157894736842,
+    "saturated_fat": 1.84210526315789,
+    "carbohydrates": 70.5263157894737,
+    "sugars": 6.05263157894737,
+    "fiber": 9.73684210526316,
+    "protein": 8.68421052631579,
+    "salt": 5.22236842105263,
+    "sodium": 2.08894736842105
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-11T13:27:14Z",
+  "fetched_at": "2026-08-19T00:35:48Z"
+}

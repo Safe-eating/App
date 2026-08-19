@@ -1,0 +1,28 @@
+{
+  "barcode": "8904067700762",
+  "name": "Khakhra roasted wheat crisps",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 489,
+    "fat": 21,
+    "saturated_fat": 9,
+    "carbohydrates": 65,
+    "sugars": 3,
+    "fiber": null,
+    "protein": 10,
+    "salt": 2,
+    "sodium": 0.8
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-19T01:36:44Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

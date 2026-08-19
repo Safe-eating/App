@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262070430",
+  "name": "Amul",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies"
+  ],
+  "ingredients": "sugar, cocoa butter, partially skimmed milk powder, cocoa powder, emulsifiers (soya lecithin, polyglycerol esters of interesterified ricinoleic acid), artificial vanilla , cocoa flavors added, allergen information: contains milk , soyabean, made in a facility that processes tree-nuts , wheat tted imp, ,",
+  "per_100g": {
+    "energy_kcal": 545.454545454545,
+    "fat": 31.8181818181818,
+    "saturated_fat": 20.9090909090909,
+    "carbohydrates": 54.5454545454545,
+    "sugars": 45.4545454545455,
+    "fiber": null,
+    "protein": 9.09090909090909,
+    "salt": 0.227272727272727,
+    "sodium": 0.0909090909090909
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-18T04:56:50Z",
+  "fetched_at": "2026-08-19T00:42:28Z"
+}

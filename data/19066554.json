@@ -1,0 +1,26 @@
+{
+  "barcode": "19066554",
+  "name": "Oats Digestive",
+  "brand": "UNIBIC",
+  "quantity": "150 g",
+  "categories": [
+    "en:Oats digestive biscuit"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Eable Vegetable Oil (Palm), Sugar, Rolled Oats (8%), Liquid Glucose, Wheat Bran (3%), Milk Solids, Leavening Agents (INS 500 ii, INS 503 ii), lodised Salt, Emulsifier (INS 322 from Soy).",
+  "per_100g": {
+    "energy_kcal": 486,
+    "fat": 22,
+    "saturated_fat": 12.1,
+    "carbohydrates": 64,
+    "sugars": 18,
+    "fiber": 6.5,
+    "protein": 8.2,
+    "salt": 1.2,
+    "sodium": 0.48
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-05T02:21:47Z",
+  "fetched_at": "2026-08-19T00:00:41Z"
+}

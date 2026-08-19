@@ -1,0 +1,24 @@
+{
+  "barcode": "8901262120029",
+  "name": "Mithai Mate",
+  "brand": "Amul",
+  "quantity": "400 gm",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 331,
+    "fat": 9,
+    "saturated_fat": 5.4,
+    "carbohydrates": 55,
+    "sugars": 55,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 0.25,
+    "sodium": 0.1
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-27T16:12:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

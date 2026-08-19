@@ -1,0 +1,30 @@
+{
+  "barcode": "8906046850703",
+  "name": "Mount Blue Bread Sticks Whole Wheat Sesame",
+  "brand": "Mount Blue",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 430.44,
+    "fat": 7.87,
+    "saturated_fat": 1.11,
+    "carbohydrates": 75.82,
+    "sugars": 4.4,
+    "fiber": 3.1,
+    "protein": 12.31,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-28T07:16:29Z",
+  "fetched_at": "2026-08-19T12:37:21Z"
+}

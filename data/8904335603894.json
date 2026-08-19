@@ -1,0 +1,24 @@
+{
+  "barcode": "8904335603894",
+  "name": "Protein shake cold cofee",
+  "brand": "Yoga bar",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "Milk Solids(86.6%) Milk Protein Concentrate(7.9%), Sweeteners (Maltitol,Steviol glycosides), Soluble Coffee Powder(045), Nature-ldentical Flavouring Substances, Natural Flavours and Natural Flavouring Substances, Acidity Regulator(Trisodium orthophosphate), Stabilizer (Carragenan). CONTAINS NATURALLY OCCURRING SUGARS.",
+  "per_100g": {
+    "energy_kcal": 88,
+    "fat": 0.48,
+    "saturated_fat": 0.32,
+    "carbohydrates": 10.52,
+    "sugars": 5.4,
+    "fiber": null,
+    "protein": 10.4,
+    "salt": 0.135,
+    "sodium": 0.0714
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-09T06:51:29Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

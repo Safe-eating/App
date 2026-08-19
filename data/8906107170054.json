@@ -1,0 +1,30 @@
+{
+  "barcode": "8906107170054",
+  "name": "Chicken Sausage",
+  "brand": "Prasuma",
+  "quantity": "",
+  "categories": [
+    "en:meats-and-their-products",
+    "en:meats",
+    "en:chicken-and-its-products",
+    "en:poultries",
+    "en:chickens"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 242.6,
+    "fat": 3.72,
+    "saturated_fat": 1.24,
+    "carbohydrates": 38.05,
+    "sugars": 0.5,
+    "fiber": null,
+    "protein": 14.23,
+    "salt": 2.1184,
+    "sodium": 0.84736
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-30T14:14:02Z",
+  "fetched_at": "2026-08-19T12:50:25Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8906012556244",
+  "name": "Wood Cold Pressed Groundnut Oil",
+  "brand": "Gramiyaa",
+  "quantity": "100ml",
+  "categories": [
+    "en:oils"
+  ],
+  "ingredients": "Groundnut Oil",
+  "per_100g": {
+    "energy_kcal": 800,
+    "fat": 93.3333333333333,
+    "saturated_fat": 16.2,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-17T12:42:59Z",
+  "fetched_at": "2026-08-19T02:03:18Z"
+}

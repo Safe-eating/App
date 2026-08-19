@@ -1,0 +1,31 @@
+{
+  "barcode": "8904043554716",
+  "name": "Crem Treat Vanilla Crem bun",
+  "brand": "Modern,Bimbo",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:bread-rolls"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Bun Icing (Sugar, Edible Vegetable Fat (Interesterified), Humectant (422), Stabilizer (412), Preservative (200), Turmeric Extract, Artificial Flavouring Substances (Vanilla and Butterscotch]\u0026quot;, Sugar, Glazed Fruit (3.68%) [Papaya, Sugar, Acidity Regulator (330), Preservative (211), Food Colour (129)], Edible Vegetable Fat (Interesterified), Gluten, Yeast, lodized Salt, Soya Flour, Preservative (282), Emulsifier (4810).",
+  "per_100g": {
+    "energy_kcal": 356.7,
+    "fat": 11.93,
+    "saturated_fat": 7.56,
+    "carbohydrates": 55.5,
+    "sugars": 24.58,
+    "fiber": 3.84,
+    "protein": 6.9,
+    "salt": 0.588,
+    "sodium": 0.2352
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-01T12:31:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

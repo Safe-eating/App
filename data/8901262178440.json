@@ -1,0 +1,31 @@
+{
+  "barcode": "8901262178440",
+  "name": "Cookie Sub",
+  "brand": "Amul",
+  "quantity": "80 ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-sandwiches"
+  ],
+  "ingredients": "Inner Layer - Chocolate Ice Cream (50%): Milk solids, sugar, dextrose, cocoa solids, emulsifiers (471, 491), stabilizers (407, 412); Outer Layer - Chocolate Cookie (50%): Refined wheat flour, sugar, palm oil, cocoa solids, maltodextrin, iodized salt, raising agents [500 (ii), 503 (ii)], antioxidant (319), emulsifier (322), artificial flavouring Substances (vanilla), colour (150d). Allergen Information: Contains milk, wheat.",
+  "per_100g": {
+    "energy_kcal": 163,
+    "fat": 5.7,
+    "saturated_fat": 3,
+    "carbohydrates": 25.8,
+    "sugars": 24.6,
+    "fiber": null,
+    "protein": 3.2,
+    "salt": 0.2125,
+    "sodium": 0.085
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-26T13:04:34Z",
+  "fetched_at": "2026-08-19T00:45:43Z"
+}

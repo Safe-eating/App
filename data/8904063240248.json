@@ -1,0 +1,31 @@
+{
+  "barcode": "8904063240248",
+  "name": "Haldiram Bhujia 1kg",
+  "brand": "Haldiram's",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:pastas",
+    "en:Bhujia",
+    "en:Savories"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 571.428571428571,
+    "fat": 40,
+    "saturated_fat": 11.4285714285714,
+    "carbohydrates": 42.8571428571429,
+    "sugars": 2.85714285714286,
+    "fiber": 5.71428571428571,
+    "protein": 11.4285714285714,
+    "salt": 2,
+    "sodium": 0.8
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-20T14:48:09Z",
+  "fetched_at": "2026-08-19T01:30:56Z"
+}

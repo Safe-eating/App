@@ -1,0 +1,29 @@
+{
+  "barcode": "8904089313964",
+  "name": "Blockbuster Mango magic",
+  "brand": "Havmor",
+  "quantity": "90 ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets"
+  ],
+  "ingredients": "Inner layer - Ice Cream (70%): Added Water, Milk Solids, Sugar, Mango Pulp (9.6%), Emulsifiers (INS 471, INS 433) and Stabilizers (INS 466, INS 412, INS 407a, INS 410), Artificial (Mango) Flavoring Substances, Synthetic Food Colours (INS 110, INS 102, INS 124). Outer Layer - White Compound Covering (30%): Refined Palm Kernel Oil, Sugar, Milk Solids, Refined Palm Oil, Emulsifier (INS 322), Natural Colour (160b), Artificial (Mango) Flavoring Substances.",
+  "per_100g": {
+    "energy_kcal": 225.555555555556,
+    "fat": 15.4444444444444,
+    "saturated_fat": 11.2222222222222,
+    "carbohydrates": 19,
+    "sugars": 18.8888888888889,
+    "fiber": null,
+    "protein": 2.66666666666667,
+    "salt": 0.101388888888889,
+    "sodium": 0.0405555555555556
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-08T18:06:41Z",
+  "fetched_at": "2026-08-19T01:34:11Z"
+}

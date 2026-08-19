@@ -1,0 +1,26 @@
+{
+  "barcode": "8906020580961",
+  "name": "Onion Paratha By iD",
+  "brand": "iD",
+  "quantity": "400g",
+  "categories": [
+    "en:frozen-foods"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 242.78,
+    "fat": 8.06,
+    "saturated_fat": 4.07,
+    "carbohydrates": 34.31,
+    "sugars": 3.95,
+    "fiber": 2.64,
+    "protein": 8.25,
+    "salt": 1.800425,
+    "sodium": 0.72017
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-22T06:53:32Z",
+  "fetched_at": "2026-08-19T02:08:02Z"
+}

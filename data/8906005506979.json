@@ -1,0 +1,36 @@
+{
+  "barcode": "8906005506979",
+  "name": "potato chips",
+  "brand": "bikaji",
+  "quantity": "100 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Potatoes (65%), Edible Vegetable Oil (Palmolein Oil and/or Cottonseed Oil), lodised Salt (1.5%)",
+  "per_100g": {
+    "energy_kcal": 559,
+    "fat": 36,
+    "saturated_fat": 14,
+    "carbohydrates": 52,
+    "sugars": 1,
+    "fiber": 4,
+    "protein": 7,
+    "salt": 2.75,
+    "sodium": 1.1
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2023-10-11T14:24:28Z",
+  "fetched_at": "2026-08-19T01:51:20Z"
+}

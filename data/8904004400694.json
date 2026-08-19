@@ -1,0 +1,31 @@
+{
+  "barcode": "8904004400694",
+  "name": "Aloo Bhujia",
+  "brand": "Haldiram's",
+  "quantity": "42 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:potatoes-and-their-products",
+    "en:potato-preparations"
+  ],
+  "ingredients": "Potato, Refined Palmolein Oil, Bengal Gram Flour (Besan), Potato Flakes, Potato Starch, Tapioca Starch, Tepary Beans (Moth Dal) Flour, lodised Salt, Red Chilli Powder, Black Salt, Acidity Regulator (INS 330), Black Pepper, Clove, Cardamom, Dried Ginger Powder, Dried Garlic Powder, Refined Sugar, Cumin Powder, Bay Leaves, Nutmeg, Cinnamon \u0026 Mint Leaves.",
+  "per_100g": {
+    "energy_kcal": 562,
+    "fat": 38.12,
+    "saturated_fat": 13.64,
+    "carbohydrates": 46.1,
+    "sugars": 0.25,
+    "fiber": 0.83,
+    "protein": 8.68,
+    "salt": 1.5621,
+    "sodium": 0.62484
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2022-06-08T14:31:23Z",
+  "fetched_at": "2026-08-19T01:24:12Z"
+}

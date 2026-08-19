@@ -1,0 +1,32 @@
+{
+  "barcode": "8901491990080",
+  "name": "Doritos Nacho Cheese Flavours",
+  "brand": "Doritos, PepsiCo",
+  "quantity": "75 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips",
+    "en:Namkeen"
+  ],
+  "ingredients": "Corn (77%),Edible Vegetable Oil (Palmolein Oil), Milk Solids (3.1%) (Whey Powder, Cheese Powder, Skimmed Milk Powder), Wheat Flour, Salt, *Spices \u0026 Condiments (Onion Powder, Spice Extract, Pepper Powder, Chilli Powder, Garlic Powder), Tomato Powder, Sugar, Citric Acid (INS 330) CONTAINS ADDED FLAVOURS (NATURAL AND ARTIFICIAL (BUTTER) FLAVOURING SUBSTANCES)",
+  "per_100g": {
+    "energy_kcal": 505,
+    "fat": 24.9,
+    "saturated_fat": 11.6,
+    "carbohydrates": 63.8,
+    "sugars": 4.3,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 1.89992,
+    "sodium": 0.759968
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-11-21T16:19:28Z",
+  "fetched_at": "2026-08-19T00:51:55Z"
+}

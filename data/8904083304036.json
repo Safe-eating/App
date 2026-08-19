@@ -1,0 +1,33 @@
+{
+  "barcode": "8904083304036",
+  "name": "Natural Cheddar Cheese",
+  "brand": "Milky Mist",
+  "quantity": "200 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:cow-cheeses",
+    "en:cheeses-from-the-united-kingdom",
+    "en:cheeses-from-england",
+    "en:cheddar-cheese"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 370,
+    "fat": 30,
+    "saturated_fat": 19,
+    "carbohydrates": 2,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 23,
+    "salt": 1.63,
+    "sodium": 0.652
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-27T14:35:23Z",
+  "fetched_at": "2026-08-19T01:33:08Z"
+}

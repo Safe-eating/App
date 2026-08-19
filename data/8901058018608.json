@@ -1,0 +1,35 @@
+{
+  "barcode": "8901058018608",
+  "name": "Cerelac",
+  "brand": "Nestlé",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereals-with-fruits",
+    "en:crunchy-cereal-clusters",
+    "en:cereal-clusters-with-fruits",
+    "en:Cereal-powder"
+  ],
+  "ingredients": "Wheat flour (Atta) (35.7%), Milk solids (34.1%), Oat flour (8.8%), Rice flour (5.5%), Sugar, Apple juice concentrate (4.2%), Corn flour (3.1%), Soyabean Oil, Orange juice concentrate (3%), Barley flour (1%), Maltodextrin, Starch, Blackcurrant Juice concentrate (0.3%), Mango pulp (0.3%), Pomegranate Juice Concentrate (0.3%), Mango powder (0.2%), Minerals, Dextrose, Vitamins, Acidity Regulator (Potassium hydrogen carbonate) and Enzyme (alpha amylase).",
+  "per_100g": {
+    "energy_kcal": 413,
+    "fat": 9.5,
+    "saturated_fat": 4.8,
+    "carbohydrates": 68,
+    "sugars": 22.5,
+    "fiber": 2.4,
+    "protein": 15,
+    "salt": 0.3,
+    "sodium": 0.12
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-06T13:19:35Z",
+  "fetched_at": "2026-08-19T00:26:01Z"
+}

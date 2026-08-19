@@ -1,0 +1,32 @@
+{
+  "barcode": "8901262172448",
+  "name": "Amul Chocolate Brownie",
+  "brand": "Amul",
+  "quantity": "1L / 540 g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:chocolate-icecream",
+    "en:icecream"
+  ],
+  "ingredients": "Milk solids, sugar, chocolate brownie (8%) [refined wheat flour, cocoa solids, sugar, milk solids, stabilizer (415), iodized salt], cocoa solids, emulsifier (471), stabilizers (407, 466, 415, 412). Allergen Information: Contains milk, wheat.",
+  "per_100g": {
+    "energy_kcal": 232,
+    "fat": 12.5,
+    "saturated_fat": 7.6,
+    "carbohydrates": 26.3,
+    "sugars": 22.3,
+    "fiber": null,
+    "protein": 4.4,
+    "salt": 0.115,
+    "sodium": 0.046
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T16:20:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

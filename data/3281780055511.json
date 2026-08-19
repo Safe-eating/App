@@ -1,0 +1,27 @@
+{
+  "barcode": "3281780055511",
+  "name": "Pierre Martinet Mon taboulé a poulet à la ciboulette la barquette de 300 g",
+  "brand": "Pierre MARTINET",
+  "quantity": "",
+  "categories": [
+    "en:meals",
+    "en:tabbouleh"
+  ],
+  "ingredients": "semoule de blé dur réhydratée 49%, légumes (poivrons, tomates, oignons), poulet cuit assaisonné 9,5% (viande de poulet (Origine : UE) 8,4%, eau, sel, poivre), maïs, jus de citron à base de concentré, huile d'olive vierge extra, huile de colza. ciboulette, épices, sel, arôme, conservateur : sorbate de potassium. consommer jusqu'au : voir côté de la barquette. 0 809 400 708 e vvvvvv.ntartinet.fr",
+  "per_100g": {
+    "energy_kcal": 160,
+    "fat": 5.7,
+    "saturated_fat": 0.8,
+    "carbohydrates": 21,
+    "sugars": 3.3,
+    "fiber": 0,
+    "protein": 5.4,
+    "salt": 0.95,
+    "sodium": 0.38
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-24T01:31:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

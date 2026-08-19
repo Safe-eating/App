@@ -1,0 +1,28 @@
+{
+  "barcode": "8901071702102",
+  "name": "Hershey's Cocoa",
+  "brand": "Hershey's",
+  "quantity": "70g",
+  "categories": [
+    "en:cocoa-and-its-products",
+    "en:cocoa-and-chocolate-powders",
+    "en:cocoa-powders"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 409,
+    "fat": 11,
+    "saturated_fat": 6.5,
+    "carbohydrates": 58,
+    "sugars": 1.8,
+    "fiber": 33,
+    "protein": 19.6,
+    "salt": 0.01,
+    "sodium": 0.004
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-27T11:44:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

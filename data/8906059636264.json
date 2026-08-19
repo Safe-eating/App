@@ -1,0 +1,32 @@
+{
+  "barcode": "8906059636264",
+  "name": "Greek Yoghurt Zero Added Sugar Mixed Berries",
+  "brand": "Epigamia",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 89.98,
+    "fat": 2.2,
+    "saturated_fat": 1.397,
+    "carbohydrates": 11,
+    "sugars": 5.995,
+    "fiber": null,
+    "protein": 6.996,
+    "salt": 0.1474,
+    "sodium": 0.05896
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:59:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

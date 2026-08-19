@@ -1,0 +1,37 @@
+{
+  "barcode": "8902433003615",
+  "name": "Galaxy milk chocolate 20g",
+  "brand": "",
+  "quantity": "20g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:bonbons",
+    "en:chocolates",
+    "en:milk-chocolates",
+    "en:candy-chocolate-bars",
+    "en:chocolate-coated-chickpeas",
+    "en:milk-chocolate-bar"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 539,
+    "fat": 32.3,
+    "saturated_fat": 20.1,
+    "carbohydrates": 55.2,
+    "sugars": 54.7,
+    "fiber": 0,
+    "protein": 6.8,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-04T05:34:43Z",
+  "fetched_at": "2026-08-19T01:15:17Z"
+}

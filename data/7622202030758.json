@@ -1,0 +1,29 @@
+{
+  "barcode": "7622202030758",
+  "name": "Dark Chocolate",
+  "brand": "Cadbury",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 543.5,
+    "fat": 34.3,
+    "saturated_fat": 23,
+    "carbohydrates": 56.9,
+    "sugars": 45.1,
+    "fiber": null,
+    "protein": 5.6,
+    "salt": 0.0395,
+    "sodium": 0.0158
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-10T16:31:44Z",
+  "fetched_at": "2026-08-19T00:09:32Z"
+}

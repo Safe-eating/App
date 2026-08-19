@@ -1,0 +1,32 @@
+{
+  "barcode": "8908009059437",
+  "name": "Zero Maida Rusk Classic Milk",
+  "brand": "The Health Factory",
+  "quantity": "80g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:toasts",
+    "en:wheat-rusk-slices"
+  ],
+  "ingredients": "Chakki Fresh Atta (Whole Wheat Flour), Sooji, Cane Sugar, Rice Bran Oil (Edible Vegetable Oil), Milk Solids (6%), Yeast, Wheat Gluten, lodised Salt, Rosemary Extract, Cultured Glucose.",
+  "per_100g": {
+    "energy_kcal": 442.89,
+    "fat": 7.58,
+    "saturated_fat": 3.2,
+    "carbohydrates": 78.4,
+    "sugars": 10.32,
+    "fiber": 9.37,
+    "protein": 14.37,
+    "salt": 1.2,
+    "sodium": 0.48
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T13:16:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8901063325227",
+  "name": "Toast Tea Rusk",
+  "brand": "Britannia",
+  "quantity": "50",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (71%), PALMOLIN OIL, SEMOLINA (SUI) (1.8%), SUGAR, REFINED PALM AND INVERT SUGAR SYRUP IODISED SALT EMULSIFIERS (472e, 471), BREAD IMPROVER (STARCH, SOYA FLOUR 1104, 1102)), WHEAT FIBRE, NATURE IDENTICAL \u0026 ARTIFICIAL (300) SPICE (0.3%) (GREEN SUBSTANCES AND ANTIOXIDANT (Numbers in brackets as per International Numbering System) CONTAINS WHEAT AND SOY",
+  "per_100g": {
+    "energy_kcal": 432.4,
+    "fat": 8,
+    "saturated_fat": 2.7,
+    "carbohydrates": 80.9,
+    "sugars": 20.3,
+    "fiber": null,
+    "protein": 9.2,
+    "salt": 0.5335,
+    "sodium": 0.2134
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-03T12:04:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

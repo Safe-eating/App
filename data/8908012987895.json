@@ -1,0 +1,27 @@
+{
+  "barcode": "8908012987895",
+  "name": "ProBlend Whey Protein",
+  "brand": "Trunativ",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:whey-powder"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 405.555555555556,
+    "fat": 6.11111111111111,
+    "saturated_fat": 5,
+    "carbohydrates": 13.8888888888889,
+    "sugars": 6.11111111111111,
+    "fiber": null,
+    "protein": 72.2222222222222,
+    "salt": 0.659722222222222,
+    "sodium": 0.263888888888889
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-01T11:48:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

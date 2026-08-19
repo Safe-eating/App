@@ -1,0 +1,31 @@
+{
+  "barcode": "8906082572072",
+  "name": "Cornitos cheese herbs 73g 50",
+  "brand": "Cornitos",
+  "quantity": "73g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips"
+  ],
+  "ingredients": "Corn (70%), Edible Vegetable Oil (Corn Oil), Corn Starch, lodized Salt, Sugar, Milk Solids (Skim Milk Powder, Whey Powder, Cheddar Cheese Powder (0.7%)), Spices \u0026 Condiments (Oregano (0.3%), Parsley (0.1%), Black pepper, Chilli, Turmeric), Onion Powder, Acidity Regulator (INS 270)), Anticaking Agent (INS 551), Flavour Enhancer (INS 627, INS 631) CONTAINS MILK AND MILK PRODUCTS CONTAINS ADDED FLAVOURS, NATURAL AND NATURE IDENTICAL (CHEESE)",
+  "per_100g": {
+    "energy_kcal": 510.714285714286,
+    "fat": 25,
+    "saturated_fat": 3.57142857142857,
+    "carbohydrates": 64.2857142857143,
+    "sugars": 3.85714285714286,
+    "fiber": 7.14285714285714,
+    "protein": 7.14285714285714,
+    "salt": 1.4375,
+    "sodium": 0.575
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-13T22:35:12Z",
+  "fetched_at": "2026-08-19T12:47:49Z"
+}

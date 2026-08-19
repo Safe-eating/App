@@ -1,0 +1,33 @@
+{
+  "barcode": "8901262010504",
+  "name": "Amul Peanut Spread",
+  "brand": "Amul",
+  "quantity": "300g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Roasted peanut, Sugar, Edible vegetable oil (groundnut oil), Iodized salt, Stabilizer (471).",
+  "per_100g": {
+    "energy_kcal": 605,
+    "fat": 45,
+    "saturated_fat": 6.3,
+    "carbohydrates": 25,
+    "sugars": 6.2,
+    "fiber": 6.9412,
+    "protein": 25,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-31T19:11:23Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

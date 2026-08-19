@@ -1,0 +1,29 @@
+{
+  "barcode": "8904004403534",
+  "name": "tasty nuts",
+  "brand": "Haldiram's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 624.28296,
+    "fat": 49.52,
+    "saturated_fat": 9.58,
+    "carbohydrates": 23.34,
+    "sugars": 0,
+    "fiber": 5.12,
+    "protein": 21.24,
+    "salt": 1.2325,
+    "sodium": 0.493
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-01T03:50:57Z",
+  "fetched_at": "2026-08-19T01:25:11Z"
+}

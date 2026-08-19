@@ -1,0 +1,31 @@
+{
+  "barcode": "8906082880177",
+  "name": "Achal Banana Chips",
+  "brand": "Achal",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:banana-crisps"
+  ],
+  "ingredients": "Banana, Coconut Oil, Salt",
+  "per_100g": {
+    "energy_kcal": 519,
+    "fat": 34,
+    "saturated_fat": 29,
+    "carbohydrates": 58,
+    "sugars": 35,
+    "fiber": 7.7,
+    "protein": 2.3,
+    "salt": 0.015,
+    "sodium": 0.006
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-11T23:54:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

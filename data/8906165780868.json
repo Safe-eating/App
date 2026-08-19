@@ -1,0 +1,28 @@
+{
+  "barcode": "8906165780868",
+  "name": "Biozyme Performance Whey",
+  "brand": "MuscleBlaze",
+  "quantity": "2kgs",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 393.168831168831,
+    "fat": 6.12987012987013,
+    "saturated_fat": 3.8961038961039,
+    "carbohydrates": 19.5064935064935,
+    "sugars": 12.8051948051948,
+    "fiber": null,
+    "protein": 64.9350649350649,
+    "salt": 1.11675324675325,
+    "sodium": 0.446701298701299
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-25T15:56:09Z",
+  "fetched_at": "2026-08-19T13:01:47Z"
+}

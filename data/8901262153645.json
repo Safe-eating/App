@@ -1,0 +1,27 @@
+{
+  "barcode": "8901262153645",
+  "name": "Half and Half Cream",
+  "brand": "Amul",
+  "quantity": "250ml",
+  "categories": [
+    "en:dairies",
+    "en:creams"
+  ],
+  "ingredients": "Milk solids, water, emulsifiers [4600), 464, 471, 472b, 472e].",
+  "per_100g": {
+    "energy_kcal": 162,
+    "fat": 15,
+    "saturated_fat": 9,
+    "carbohydrates": 4.2,
+    "sugars": 4.2,
+    "fiber": null,
+    "protein": 2.5,
+    "salt": 0.0475,
+    "sodium": 0.019
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-30T04:53:09Z",
+  "fetched_at": "2026-08-19T00:44:12Z"
+}

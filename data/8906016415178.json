@@ -1,0 +1,28 @@
+{
+  "barcode": "8906016415178",
+  "name": "Godrej My Farm Cow Milk",
+  "brand": "Godrej My Farm",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk solids",
+  "per_100g": {
+    "energy_kcal": 61.9,
+    "fat": 3.5,
+    "saturated_fat": 2.7,
+    "carbohydrates": 4.7,
+    "sugars": 4.7,
+    "fiber": null,
+    "protein": 2.9,
+    "salt": 0.09975,
+    "sodium": 0.0399
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-21T06:36:08Z",
+  "fetched_at": "2026-08-19T02:04:52Z"
+}

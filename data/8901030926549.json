@@ -1,0 +1,33 @@
+{
+  "barcode": "8901030926549",
+  "name": "Hazelnut Choco Peanut Spread",
+  "brand": "Kissan",
+  "quantity": "350g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Roasted Peanuts* - 63%, Dark Chocolate Compound-30% [Sugar, Edible Vegetable Oil (Palmolein, Palm Oil), Cocoa Solids, Hydrogenated Palm Fat, Emulsifier - E322 (1). Nature Identical Flavouring Substances (Hazelnut)], Sugar, Hydrogenated Palm Oil, lodised Salt.",
+  "per_100g": {
+    "energy_kcal": 598,
+    "fat": 45.2,
+    "saturated_fat": 12.4,
+    "carbohydrates": 32.5,
+    "sugars": 25.5,
+    "fiber": 6.1,
+    "protein": 18.4,
+    "salt": 0.56,
+    "sodium": 0.224
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T15:15:51Z",
+  "fetched_at": "2026-08-19T00:21:19Z"
+}

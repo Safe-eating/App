@@ -1,0 +1,30 @@
+{
+  "barcode": "8901018018242",
+  "name": "Sandwich Bread",
+  "brand": "Nilgiris",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Refined wheat flour (Maida) (56.75%), Potable Water, Sugar (4.72%), Yeast, Edible Vegetable Oil (Refined Palmolein oil), Edible common salt (lodized Salt), Preservative INS-282, Edible Vegetable Oil (Refined Sunflower oil), Wheat Gluten, Bread Improver INS-1100, Soya Flour, Emulsifier INS-471, 481, Acidity regulator INS-260.",
+  "per_100g": {
+    "energy_kcal": 264.17,
+    "fat": 4.57,
+    "saturated_fat": 1.14,
+    "carbohydrates": 49.17,
+    "sugars": 4.72,
+    "fiber": 2.35,
+    "protein": 6.59,
+    "salt": 0.037825,
+    "sodium": 0.01513
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-28T07:22:39Z",
+  "fetched_at": "2026-08-19T00:14:13Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8901246007711",
+  "name": "Del Monte Spaghetti",
+  "brand": "Del Monte",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:spaghetti"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 379.1,
+    "fat": 0.5,
+    "saturated_fat": 0.2,
+    "carbohydrates": 82,
+    "sugars": 0,
+    "fiber": 5.7,
+    "protein": 8.8,
+    "salt": 0.10125,
+    "sodium": 0.0405
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-19T16:56:29Z",
+  "fetched_at": "2026-08-19T00:40:57Z"
+}

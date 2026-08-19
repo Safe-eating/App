@@ -1,0 +1,29 @@
+{
+  "barcode": "8906048501382",
+  "name": "Protinex Chocolate Flavour",
+  "brand": "Protinex",
+  "quantity": "18g",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-shakes",
+    "en:beverage-mix"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 359,
+    "fat": 1.7,
+    "saturated_fat": 1.5,
+    "carbohydrates": 51.8,
+    "sugars": 18,
+    "fiber": 0,
+    "protein": 34,
+    "salt": 0.75,
+    "sodium": 0.3
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T15:47:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

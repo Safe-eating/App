@@ -1,0 +1,30 @@
+{
+  "barcode": "8906009078021",
+  "name": "UNIBIC Cashew Cookies",
+  "brand": "UNIBIC",
+  "quantity": "75g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm), Cashew Bits (8.4%), Butter, Milk Solids, Liquid Glucose, Leavening Agents (INS 503 ii, INS 500 ii), Emulsifier (INS 322 from Soy), lodised Salt, Artificial Flavouring Substance (Vanillin). Allergen Adivce: Contains Wheat, Milk, Soy and Nut.",
+  "per_100g": {
+    "energy_kcal": 496,
+    "fat": 23.8,
+    "saturated_fat": 11.9,
+    "carbohydrates": 63,
+    "sugars": 25,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 0.3075,
+    "sodium": 0.123
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-10T07:59:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

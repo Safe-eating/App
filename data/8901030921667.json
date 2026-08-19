@@ -1,0 +1,36 @@
+{
+  "barcode": "8901030921667",
+  "name": "kissan",
+  "brand": "Kissan",
+  "quantity": "1",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup",
+    "en:Tomato \u0026 Chill Ketchup"
+  ],
+  "ingredients": "WATER, TOMATO PASTE* (28%), SUGAR, IODISED SALT, ACIDITY REGULATOR - E260, STABILIZERS - E1422, E415, PRESERVATIVE - E211, ONION POWDER, GARLIC POWDER, SPICES AND CONDIMENTS.",
+  "per_100g": {
+    "energy_kcal": 133.333333333333,
+    "fat": 0.666666666666667,
+    "saturated_fat": 0,
+    "carbohydrates": 30.6666666666667,
+    "sugars": 29.3333333333333,
+    "fiber": 0.666666666666667,
+    "protein": 1.33333333333333,
+    "salt": 2.36666666666667,
+    "sodium": 0.946666666666667
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-07T04:08:20Z",
+  "fetched_at": "2026-08-19T00:20:53Z"
+}

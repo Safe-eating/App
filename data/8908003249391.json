@@ -1,0 +1,28 @@
+{
+  "barcode": "8908003249391",
+  "name": "Organic Cow Milk Pasteurized",
+  "brand": "Akshayakalpa Organic",
+  "quantity": "500 ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Organic Cow Milk",
+  "per_100g": {
+    "energy_kcal": 63.25,
+    "fat": 3.65,
+    "saturated_fat": 2.61,
+    "carbohydrates": 4.4,
+    "sugars": 4.4,
+    "fiber": 0,
+    "protein": 3.2,
+    "salt": 0.106,
+    "sodium": 0.0424
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-05T03:44:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8906112662667",
+  "name": "Chia Seeds (Raw)",
+  "brand": "True Elements",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:chia"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 449,
+    "fat": 32.7,
+    "saturated_fat": 4.8,
+    "carbohydrates": 36,
+    "sugars": 0.9,
+    "fiber": 34.3,
+    "protein": 19.9,
+    "salt": 0.025,
+    "sodium": 0.011
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-02T05:48:38Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

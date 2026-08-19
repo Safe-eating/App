@@ -1,0 +1,29 @@
+{
+  "barcode": "8906069406154",
+  "name": "8906069406154",
+  "brand": "VEEBA",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 335.51,
+    "fat": 16.73,
+    "saturated_fat": 3.68,
+    "carbohydrates": 46.04,
+    "sugars": 5.55,
+    "fiber": 3.27,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-16T08:04:17Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

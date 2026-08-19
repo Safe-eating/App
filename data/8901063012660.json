@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063012660",
+  "name": "Milk Bikis",
+  "brand": "Britannia",
+  "quantity": "500 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "WHEAT FLOUR (ATTA(63%), SUGAR, REFINED PALM OIL, MILK PRODUCTS (3.4%) (SWEETENED CONDENSED PARTLY SKIMMED MILK \u0026 MILK SOLIDS), INVERT SUGAR SYRUP, RAISING AGENTS (503 (ii \u0026 500 (ii)), IODISED SALT, EMULSIFIERS (322 (i), 471 \u0026 481 (i)), CALCIUM SALT, NATURE IDENTICAL \u0026 ARTIFICIAL (MILK FLAVOURING SUBSTANCES, VITAMINS AND POTASSIUM IODATE.",
+  "per_100g": {
+    "energy_kcal": 471,
+    "fat": 17.8,
+    "saturated_fat": 8.8,
+    "carbohydrates": 72,
+    "sugars": 23.1,
+    "fiber": 5.3,
+    "protein": 8.3,
+    "salt": 0.7175,
+    "sodium": 0.287
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-10T13:57:58Z",
+  "fetched_at": "2026-08-19T00:28:09Z"
+}

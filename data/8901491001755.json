@@ -1,0 +1,36 @@
+{
+  "barcode": "8901491001755",
+  "name": "Wafer Style Tangy Treat Flavour",
+  "brand": "Lay's",
+  "quantity": "26.5 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Palmolein, Rice Bran Oil), *Seasoning (Sugar, lodised Salt, Spices \u0026 Condiments, Acidity Regulators (330, 334), Flavour (Natural and Nature Identical Flavouring Substances), Milk Solids, Anticaking Agent (551)). *As flavouring agent. ALLERGEN ADVICE: Contains Milk",
+  "per_100g": {
+    "energy_kcal": 543,
+    "fat": 33.6,
+    "saturated_fat": 12.7,
+    "carbohydrates": 53.5,
+    "sugars": 3.6,
+    "fiber": null,
+    "protein": 6.5,
+    "salt": 1.515,
+    "sodium": 0.606
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-07-11T20:14:01Z",
+  "fetched_at": "2026-08-19T00:48:52Z"
+}

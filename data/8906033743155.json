@@ -1,0 +1,33 @@
+{
+  "barcode": "8906033743155",
+  "name": "Orange Creams",
+  "brand": "Mc Vitie's",
+  "quantity": "61.2g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:filled-biscuits",
+    "en:biscuits-with-nuts",
+    "en:Biscuits with cream"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil(Palm Oil), Hydrogenated Vegetable Oil, Liquid Glucose, Starch, Invert Sugar Syrup Raising Agents [INS 503), INS 500, Calcium Carbonate (0.6%), lodised Salt, Emulsifier (INS 322, INS 471, INS 472e). Nature Identical Flavouring Substances And Artificial Flavouring Substances (Milk), Orange Powder (0.1%). Natural Colour (S) [INS 100(1), INS 160b] And Synthetic Food Colours (INS 110, INS 102).",
+  "per_100g": {
+    "energy_kcal": 461,
+    "fat": 15.5,
+    "saturated_fat": 8.4,
+    "carbohydrates": 74.3,
+    "sugars": 34.4,
+    "fiber": 2,
+    "protein": 6.1,
+    "salt": 0.48,
+    "sodium": 0.192
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-11T09:43:37Z",
+  "fetched_at": "2026-08-19T12:34:20Z"
+}

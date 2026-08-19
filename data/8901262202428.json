@@ -1,0 +1,26 @@
+{
+  "barcode": "8901262202428",
+  "name": "Curd",
+  "brand": "Amul",
+  "quantity": "1 kg",
+  "categories": [
+    "en:milk curds"
+  ],
+  "ingredients": "Pasteurised toned milk, active culture. Allergen Information: Contains milk.",
+  "per_100g": {
+    "energy_kcal": 53,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 3.5,
+    "sugars": 3.5,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-14T15:15:49Z",
+  "fetched_at": "2026-08-19T00:46:11Z"
+}

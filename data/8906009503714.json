@@ -1,0 +1,29 @@
+{
+  "barcode": "8906009503714",
+  "name": "Chitale Buttermilk",
+  "brand": "Chitale",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:buttermilks"
+  ],
+  "ingredients": "Water, Toned Milk, Dahi",
+  "per_100g": {
+    "energy_kcal": 44.2,
+    "fat": 1.8,
+    "saturated_fat": 1.1,
+    "carbohydrates": 4.7,
+    "sugars": 2.1,
+    "fiber": null,
+    "protein": 2.3,
+    "salt": 0.03725,
+    "sodium": 0.0149
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-10T12:24:10Z",
+  "fetched_at": "2026-08-19T01:58:03Z"
+}

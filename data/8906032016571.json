@@ -1,0 +1,37 @@
+{
+  "barcode": "8906032016571",
+  "name": "Nutrela Soya Chunks",
+  "brand": "Nutrela",
+  "quantity": "220g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fats",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:palm-oils",
+    "en:added-sugar",
+    "en:red-4",
+    "en:saturated-fat",
+    "en:trans-fat",
+    "en:edible-oil",
+    "en:palmoline-oil"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 216.56,
+    "fat": 0.82,
+    "saturated_fat": 0.19,
+    "carbohydrates": 33.5,
+    "sugars": 7.18,
+    "fiber": null,
+    "protein": 53.19,
+    "salt": 0.02,
+    "sodium": 0.008
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-25T00:24:09Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

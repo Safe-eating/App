@@ -1,0 +1,27 @@
+{
+  "barcode": "8906198980532",
+  "name": "Chocolate Isolate",
+  "brand": "Truebasics",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:whey-powder"
+  ],
+  "ingredients": "Whey Protein Isolate (Instantised with Sunflower Lecithin), Cocoa Powder \u0026 Natural Flavour",
+  "per_100g": {
+    "energy_kcal": 393.628571428571,
+    "fat": 3.11428571428571,
+    "saturated_fat": 1.68571428571429,
+    "carbohydrates": 11.7142857142857,
+    "sugars": 1.17142857142857,
+    "fiber": null,
+    "protein": 80,
+    "salt": 0.37,
+    "sodium": 0.148
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-27T04:43:39Z",
+  "fetched_at": "2026-08-19T13:03:22Z"
+}

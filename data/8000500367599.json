@@ -1,0 +1,26 @@
+{
+  "barcode": "8000500367599",
+  "name": "Seeds saunf flavoured",
+  "brand": "Tic Tac",
+  "quantity": "7.2 g",
+  "categories": [
+    "en:Green Dot India"
+  ],
+  "ingredients": "SUGAR, FENNEL SEEDS POWDER (6.7%), MALTODEXTRIN, THICKENER (INS 414), RICE STARCH, ANTICAKING AGENT (INS 470(i)), FLAVOURS (NATURAL FLAVOURS AND FLAVOURING SUBSTANCES), GLAZING AGENT (INS 903). ALLERGEN INFORMATION: MAY CONTAIN TRACES OF WHEAT, RYE, BARLEY, OATS, SPELT, KHORASAN,",
+  "per_100g": {
+    "energy_kcal": 388,
+    "fat": 1.5,
+    "saturated_fat": 0.7,
+    "carbohydrates": 90.2,
+    "sugars": 85,
+    "fiber": null,
+    "protein": 1,
+    "salt": 0.03,
+    "sodium": 0.012
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-22T09:33:16Z",
+  "fetched_at": "2026-08-19T00:11:53Z"
+}

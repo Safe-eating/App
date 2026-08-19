@@ -1,0 +1,24 @@
+{
+  "barcode": "8904043501031",
+  "name": "Whole Wheat Bread",
+  "brand": "Bakers Loaf",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 231.56,
+    "fat": 1.45,
+    "saturated_fat": 0.23,
+    "carbohydrates": 46,
+    "sugars": 5.18,
+    "fiber": null,
+    "protein": 7.82,
+    "salt": 0.8575,
+    "sodium": 0.343
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-08T15:29:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

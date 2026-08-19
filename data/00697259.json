@@ -1,0 +1,26 @@
+{
+  "barcode": "00697259",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:food"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 511,
+    "fat": 26.5,
+    "saturated_fat": 11.45,
+    "carbohydrates": 57.75,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 10.37,
+    "salt": 0,
+    "sodium": 0.54686
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-02T17:35:58Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

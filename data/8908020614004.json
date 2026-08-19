@@ -1,0 +1,27 @@
+{
+  "barcode": "8908020614004",
+  "name": "Dash Pink Paloma Cocktail Mixer Orange \u0026 Lemon",
+  "brand": "Dash",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "Water, Sugar, Orange Juice Concentrate (15%), Di Apple Juice Concentrate, Lemon Juice Concentrate (0.5%), Acidity Regulators (INS 330, INS 296 \u0026 INS 331), Antioxident, Stabilizer(INS 440), Permitted Natural Colour E 163, Permitted Class II Preservatives",
+  "per_100g": {
+    "energy_kcal": 44,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 10.5,
+    "sugars": 10.2,
+    "fiber": null,
+    "protein": 0.48,
+    "salt": 0.007,
+    "sodium": 0.0028
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-25T13:43:12Z",
+  "fetched_at": "2026-08-19T13:20:53Z"
+}

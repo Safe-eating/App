@@ -1,0 +1,26 @@
+{
+  "barcode": "8906033530083",
+  "name": "SNAPIN PIZZA MIX",
+  "brand": "SNAPIN",
+  "quantity": "",
+  "categories": [
+    "en:condiments"
+  ],
+  "ingredients": "Salt, Garlic, Oregano, Black Pepper, Basil, Chilli, Anticaking Agent (E551, E552)",
+  "per_100g": {
+    "energy_kcal": 71.3825892857143,
+    "fat": 0.930803571428572,
+    "saturated_fat": 0.326397321428572,
+    "carbohydrates": 9.10178571428572,
+    "sugars": 0.810535714285714,
+    "fiber": 7.28825892857143,
+    "protein": 2.92941964285714,
+    "salt": 55.9003392857143,
+    "sodium": 22.3486535714286
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-19T15:48:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

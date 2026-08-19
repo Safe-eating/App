@@ -1,0 +1,32 @@
+{
+  "barcode": "8901595963348",
+  "name": "Instant noodles",
+  "brand": "Chings",
+  "quantity": "240",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "Noodles: Refined Wheat Flour (Maida), Refined Palm Oil, lodised Salt, Wheat Gluten, Thickener (INS 508), Stabilizer (INS 451), Acidity Regulator (INS 501 (i)), Raising Agent (INS 500(i)). Antioxidant (INS 319). Seasoning Mix: Mixed Spices (22.6%) [Coriander, Cumin, Chilli, Ginger], lodised Salt, Sugar, Dehydrated Garlic, Dehydrated Vegetables (7.5%) [Carrot, Parsley], Dehydrated Onion, Corn Flour, Soy Sauce Powder (Soybean, Wheat, Salt), Flavour Enhancer (INS 635)), Acidity Regulator (INS 260)), Anticaking Agent (INS 551) Sunflower Oil, Yeast Extract, Natural Colour (INS 150d), Natural Flavouring Substances. ALLERGEN ADVICE: Contains Wheat and Soy. May contain Mustard, Milk \u0026 Celery",
+  "per_100g": {
+    "energy_kcal": 116.666666666667,
+    "fat": 3.33333333333333,
+    "saturated_fat": 1.66666666666667,
+    "carbohydrates": 18.3333333333333,
+    "sugars": 0,
+    "fiber": 3.33333333333333,
+    "protein": 3.33333333333333,
+    "salt": 0.916666666666667,
+    "sodium": 0.366666666666667
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-23T21:40:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8906059636745",
+  "name": "Turbo 17g Greek Yogurt",
+  "brand": "Epigamia",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 65,
+    "fat": 0.0714285714285714,
+    "saturated_fat": 0,
+    "carbohydrates": 4,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 12.1428571428571,
+    "salt": 0.155357142857143,
+    "sodium": 0.0621428571428571
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:38:12Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

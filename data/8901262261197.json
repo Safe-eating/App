@@ -1,0 +1,32 @@
+{
+  "barcode": "8901262261197",
+  "name": "Slim 'n' Trim",
+  "brand": "Amul",
+  "quantity": "190mL",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:pasteurised-products",
+    "en:pasteurised-milks",
+    "en:whole-milks",
+    "en:whole-pasteurised-milks"
+  ],
+  "ingredients": "PASTEURISED HOMOGENISED DOUBLE TONED MILK mation: Contains milk.",
+  "per_100g": {
+    "energy_kcal": 45.7894736842105,
+    "fat": 1.47368421052632,
+    "saturated_fat": 1,
+    "carbohydrates": 5,
+    "sugars": 5,
+    "fiber": null,
+    "protein": 3.15789473684211,
+    "salt": 0.105263157894737,
+    "sodium": 0.0421052631578947
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-28T10:39:21Z",
+  "fetched_at": "2026-08-19T00:46:48Z"
+}

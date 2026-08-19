@@ -1,0 +1,26 @@
+{
+  "barcode": "8909081006265",
+  "name": "Popped Chips",
+  "brand": "Bingo!",
+  "quantity": "9g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "POTATO PELLETS (POTATO FLAKES, POTATO STARCH, RICE FLOUR, TAPIOCA STARCH, JODIZED SALT, REFINED RICE BRAN ON SEASONING (REFINED RICE BRAN OIL, DEHYDRATED ONION, SPICES AND CONDIMENTS, IODIZED SALT, BLACK SALT, SUGAR, ACIDITY REGULATORS (INS 330, INS 296, INS 334), TOMATO POWDER, HYDROLYZED VEGETABLE PROTEIN, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES DEHYDRATED GARLIC, YEAST EXTRACT, NATURE IDENTICAL FLAVOURING SUBSTANCES, FLAVOUR ENHANCER (INS 635)), YELLOW PEA GRITS (7.3% AND GREEN PEA GRITS (7.3%).",
+  "per_100g": {
+    "energy_kcal": 486,
+    "fat": 22.1,
+    "saturated_fat": 5.1,
+    "carbohydrates": 66.9,
+    "sugars": 1.7,
+    "fiber": null,
+    "protein": 6.9,
+    "salt": 2.388,
+    "sodium": 0.9552
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-10T13:49:15Z",
+  "fetched_at": "2026-08-19T13:23:29Z"
+}

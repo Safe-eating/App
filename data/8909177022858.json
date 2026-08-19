@@ -1,0 +1,31 @@
+{
+  "barcode": "8909177022858",
+  "name": "Daily Good Idly And Dosa Batter",
+  "brand": "Daily Good",
+  "quantity": "2kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:idly-batter-mixes",
+    "en:batters"
+  ],
+  "ingredients": "Purified Water, Rice, Urad Dal, Methi and Iodised Salt",
+  "per_100g": {
+    "energy_kcal": 135,
+    "fat": 1.41,
+    "saturated_fat": 0.64,
+    "carbohydrates": 22.4,
+    "sugars": 0,
+    "fiber": 3.85,
+    "protein": 6.2,
+    "salt": 0.24,
+    "sodium": 0.096
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-25T13:37:25Z",
+  "fetched_at": "2026-08-19T13:24:33Z"
+}

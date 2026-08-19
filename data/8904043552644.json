@@ -1,0 +1,31 @@
+{
+  "barcode": "8904043552644",
+  "name": "Modern Sandwich Supreme Bread",
+  "brand": "Modern",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:white-breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 254,
+    "fat": 2.1,
+    "saturated_fat": 1.37,
+    "carbohydrates": 51,
+    "sugars": 6.72,
+    "fiber": null,
+    "protein": 7.9,
+    "salt": 1.1675,
+    "sodium": 0.467
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-24T07:22:21Z",
+  "fetched_at": "2026-08-19T01:27:50Z"
+}

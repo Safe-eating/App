@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262072670",
+  "name": "55 % dark chocolate",
+  "brand": "Amul",
+  "quantity": "125 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 521,
+    "fat": 33.1,
+    "saturated_fat": 18.6,
+    "carbohydrates": 51.4,
+    "sugars": 43,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 0.095,
+    "sodium": 0.038
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-10T15:37:12Z",
+  "fetched_at": "2026-08-19T00:43:04Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8906031312735",
+  "name": "Hi-Nutrition Breakfast Cereal",
+  "brand": "Enerva",
+  "quantity": "350g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 421.4,
+    "fat": 6.6,
+    "saturated_fat": 0,
+    "carbohydrates": 78.2,
+    "sugars": 4.5,
+    "fiber": 5.5,
+    "protein": 12.3,
+    "salt": 0.5785,
+    "sodium": 0.2314
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-22T13:32:00Z",
+  "fetched_at": "2026-08-19T12:32:48Z"
+}

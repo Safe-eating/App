@@ -1,0 +1,28 @@
+{
+  "barcode": "8906097590788",
+  "name": "Energy Gel",
+  "brand": "Fast\u0026Up",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:energy-drinks"
+  ],
+  "ingredients": "Maltodextrin, Purified water, Potassium chloride, Acidity regulator [INS 330), Sodium chloride, Caffeine (76.92 mg/100 g). Binding agent (INS 415], Preservative [INS 202], Sweetener (INS 955]. Nature identical flavours (Strawberry \u0026 Banana).",
+  "per_100g": {
+    "energy_kcal": 102.22,
+    "fat": 0.38,
+    "saturated_fat": 0.1,
+    "carbohydrates": 24.33,
+    "sugars": 5.39,
+    "fiber": null,
+    "protein": 0.36,
+    "salt": 0.11125,
+    "sodium": 0.0445
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-03T02:37:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

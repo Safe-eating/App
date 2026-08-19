@@ -1,0 +1,36 @@
+{
+  "barcode": "8908012605010",
+  "name": "Tomato Ketchup",
+  "brand": "Heinz",
+  "quantity": "450 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup",
+    "en:tomato-ketchup"
+  ],
+  "ingredients": "Water Tomato Paste (26%), Sugar, Brewed Vinegar, lodized Salt, Mixed Spices and Herbs, Onion \u0026 Garlic.",
+  "per_100g": {
+    "energy_kcal": 172,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 41.7,
+    "sugars": 22.7,
+    "fiber": 0,
+    "protein": 1.3,
+    "salt": 2.875,
+    "sodium": 1.15
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-13T05:32:42Z",
+  "fetched_at": "2026-08-19T13:14:09Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8906127550119",
+  "name": "Peanut Butter Crunch",
+  "brand": "Alpino",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Roasted Peanuts (87%), Brown Sugar (10%), Sea Salt, Emulsifier (E471-100% Plant Based)",
+  "per_100g": {
+    "energy_kcal": 563.31,
+    "fat": 41.499,
+    "saturated_fat": 6.09,
+    "carbohydrates": 25.564,
+    "sugars": 12.769,
+    "fiber": 6.438,
+    "protein": 18.804,
+    "salt": 3.69775,
+    "sodium": 1.4614
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-15T17:10:03Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

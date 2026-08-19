@@ -1,0 +1,26 @@
+{
+  "barcode": "8901512825605",
+  "name": "Snacko Cheese \u0026 Herbs Flavour Bakes Twisties",
+  "brand": "Snacko",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Corn Meal (52.8%) Refined Edible Palmolein Oil (TBHQ), Rice Meal (13.2%), Milk Solids (Whey Powder (1.8%), Cheese Powder (1.2%), Cream Powder (0.6%)}, Maltodextrin, Iodized Salt, Sugar, Dehydrated Vegetable (Onion Powder), Stabilizer (Hydrolyzed Vegetable Protein), Acidity Regulators (Laim Citric Acid), Natural Flavour Nature Identical Flavours \u0026 Cream Onion), Parsley Flakes \u0026 Anticaking Agent",
+  "per_100g": {
+    "energy_kcal": 502,
+    "fat": 23,
+    "saturated_fat": 10,
+    "carbohydrates": 67,
+    "sugars": 2.8,
+    "fiber": 2,
+    "protein": 6,
+    "salt": 1.25,
+    "sodium": 0.5
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-16T13:49:31Z",
+  "fetched_at": "2026-08-19T00:54:59Z"
+}

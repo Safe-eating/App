@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719101007",
+  "name": "Parle-g",
+  "brand": "Parle",
+  "quantity": "188g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Wheat Flour,Sugar,Vegetable Oil,Invert Syrup(Glucose),Skimmed Milk Powder.",
+  "per_100g": {
+    "energy_kcal": 454,
+    "fat": 13,
+    "saturated_fat": 6,
+    "carbohydrates": 77.3,
+    "sugars": 25.5,
+    "fiber": 0,
+    "protein": 6.9,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-04T11:28:08Z",
+  "fetched_at": "2026-08-19T00:59:38Z"
+}

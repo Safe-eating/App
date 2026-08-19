@@ -1,0 +1,30 @@
+{
+  "barcode": "8906080604133",
+  "name": "Protein Crunch",
+  "brand": "Paper Boat",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars",
+    "en:cereal-bars",
+    "en:cereal-bars-with-nuts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 497,
+    "fat": 39,
+    "saturated_fat": 4.1,
+    "carbohydrates": 20.5,
+    "sugars": 5,
+    "fiber": 8,
+    "protein": 16.1,
+    "salt": 1.9925,
+    "sodium": 0.797
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-12T09:55:58Z",
+  "fetched_at": "2026-08-19T12:45:40Z"
+}

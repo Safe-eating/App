@@ -1,0 +1,24 @@
+{
+  "barcode": "8906143891838",
+  "name": "Protein Bar Almond Millet Cocoa",
+  "brand": "The Whole Truth",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 512.727272727273,
+    "fat": 28.5454545454545,
+    "saturated_fat": 9.63636363636364,
+    "carbohydrates": 40,
+    "sugars": 23.8181818181818,
+    "fiber": 8,
+    "protein": 23.6363636363636,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-03T22:30:59Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

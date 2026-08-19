@@ -1,0 +1,28 @@
+{
+  "barcode": "00001248",
+  "name": "Chocolate + Vanila Powder",
+  "brand": "Blackbelt Protein",
+  "quantity": "",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 376,
+    "fat": 7.2,
+    "saturated_fat": 1.76,
+    "carbohydrates": 42,
+    "sugars": 20.8,
+    "fiber": 12,
+    "protein": 36,
+    "salt": 1.23,
+    "sodium": 0.492
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-02T14:51:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

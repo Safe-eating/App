@@ -1,0 +1,26 @@
+{
+  "barcode": "8906188960162",
+  "name": "8906188960162",
+  "brand": "unibic",
+  "quantity": "",
+  "categories": [
+    "en:potato-crackers"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 486,
+    "fat": 22,
+    "saturated_fat": 10.2,
+    "carbohydrates": 65,
+    "sugars": 15.8,
+    "fiber": null,
+    "protein": 7.1,
+    "salt": 2.4975,
+    "sodium": 0.999
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-18T22:12:32Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

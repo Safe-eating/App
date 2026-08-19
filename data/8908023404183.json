@@ -1,0 +1,30 @@
+{
+  "barcode": "8908023404183",
+  "name": "Mint and Lime Cashews",
+  "brand": "Tong Garden",
+  "quantity": "30 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:Cashews"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 550,
+    "fat": 36.6666666666667,
+    "saturated_fat": 6.66666666666667,
+    "carbohydrates": 30,
+    "sugars": 3.33333333333333,
+    "fiber": 6.66666666666667,
+    "protein": 23.3333333333333,
+    "salt": 1.1,
+    "sodium": 0.44
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-27T14:51:57Z",
+  "fetched_at": "2026-08-19T13:21:33Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906078263588",
+  "name": "Digestive High Bran Biscuits",
+  "brand": "Cremica",
+  "quantity": "1 kg",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour [(Maida (43%)], Edible Vegetable Oil (palm), Sugar, Wheat Flour [Atta (15%)], Wheat Bran (3%). Invert Syrup, lodised Salt, Raising Agents [INS 503(ii), INS 500(ii)) Wheat Gluten, Malt Extract, Acidity Regulators (INS 296, INS 450(i). INS 334), Dough Conditioner (INS 223).",
+  "per_100g": {
+    "energy_kcal": 484,
+    "fat": 22,
+    "saturated_fat": 10.5,
+    "carbohydrates": 65,
+    "sugars": 17.5,
+    "fiber": 4,
+    "protein": 6.5,
+    "salt": 1.04,
+    "sodium": 0.416
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-31T08:32:58Z",
+  "fetched_at": "2026-08-19T12:43:39Z"
+}

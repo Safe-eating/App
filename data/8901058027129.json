@@ -1,0 +1,32 @@
+{
+  "barcode": "8901058027129",
+  "name": "Maggi 2-minute noodles with limited edition bowl",
+  "brand": "Maggi",
+  "quantity": "2 x 450g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "Noodles: Refined wheat flour (Maida), Palm oil, lodized salt, Wheat gluten, Thickeners (508 \u0026 412), Acidity regulators (501(i) \u0026 500(i)) and Humectant (451(i)). Masala *TASTEMAKER: Mixed Spices (26.2%) (Onion powder, Coriander powder, Red chilli powder, Turmeric powder, Garlic powder, Cumin powder, Aniseed powder, Ginger powder, Fenugreek powder, Black pepper powder, Toasted onion powder, Clove powder, Green cardamom powder, Nutmeg powder), Hydrolysed groundnut protein, Refined wheat flour (Maida), Sugar, Starch, Palm oil, lodized salt, Thickener (508), Acidity regulator (330), Flavour enhancer (635), Colour (150d), Mineral and Wheat gluten.",
+  "per_100g": {
+    "energy_kcal": 384,
+    "fat": 12.5,
+    "saturated_fat": 8.2,
+    "carbohydrates": 59.6,
+    "sugars": 1.8,
+    "fiber": null,
+    "protein": 8.2,
+    "salt": 2.5,
+    "sodium": 1
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-04T14:17:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

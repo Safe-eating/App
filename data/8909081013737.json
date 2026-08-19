@@ -1,0 +1,27 @@
+{
+  "barcode": "8909081013737",
+  "name": "Strawberry Smoothie",
+  "brand": "Sunfeast",
+  "quantity": "300ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "Water, Milk Solids (33.5%), Sugar, Strawberry Pulp (7.4%), Banana Puree, Strawberry Chunks (3.9%), Nata De Coco, Stabilizers (466,418), Acidity Regulator (330), Nature Identical Flavouring Substances, Chia Seeds (0.16%), Natural Flavours and Natural Flavouring Substances, Antioxidant (300), Sweetener (960) and Colours (122, 110).",
+  "per_100g": {
+    "energy_kcal": 68.30565,
+    "fat": 0.096275,
+    "saturated_fat": 0.0375025,
+    "carbohydrates": 15.40652,
+    "sugars": 15.12295,
+    "fiber": 0.43375,
+    "protein": 1.20531,
+    "salt": 0.04124175,
+    "sodium": 0.01598219
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-27T13:36:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

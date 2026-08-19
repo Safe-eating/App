@@ -1,0 +1,31 @@
+{
+  "barcode": "8901262220552",
+  "name": "Chocolate Cookies",
+  "brand": "Amul",
+  "quantity": "50g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "Refined wheat flour (maida), butter (23%), sugar, plain chocolate chips (3%), cocoa solids (2%), milk solids, liquid glucose, raising agents [500(i), 503(ii)), emulsifier [481 (i)), artificial flavouring substances (vanilla, cocoa chocolate). Allergen Information: Contains wheat, milk.",
+  "per_100g": {
+    "energy_kcal": 479,
+    "fat": 24.8,
+    "saturated_fat": 15.9,
+    "carbohydrates": 59.3,
+    "sugars": 29.1,
+    "fiber": null,
+    "protein": 5.4,
+    "salt": 0.625,
+    "sodium": 0.25
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-05-25T13:48:55Z",
+  "fetched_at": "2026-08-19T00:46:13Z"
+}

@@ -1,0 +1,38 @@
+{
+  "barcode": "8906161390580",
+  "name": "Potato waffers",
+  "brand": "let's try",
+  "quantity": "60g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:potato-wafers",
+    "en:potato-waferrs"
+  ],
+  "ingredients": "Potato, Edible Vegetable oil, groundnut oil, rock salt",
+  "per_100g": {
+    "energy_kcal": 583,
+    "fat": 35,
+    "saturated_fat": 7.5,
+    "carbohydrates": 60,
+    "sugars": 4.5,
+    "fiber": 3,
+    "protein": 7,
+    "salt": 1.75,
+    "sodium": 0.7
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-11T23:56:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

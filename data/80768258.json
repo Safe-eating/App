@@ -1,0 +1,30 @@
+{
+  "barcode": "80768258",
+  "name": "健達奇趣蛋(女孩版)",
+  "brand": "Kinder,Ferrero",
+  "quantity": "20g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies"
+  ],
+  "ingredients": "price 4.50",
+  "per_100g": {
+    "energy_kcal": 550,
+    "fat": 30,
+    "saturated_fat": 15,
+    "carbohydrates": 55,
+    "sugars": 50,
+    "fiber": 0,
+    "protein": 10,
+    "salt": 1.56,
+    "sodium": 0.624
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-11T13:15:59Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

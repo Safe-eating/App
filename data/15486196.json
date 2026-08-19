@@ -1,0 +1,30 @@
+{
+  "barcode": "15486196",
+  "name": "Toned Milk",
+  "brand": "Nandini",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:pasteurised-products",
+    "en:pasteurised-milks"
+  ],
+  "ingredients": "Milk Solids, Vitamin A \u0026 Vitamin D",
+  "per_100g": {
+    "energy_kcal": 60,
+    "fat": 3.1,
+    "saturated_fat": 2,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": null,
+    "protein": 3.3,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-01T14:45:29Z",
+  "fetched_at": "2026-08-19T00:00:25Z"
+}

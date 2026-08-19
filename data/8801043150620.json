@@ -1,0 +1,37 @@
+{
+  "barcode": "8801043150620",
+  "name": "SHIN RAMYUN kpoptészta",
+  "brand": "NONGSHIM",
+  "quantity": "120g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:meals",
+    "en:dried-products",
+    "en:pastas",
+    "en:soups",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:dried-meals",
+    "en:instant-noodles",
+    "en:dehydrated-soups",
+    "en:instant-noodle-soups"
+  ],
+  "ingredients": "noodles 89%: wheat flour, potato starch, palm oil, salt, acidity regulators: e501, e500, e339, antioxidant: e306, emulsifier: e322 (contains soy), seasoning (yeast extract, soybean, garlic, wheat starch), green tea extract, colour: e101, seasoning powder 9%: seasoning (hydrolyzed vegetable protein (soy), maltodextrin, yeast extract, salt, wheat flour), salt, spices (maltodextrin, black pepper, red chili pepper, garlic, corn flour),    flavour enhancers: e621, e627, e631, sugar, glucose, shiitake, vegetable mushroom flakes 2%: pak-choi, shiitake, textured vegetable protein (soy, wheat gluten), carrot, red chili pepper, onion, may contain barley, crustaceans, eggs, fish, peanuts, milk, celery, mustard, sesame seeds and molluscs,",
+  "per_100g": {
+    "energy_kcal": 424,
+    "fat": 14,
+    "saturated_fat": 6.7,
+    "carbohydrates": 66,
+    "sugars": 2.6,
+    "fiber": 0,
+    "protein": 8.6,
+    "salt": 3.7,
+    "sodium": 1.48
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-23T09:03:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

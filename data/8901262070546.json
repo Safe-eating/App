@@ -1,0 +1,33 @@
+{
+  "barcode": "8901262070546",
+  "name": "Chocominis",
+  "brand": "Amul",
+  "quantity": "250g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:chocolate-molds",
+    "en:milk-chocolates",
+    "en:chocolate-sculptures",
+    "en:milk-chocolate-molds"
+  ],
+  "ingredients": "Sugar, hydrogenated edible vegetable oil (palm kernel oil), milk solids, cocoa solids, emulsifiers (492, 322), artificial flavouring substances (cocoa, vanilla).\nAllergen Information: Contains milk.",
+  "per_100g": {
+    "energy_kcal": 526,
+    "fat": 29.3,
+    "saturated_fat": 28.3,
+    "carbohydrates": 61.1,
+    "sugars": 56.6,
+    "fiber": null,
+    "protein": 5.3,
+    "salt": 0.15,
+    "sodium": 0.06
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-19T14:32:09Z",
+  "fetched_at": "2026-08-19T00:42:33Z"
+}

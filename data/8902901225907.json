@@ -1,0 +1,28 @@
+{
+  "barcode": "8902901225907",
+  "name": "Good Life ragi flour",
+  "brand": "Good Life",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:flours"
+  ],
+  "ingredients": "Ragi",
+  "per_100g": {
+    "energy_kcal": 322,
+    "fat": 1.9,
+    "saturated_fat": 0.3,
+    "carbohydrates": 66.8,
+    "sugars": 0.3,
+    "fiber": null,
+    "protein": 7.1,
+    "salt": 0.01175,
+    "sodium": 0.0047
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-18T16:00:04Z",
+  "fetched_at": "2026-08-19T01:18:56Z"
+}

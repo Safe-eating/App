@@ -1,0 +1,26 @@
+{
+  "barcode": "8801133003102",
+  "name": "Honey Buttee Almond",
+  "brand": "Murgerbon",
+  "quantity": "200g",
+  "categories": [
+    "en:Almon"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 580,
+    "fat": 42,
+    "saturated_fat": 2,
+    "carbohydrates": 34,
+    "sugars": 14,
+    "fiber": null,
+    "protein": 20,
+    "salt": 0.525,
+    "sodium": 0.21
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-23T02:51:40Z",
+  "fetched_at": "2026-08-19T00:12:44Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8904043603452",
+  "name": "Chicken Burger Patty",
+  "brand": "Venky's",
+  "quantity": "",
+  "categories": [
+    "en:patties"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 221.9,
+    "fat": 11.1,
+    "saturated_fat": 2.5,
+    "carbohydrates": 19.5,
+    "sugars": 2.4,
+    "fiber": null,
+    "protein": 11,
+    "salt": 1.059,
+    "sodium": 0.4236
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-30T10:33:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8906124370505",
+  "name": "High Protein Eggs",
+  "brand": "EGGOZ",
+  "quantity": "",
+  "categories": [
+    "en:eggs-and-their-products",
+    "en:farming-products",
+    "en:eggs"
+  ],
+  "ingredients": "Eggs",
+  "per_100g": {
+    "energy_kcal": 151.02,
+    "fat": 10.77,
+    "saturated_fat": 2.64,
+    "carbohydrates": 0.27,
+    "sugars": 0.27,
+    "fiber": 0,
+    "protein": 13,
+    "salt": 0.31,
+    "sodium": 0.124
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-11T17:33:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

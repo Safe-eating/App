@@ -1,0 +1,31 @@
+{
+  "barcode": "8901719124044",
+  "name": "Happy Happy Choco-Chip Cookies",
+  "brand": "Parle",
+  "quantity": "60 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 489,
+    "fat": 20.1,
+    "saturated_fat": 10.6,
+    "carbohydrates": 71.3,
+    "sugars": 30.6,
+    "fiber": null,
+    "protein": 5.8,
+    "salt": 0.4925,
+    "sodium": 0.197
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-24T23:43:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

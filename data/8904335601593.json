@@ -1,0 +1,31 @@
+{
+  "barcode": "8904335601593",
+  "name": "Choco Cereal",
+  "brand": "Yoga Bar",
+  "quantity": "345 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "BASE: MILLETS, PULSES \u0026 CEREALS 77% (JOWAR BAJRA, RAGI, CHANA DAL, OATS, MOONG DAL, QUINOA), MILK SOLIDS, RICE BRAN OIL COATING: ORGANIC SUGAR, COCOA, RICE BRAN OIL. CONTAINS ADDED NATURAL FLAVOUR: VANILLA, ROSEMARY, CHOCOLATE.",
+  "per_100g": {
+    "energy_kcal": 393.333333333333,
+    "fat": 2,
+    "saturated_fat": 0.333333333333333,
+    "carbohydrates": 83.6666666666667,
+    "sugars": 25.6666666666667,
+    "fiber": 7.66666666666667,
+    "protein": 10.6666666666667,
+    "salt": 0.0941666666666667,
+    "sodium": 0.0376666666666667
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-06T13:26:13Z",
+  "fetched_at": "2026-08-19T01:44:03Z"
+}

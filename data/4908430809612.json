@@ -1,0 +1,24 @@
+{
+  "barcode": "4908430809612",
+  "name": "Sweet Chilli Supergrain Puffs",
+  "brand": "Klaw",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 514,
+    "fat": 26,
+    "saturated_fat": 9,
+    "carbohydrates": 52,
+    "sugars": 3,
+    "fiber": 5,
+    "protein": 18,
+    "salt": 1.25,
+    "sodium": 0.5
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T14:03:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

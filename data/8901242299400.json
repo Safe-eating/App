@@ -1,0 +1,28 @@
+{
+  "barcode": "8901242299400",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:meals",
+    "en:pasta-dishes",
+    "en:instant-pasta"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 343,
+    "fat": 1.7,
+    "saturated_fat": 0.2,
+    "carbohydrates": 68.3,
+    "sugars": 5.5,
+    "fiber": null,
+    "protein": 12,
+    "salt": 3.345,
+    "sodium": 1.338
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-26T13:53:19Z",
+  "fetched_at": "2026-08-19T00:40:27Z"
+}

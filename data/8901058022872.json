@@ -1,0 +1,32 @@
+{
+  "barcode": "8901058022872",
+  "name": "Masala Veg Atta Noodles",
+  "brand": "Maggi",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 314.48275862069,
+    "fat": 10.3448275862069,
+    "saturated_fat": 8.55172413793103,
+    "carbohydrates": 50.3448275862069,
+    "sugars": 2.48275862068966,
+    "fiber": 4.55172413793103,
+    "protein": 7.72413793103448,
+    "salt": 1.99827586206897,
+    "sodium": 0.799310344827586
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T14:21:41Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

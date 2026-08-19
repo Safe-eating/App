@@ -1,0 +1,35 @@
+{
+  "barcode": "8906069401210",
+  "name": "Peanut butter",
+  "brand": "veeba",
+  "quantity": "925g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "ROASTED PEANUTS (91.0%), SUGAR, EMULSIFIER AND STABILIZER (INS471) AND IODISED SALT",
+  "per_100g": {
+    "energy_kcal": 630.78,
+    "fat": 50.02,
+    "saturated_fat": 3.41,
+    "carbohydrates": 18.8,
+    "sugars": 7.89,
+    "fiber": null,
+    "protein": 26.35,
+    "salt": 0.914775,
+    "sodium": 0.36591
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-26T17:12:36Z",
+  "fetched_at": "2026-08-19T12:41:32Z"
+}

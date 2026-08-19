@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010500559",
+  "name": "Mung Dal",
+  "brand": "Balaji",
+  "quantity": "25 g",
+  "categories": [
+    "en:Food"
+  ],
+  "ingredients": "INGREDIENTS: MUNG BEAN SPLITS (85%), EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN), EDIBLE COMMON SALT, BLACK SALT.",
+  "per_100g": {
+    "energy_kcal": 504,
+    "fat": 17.5,
+    "saturated_fat": 8,
+    "carbohydrates": 54,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 22.7,
+    "salt": 135,
+    "sodium": 54
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-12T14:00:18Z",
+  "fetched_at": "2026-08-19T02:01:06Z"
+}

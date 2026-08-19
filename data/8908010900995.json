@@ -1,0 +1,36 @@
+{
+  "barcode": "8908010900995",
+  "name": "Pintola High Protien Peanut Butter",
+  "brand": "Pintola",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters",
+    "en:High Protien Peanut Butter"
+  ],
+  "ingredients": "Peanuts (60%), Dark Chocolate (30%) (Sugar, Cocoa Solids, Cocoa butter, Emulsifier (INS 322)), Whey Protein Concentrate (European Origin) (10%)",
+  "per_100g": {
+    "energy_kcal": 584.375,
+    "fat": 38.125,
+    "saturated_fat": 6.875,
+    "carbohydrates": 26.875,
+    "sugars": 15.625,
+    "fiber": 6.25,
+    "protein": 30,
+    "salt": 0.03515625,
+    "sodium": 0.0140625
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-08T04:19:43Z",
+  "fetched_at": "2026-08-19T13:13:14Z"
+}

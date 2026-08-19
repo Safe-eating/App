@@ -1,0 +1,32 @@
+{
+  "barcode": "8908005733331",
+  "name": "Kesar Kulfi",
+  "brand": "WhiteCub",
+  "quantity": "70g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:frozen-sticks",
+    "en:ice-creams",
+    "en:ice-cream-bars"
+  ],
+  "ingredients": "Coconut Cream, Soy Milk, Sugar, Cardamom Powder, Saffron, Permitted Emulsifier, Stabilizers, Nature-Identical Flavour",
+  "per_100g": {
+    "energy_kcal": 181,
+    "fat": 14.61,
+    "saturated_fat": 5,
+    "carbohydrates": 27.35,
+    "sugars": 20.62,
+    "fiber": 1.42,
+    "protein": 3.7,
+    "salt": 0.0035,
+    "sodium": 0.0014
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-03T03:05:36Z",
+  "fetched_at": "2026-08-19T13:10:01Z"
+}

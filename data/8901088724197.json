@@ -1,0 +1,30 @@
+{
+  "barcode": "8901088724197",
+  "name": "Munchiez Ragi Chips",
+  "brand": "Saffola",
+  "quantity": "80g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "CEREAL PRODUCT (60.1%) [RAGI FLOUR (24.8%) CORN MEAL, RICE FLOUR), EDIBLE VEGETABLE OIL (REFINED RICE BRAN OIL), STARCH, SUGAR, - SPICES AND CONDIMENTS, IODISED SALT, STABILIZERS [INS 170(i)], DEHYDRATED MANGO POWDER, MALTODEXTRIN, MILK SOLIDS, DEXTROSE, RAISING AGENT [INS 500 (ii)], FLAVOUR (NATURAL AND NATURE-IDENTICAL FLAVOURING SUBSTANCE, HYDROLYSED VEGETABLE PROTEIN, ACIDITY REGULATORS [INS 330, INS 262(ii)], FLAVOUR ENHANCER (INS 627, 631), YEAST EXTRACT",
+  "per_100g": {
+    "energy_kcal": 489,
+    "fat": 25.5,
+    "saturated_fat": 6.2,
+    "carbohydrates": 61.1,
+    "sugars": 7.4,
+    "fiber": 3.4,
+    "protein": 5.5,
+    "salt": 2.225,
+    "sodium": 0.89
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-26T06:10:04Z",
+  "fetched_at": "2026-08-19T00:36:51Z"
+}

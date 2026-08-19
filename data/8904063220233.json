@@ -1,0 +1,26 @@
+{
+  "barcode": "8904063220233",
+  "name": "Chips",
+  "brand": "Haldiram’s",
+  "quantity": "",
+  "categories": [
+    "en:chips-and-fries"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 546.4,
+    "fat": 33,
+    "saturated_fat": 15.8,
+    "carbohydrates": 55.2,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 7.1,
+    "salt": 1500,
+    "sodium": 600
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-14T06:17:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

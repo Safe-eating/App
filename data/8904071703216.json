@@ -1,0 +1,26 @@
+{
+  "barcode": "8904071703216",
+  "name": "Chedda's Alu Bhujia",
+  "brand": "Chedda's",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Edible Starch, Palm Oil, Potato, Gram Flour, Salt, Dry Mango Powder, Ground Spices, Mint Leaves",
+  "per_100g": {
+    "energy_kcal": 614,
+    "fat": 48,
+    "saturated_fat": 20,
+    "carbohydrates": 36,
+    "sugars": 0,
+    "fiber": 2,
+    "protein": 8,
+    "salt": 1.33,
+    "sodium": 0.532
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-21T18:05:52Z",
+  "fetched_at": "2026-08-19T01:32:27Z"
+}

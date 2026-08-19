@@ -1,0 +1,30 @@
+{
+  "barcode": "8908019758276",
+  "name": "proV Almonds",
+  "brand": "proV",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:almonds"
+  ],
+  "ingredients": "Almond Kernels",
+  "per_100g": {
+    "energy_kcal": 656,
+    "fat": 57,
+    "saturated_fat": 5.3,
+    "carbohydrates": 18,
+    "sugars": 2,
+    "fiber": 13,
+    "protein": 17,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-16T06:25:10Z",
+  "fetched_at": "2026-08-19T13:19:57Z"
+}

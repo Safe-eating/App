@@ -1,0 +1,27 @@
+{
+  "barcode": "0705016600625",
+  "name": "Protein Powder Cookies And Cream",
+  "brand": "Dymatize, ISO100",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:whey-powder"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 370.967741935484,
+    "fat": 2.90322580645161,
+    "saturated_fat": 0.967741935483871,
+    "carbohydrates": 6.12903225806452,
+    "sugars": 4.51612903225806,
+    "fiber": null,
+    "protein": 80.6451612903226,
+    "salt": 1.04838709677419,
+    "sodium": 0.419354838709677
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-09T00:26:53Z",
+  "fetched_at": "2026-08-18T23:55:13Z"
+}

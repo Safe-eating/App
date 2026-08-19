@@ -1,0 +1,33 @@
+{
+  "barcode": "8901648026167",
+  "name": "Classic Dahi",
+  "brand": "Mother Dairy",
+  "quantity": "80 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:curd"
+  ],
+  "ingredients": "Toned Milk, Water, Milk Solids and Active Lactic Culture",
+  "per_100g": {
+    "energy_kcal": 62,
+    "fat": 3,
+    "saturated_fat": 2.1,
+    "carbohydrates": 5,
+    "sugars": 5,
+    "fiber": null,
+    "protein": 3.7,
+    "salt": 0.119,
+    "sodium": 0.0476
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:43:57Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

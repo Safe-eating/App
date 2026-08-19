@@ -1,0 +1,31 @@
+{
+  "barcode": "8906197140012",
+  "name": "White Choco Club",
+  "brand": "Minus Thirty",
+  "quantity": "80ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-bars"
+  ],
+  "ingredients": "Double Toned Milk, Cream, Sugar, Skimmed Milk Powder, White Chocolate, Cocoa Powder, Dark Chocolate, Coconut Oil",
+  "per_100g": {
+    "energy_kcal": 371.1375,
+    "fat": 25.1875,
+    "saturated_fat": 18.1625,
+    "carbohydrates": 31.75,
+    "sugars": 27.5875,
+    "fiber": null,
+    "protein": 4.3625,
+    "salt": 0.19665625,
+    "sodium": 0.0786625
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T03:29:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

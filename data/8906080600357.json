@@ -1,0 +1,33 @@
+{
+  "barcode": "8906080600357",
+  "name": "paper boat orange pch",
+  "brand": "Paper Boat",
+  "quantity": "3",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars",
+    "en:fruit-nectars",
+    "en:orange-nectars"
+  ],
+  "ingredients": "WATER, SUGAR, ORANGE JUICE CONCENTRATE#, ACIDITY REGULATOR (TRISODIUM CITRATE AND CITRIC ACID), FLAVOURS (NATURE-IDENTICAL AND NATURAL), STABILIZERS (CAROB BEAN GUM AND CARRAGEENAN), ANTIOXIDANT (ASCORBIC ACID) AND VITAMIN D2 (ERGOCALCIFEROL). #RECONSTITUTED 20% ORANGE JUICE",
+  "per_100g": {
+    "energy_kcal": 60,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 15,
+    "sugars": 13.9,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.155,
+    "sodium": 0.062
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-21T13:36:29Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

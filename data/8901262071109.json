@@ -1,0 +1,32 @@
+{
+  "barcode": "8901262071109",
+  "name": "Super Fruit",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:white-chocolates",
+    "en:white-chocolate-bars",
+    "en:white-chocolate-bar-with-dried-fruits"
+  ],
+  "ingredients": "Sugar, cocoa butter, milk solids, cranberries (4.2%), blueberries (3.6%), raspberries (3.6%), emulsifiers (322,476), artificial flavouring substances (vanilla). Allergen Information: Contains milk.",
+  "per_100g": {
+    "energy_kcal": 526,
+    "fat": 34.7,
+    "saturated_fat": 20.8,
+    "carbohydrates": 52.6,
+    "sugars": 51.5,
+    "fiber": null,
+    "protein": 9.8,
+    "salt": 0.32,
+    "sodium": 0.128
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-28T16:09:08Z",
+  "fetched_at": "2026-08-19T00:42:36Z"
+}

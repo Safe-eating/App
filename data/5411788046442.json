@@ -1,0 +1,30 @@
+{
+  "barcode": "5411788046442",
+  "name": "Tamari soya sauce",
+  "brand": "Lima",
+  "quantity": "1 l",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:soy-sauces",
+    "en:tamaris",
+    "en:groceries"
+  ],
+  "ingredients": "Eau, fèves de soja, sel marin 10,3%, alcool, A. Orizae.",
+  "per_100g": {
+    "energy_kcal": 96,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 5.3,
+    "sugars": 1.7,
+    "fiber": 0.9,
+    "protein": 12,
+    "salt": 10.3,
+    "sodium": 4.12
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-18T21:23:25Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "0870351009904",
+  "name": "Hakka noodles",
+  "brand": "Ying Yang Hakka noodles",
+  "quantity": "",
+  "categories": [
+    "en:Grocery"
+  ],
+  "ingredients": "Semolina",
+  "per_100g": {
+    "energy_kcal": 203.07,
+    "fat": 0.25,
+    "saturated_fat": 9,
+    "carbohydrates": 80.84,
+    "sugars": 0.28,
+    "fiber": 2.48,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-15T09:20:08Z",
+  "fetched_at": "2026-08-18T23:56:56Z"
+}

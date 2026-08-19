@@ -1,0 +1,27 @@
+{
+  "barcode": "8904335604396",
+  "name": "Pro Clean Whey Chocolate Flavour",
+  "brand": "Yoga Bar",
+  "quantity": "907g",
+  "categories": [
+    "en:dairies",
+    "en:whey-powder"
+  ],
+  "ingredients": "Whey (89.1%) (Whey Protein Concentrate. Whey Protein Isolate), Cocoa Powder (9%), Natural Flavours and Flavouring Substance, Himalayan Pink Salt, Sucralose (\u0026lt;0.2%), PROABSORB Blend  (Protease Enzyme, Probiotics\u0026quot;-Bacillus coagulans, Bacillus sub Bacillus clausi, Lactobacillus acidophilus, Lactiplantibacillus planta Papain, Bromelain).",
+  "per_100g": {
+    "energy_kcal": 388.571428571429,
+    "fat": 6,
+    "saturated_fat": 3.71428571428571,
+    "carbohydrates": 12,
+    "sugars": 8,
+    "fiber": null,
+    "protein": 71.4285714285714,
+    "salt": 0.31,
+    "sodium": 0.124
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-05T03:06:47Z",
+  "fetched_at": "2026-08-19T01:44:58Z"
+}

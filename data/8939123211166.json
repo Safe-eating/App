@@ -1,0 +1,26 @@
+{
+  "barcode": "8939123211166",
+  "name": "Pure Peanut Butter Powder",
+  "brand": "MYPB",
+  "quantity": "",
+  "categories": [
+    "en:peanut-butter-powder"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 475,
+    "fat": 16.25,
+    "saturated_fat": 3.125,
+    "carbohydrates": 31.875,
+    "sugars": 5,
+    "fiber": 11.875,
+    "protein": 50,
+    "salt": 0.0125,
+    "sodium": 0.005
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-15T10:12:38Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

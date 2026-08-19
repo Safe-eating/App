@@ -1,0 +1,41 @@
+{
+  "barcode": "8901491363020",
+  "name": "Chilli Chatka",
+  "brand": "10",
+  "quantity": "10rs",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:cereals-and-their-products",
+    "en:chips-and-fries",
+    "en:breakfast-cereals",
+    "en:crisps",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:extruded-cereals",
+    "en:extruded-flakes",
+    "en:corn-flakes"
+  ],
+  "ingredients": "Cereal Products (66%) (Rice Meal (43%), Com Meal (23%)), Edible Vegetable Oil (Rice Bran Oil), *Seasoning (Sugar, \u0026quot;Spices \u0026 Condiments, lodised Salt, Rice Flour, Flavour (Natural \u0026 Nature Identical Flavouring Substances), Acidity Regulators (330, 196), Black Salt, Flavour Enhancers (627, 631), Colours (160c 150d)), Gram Meal (0.5%). As Flavouring Agent. Contains Onion and Garlic Serve Size 20 g** MARK Per 100g %RDA Per Serve Pepsi",
+  "per_100g": {
+    "energy_kcal": 558,
+    "fat": 34.5,
+    "saturated_fat": 15.5,
+    "carbohydrates": 59.2,
+    "sugars": 20,
+    "fiber": 12,
+    "protein": 5.6,
+    "salt": 1.8075,
+    "sodium": 0.723
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-05T11:50:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

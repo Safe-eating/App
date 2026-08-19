@@ -1,0 +1,37 @@
+{
+  "barcode": "8906065169824",
+  "name": "Chicken Nuggets ITC",
+  "brand": "ITC",
+  "quantity": "450 g",
+  "categories": [
+    "en:meats-and-their-products",
+    "en:meat-preparations",
+    "en:meats",
+    "en:chicken-and-its-products",
+    "en:poultries",
+    "en:breaded-products",
+    "en:chicken-preparations",
+    "en:chickens",
+    "en:poultry-nuggets",
+    "en:breaded-chicken",
+    "en:chicken-nuggets",
+    "en:Frozen comminuted meat product"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 219,
+    "fat": 10.9,
+    "saturated_fat": 4.7,
+    "carbohydrates": 18.9,
+    "sugars": 1.4,
+    "fiber": null,
+    "protein": 11.3,
+    "salt": 1.2405,
+    "sodium": 0.4962
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T15:29:49Z",
+  "fetched_at": "2026-08-19T12:40:00Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8901071732413",
+  "name": "Milk shake chocolate flavour 180ml",
+  "brand": "Hershey's",
+  "quantity": "180 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:dairy-drinks",
+    "en:milks",
+    "en:flavoured-milks",
+    "en:milkshakes"
+  ],
+  "ingredients": "Water, Sugar, Milk Solids (8%), Cocoa Solids (0.75%), Emulsifiers (460(i),466, 471), Mineral (Calcium carbonate), Flavours (Nature Identical Flavouring Substances), Sequestrant (339 (ii)), Edible Common Salt, Mineral (Zinc Sulphate), Vitamin E (Acetate), Vitamin A (Acetate), Vitamin D2 (Ergocalciferol), Vitamin B1 (Thiamine Chloride Hydrochloride), \u0026 Vitamin B2 (Riboflavin)",
+  "per_100g": {
+    "energy_kcal": 90,
+    "fat": 1.88888888888889,
+    "saturated_fat": 1.38888888888889,
+    "carbohydrates": 16.7777777777778,
+    "sugars": 16.7777777777778,
+    "fiber": 0,
+    "protein": 1.77777777777778,
+    "salt": 0.129166666666667,
+    "sodium": 0.0516666666666667
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-18T12:37:34Z",
+  "fetched_at": "2026-08-19T00:35:21Z"
+}

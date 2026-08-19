@@ -1,0 +1,35 @@
+{
+  "barcode": "8904335600695",
+  "name": "Dark Chocolate Peanut Butter",
+  "brand": "Yoga Bar",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "Roasted Peanuts 71%, Dark Chocolate (Cocoa Solids, Cocoa Butter, Cocoa Powder, Sugar, Soy Lecithin \u0026 Natural Vanilla), Raw Sugar, Cocoa Powder, Probiotics SEB LBSC (Bacillus Coagulans) *100 million CFU per serving. Contains Added Natural Flavour: Rosemary Extract, Chocolate. Commodity: 04.2.2.5 Nut Butter Proprietary Food. Storage Instructions: Store in a cool, dry, and hygienic place. Do not refrigerate. Allergen Advice: CONTAINS NUTS \u0026 SOY LECITHIN.",
+  "per_100g": {
+    "energy_kcal": 596,
+    "fat": 42.5,
+    "saturated_fat": 12.3,
+    "carbohydrates": 32.4,
+    "sugars": 8.6,
+    "fiber": 6.6,
+    "protein": 21,
+    "salt": 0.057,
+    "sodium": 0.0228
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-18T04:55:53Z",
+  "fetched_at": "2026-08-19T01:43:56Z"
+}

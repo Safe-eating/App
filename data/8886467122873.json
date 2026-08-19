@@ -1,0 +1,30 @@
+{
+  "barcode": "8886467122873",
+  "name": "pringls",
+  "brand": "Pringles",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 541,
+    "fat": 30.9,
+    "saturated_fat": 15,
+    "carbohydrates": 57.6,
+    "sugars": 3.2,
+    "fiber": null,
+    "protein": 5,
+    "salt": 1.605,
+    "sodium": 0.642
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-01T05:51:02Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

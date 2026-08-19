@@ -1,0 +1,31 @@
+{
+  "barcode": "8901030902369",
+  "name": "Knorr hot \u0026 sour veg soup",
+  "brand": "Knorr",
+  "quantity": "10",
+  "categories": [
+    "en:meals",
+    "en:dried-products",
+    "en:dried-products-to-be-rehydrated",
+    "en:soups",
+    "en:dried-meals",
+    "en:dehydrated-soups"
+  ],
+  "ingredients": "Starch, Maltodextrin, Sugar, lodited Salt, (Dehydrated Vegetables (Onion (5.9%), Carrot Flakes (1.4%). Garlic Bits (1.1%) and Leeks (0.4%)) Hydrolyzed Vegetable Protein, Flavours-Nature Identical Flavouring Substances (Soya Sauce) Thickener-415, Spices \u0026 Condiments (Chillies (1.5%)), Hydrogenated Palm Oil, Food Colour-Caramel IV, Acidity Regulator-296, Anti caking agent - 551, Flavour Enhancer-627 \u0026 631 Oleoresin Chill",
+  "per_100g": {
+    "energy_kcal": 314.285714285714,
+    "fat": 2.85714285714286,
+    "saturated_fat": 0.952380952380952,
+    "carbohydrates": 69.5238095238095,
+    "sugars": 14.2857142857143,
+    "fiber": 3.80952380952381,
+    "protein": 4.76190476190476,
+    "salt": 0.0138095238095238,
+    "sodium": 0.00552380952380952
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T17:10:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

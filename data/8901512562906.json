@@ -1,0 +1,29 @@
+{
+  "barcode": "8901512562906",
+  "name": "Act II Caramel Bliss",
+  "brand": "Act II, ConAgra",
+  "quantity": "70g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:popcorn",
+    "en:popcorn-with-caramel"
+  ],
+  "ingredients": "Liquid Glucose, Popped Corn (25.9%), Sugar, Table Butter, Caramel 1 (0.7%), lodized Salt, Raising Agent (Sodium Bicarbonate), Emulsifier (Lecithin), Refined Edible Palmolein Oil (TBHQ), Nature Identical Flavour (Caramel Butter) \u0026 Beta Carotene.",
+  "per_100g": {
+    "energy_kcal": 425,
+    "fat": 9,
+    "saturated_fat": 4,
+    "carbohydrates": 84,
+    "sugars": 37,
+    "fiber": 4,
+    "protein": 4,
+    "salt": 0.5,
+    "sodium": 0.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-10T04:44:51Z",
+  "fetched_at": "2026-08-19T00:54:57Z"
+}

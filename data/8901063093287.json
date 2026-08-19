@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063093287",
+  "name": "Good Day Cashew Cookies",
+  "brand": "Britannia",
+  "quantity": "200 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR, SUGAR, EDIBLE VEGETABLE OIL (PALM), CASHEW NUTS (4.5%), BUTTER (3%), INVERT SYRUP, MILK SOLIDS, RAISING AGENTS (INS 503, INS 500), EDIBLE COMMON SALT AND EMULSIFIERS (INS 322, INS 471, INS 472e)",
+  "per_100g": {
+    "energy_kcal": 504,
+    "fat": 24,
+    "saturated_fat": 11,
+    "carbohydrates": 65,
+    "sugars": 22,
+    "fiber": 0,
+    "protein": 7,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-19T11:18:39Z",
+  "fetched_at": "2026-08-19T00:31:10Z"
+}

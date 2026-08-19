@@ -1,0 +1,36 @@
+{
+  "barcode": "8906010501952",
+  "name": "Balaji Wafers Rumbles Potato Chips Pudina Twist flavour",
+  "brand": "Balaji Wafers, Balaji, Rumbles",
+  "quantity": "40 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "POTATO (88%), EDIBLE VEGETABLE OIL (PALMOLEIN), EDIBLE COMMON SALT, MALTODEXTRIN, SPICES \u0026 CONDIMENTS 2 % (CUMIN, CORIANDER. CINNAMON), DEHYDRATED VEGETABLE POWDER (ONION, GARLIC), SUGAR, BLACK SALT, ACIDITY REGULATOR (INS 330), ANTICAKING AGENT (INS 551). FLAVOUR ENHANCER (INS 627, INS 631), NATURAL \u0026 NATURE IDENTICAL FLAVOURING SUBSTANCES (MINT ).",
+  "per_100g": {
+    "energy_kcal": 541,
+    "fat": 31.1,
+    "saturated_fat": 14.7,
+    "carbohydrates": 54.6,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 7.3,
+    "salt": 1.8415,
+    "sodium": 0.7366
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-03-08T06:47:05Z",
+  "fetched_at": "2026-08-19T02:01:16Z"
+}

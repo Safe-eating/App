@@ -1,0 +1,33 @@
+{
+  "barcode": "8901725005580",
+  "name": "Aashirvaad Ready to cook Chapati",
+  "brand": "Aashirvaad",
+  "quantity": "10",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:flours",
+    "en:cereal-flours",
+    "en:wheat-flours",
+    "en:whole-wheat-flours"
+  ],
+  "ingredients": "Atta (54.9%), Water (36.4%), Refined Sunflower Oil, Iodized Salt, Tapioca Flour, Milk Solids, Humectant (INS 422), Wheat Gluten, Emulsifier [Mono - and di-glycerides of fatty acids (from Palm oil)], Vitamin C and Yeast.",
+  "per_100g": {
+    "energy_kcal": 261,
+    "fat": 6.3,
+    "saturated_fat": 0.8,
+    "carbohydrates": 46.1,
+    "sugars": 6,
+    "fiber": 8.1,
+    "protein": 8.9,
+    "salt": 0.829,
+    "sodium": 0.3316
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-26T10:26:25Z",
+  "fetched_at": "2026-08-19T01:03:50Z"
+}

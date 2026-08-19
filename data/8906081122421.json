@@ -1,0 +1,32 @@
+{
+  "barcode": "8906081122421",
+  "name": "Happilo chia seeds",
+  "brand": "Happilo",
+  "quantity": "250g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:chia"
+  ],
+  "ingredients": "chia seeds",
+  "per_100g": {
+    "energy_kcal": 513.333333333333,
+    "fat": 31.3333333333333,
+    "saturated_fat": 1.33333333333333,
+    "carbohydrates": 40,
+    "sugars": 1.33333333333333,
+    "fiber": 34,
+    "protein": 20,
+    "salt": 0.04,
+    "sodium": 0.016
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-11-02T13:12:31Z",
+  "fetched_at": "2026-08-19T12:46:41Z"
+}

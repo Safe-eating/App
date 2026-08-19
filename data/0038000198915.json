@@ -1,0 +1,32 @@
+{
+  "barcode": "0038000198915",
+  "name": "Froot loops marshmallows",
+  "brand": "Kellogg's",
+  "quantity": "10.5 oz (297 g)",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:extruded-cereals"
+  ],
+  "ingredients": "sugar, corn flour blend (whole grain yellow corn flour, degerminated yellow corn flour), wheat flour, whole grain oat flour, modified food starch, contains 2% or less of corn syrup, modified corn starch, dextrose, vegetable oil (hydrogenated coconut, soybean and/or cottonseed), oat fiber, maltodextrin, salt, natural and artificial flavor, soluble corn fiber, gelatin, yellow 5, red 40, yellow 6, blue 1, bht for freshness. vitamins and minerals: vitamin c (ascorbic acid), reduced iron, niacinamide, vitamin b6 (pyridoxine hydrochloride), vitamin b2 (riboflavin), vitamin b1 (thiamin hydrochloride), folic acid, vitamin d3, vitamin b12.  contains wheat ingredients.",
+  "per_100g": {
+    "energy_kcal": 379,
+    "fat": 3.4,
+    "saturated_fat": 1.7,
+    "carbohydrates": 89.7,
+    "sugars": 41.4,
+    "fiber": 6.9,
+    "protein": 3.4,
+    "salt": 1.2,
+    "sodium": 0.48
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-04T15:25:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

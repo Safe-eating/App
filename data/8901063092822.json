@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063092822",
+  "name": "BRITANNIA Good day  BUTTER COOKIES",
+  "brand": "Britannia",
+  "quantity": "52.5 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "INGREDIENT REFINED WHEAT FLOUR (MAIDA), REINED PALM OIL, SUGAR, INVERT SUGAR SYRUP, MILK PRODUCTS (MILK SOLIDS \u0026 BUTTER (0.5%)], RAISING AGENTS [503(ii) \u0026 [500(ii)], IODISED SALT, ARTIFICIAL (BUTTER, MILK \u0026 VANILLA) \u0026 NATURAL LAVOURING SUBSTANCES AND MULSIFIERS [472e \u0026 322(i)]. Numbers in brackets as per International numbering System) CONTAINS WHEAT MILK AND SOY",
+  "per_100g": {
+    "energy_kcal": 500,
+    "fat": 21.8,
+    "saturated_fat": 10.9,
+    "carbohydrates": 69.1,
+    "sugars": 20.4,
+    "fiber": null,
+    "protein": 6.8,
+    "salt": 0.5575,
+    "sodium": 0.223
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T08:59:57Z",
+  "fetched_at": "2026-08-19T00:31:07Z"
+}

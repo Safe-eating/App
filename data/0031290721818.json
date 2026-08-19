@@ -1,0 +1,30 @@
+{
+  "barcode": "0031290721818",
+  "name": "Milk chocolate",
+  "brand": "Godiva",
+  "quantity": "90 g /3.2 OZ",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:milk-chocolates"
+  ],
+  "ingredients": "sugar full cream milk powder cocoa butter cocoa mass butter oil emulsifier soy lecithin natural flavouring",
+  "per_100g": {
+    "energy_kcal": 533,
+    "fat": 31,
+    "saturated_fat": 19.9,
+    "carbohydrates": 55.1,
+    "sugars": 54.7,
+    "fiber": null,
+    "protein": 8.4,
+    "salt": 0.23,
+    "sodium": 0.092
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-01-31T09:48:05Z",
+  "fetched_at": "2026-08-18T23:53:42Z"
+}

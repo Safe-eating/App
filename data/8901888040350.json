@@ -1,0 +1,33 @@
+{
+  "barcode": "8901888040350",
+  "name": "Real fruit power mixed fruit 1ktr tpk",
+  "brand": "",
+  "quantity": "1 L",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars",
+    "en:fruit-juices",
+    "en:multifruit-juices"
+  ],
+  "ingredients": "Water, Concentrated Mixed Fruit Juice (12.03%) [From Apple, Orange, Guava, Apricot, Mango, Banana, Lime, Passion Fruit, Pineapple], Sugar, Acidity Regulator (INS 330), Antioxidant (INS 300), Stabilizer (INS 440), Colours [INS 160 a (ii) \u0026 (iii)] and Flavours (Natural \u0026 Nature identical Flavouring Substances). THIS CONTAINS 60% MIXED FRUIT JUICE CONTENT. within 5 days",
+  "per_100g": {
+    "energy_kcal": 52,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 13.4,
+    "sugars": 13.1,
+    "fiber": 0,
+    "protein": 0.2,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T08:22:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

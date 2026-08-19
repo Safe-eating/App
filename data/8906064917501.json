@@ -1,0 +1,24 @@
+{
+  "barcode": "8906064917501",
+  "name": "Dried Cranberry",
+  "brand": "Candor Foods",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "Whole dried cranberries  sugar  and edible vegetable oil (sunflower oil). allergy information: packed andles nut, Soy, Sulph untry of origin ed in b",
+  "per_100g": {
+    "energy_kcal": 349,
+    "fat": 0.87,
+    "saturated_fat": 0.5,
+    "carbohydrates": 84.9,
+    "sugars": 72.4,
+    "fiber": 6.82,
+    "protein": 0.32,
+    "salt": 0.02,
+    "sodium": 0.01
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-05T22:57:32Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

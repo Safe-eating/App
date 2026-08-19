@@ -1,0 +1,30 @@
+{
+  "barcode": "8904474000257",
+  "name": "Sandwich Bread",
+  "brand": "Bonn",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 260,
+    "fat": 1.91,
+    "saturated_fat": 0.78,
+    "carbohydrates": 51.56,
+    "sugars": 3.58,
+    "fiber": 1.77,
+    "protein": 8.36,
+    "salt": 1.155,
+    "sodium": 0.462
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-30T06:33:13Z",
+  "fetched_at": "2026-08-19T01:46:36Z"
+}

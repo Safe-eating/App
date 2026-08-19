@@ -1,0 +1,31 @@
+{
+  "barcode": "3415581117189",
+  "name": "Caramel Biscuit \u0026 Cream Ice Cream",
+  "brand": "Häagen-Dazs",
+  "quantity": "392 g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-tubs"
+  ],
+  "ingredients": "Caramel Ice Cream (89%) (Cream (35.4%), Caramel Base (24.0%) (Water, Dried Glucose Syrup, Milk, Sugar, Wheat Glucose Syrup, Salt, Natural Flavouring Substance: Vanilla), Condensed Skimmed Milk, Sugar, Water, Egg Yolk), Biscuit Pieces (11%) (Refined Wheat, Flour, Sugar, Edible Vegetable Oil (Coconut Oil), Edible Vegetable Oil (Rapeseed Oil), Icing Sugar, Concentrated Butter, Candy Sugar, Raising Agent (Sodium Bicarbonate), Emulsifier (Soy Lecithin), Salt, Cinnamon Powder.",
+  "per_100g": {
+    "energy_kcal": 285,
+    "fat": 18.5,
+    "saturated_fat": 11.4,
+    "carbohydrates": 25.1,
+    "sugars": 18.9,
+    "fiber": null,
+    "protein": 4.5,
+    "salt": 0.355,
+    "sodium": 0.142
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-29T16:55:12Z",
+  "fetched_at": "2026-08-19T00:03:58Z"
+}

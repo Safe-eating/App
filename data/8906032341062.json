@@ -1,0 +1,28 @@
+{
+  "barcode": "8906032341062",
+  "name": "Milk-Ma whole wheat critters",
+  "brand": "Milk Ma",
+  "quantity": "150g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks"
+  ],
+  "ingredients": "WHEAT FLOUR, SUGAR, VEG. SHORTENING, MILK, MIXED SPICES AND GLUCOSE POWDER.",
+  "per_100g": {
+    "energy_kcal": 362,
+    "fat": 16,
+    "saturated_fat": 0,
+    "carbohydrates": 48,
+    "sugars": 1.14,
+    "fiber": 1.42,
+    "protein": 6.28,
+    "salt": 0.5175,
+    "sodium": 0.207
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-20T14:19:41Z",
+  "fetched_at": "2026-08-19T12:33:45Z"
+}

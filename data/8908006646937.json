@@ -1,0 +1,30 @@
+{
+  "barcode": "8908006646937",
+  "name": "Mr Makhana Pickle Tickle",
+  "brand": "Mr Makhana",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:nutmeg-tree-products",
+    "en:fox-nuts"
+  ],
+  "ingredients": "ENGREDIENTS (PICKLE TICKLE): Makhana (Fox Nuts) 67%, Olive Oil, Seasoning Mixed Spices (Red Chilly, Turmeric Powder, Cumin, Fenugreek Seeds, Fenugreek Leaves, Fennel, Ginger Powder), Edible Salt, Sugar, Malto-Dextrin, Black Mustard Seeds, Acidity Regulator 330), Roasted Peanut, Flavor Enhancer (E627) \u0026 (E631), Anti Caking Agent (E551)]. CONTAINS ADDED NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES. ALLERGEN INFORMATION: CONTAINS MUSTARD AND PEANUTS NO ARTIFICAL FLAVOURS\u0026NO ADDED PRESERVATIVES",
+  "per_100g": {
+    "energy_kcal": 127.5,
+    "fat": 6,
+    "saturated_fat": 1,
+    "carbohydrates": 16,
+    "sugars": 0,
+    "fiber": 1,
+    "protein": 2,
+    "salt": 0.8325,
+    "sodium": 0.333
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-18T20:39:35Z",
+  "fetched_at": "2026-08-19T13:10:30Z"
+}

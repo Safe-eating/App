@@ -1,0 +1,33 @@
+{
+  "barcode": "8901063091023",
+  "name": "Good Day Harmony",
+  "brand": "Britannia, Good Day",
+  "quantity": "120 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:filled-biscuits",
+    "en:biscuits-with-nuts"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, NUTS AND NUT PRODUCT (8%) [CASHEWS, ALMONDS, PISTACHIO \u0026 HAZELNUT PASTE), INVERT SUGAR SYRUP, MILK SOLIDS, BUTTER, RAISING AGENTS [503(ii) \u0026 500 (ii))], IODISED SALT, EMULSIFIERS [322(1), 471, 472e) AND FLAVOURS [NATURE IDENTICAL AND ARTIFICIAL (MILK \u0026 VANILLA) FLAVOURING SUBSTANCES]@.",
+  "per_100g": {
+    "energy_kcal": 513,
+    "fat": 25,
+    "saturated_fat": 11.2,
+    "carbohydrates": 64.8,
+    "sugars": 21.5,
+    "fiber": null,
+    "protein": 7.2,
+    "salt": 0.54865,
+    "sodium": 0.21946
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-19T07:10:35Z",
+  "fetched_at": "2026-08-19T00:30:40Z"
+}

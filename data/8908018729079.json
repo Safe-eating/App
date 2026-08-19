@@ -1,0 +1,30 @@
+{
+  "barcode": "8908018729079",
+  "name": "Suchali's Artisan Multigrain Sandwich bread",
+  "brand": "Suchali's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour, White Flour, Yeast, Water, Butter, Milk, Melon Seeds, Flax Seeds, Chia Seeds, White Sesame Seeds, Oats, Salt, Sugar",
+  "per_100g": {
+    "energy_kcal": 264.32,
+    "fat": 3.4,
+    "saturated_fat": 1.82,
+    "carbohydrates": 48.09,
+    "sugars": 3.28,
+    "fiber": null,
+    "protein": 10.34,
+    "salt": 1.218625,
+    "sodium": 0.48745
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-20T02:28:21Z",
+  "fetched_at": "2026-08-19T13:18:54Z"
+}

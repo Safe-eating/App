@@ -1,0 +1,31 @@
+{
+  "barcode": "8908009059390",
+  "name": "Sourdough Classic Bread",
+  "brand": "The Health Factory",
+  "quantity": "330g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:sourdough-breads"
+  ],
+  "ingredients": "100% Whole Wheat Flour (Chakki Fresh Atta), Gluten, Olive Oil, Iodised Salt.",
+  "per_100g": {
+    "energy_kcal": 259.69,
+    "fat": 2.01,
+    "saturated_fat": 0.27,
+    "carbohydrates": 49.49,
+    "sugars": 3.22,
+    "fiber": 10.01,
+    "protein": 10.91,
+    "salt": 0.028625,
+    "sodium": 0.01145
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-14T22:24:23Z",
+  "fetched_at": "2026-08-19T13:11:34Z"
+}

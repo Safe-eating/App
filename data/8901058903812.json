@@ -1,0 +1,37 @@
+{
+  "barcode": "8901058903812",
+  "name": "Maggi Rich Tomato Ketchup Pichkoo",
+  "brand": "Maggi, Nestlé",
+  "quantity": "120g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup",
+    "en:basque-style-sauces",
+    "en:tomato-ketchup"
+  ],
+  "ingredients": "Water, Sugar, Tomato paste (23.7%), lodised salt, Acidity Regulator (260), Thickeners (1422 \u0026 415), Dehydrated onion, Dried garlic, Preservative (211) and Mixed spices. May contains Milk \u0026 Nut.",
+  "per_100g": {
+    "energy_kcal": 121,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 30,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0.9,
+    "salt": 0.7769,
+    "sodium": 0.31076
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-16T07:01:26Z",
+  "fetched_at": "2026-08-19T00:27:31Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8901725016562",
+  "name": "Sunfeast 5-grain Digestive",
+  "brand": "ITC, Sunfeast",
+  "quantity": "800g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (37.8%), REFINED PALM OIL, JOWAR FLOUR (13.87 %), SUGAR, WHEAT BRAN (5.88%), INVERT SYRUP, RAGI FLOUR (2.1%), LIQUID GLUCOSE, MILK SOLIDS, CORN FLAKES (0.97%), RAISING AGENTS (INS 503, INS 500(ii)), IODIZED SALT, ROLLED OATS (0.42%), EMULSIFIERS [LECITHIN (FROM SOYABEAN), MOND-AND DI-GLYCERIDES OF FATTY ACIDS (FROM PALM OIL), DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL (FROM REFINED SUNFLOWER AND PALM OIL)), NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, ARTIFICIAL FLAVOURING SUBSTANCES (MILK, MALT, VANILLA) AND NATURE IDENTICAL FLAVOURING SUBSTANCES",
+  "per_100g": {
+    "energy_kcal": 474,
+    "fat": 20.4,
+    "saturated_fat": 9.8,
+    "carbohydrates": 68.4,
+    "sugars": 20.7,
+    "fiber": 7.4,
+    "protein": 7.9,
+    "salt": 0.669,
+    "sodium": 0.2676
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-07T15:43:31Z",
+  "fetched_at": "2026-08-19T01:05:24Z"
+}

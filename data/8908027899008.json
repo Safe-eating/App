@@ -1,0 +1,24 @@
+{
+  "barcode": "8908027899008",
+  "name": "Mocha Madness",
+  "brand": "Proskii",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 394.025,
+    "fat": 3.625,
+    "saturated_fat": 1.2,
+    "carbohydrates": 52.025,
+    "sugars": 2.95,
+    "fiber": null,
+    "protein": 38.275,
+    "salt": 0.4825,
+    "sodium": 0.193
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-29T14:38:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

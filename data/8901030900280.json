@@ -1,0 +1,24 @@
+{
+  "barcode": "8901030900280",
+  "name": "knorr",
+  "brand": "Knorr",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 348,
+    "fat": 5.9,
+    "saturated_fat": 3.1,
+    "carbohydrates": 61.4,
+    "sugars": 17.2,
+    "fiber": 1.1,
+    "protein": 13,
+    "salt": 8.7925,
+    "sodium": 3.517
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-25T07:59:37Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

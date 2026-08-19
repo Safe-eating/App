@@ -1,0 +1,24 @@
+{
+  "barcode": "8906078263861",
+  "name": "Coconut Cookies",
+  "brand": "Cremica Mrs Bectors",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 442,
+    "fat": 11,
+    "saturated_fat": 6,
+    "carbohydrates": 80,
+    "sugars": 35.7,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0.5,
+    "sodium": 0.2
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-14T04:44:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

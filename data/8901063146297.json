@@ -1,0 +1,28 @@
+{
+  "barcode": "8901063146297",
+  "name": "Britannia Winkin cow thick lassi 180ml",
+  "brand": "Britannia",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies"
+  ],
+  "ingredients": "WATER, TONED MILK DAHI (40%), SUGAR, STABILIZERS (466, 451(1), 331 (iii), 415 \u0026 440), NATURE IDENTICAL (MANGO) FLAVOURING SUBSTANCES, MANGO PULP (0.2%), COLOURS (160b(ii) \u0026 100), ACIDITY REGULATOR (330) AND SWEETENER (960).",
+  "per_100g": {
+    "energy_kcal": 62,
+    "fat": 1.2,
+    "saturated_fat": 0.8,
+    "carbohydrates": 11.6,
+    "sugars": 11.6,
+    "fiber": null,
+    "protein": 1.2,
+    "salt": 0.039,
+    "sodium": 0.0156
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-12T07:54:55Z",
+  "fetched_at": "2026-08-19T00:32:12Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8901719135088",
+  "name": "Monaco",
+  "brand": "Parle",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 492,
+    "fat": 20.6,
+    "saturated_fat": 9.7,
+    "carbohydrates": 68.8,
+    "sugars": 8.4,
+    "fiber": null,
+    "protein": 7.9,
+    "salt": 2.2275,
+    "sodium": 0.891
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-17T14:22:55Z",
+  "fetched_at": "2026-08-19T01:02:20Z"
+}

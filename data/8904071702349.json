@@ -1,0 +1,28 @@
+{
+  "barcode": "8904071702349",
+  "name": "Mix Farsan",
+  "brand": "",
+  "quantity": "500 g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers"
+  ],
+  "ingredients": "Gram Flour, Palm Oil, Bengal Gram, Edible Starch, Red Chilli Powder, Bishops Weed, Curry Leaves, Salt.",
+  "per_100g": {
+    "energy_kcal": 590,
+    "fat": 42.3,
+    "saturated_fat": 19,
+    "carbohydrates": 38.7,
+    "sugars": 3.3,
+    "fiber": 7.4,
+    "protein": 13.6,
+    "salt": 0.25,
+    "sodium": 0.1
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-17T18:51:02Z",
+  "fetched_at": "2026-08-19T01:32:05Z"
+}

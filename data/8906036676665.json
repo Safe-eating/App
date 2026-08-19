@@ -1,0 +1,32 @@
+{
+  "barcode": "8906036676665",
+  "name": "Nandini goodlife pista flavouring milk",
+  "brand": "Nandini",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:dairy-drinks",
+    "en:milks",
+    "en:flavoured-milks"
+  ],
+  "ingredients": "Milk Solids \u0026 Sugar Contains Permitted Stabilizers ((INS 407, INS INS 466), Synthetic Food Colours (INS 102\u0026S 133), Added Flavours (Nature Identical and Artificial Flavouring substances-Pista)",
+  "per_100g": {
+    "energy_kcal": 93,
+    "fat": 3.1,
+    "saturated_fat": 2,
+    "carbohydrates": 13.3,
+    "sugars": 13.3,
+    "fiber": 0,
+    "protein": 3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-02T02:30:46Z",
+  "fetched_at": "2026-08-19T12:35:56Z"
+}

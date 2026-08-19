@@ -1,0 +1,26 @@
+{
+  "barcode": "8906009534794",
+  "name": "7 Grain Breakfast cookie",
+  "brand": "Max Protein",
+  "quantity": "",
+  "categories": [
+    "en:Protein-cookie"
+  ],
+  "ingredients": "Protein Blend (25%) (High Protei Peanut Flour, Whey Protein Concentrate, Wheat Protein, Soy Protein Isolate), Compound Chips (16%) (Sugar, Edible Vegetable Fa Chips(16%) (Hydrogenated), Cocoa Solids, Edible Vegetable Fat (Bakery Shortening), Invert Syrup Millets \u0026 Pulses Blend (Wheat Flour, Oats Flour Quinoa Flour, Bengal Gram Flour, Ragi Flour Corn Flour, Amaranth Puff), Dietary Fiber (Fructooligosacharide), Condensed Milk, Sugar Humectant (Glycerine), Tribasic Calcium Phosphate, Cocoa Powder, Leavening Agent (Baking Soda), Binding Agent (Gum Acacia Xanthan Gum), Emulsifier (INS471, INS472e, INS322(i) - Soy Lecithin), Salt, Antioxidant (Rosemary Extract).",
+  "per_100g": {
+    "energy_kcal": 478.181818181818,
+    "fat": 24.9090909090909,
+    "saturated_fat": 158.181818181818,
+    "carbohydrates": 14.7272727272727,
+    "sugars": 18.1818181818182,
+    "fiber": 7.27272727272727,
+    "protein": 18.1818181818182,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-11T16:49:46Z",
+  "fetched_at": "2026-08-19T01:58:38Z"
+}

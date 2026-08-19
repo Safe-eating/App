@@ -1,0 +1,35 @@
+{
+  "barcode": "8906010500214",
+  "name": "Balaji Wafers Sev Murmura",
+  "brand": "Balaji Wafers",
+  "quantity": "25g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:puffed-grains",
+    "en:puffed-cereals",
+    "en:puffed-rice"
+  ],
+  "ingredients": "PUFFED RICE (50%), CHICKPEA FLOUR (24%), EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN, CORN), RICE FLOUR, EDIBLE COMMON SALT, SPICES\u0026CONDIMENTS (TURMERIC, CHILLI, CLOVE, GINGER, ASAFOETIDA, CURRY LEAVES), REFINED WHEAT FLOUR (MAIDA), GUM ACACIA.",
+  "per_100g": {
+    "energy_kcal": 507,
+    "fat": 23.4,
+    "saturated_fat": 11,
+    "carbohydrates": 60.6,
+    "sugars": 0,
+    "fiber": 5,
+    "protein": 10.9,
+    "salt": 2.02,
+    "sodium": 0.808
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-31T17:38:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

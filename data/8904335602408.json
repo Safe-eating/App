@@ -1,0 +1,31 @@
+{
+  "barcode": "8904335602408",
+  "name": "Coffe Rush 10g Protein Bar",
+  "brand": "Yoga Bar",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-bars"
+  ],
+  "ingredients": "Date Paste (39%), Soy Crisps, Date Syrup, Dark Chocolate Paste (Sugar, Edible Vegetable Fat, Cocoa Solids, Soy Lecithin \u0026 Natural Flavours), Texturized Soy Protein Flakes, Almond (Butter, Dices), Cashew Paste, Milk Protein Concentrate, Peanut Protein, Skim Milk Powder, Peanut Butter, Coffee Powder (2%), Cocoa Powder, Cranberry, Whey Protein Concentrate, Oats Flour, Glycerine, Natural Flavours (Coffee, Rosemary Extract), Himalayan Pink Salt.",
+  "per_100g": {
+    "energy_kcal": 348,
+    "fat": 8.6,
+    "saturated_fat": 3.8,
+    "carbohydrates": 52,
+    "sugars": 39.6,
+    "fiber": 7.8,
+    "protein": 20,
+    "salt": 0.4,
+    "sodium": 0.189
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-02T16:39:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

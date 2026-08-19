@@ -1,0 +1,31 @@
+{
+  "barcode": "8901088772433",
+  "name": "Saffola Masala Millets",
+  "brand": "Saffola",
+  "quantity": "35g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "Multigrain Mix (64.5Millet (41.1%) (Sorghum Milles, Pearl Millet Flakes}, Oats Flakes], Potato Flakes, Seasonmugar, lodised Salysed Vegetable Protein, Spices and Condiments\u0026quot;, Starch, Acidity Malic acid), Potassium Chloride, Flavour enhancers (627, 631), Yeast ext sat Fiber], Dehydrated Vegetables (8.2%) [Carrot (2.8%), Onion (2.6%), French beans (...). Green Peas (0.5%)], Refined Rice bran Oil, Natural \u0026 Nature Identical Flavouring Substance, Masala Mix *Contains Turmeric, Coriander, Black Pepper, Cinnamon and Clove",
+  "per_100g": {
+    "energy_kcal": 377.142857142857,
+    "fat": 8.85714285714286,
+    "saturated_fat": 1.71428571428571,
+    "carbohydrates": 70.2857142857143,
+    "sugars": 5.71428571428571,
+    "fiber": 8.28571428571429,
+    "protein": 8,
+    "salt": 3.21428571428571,
+    "sodium": 1.28571428571429
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-03T06:58:47Z",
+  "fetched_at": "2026-08-19T00:36:53Z"
+}

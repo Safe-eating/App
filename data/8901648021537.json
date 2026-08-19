@@ -1,0 +1,33 @@
+{
+  "barcode": "8901648021537",
+  "name": "Classic Curd",
+  "brand": "Mother Diary",
+  "quantity": "100 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:curd"
+  ],
+  "ingredients": "Toned Milk Water, Milk Solids and Active Lactic Culture 100 g \u0026 Per Serve \u0026 ROL Energy: 62 lical (3.1% RDA); Protein:  g Carbohydrate: 5 Total Surgars: 5gr Added Sugars: 0.0 g (0% RDA);Total Fat 3 g (4.5% RDA); Saturated Fat: 2.1 g (9.5% RDA); Cholesterol:  mg Cacium: 168 mg Sodium: 47.6 mg (2.4% RDA) Serving Sa: 100 g Number of Servings in the Pack 2 Provides Calcium Goor for strong Bones and Teeth Supes Proteins Hey maintain active life and growth P Tasty and Delicious Everybody loves it! NET QUANTITY: He Digestion Supports digestive system in gut PT 200 g $ PS RECYCLABLE",
+  "per_100g": {
+    "energy_kcal": 62,
+    "fat": 3,
+    "saturated_fat": 2.1,
+    "carbohydrates": 5,
+    "sugars": 5,
+    "fiber": null,
+    "protein": 3.7,
+    "salt": 0.119,
+    "sodium": 0.0476
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T14:01:58Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

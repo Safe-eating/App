@@ -1,0 +1,31 @@
+{
+  "barcode": "8906091685053",
+  "name": "Dark Chocolate 87%",
+  "brand": "Paul and Mike",
+  "quantity": "68g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:dark-chocolate-bar"
+  ],
+  "ingredients": "Fine Flavoured Cocoa Beans, Muscovado Sugar, Cocoa Butter",
+  "per_100g": {
+    "energy_kcal": 602,
+    "fat": 42.6666666666667,
+    "saturated_fat": 25.3333333333333,
+    "carbohydrates": 44.6666666666667,
+    "sugars": 13.6666666666667,
+    "fiber": null,
+    "protein": 10,
+    "salt": 0.09,
+    "sodium": 0.036
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-24T20:27:39Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

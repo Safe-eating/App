@@ -1,0 +1,24 @@
+{
+  "barcode": "8906004564741",
+  "name": "Chips Piri Piri Flavour",
+  "brand": "Yellow Diamond",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 538.9,
+    "fat": 32.02,
+    "saturated_fat": 12.62,
+    "carbohydrates": 54.88,
+    "sugars": 2.34,
+    "fiber": null,
+    "protein": 7.8,
+    "salt": 2.33525,
+    "sodium": 0.9341
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-09T17:35:32Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

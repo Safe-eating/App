@@ -1,0 +1,26 @@
+{
+  "barcode": "8906080234224",
+  "name": "IKC Dry Fruit Kachori",
+  "brand": "IKC",
+  "quantity": "300g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Maida Flour (65%), Garam Masala (12.5%), Cottonseed Oil (10%), Moong Dal (7%), Sugar (2%), lodised Salt (1.05%), Noix De Cajou, Raisins Secs.",
+  "per_100g": {
+    "energy_kcal": 510,
+    "fat": 29,
+    "saturated_fat": 13,
+    "carbohydrates": 50,
+    "sugars": 12,
+    "fiber": 4,
+    "protein": 11,
+    "salt": 1.45,
+    "sodium": 0.58
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-01T05:16:25Z",
+  "fetched_at": "2026-08-19T12:44:09Z"
+}

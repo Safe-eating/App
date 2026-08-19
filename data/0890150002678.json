@@ -1,0 +1,30 @@
+{
+  "barcode": "0890150002678",
+  "name": "Barramundi",
+  "brand": "The Better Fish",
+  "quantity": "113g",
+  "categories": [
+    "en:seafood",
+    "en:fishes-and-their-products",
+    "en:fishes",
+    "en:lean-fishes",
+    "en:ocean-farmed-fish"
+  ],
+  "ingredients": "barramundi",
+  "per_100g": {
+    "energy_kcal": 88.4955752212389,
+    "fat": 1.32743362831858,
+    "saturated_fat": 0.442477876106195,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 18.5840707964602,
+    "salt": 0.0775,
+    "sodium": 0.0309734513274336
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-06T22:41:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,35 @@
+{
+  "barcode": "8901088155496",
+  "name": "Saffola oats",
+  "brand": "Saffola",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats"
+  ],
+  "ingredients": "Rolled Oats",
+  "per_100g": {
+    "energy_kcal": 369,
+    "fat": 8,
+    "saturated_fat": 1.6,
+    "carbohydrates": 66.8,
+    "sugars": 0.5,
+    "fiber": 10.4,
+    "protein": 12.6,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-03T07:02:31Z",
+  "fetched_at": "2026-08-19T00:36:24Z"
+}

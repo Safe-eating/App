@@ -1,0 +1,27 @@
+{
+  "barcode": "8901725110536",
+  "name": "Ready To Cook Chapati",
+  "brand": "Aashirvaad",
+  "quantity": "",
+  "categories": [
+    "en:meals",
+    "en:dough-based-meals-ready"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 250,
+    "fat": 5.5,
+    "saturated_fat": 0.8,
+    "carbohydrates": 46.5,
+    "sugars": 5.1,
+    "fiber": 9.3,
+    "protein": 8.3,
+    "salt": 0.81,
+    "sodium": 0.324
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-08T04:37:49Z",
+  "fetched_at": "2026-08-19T01:05:55Z"
+}

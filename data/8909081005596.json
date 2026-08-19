@@ -1,0 +1,26 @@
+{
+  "barcode": "8909081005596",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "CEREALS AND PULSE MIX (RICE GRIS CORN GRITS, BENGAL GRAM GRITS AND PEA GRI VEGETABLE OIL, SUGAR, IODIZED SALT, SPICES AND CONDIMENTS, ACIDITY REGULATOR (CITRIC ACID), NATURE IDENTICAL FLAVOURING SUBSTANCES, CITRUS AURANTIFOLIA JUICE POWDER, FRUCTOSE, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES AND FLAVOUR ENHANCER (635). \u0026quot;TO KNOW THE SPECIFIC TYPE OF OIL USED, MATCH THE SYMBOL (AOR) WITH THE LAST CHARACTER OF BATCH NUMBER WHEREIN A DENOTE REFINED PALMOLEIN AND AA DENOTES REFINED RICE BRAN OIL. USED AS FLAVOURING AGENTS. \u0026quot;INCLUDES GARLIC CONTAINS WHEAT. MAY CONTAIN SOY, MILK, BARLEY.",
+  "per_100g": {
+    "energy_kcal": 535,
+    "fat": 31.5,
+    "saturated_fat": 14,
+    "carbohydrates": 58.5,
+    "sugars": 4.5,
+    "fiber": null,
+    "protein": 6,
+    "salt": 2830,
+    "sodium": 1132
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-25T04:05:46Z",
+  "fetched_at": "2026-08-19T13:23:06Z"
+}

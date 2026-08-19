@@ -1,0 +1,32 @@
+{
+  "barcode": "8901058028935",
+  "name": "Milkybar Choo",
+  "brand": "Nestle",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:candy-chocolate-bars"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 434,
+    "fat": 15.4,
+    "saturated_fat": 14.7,
+    "carbohydrates": 68.9,
+    "sugars": 55.4,
+    "fiber": null,
+    "protein": 4.8,
+    "salt": 0.14975,
+    "sodium": 0.0599
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-11T07:09:56Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

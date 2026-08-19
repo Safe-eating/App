@@ -1,0 +1,35 @@
+{
+  "barcode": "8901491503020",
+  "name": "India's Magic Masala",
+  "brand": "Lay's",
+  "quantity": "30.5g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:potato-crisps",
+    "en:flavoured-potato-crisps"
+  ],
+  "ingredients": "Potato (83%), Edible Vegetable Oil, *Seasoning (Spices and condiments, Maltodextrin, lodised Salt, Sugar, Flavour (Natural and Nature Identical Flavouring Substances), Edible Vegetable Oil (Sunflower Oil, Palm Oil), Flavour Enhancers (627, 631)).",
+  "per_100g": {
+    "energy_kcal": 531,
+    "fat": 33,
+    "saturated_fat": 14.9,
+    "carbohydrates": 51.9,
+    "sugars": 1.6,
+    "fiber": null,
+    "protein": 6.6,
+    "salt": 1.6925,
+    "sodium": 0.677
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-18T11:34:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

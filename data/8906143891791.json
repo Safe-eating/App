@@ -1,0 +1,24 @@
+{
+  "barcode": "8906143891791",
+  "name": "Mango Whey Protein",
+  "brand": "The Wholetruth",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 395.142857142857,
+    "fat": 4,
+    "saturated_fat": 2.28571428571429,
+    "carbohydrates": 19.4285714285714,
+    "sugars": 12,
+    "fiber": 4,
+    "protein": 70.5714285714286,
+    "salt": 0.807857142857143,
+    "sodium": 0.147142857142857
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-17T05:52:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

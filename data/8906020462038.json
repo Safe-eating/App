@@ -1,0 +1,24 @@
+{
+  "barcode": "8906020462038",
+  "name": "High Protein Bread",
+  "brand": "Baker's Loaf",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 241.64,
+    "fat": 2.71,
+    "saturated_fat": 0.61,
+    "carbohydrates": 39.12,
+    "sugars": 4.04,
+    "fiber": 6.2,
+    "protein": 15.19,
+    "salt": 0.968525,
+    "sodium": 0.38741
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-11T08:20:37Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

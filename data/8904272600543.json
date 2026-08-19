@@ -1,0 +1,33 @@
+{
+  "barcode": "8904272600543",
+  "name": "Storia pomegranate 180ml pet",
+  "brand": "Storia",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars",
+    "en:fruit-juices",
+    "en:fruit-based"
+  ],
+  "ingredients": "sugar",
+  "per_100g": {
+    "energy_kcal": 45,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 11.2,
+    "sugars": 11.2,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.15,
+    "sodium": 0.06
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-18T09:37:45Z",
+  "fetched_at": "2026-08-19T01:39:51Z"
+}

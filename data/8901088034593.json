@@ -1,0 +1,37 @@
+{
+  "barcode": "8901088034593",
+  "name": "SAFOLA ACTIVE - MULTI-SOURCE EDIBLE OIL",
+  "brand": "Saffola",
+  "quantity": "1l",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:cereals-and-potatoes",
+    "en:fats",
+    "en:cereals-and-their-products",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:cereal-oils",
+    "en:legume-oils",
+    "en:rice-bran-oils",
+    "en:soybean-oils"
+  ],
+  "ingredients": "PHYSICALLY REFINED RICE BRAN OIL, REFINED SOYA BEAN OIL, ANTIOXIDANTS (INS 319, 330), VITAMINS, ANTI FOAMING AGENT (INS 900a).",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 22,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-17T12:23:31Z",
+  "fetched_at": "2026-08-19T00:35:46Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8906059240911",
+  "name": "moti special mixture",
+  "brand": "",
+  "quantity": "500gm",
+  "categories": [
+    "en:Namkeen"
+  ],
+  "ingredients": "Chickpea Flour (48%), Edible Vegetable Oil (Palmolein Oil), Corn Flakes, Rice Flakes, Red Peanuts, Rice Flour, Sugar, Salt, Red Chilli Powder, Turmeric Powder, Black Salt, Spices and Condiments.  Contains Peanut",
+  "per_100g": {
+    "energy_kcal": 578.63,
+    "fat": 39.75,
+    "saturated_fat": 20.04,
+    "carbohydrates": 43.37,
+    "sugars": 10.25,
+    "fiber": null,
+    "protein": 11.85,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-17T12:21:28Z",
+  "fetched_at": "2026-08-19T12:38:53Z"
+}

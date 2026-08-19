@@ -1,0 +1,24 @@
+{
+  "barcode": "8908025188173",
+  "name": "Hot Chocolate Fudge",
+  "brand": "Get-A-Way",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 146.666666666667,
+    "fat": 5.2,
+    "saturated_fat": 3.20666666666667,
+    "carbohydrates": 22.8333333333333,
+    "sugars": 8.38666666666667,
+    "fiber": 0.893333333333333,
+    "protein": 2.28666666666667,
+    "salt": 0.353333333333333,
+    "sodium": 0.141333333333333
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-12T18:48:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

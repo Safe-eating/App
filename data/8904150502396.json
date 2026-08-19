@@ -1,0 +1,26 @@
+{
+  "barcode": "8904150502396",
+  "name": "Pillsbury cookie cake - choco nut butter",
+  "brand": "Pillsbury",
+  "quantity": "22 g",
+  "categories": [
+    "en:Cookie cake"
+  ],
+  "ingredients": "Wheat Hor,Gucse Syrup, Sugar, Edible Vegetable Oil Palm), Detrose, Water, Dank choco drizle 6.3%)(Sugar,Hydrogenated Vegetable at Palm), oca Solid, Futose,Emulifier Humedtant (NS42), Cashew favured dips )(uga, Hydrngenated Vegetabe at Palm) Compound ONSIZ), Milk Solids\u0026Emulsifier (NS52),Maltodextrin, ik solits 2.3),leavenig agents (NS410, NSO (INSATI, INSA75, INSA3), Butter 05%), Food colours(NSI50, NSTIO), Stablizer (NS41, NA1), VitaminD INS3410, Modfied starch (NSI42), Starch, ashew Nuts (1), oied Salt, Cacum Carbonate, Emulifier",
+  "per_100g": {
+    "energy_kcal": 383,
+    "fat": 12.4,
+    "saturated_fat": 10,
+    "carbohydrates": 63,
+    "sugars": 35,
+    "fiber": null,
+    "protein": 4.8,
+    "salt": 1.21412,
+    "sodium": 0.485648
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-02-11T11:26:35Z",
+  "fetched_at": "2026-08-19T01:38:42Z"
+}

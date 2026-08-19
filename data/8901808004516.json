@@ -1,0 +1,28 @@
+{
+  "barcode": "8901808004516",
+  "name": "Pasta Sauce Red Tangy Salsa",
+  "brand": "WeiKFiELD",
+  "quantity": "200 g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:pasta-sauces"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 65,
+    "fat": 0.7,
+    "saturated_fat": 0.3,
+    "carbohydrates": 13.3,
+    "sugars": 12.2,
+    "fiber": null,
+    "protein": 1.1,
+    "salt": 3,
+    "sodium": 1.2
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-24T05:11:35Z",
+  "fetched_at": "2026-08-19T01:10:02Z"
+}

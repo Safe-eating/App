@@ -1,0 +1,36 @@
+{
+  "barcode": "8909081002083",
+  "name": "Bingo Potato Chips Himalayan Pink Salt",
+  "brand": "Bingo",
+  "quantity": "42g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "POTATO (63.8%), REFINED PALMOLEIN, HIMALAYAN PINK SALT (1.6%), AND BEET ROOT POWDER.",
+  "per_100g": {
+    "energy_kcal": 552,
+    "fat": 34.3,
+    "saturated_fat": 15.1,
+    "carbohydrates": 54.2,
+    "sugars": 0.8,
+    "fiber": 0,
+    "protein": 8.3,
+    "salt": 0.6325,
+    "sodium": 0.253
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-08T15:05:27Z",
+  "fetched_at": "2026-08-19T13:23:00Z"
+}

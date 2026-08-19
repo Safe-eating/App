@@ -1,0 +1,32 @@
+{
+  "barcode": "8909106034938",
+  "name": "Magnum Chocolate Truffle",
+  "brand": "Kwality Walls",
+  "quantity": "63g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:frozen-sticks",
+    "en:ice-creams",
+    "en:ice-cream-bars"
+  ],
+  "ingredients": "ICE CREAM (50.8%) WATER, COCOA POWDER, MILK SOLIDS, EDIBLE COCONUT OIL, CHOCOLATE, EMULSIFIER (E471), STABILISER (E410)), MILK SOLIDS, SUGAR, COCOA SOLIDS, LIQUID GLUCOSE, EMULSIFIER (E471), STABILISERS (E410, E412, E407), NATURE IDENTICAL FLAVOURING SUBSTANCE. OUTER LAYER (30.2%): BLENDED CHOCOLATE (15.1%) (SUGAR, COCOA BUTTER, COCOA SOLIDS, MILK SOLIDS, EMULSIFIER (E322), VANILLIN), MILK COMPOUND COATING (15.1%) (SUGAR, COCOA SOLIDS, COCOA BUTTER, MILK SOLIDS, COCONUT OIL, EMULSIFIER (E322), VANILLIN). CONTAINS MILK AND SOY. MAY CONTAIN TRACES OF WHEAT AND NUTS. *BLENDED CHOCOLATE IS BELGIAN CHOCOLATE.",
+  "per_100g": {
+    "energy_kcal": 322.222222222222,
+    "fat": 19.8412698412698,
+    "saturated_fat": 12.8571428571429,
+    "carbohydrates": 31.7460317460317,
+    "sugars": 26.031746031746,
+    "fiber": 2.38095238095238,
+    "protein": 4.6031746031746,
+    "salt": 0.178571428571429,
+    "sodium": 0.0714285714285714
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-10T08:27:25Z",
+  "fetched_at": "2026-08-19T13:23:59Z"
+}

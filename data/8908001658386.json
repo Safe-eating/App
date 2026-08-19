@@ -1,0 +1,28 @@
+{
+  "barcode": "8908001658386",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:energy-drinks"
+  ],
+  "ingredients": "Water. Sucrose, Glucose, Carbon dioxide 23 Acidulant Citric Acid (INS 330). Taurine, Acidity Agulator 15 Sodium Citrate (INS 331) \u0026 Magnesium Carbonate (INS 504 Colo Caramel (INS 150a). Caffeine. Glucuronolactone Inosital. Vitamins (B3, B5, B6. B2 \u0026 B12). CONTAINS PERMITTED NATURAL COLOUR (CARAMEL) \u0026 ADDED NATURE IDENTICAL FLAVOURING SUBSTANCES (MIXED FRUIT FLAVOUR) BRAND OWNER\u0026MARKETED BY: Ocean Drinks Pvt. Ltd B-869. Sarkar Heritage, JPKS Complex, Kane Road Bandra (W), Mumbai-400050. MS. INDIA Issai Lic. No. 115150060005 Gear",
+  "per_100g": {
+    "energy_kcal": 48,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 11,
+    "sugars": 11,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-20T06:00:43Z",
+  "fetched_at": "2026-08-19T13:06:29Z"
+}

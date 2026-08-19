@@ -1,0 +1,31 @@
+{
+  "barcode": "8901095000017",
+  "name": "Society tea",
+  "brand": "Society",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:hot-beverages",
+    "en:plant-based-beverages",
+    "en:teas"
+  ],
+  "ingredients": "Tea",
+  "per_100g": {
+    "energy_kcal": 0.063,
+    "fat": 0.007,
+    "saturated_fat": 0.002,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.0041,
+    "sodium": 0.00165
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-26T06:49:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8904063282286",
+  "name": "Haldiram's Nuts Plain Almonds",
+  "brand": "Haldiram's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:almonds",
+    "en:Dry Fruit"
+  ],
+  "ingredients": "Almonds",
+  "per_100g": {
+    "energy_kcal": 567,
+    "fat": 50,
+    "saturated_fat": 3.33,
+    "carbohydrates": 20,
+    "sugars": 3.33,
+    "fiber": 13.3,
+    "protein": 20,
+    "salt": 0.00375,
+    "sodium": 0.0015
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-03T16:24:58Z",
+  "fetched_at": "2026-08-19T01:31:27Z"
+}

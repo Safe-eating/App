@@ -1,0 +1,29 @@
+{
+  "barcode": "8904272904566",
+  "name": "Dinoo's Makhana Sour Cream \u0026 Onion",
+  "brand": "Dinoo's",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:fox-nuts"
+  ],
+  "ingredients": "Foxnuts. Refined Palmolein Oil, Salt, Onion Powder, Milk Solids. Parsley. (E330), Flavour Enhancer (E627, E631)",
+  "per_100g": {
+    "energy_kcal": 453.571428571429,
+    "fat": 14.2857142857143,
+    "saturated_fat": 3.57142857142857,
+    "carbohydrates": 71.4285714285714,
+    "sugars": 3.57142857142857,
+    "fiber": 10.7142857142857,
+    "protein": 7.14285714285714,
+    "salt": 1.33035714285714,
+    "sodium": 0.532142857142857
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-22T02:59:42Z",
+  "fetched_at": "2026-08-19T01:40:15Z"
+}

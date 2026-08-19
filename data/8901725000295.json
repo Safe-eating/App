@@ -1,0 +1,30 @@
+{
+  "barcode": "8901725000295",
+  "name": "Sunfast glucose 1 kg",
+  "brand": "Sunfeast",
+  "quantity": "1kg(1pkt)",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida) (62.5%), Sugar, Refined Palm Oil, Invert Syrup, Raising Agents [ins 503(ii), Ins 500(ii)], Iodized Salt, Liquid Glucose (0.2%), Milk Solids (0.2%), Emulsifiers [lecithin (From Soyabean), Diacetyl Tartaric Acid Ester Of Mono-diglycerides (from Sunflower \u0026 Palm Oil)], Artificial Flavouring Substances (Vanilla, Cream, Milk, Sweet), Vitamin \u0026 Mineral (0.02%) And Flour Treatment Agent (Ins 223) And Colours (Ins 102, Ins 124). Contains Wheat, Milk, Soy, Sulphites, May Contains Nuts.",
+  "per_100g": {
+    "energy_kcal": 440,
+    "fat": 10.6,
+    "saturated_fat": 5.3,
+    "carbohydrates": 79,
+    "sugars": 27.7,
+    "fiber": null,
+    "protein": 7.1,
+    "salt": 1.053,
+    "sodium": 0.4212
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-18T11:08:29Z",
+  "fetched_at": "2026-08-19T01:02:54Z"
+}

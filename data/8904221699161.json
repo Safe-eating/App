@@ -1,0 +1,24 @@
+{
+  "barcode": "8904221699161",
+  "name": "Natural Peanut Butter, Creamy",
+  "brand": "asitis",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 640.625,
+    "fat": 50.9375,
+    "saturated_fat": 11.25,
+    "carbohydrates": 19.40625,
+    "sugars": 4.0625,
+    "fiber": null,
+    "protein": 25.78125,
+    "salt": 0.1125,
+    "sodium": 0.045
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-22T10:32:44Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

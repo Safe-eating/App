@@ -1,0 +1,31 @@
+{
+  "barcode": "8906016413112",
+  "name": "Thick Shake Chocolate Flavour",
+  "brand": "Godrej Jersey",
+  "quantity": "180 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:chocolate-milks"
+  ],
+  "ingredients": "Milk solids, Sugar, Cocoa solids (1.4%), Stabilizers and Emulsifiers (INS 407, INS 412 \u0026 INS 471), Sequestrants (INS 331(iii) \u0026 INS 339(ii), lodized Salt, Nature Identical Flavouring Substanca (Chocolate)",
+  "per_100g": {
+    "energy_kcal": 109,
+    "fat": 3,
+    "saturated_fat": 2.4,
+    "carbohydrates": 17.3,
+    "sugars": 16.8,
+    "fiber": null,
+    "protein": 3.2,
+    "salt": 0.11025,
+    "sodium": 0.0441
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-18T06:52:19Z",
+  "fetched_at": "2026-08-19T02:04:45Z"
+}

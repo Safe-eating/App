@@ -1,0 +1,30 @@
+{
+  "barcode": "8904071700376",
+  "name": "Farali potato Chivda",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 549.45054945055,
+    "fat": 34.065934065934,
+    "saturated_fat": 13.186813186813,
+    "carbohydrates": 51.648351648352,
+    "sugars": 3.2967032967033,
+    "fiber": 4.3956043956044,
+    "protein": 9.8901098901099,
+    "salt": 0.68681325,
+    "sodium": 0.2747253
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-25T14:21:44Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

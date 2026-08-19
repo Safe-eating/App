@@ -1,0 +1,35 @@
+{
+  "barcode": "8908004415177",
+  "name": "MARCO CRUNCHY PEANUT BUTTER",
+  "brand": "Marco",
+  "quantity": "410 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:nuts-and-their-products",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:nut-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Roasted Peanut, Sugar, Salt, Hydrogenated soya oil",
+  "per_100g": {
+    "energy_kcal": 209,
+    "fat": 17,
+    "saturated_fat": 2,
+    "carbohydrates": 6,
+    "sugars": 2,
+    "fiber": 1,
+    "protein": 8,
+    "salt": 0.1625,
+    "sodium": 0.065
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-14T18:59:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

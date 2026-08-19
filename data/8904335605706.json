@@ -1,0 +1,32 @@
+{
+  "barcode": "8904335605706",
+  "name": "High Protein Oats Banana Creme",
+  "brand": "Yoga Bar",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 334,
+    "fat": 6.4,
+    "saturated_fat": 1.2,
+    "carbohydrates": 47.8,
+    "sugars": 9.8,
+    "fiber": 9.2,
+    "protein": 26,
+    "salt": 0.809,
+    "sodium": 0.3236
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-01T11:14:46Z",
+  "fetched_at": "2026-08-19T01:44:59Z"
+}

@@ -1,0 +1,41 @@
+{
+  "barcode": "8000500126936",
+  "name": "Ferrero Rocher",
+  "brand": "Ferrero rocher",
+  "quantity": "50 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:cocoa-and-its-products",
+    "en:festive-foods",
+    "en:biscuits",
+    "en:christmas-foods-and-drinks",
+    "en:chocolates",
+    "en:chocolate-biscuits",
+    "en:crispy-biscuits",
+    "en:filled-biscuits",
+    "en:sandwich-biscuits",
+    "en:biscuits-with-nuts",
+    "en:chocolate-sandwich-cookies",
+    "en:neules"
+  ],
+  "ingredients": "MILK CHOCOLATE (30%) (SUGAR, COCOA BhUTTER, COCOA MASS, SKIMMED MILK POWDER, ANHYDROUS MILKFAT, EMULSIFIER: LECITHIN - INS 322, NATURE IDENTICAL FLAVOURING SUBSTANCE VANILLIN), HAZELNUTS (28.5%), SUGAR, PALM OIL, REFINED WHEAT FLOUR (MAIDA), WHEY POWDER, LOW FAT COCOA POWDER, EMULSIFIER (LECITHIN-INS 322), RAISING AGENT (INS 500ii), EDIBLE COMMON SALT, NATURE IDENTICAL FLAVOURING SUBSTANCE - VANILLIN.  ALLERGEN INFORMATION: Contains MILK, Fat NUT, WHEAT, SOY.",
+  "per_100g": {
+    "energy_kcal": 584,
+    "fat": 40,
+    "saturated_fat": 16,
+    "carbohydrates": 48,
+    "sugars": 40,
+    "fiber": 0,
+    "protein": 8,
+    "salt": 0.2,
+    "sodium": 0.08
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T06:56:48Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8906007284097",
+  "name": "King's soyabean oil",
+  "brand": "King's, adani wilmar",
+  "quantity": "15 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:fats",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:legume-oils",
+    "en:soybean-oils"
+  ],
+  "ingredients": "Refined Soyabean Oil, Permitted Antioxidant - TBHQ (E-319), Vitamin A and Vitamin D",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 21,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-13T11:47:57Z",
+  "fetched_at": "2026-08-19T01:54:53Z"
+}

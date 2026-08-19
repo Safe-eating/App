@@ -1,0 +1,31 @@
+{
+  "barcode": "8906020580169",
+  "name": "Coriander Chutney",
+  "brand": "Id",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:chutneys",
+    "en:refrigerated-chutneys"
+  ],
+  "ingredients": "ONION, CORIANDER, RO-PURIFIED WATER, SUNFLOWER OIL, GREEN CHILLI, COCONUT, URAD DAL, CHANA DAL, IODIZED SALT, TAMARIND, PEANUT, GARLIC, GINGER AND CURRY LEAVES.",
+  "per_100g": {
+    "energy_kcal": 155.91,
+    "fat": 12.88,
+    "saturated_fat": 1.59,
+    "carbohydrates": 7.38,
+    "sugars": 3.02,
+    "fiber": null,
+    "protein": 2.63,
+    "salt": 1.1448,
+    "sodium": 0.45792
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-17T00:14:18Z",
+  "fetched_at": "2026-08-19T02:07:58Z"
+}

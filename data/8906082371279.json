@@ -1,0 +1,30 @@
+{
+  "barcode": "8906082371279",
+  "name": "Kesar Pista Kulfi",
+  "brand": "Cream Pot",
+  "quantity": "70 ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Milk, Sugar, Roasted Pistachio, Saffron, Permitted Synthetic Food Colours (E102, E110) and Artificial Flavouring Substances (Saffron, Cardamom).",
+  "per_100g": {
+    "energy_kcal": 161,
+    "fat": 7.8,
+    "saturated_fat": 5.1,
+    "carbohydrates": 18,
+    "sugars": 13.3,
+    "fiber": 0.3,
+    "protein": 5,
+    "salt": 0.07925,
+    "sodium": 0.0317
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-09T15:42:20Z",
+  "fetched_at": "2026-08-19T12:47:20Z"
+}

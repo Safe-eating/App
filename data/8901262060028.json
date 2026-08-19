@@ -1,0 +1,32 @@
+{
+  "barcode": "8901262060028",
+  "name": "Spicy Garlic Cheese Spread",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:spreads",
+    "en:cheeses",
+    "en:salted-spreads",
+    "en:cheese-spreads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 276,
+    "fat": 20,
+    "saturated_fat": 13,
+    "carbohydrates": 12.8,
+    "sugars": 12.8,
+    "fiber": null,
+    "protein": 11.2,
+    "salt": 2.25,
+    "sodium": 0.9
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-19T13:49:53Z",
+  "fetched_at": "2026-08-19T00:42:04Z"
+}

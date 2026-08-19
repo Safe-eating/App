@@ -1,0 +1,36 @@
+{
+  "barcode": "8901764061257",
+  "name": "Diet Coke Can 250ml",
+  "brand": "Coke",
+  "quantity": "4",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:non-alcoholic-beverages",
+    "en:carbonated-drinks",
+    "en:soft-drinks",
+    "en:artificially-sweetened-beverages",
+    "en:sodas",
+    "en:diet-beverages",
+    "en:colas",
+    "en:diet-sodas",
+    "en:diet-cola-soft-drink"
+  ],
+  "ingredients": "CARBONATED WATER, ACIDITY REGULATOR (338), SWEETENERS (951,950), PRESERVATIVE (211), CAFFEINE. CONTAINS PERMITTED NATURAL COLOUR (150d) AND ADDED FLAVOURS (NATURAL FLAVOURING SUBSTANCÉS).",
+  "per_100g": {
+    "energy_kcal": 0,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.02075,
+    "sodium": 0.0083
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-22T10:19:31Z",
+  "fetched_at": "2026-08-19T01:08:28Z"
+}

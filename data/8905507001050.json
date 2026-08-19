@@ -1,0 +1,29 @@
+{
+  "barcode": "8905507001050",
+  "name": "Imli Tree Red Stuffed Chilli Pickle",
+  "brand": "Imli Tree",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles",
+    "en:plant-based-pickles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 250,
+    "fat": 21,
+    "saturated_fat": 3,
+    "carbohydrates": 9,
+    "sugars": 0.5,
+    "fiber": null,
+    "protein": 7,
+    "salt": 8.305,
+    "sodium": 3.322
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-18T16:28:26Z",
+  "fetched_at": "2026-08-19T01:47:11Z"
+}

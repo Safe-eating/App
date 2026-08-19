@@ -1,0 +1,29 @@
+{
+  "barcode": "5056784900093",
+  "name": "Orange Dreamsicle",
+  "brand": "Monster",
+  "quantity": "500ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:energy-drinks",
+    "en:Enter"
+  ],
+  "ingredients": "CARBONATED WATER, SUCROSE, GLUCOSE SYRUP, ACID (CITRIC ACID), TAURINE (0.4%), ACIDITY REGULATOR (SODIUM CITRATES), FLAVOURINGS, PANAX GINSENG ROOT EXTRACT (0.08%), PRESERVATIVES (POTASSIUM SORBATE, SODIUM BENZOATE), L-CARNITINE L-TARTRATE (0.04%), CAFFEINE (0.03%), SWEETENERS (SUCRALOSE STEVIOL GLYCOSIDES FROM STEVIA), VITAMINS (B3, B6, B2, B12), SODIUM CHLORIDE, INOSITOL, GUARANA SEED EXTRACT (0.002%), COLOURS (E 110, E129), MALTODEXTRIN.",
+  "per_100g": {
+    "energy_kcal": 27.4856596515,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 6.9,
+    "sugars": 6,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.1875,
+    "sodium": 0.075
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-29T17:41:15Z",
+  "fetched_at": "2026-08-19T00:05:41Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8901071706834",
+  "name": "HERSHEY'S SYRUP 623g",
+  "brand": "Hershey's",
+  "quantity": "623 g",
+  "categories": [
+    "en:sweeteners",
+    "en:syrups",
+    "en:simple-syrups"
+  ],
+  "ingredients": "Sugar, water, invert sugar, liquid glucose, cocoa solids (5%), malt extract, thickening agent (415), preservative (202) and salt,",
+  "per_100g": {
+    "energy_kcal": 276.5,
+    "fat": 0.56,
+    "saturated_fat": 0.5,
+    "carbohydrates": 66.6,
+    "sugars": 63.7,
+    "fiber": 0,
+    "protein": 1.27,
+    "salt": 0.1818,
+    "sodium": 0.07272
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-14T08:52:36Z",
+  "fetched_at": "2026-08-19T00:35:19Z"
+}

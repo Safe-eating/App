@@ -1,0 +1,39 @@
+{
+  "barcode": "3760010130667",
+  "name": "Biere abbaye St Erwann 7°",
+  "brand": "Britt",
+  "quantity": "12*25 cl",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:alcoholic-beverages",
+    "en:beers",
+    "en:ales",
+    "en:lagers",
+    "en:artisan-products",
+    "en:country-specific-beers",
+    "en:artisanal-spirits",
+    "en:blonde-ales",
+    "en:french-beers",
+    "en:abbey-ales",
+    "en:brittany-beers",
+    "en:craft-beers"
+  ],
+  "ingredients": "Eau, malt d'_orge_, malt de _froment_, _millet_, _avoine_, sarrasin, _épeautre_, _seigle_, houblon, épices, levures.",
+  "per_100g": {
+    "energy_kcal": 46,
+    "fat": 2.2,
+    "saturated_fat": 0.51,
+    "carbohydrates": 2.2,
+    "sugars": 0.6,
+    "fiber": null,
+    "protein": 0.6,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-20T08:14:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

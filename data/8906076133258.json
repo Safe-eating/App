@@ -1,0 +1,24 @@
+{
+  "barcode": "8906076133258",
+  "name": "Protein Chips",
+  "brand": "The Bakers Dozen",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 431.111111111111,
+    "fat": 8.88888888888889,
+    "saturated_fat": 0,
+    "carbohydrates": 64.4444444444444,
+    "sugars": 2.22222222222222,
+    "fiber": 6.66666666666667,
+    "protein": 22.2222222222222,
+    "salt": 1.52777777777778,
+    "sodium": 0.611111111111111
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-03T12:33:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

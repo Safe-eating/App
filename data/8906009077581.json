@@ -1,0 +1,31 @@
+{
+  "barcode": "8906009077581",
+  "name": "Choco Kiss Cookies",
+  "brand": "Unibic",
+  "quantity": "75g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "Choco Cream (36%) [Sugar, Vegetable Fat, Cocoa Solids, Emulsifiers (E322 from Soya)], Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm), Milk Solids, Golden Syrup, Cocoa Powder, Emulsifier (E322 from Soya), Leavening Agents (E503 ii, E500 ii), Salt. CONTAINS ADDED ARTIFICIAL FLAVOUR (VANILLIN). \nAllergen Advice: Contains Gluten, Milk and Soya. May contain traces of Nuts.",
+  "per_100g": {
+    "energy_kcal": 504,
+    "fat": 25,
+    "saturated_fat": 12.8,
+    "carbohydrates": 64.5,
+    "sugars": 37,
+    "fiber": null,
+    "protein": 5.3,
+    "salt": 0.4425,
+    "sodium": 0.177
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T09:40:26Z",
+  "fetched_at": "2026-08-19T01:57:28Z"
+}

@@ -1,0 +1,37 @@
+{
+  "barcode": "8904327600894",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:spreads",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:plant-based-spreads",
+    "en:chocolate-candies",
+    "en:oilseed-purees",
+    "en:nut-butter-cups",
+    "en:peanut-butter-cups"
+  ],
+  "ingredients": "Roasted Peanuts (81%), Dark Chocolate (10%), Rice Crisps (2%), Sugar, Salt, Stabilizer (INS471). Allergen Info: Contains Peanuts, Milk and Soya.",
+  "per_100g": {
+    "energy_kcal": 632,
+    "fat": 49,
+    "saturated_fat": 12,
+    "carbohydrates": 27,
+    "sugars": 10,
+    "fiber": 8,
+    "protein": 21,
+    "salt": 0.44,
+    "sodium": 0.176
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-29T18:39:00Z",
+  "fetched_at": "2026-08-19T01:43:27Z"
+}

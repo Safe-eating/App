@@ -1,0 +1,28 @@
+{
+  "barcode": "8906069401920",
+  "name": "Bhut Jolokia Hot Sauce",
+  "brand": "Veeba",
+  "quantity": "",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:hot-sauces"
+  ],
+  "ingredients": "Water, Synthetic Vinegar (Water, Acetic Acid (INS260)], Liquid Glucose, lodised Salt, Spices and Condiments, Refined Soyabean Oil, Bhut Jolokia (2.0%), Sesame Seeds, Stabilizers (INS1422, INS415), Natural Colour (INS150d), Preservative (INS211) and Natural Flavouring Substances.",
+  "per_100g": {
+    "energy_kcal": 75.67,
+    "fat": 3.91,
+    "saturated_fat": 0.64,
+    "carbohydrates": 9.65,
+    "sugars": 5.75,
+    "fiber": null,
+    "protein": 0.47,
+    "salt": 4.4,
+    "sodium": 1.76
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-15T15:30:26Z",
+  "fetched_at": "2026-08-19T12:41:38Z"
+}

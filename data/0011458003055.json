@@ -1,0 +1,28 @@
+{
+  "barcode": "0011458003055",
+  "name": "Pazzta",
+  "brand": "Maggi",
+  "quantity": "150g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 321,
+    "fat": 3,
+    "saturated_fat": 2.9,
+    "carbohydrates": 63.7,
+    "sugars": 7.2,
+    "fiber": null,
+    "protein": 9.9,
+    "salt": 1.81525,
+    "sodium": 0.7261
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-05T07:18:24Z",
+  "fetched_at": "2026-08-18T23:53:36Z"
+}

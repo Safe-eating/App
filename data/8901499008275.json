@@ -1,0 +1,26 @@
+{
+  "barcode": "8901499008275",
+  "name": "CHOCOS",
+  "brand": "Kellogg's",
+  "quantity": "10",
+  "categories": [
+    "en:Chocoe"
+  ],
+  "ingredients": "Wheat Solids (58.2%) (Wheat Flour (Aa) (29 196), Refined Wheat Flour (Maida) (29.1%)). Sugar, Com Flour, Coco Solids (2.7%, Minerals, Cereal Extract, Edible Vegetable Oil (Palmolein \u0026 Coconut Oil), lodized Salt, Colour (NS 150d). Vitamins, Antioxidant (INS 320) CONTAINS PERMITTED NATURAL COLOUR \u0026 ADDED FLAVOURS (NATURE IDENTICAL \u0026 ARTIFICIAL VANILA CREAM FLAVOURING SUBSTANCES) CONTAINS GLUTEN. MAY CONTAIN TRACES OF TREENUT. 2",
+  "per_100g": {
+    "energy_kcal": 2,
+    "fat": 3.9,
+    "saturated_fat": 3,
+    "carbohydrates": 2,
+    "sugars": 4,
+    "fiber": 1,
+    "protein": 17,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-12T03:18:51Z",
+  "fetched_at": "2026-08-19T00:52:26Z"
+}

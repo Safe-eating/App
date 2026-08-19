@@ -1,0 +1,28 @@
+{
+  "barcode": "8901826601209",
+  "name": "Verka Shakti Milk",
+  "brand": "Verka",
+  "quantity": "500 ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Milk Solids",
+  "per_100g": {
+    "energy_kcal": 71,
+    "fat": 4.5,
+    "saturated_fat": 2.9,
+    "carbohydrates": 4.7,
+    "sugars": 4.7,
+    "fiber": 0,
+    "protein": 3,
+    "salt": 0.138,
+    "sodium": 0.0552
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-13T15:28:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

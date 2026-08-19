@@ -1,0 +1,31 @@
+{
+  "barcode": "8901928753004",
+  "name": "Rich Marie",
+  "brand": "Bisk farm",
+  "quantity": "300g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:Biscut"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 413.17,
+    "fat": 13,
+    "saturated_fat": 6.2,
+    "carbohydrates": 67.2,
+    "sugars": 18.7,
+    "fiber": null,
+    "protein": 7.4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-24T16:07:04Z",
+  "fetched_at": "2026-08-19T01:11:02Z"
+}

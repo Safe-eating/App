@@ -1,0 +1,30 @@
+{
+  "barcode": "8902027006169",
+  "name": "Kitty Brown Bread",
+  "brand": "Kitty",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour {Atta) {62.2%), Sugar, Gluten, Yeast, Iodized Salt, Edible Vegetable Oil (Refined Palmolein Oil, Refined Rice Bran Oil), Milk Solids, Malt Products, Preservatives (282, 200), Emulsifier (472e), ARegulators {341(i), 270,297) and Antioxidant (300).",
+  "per_100g": {
+    "energy_kcal": 248.41,
+    "fat": 2.49,
+    "saturated_fat": 1.07,
+    "carbohydrates": 46.3,
+    "sugars": 4.91,
+    "fiber": 6.35,
+    "protein": 10.2,
+    "salt": 1.25425,
+    "sodium": 0.5017
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-27T22:39:10Z",
+  "fetched_at": "2026-08-19T01:11:11Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8906172544521",
+  "name": "Baked Strawberry Cheesecake Icecream",
+  "brand": "Huber Holly",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 146.1,
+    "fat": 7.9,
+    "saturated_fat": 4.9,
+    "carbohydrates": 16.9,
+    "sugars": 13.7,
+    "fiber": null,
+    "protein": 2.5,
+    "salt": 0.12125,
+    "sodium": 0.0485
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-08T21:36:18Z",
+  "fetched_at": "2026-08-19T13:02:21Z"
+}

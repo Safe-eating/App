@@ -1,0 +1,24 @@
+{
+  "barcode": "8901014000203",
+  "name": "Cup noodles chili chili",
+  "brand": "Nissin",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 444.49,
+    "fat": 20.3,
+    "saturated_fat": 10.19,
+    "carbohydrates": 52.3,
+    "sugars": 6.31,
+    "fiber": null,
+    "protein": 10.2,
+    "salt": 4.25,
+    "sodium": 1.7
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-19T13:56:51Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

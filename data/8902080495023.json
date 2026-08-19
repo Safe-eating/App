@@ -1,0 +1,31 @@
+{
+  "barcode": "8902080495023",
+  "name": "Sting Energy Drink",
+  "brand": "Sting Energy",
+  "quantity": "250ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:artificially-sweetened-beverages",
+    "en:energy-drinks",
+    "en:energy-drink-with-sugar",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "Carbonated Water, Sugar, Acidity regulators (330, 331), Flavour (Natural and Nature Identical Flavouring Substances), Sequesterants (452(i), 385), Taurine, Caffeine (29mg/100ml*), Preservatives (211 ,202), Sweeteners (955, 950), Colour(129), Inositol, Vitamins Premix.",
+  "per_100g": {
+    "energy_kcal": 28,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 7,
+    "sugars": 6.8,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.1025,
+    "sodium": 0.041
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-22T14:53:43Z",
+  "fetched_at": "2026-08-19T01:14:10Z"
+}

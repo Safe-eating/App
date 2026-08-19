@@ -1,0 +1,24 @@
+{
+  "barcode": "8901207035517",
+  "name": "Dabur garlic chutney",
+  "brand": "Dabur Homemade",
+  "quantity": "200g",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 189,
+    "fat": 12.4,
+    "saturated_fat": 1.6,
+    "carbohydrates": 16.6,
+    "sugars": 10.9,
+    "fiber": 4.5,
+    "protein": 3.6,
+    "salt": 0.043475,
+    "sodium": 0.01739
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-24T05:42:48Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

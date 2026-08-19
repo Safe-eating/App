@@ -1,0 +1,28 @@
+{
+  "barcode": "8906064656714",
+  "name": "Wingreens sauce",
+  "brand": "Wingreen Farms",
+  "quantity": "200g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:salad-dressings"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 233.2,
+    "fat": 17.2,
+    "saturated_fat": 1.6,
+    "carbohydrates": 18.8,
+    "sugars": 16.7,
+    "fiber": null,
+    "protein": 0.8,
+    "salt": 2.0475,
+    "sodium": 0.819
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-22T20:42:00Z",
+  "fetched_at": "2026-08-19T12:39:27Z"
+}

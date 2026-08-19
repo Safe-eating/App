@@ -1,0 +1,32 @@
+{
+  "barcode": "8908002507409",
+  "name": "Ghee brown rusk",
+  "brand": "Palekar",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:bakery-products",
+    "en:rusks"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Ghee (Clarified Butter), Wheat Bran (6%), lodised Salt, Yeast, Jeera (Cumin), Gluten, Malt Flour, Starch, Soy Flour, Improver (1100, 170), Antioxidant (300)",
+  "per_100g": {
+    "energy_kcal": 410,
+    "fat": 5,
+    "saturated_fat": 5,
+    "carbohydrates": 80,
+    "sugars": 24,
+    "fiber": 12.81,
+    "protein": 10,
+    "salt": 2.635,
+    "sodium": 1.054
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-08T15:27:08Z",
+  "fetched_at": "2026-08-19T13:07:26Z"
+}

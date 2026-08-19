@@ -1,0 +1,32 @@
+{
+  "barcode": "8906161390719",
+  "name": "Roasted chana",
+  "brand": "Lets try",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:seeds",
+    "en:legume-seeds",
+    "en:pulses"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 374.5,
+    "fat": 4.5,
+    "saturated_fat": 0.5,
+    "carbohydrates": 61,
+    "sugars": 3.4,
+    "fiber": 12,
+    "protein": 22.5,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T15:02:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

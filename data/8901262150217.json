@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262150217",
+  "name": "Amul Taaza milk 500ml",
+  "brand": "Amul",
+  "quantity": "500ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:whole-milks",
+    "en:toned-milk"
+  ],
+  "ingredients": "Milk (Fat 3.0% minimum, SNF 8.5% minimum)",
+  "per_100g": {
+    "energy_kcal": 58.2,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": 0,
+    "protein": 3,
+    "salt": 0.0925,
+    "sodium": 0.037
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-09T12:17:09Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

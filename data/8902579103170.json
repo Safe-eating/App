@@ -1,0 +1,35 @@
+{
+  "barcode": "8902579103170",
+  "name": "frroti",
+  "brand": "Parle Agro,Frooti",
+  "quantity": "600 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars",
+    "en:fruit-nectars",
+    "en:fruit-juices",
+    "en:mango-nectars",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "Water, Mango Pulp (19.5%), Sugar, Acidity Regulators [INS330, INS331(iii)], Preservatives (INS211, INS224, INS202), Antioxidant (INS300)",
+  "per_100g": {
+    "energy_kcal": 65,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 16.2,
+    "sugars": 13.3,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-06T03:58:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

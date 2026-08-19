@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063139206",
+  "name": "Bourbon",
+  "brand": "Britannia",
+  "quantity": "120g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "mSUGAR \u00265%0 DIERTS 500,508() EMULSIFIERS (471,322)Y AND EDIBLE COMMON SALT NTANS PERMITTED NATURAL\u0026SYNTHETIC FOOD COLOURS (150a,150d,102110.122.133)AND ADDED FLAVOURS INATURE IDENTICAL\u0026 ARTIFICIAL FLAVOURNG SUBSTANCES AILLA, MILK\u0026CHOCOLATE)]",
+  "per_100g": {
+    "energy_kcal": 488,
+    "fat": 20,
+    "saturated_fat": 10,
+    "carbohydrates": 72,
+    "sugars": 37.5,
+    "fiber": null,
+    "protein": 2.7,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-31T08:14:50Z",
+  "fetched_at": "2026-08-19T00:31:41Z"
+}

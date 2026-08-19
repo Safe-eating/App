@@ -1,0 +1,32 @@
+{
+  "barcode": "8908005469162",
+  "name": "Honey Twigs Vanilla Infused Honey",
+  "brand": "Honey Twigs",
+  "quantity": "240 g",
+  "categories": [
+    "en:breakfasts",
+    "en:spreads",
+    "en:sweet-spreads",
+    "en:bee-products",
+    "en:farming-products",
+    "en:sweeteners",
+    "en:honeys"
+  ],
+  "ingredients": "Multifloral Honey (97%), Natural Vanilla Extract (2%), Vanilla pod powder (1%)",
+  "per_100g": {
+    "energy_kcal": 326.375,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 81.625,
+    "sugars": 77.625,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.0471875,
+    "sodium": 0.018875
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-05T15:34:07Z",
+  "fetched_at": "2026-08-19T13:09:37Z"
+}

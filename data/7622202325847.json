@@ -1,0 +1,31 @@
+{
+  "barcode": "7622202325847",
+  "name": "Rum and Raising",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:dark-chocolate-bar"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 520.3,
+    "fat": 28.7,
+    "saturated_fat": 19.2,
+    "carbohydrates": 60.3,
+    "sugars": 24,
+    "fiber": null,
+    "protein": 5.2,
+    "salt": 42.5,
+    "sodium": 17
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-30T09:50:32Z",
+  "fetched_at": "2026-08-19T00:11:08Z"
+}

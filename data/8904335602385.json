@@ -1,0 +1,33 @@
+{
+  "barcode": "8904335602385",
+  "name": "Yoga Bar Protein Bar",
+  "brand": "Yoga Bar",
+  "quantity": "50g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:energy-bars",
+    "en:protein-bars",
+    "en:protein-energy-bars"
+  ],
+  "ingredients": "Dates 50%, Protein Blend 21% ( Soy + WPC), Cashew Butter 14%, Dried Fruit 9% (Raisins, Blueberry), Nuts \u0026 Seeds 6% (Almond, Sunflower Seeds)",
+  "per_100g": {
+    "energy_kcal": 362,
+    "fat": 9.4,
+    "saturated_fat": 2.4,
+    "carbohydrates": 53.8,
+    "sugars": 43,
+    "fiber": 10.4,
+    "protein": 20.2,
+    "salt": 0.3205,
+    "sodium": 0.1282
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-13T16:22:25Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

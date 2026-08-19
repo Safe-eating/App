@@ -1,0 +1,24 @@
+{
+  "barcode": "8939123211302",
+  "name": "Orignal Peanut Butter Powder",
+  "brand": "My PB",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 456.25,
+    "fat": 13.75,
+    "saturated_fat": 2.5,
+    "carbohydrates": 38.75,
+    "sugars": 15.625,
+    "fiber": 106.25,
+    "protein": 43.75,
+    "salt": 1.4359375,
+    "sodium": 0.574375
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-16T16:20:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

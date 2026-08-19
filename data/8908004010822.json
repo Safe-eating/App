@@ -1,0 +1,31 @@
+{
+  "barcode": "8908004010822",
+  "name": "Karachi'S Fruit Biscuits, Karachi'S Fruit",
+  "brand": "Karachi Bakery",
+  "quantity": "4 Pieces",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:fruit-biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Interesterified Vegetable Fat (Refined Rice Bran Oil, Palmolein Oil, Sesame Oil/Til Oil), Sugar, Cashew Bites, Papaya Pieces (Acidity Regulators-Ins 330, Preservatives-Ins 211 And Contains Permitted Synthetic Food Color-Ins 129 (Fd\u0026 C Red No.40), Skimmed Milk Powder (Smp), Iodised Salt, \u0026 Custard Powder (Corn Flour, Edible Starch, \u0026 Contains Permitted Synthetic Food Color-Sunset Yellow Fcf (Fd\u0026C Yellow No 06) \u0026 Tatrazine (Fd\u0026C Yellow No .05))",
+  "per_100g": {
+    "energy_kcal": 320,
+    "fat": 15,
+    "saturated_fat": 14.7,
+    "carbohydrates": 42,
+    "sugars": 12,
+    "fiber": 3.01,
+    "protein": 4,
+    "salt": 0.12475,
+    "sodium": 0.0499
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T04:44:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

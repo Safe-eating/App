@@ -1,0 +1,28 @@
+{
+  "barcode": "8906116953310",
+  "name": "MB biozyme whey",
+  "brand": "Muscle blaze",
+  "quantity": "",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders"
+  ],
+  "ingredients": "Protein Blend (91%) (Whey Protein Concentrate \u0026 Whey Powder), Cocoa Powder, Nature Identical Flavouring Substances, Lecithin, MB Enzyme Pro®, Salt, Bromelain (Stabilizer) \u0026 Sucralose (Sweetener) MB EnzymePro® [Proteolytic Enzyme Composition]",
+  "per_100g": {
+    "energy_kcal": 387.8,
+    "fat": 5,
+    "saturated_fat": 3.09,
+    "carbohydrates": 15.7,
+    "sugars": 7.75,
+    "fiber": null,
+    "protein": 70,
+    "salt": 1.1835,
+    "sodium": 0.4734
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-30T02:37:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

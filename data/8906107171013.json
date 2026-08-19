@@ -1,0 +1,24 @@
+{
+  "barcode": "8906107171013",
+  "name": "Desi Chicken Burger Patty",
+  "brand": "Meatigo",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 233.916666666667,
+    "fat": 19.2083333333333,
+    "saturated_fat": 8.89166666666667,
+    "carbohydrates": 2.175,
+    "sugars": 1.31666666666667,
+    "fiber": null,
+    "protein": 13.075,
+    "salt": 0.872291666666667,
+    "sodium": 0.348916666666667
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-27T14:38:40Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

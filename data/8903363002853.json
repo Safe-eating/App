@@ -1,0 +1,37 @@
+{
+  "barcode": "8903363002853",
+  "name": "Poha Jada",
+  "brand": "DMart Premia",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rice-flakes",
+    "en:flattened rice",
+    "en:poha"
+  ],
+  "ingredients": "Rice Flakes",
+  "per_100g": {
+    "energy_kcal": 345,
+    "fat": 1,
+    "saturated_fat": 0.28,
+    "carbohydrates": 77,
+    "sugars": 0.34,
+    "fiber": null,
+    "protein": 7,
+    "salt": 0.00645,
+    "sodium": 0.00258
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-01T09:31:51Z",
+  "fetched_at": "2026-08-19T01:22:03Z"
+}

@@ -1,0 +1,34 @@
+{
+  "barcode": "8901741000927",
+  "name": "Wai Wai instant noodles",
+  "brand": "Wai Wai",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 495,
+    "fat": 21.5,
+    "saturated_fat": 9.7,
+    "carbohydrates": 60.5,
+    "sugars": 2.1,
+    "fiber": null,
+    "protein": 10.7,
+    "salt": 4.2,
+    "sodium": 1.68
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-22T17:54:59Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "00024907",
+  "name": "Teriyaki Dip Sauce Marinade",
+  "brand": "Marks \u0026 Spencer",
+  "quantity": "305 g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:barbecue-sauces"
+  ],
+  "ingredients": "Sugar - Water Dark Soy Sauce (20%) (contains Water Soybeans. Roasted Wheat (contains Cluten)) Ginger Purée (10%) Garlic Purée. Cornflour Concentrated Lime Juice. Smoked Salt Crushed Red Chillies. Ground Ginger Mirin Rice Wine (contains Rice Water Alcohol Glucose Syrup).",
+  "per_100g": {
+    "energy_kcal": 170,
+    "fat": 0.3,
+    "saturated_fat": 0.1,
+    "carbohydrates": 39.4,
+    "sugars": 33.9,
+    "fiber": 0.8,
+    "protein": 2,
+    "salt": 2.58,
+    "sodium": 1.032
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T16:57:50Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

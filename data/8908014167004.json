@@ -1,0 +1,28 @@
+{
+  "barcode": "8908014167004",
+  "name": "Naagin indian hot sauce",
+  "brand": "Naagin",
+  "quantity": "",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:hot-sauces"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 140,
+    "fat": 4.74,
+    "saturated_fat": 0,
+    "carbohydrates": 22.41,
+    "sugars": 13.16,
+    "fiber": null,
+    "protein": 1.81,
+    "salt": 0.4425,
+    "sodium": 0.177
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T01:31:58Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

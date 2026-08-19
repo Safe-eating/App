@@ -1,0 +1,24 @@
+{
+  "barcode": "7622202836619",
+  "name": "Vanilla Flavored (Golden)",
+  "brand": "Oreo",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 492,
+    "fat": 20,
+    "saturated_fat": 18,
+    "carbohydrates": 72,
+    "sugars": 37,
+    "fiber": null,
+    "protein": 4,
+    "salt": 0.705,
+    "sodium": 0.282
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-26T17:55:56Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

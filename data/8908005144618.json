@@ -1,0 +1,32 @@
+{
+  "barcode": "8908005144618",
+  "name": "Yoga Bar Super Muesli 0% Added Sugar",
+  "brand": "Yoga Bar",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis"
+  ],
+  "ingredients": "Whole Grains 50% (Rolled Oats, Brown Rice Flakes, Jowar Flakes), Seeds 24% (Pumpkin, Sesame, Watermelon, Chia, Flax), Natural Plant Based Dietary Fibre (Fructo-oligo Saccharides), Almonds 8%, Whole Milk Powder, Rice Bran Oil, Probiotics (Bacillus coagulans SNZ1969*). *500 million cfu per serving CONTAINS ADDED NATURAL FLAVOUR (ROSEMARY EXTRACT, CARAMEL)",
+  "per_100g": {
+    "energy_kcal": 370,
+    "fat": 10.5,
+    "saturated_fat": 1.75,
+    "carbohydrates": 60,
+    "sugars": 0,
+    "fiber": 15.1,
+    "protein": 15,
+    "salt": 0.133125,
+    "sodium": 0.05325
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-11T07:39:03Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

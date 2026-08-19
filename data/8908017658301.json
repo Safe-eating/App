@@ -1,0 +1,24 @@
+{
+  "barcode": "8908017658301",
+  "name": "Dark Chocolate Oats",
+  "brand": "Health Ninja",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 452,
+    "fat": 15,
+    "saturated_fat": 4,
+    "carbohydrates": 57,
+    "sugars": 8,
+    "fiber": 11,
+    "protein": 24,
+    "salt": 0.0175,
+    "sodium": 0.007
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-07T07:18:58Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

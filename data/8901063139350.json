@@ -1,0 +1,24 @@
+{
+  "barcode": "8901063139350",
+  "name": "BRITANNIA bourbon 500g",
+  "brand": "Britannia",
+  "quantity": "5 x 100 g",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 493.5,
+    "fat": 20.3,
+    "saturated_fat": 10.1,
+    "carbohydrates": 72.7,
+    "sugars": 37,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0.2975,
+    "sodium": 0.119
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-10T09:48:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

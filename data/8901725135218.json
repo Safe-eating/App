@@ -1,0 +1,28 @@
+{
+  "barcode": "8901725135218",
+  "name": "sunfeast yippe",
+  "brand": "ITC",
+  "quantity": "70",
+  "categories": [
+    "en:meals",
+    "en:pasta-dishes",
+    "en:instant-pasta"
+  ],
+  "ingredients": "PASTA: WHEAT SEMOLINA (SUJI) (100%). MASALA PASTA SAUCEMAKER: DAIRY WHITENER (MILK SOLIDS, SUGAR), IODIZED SALT, INSTANT NOODLE POWDER INT? [REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, IODIZED SALT AND WHEAT GLUTEN], #SPICES AND CONDIMENTS, HYDROLYZED VEGETABLE PROTEIN, SUGAR, ONION POWDER, HYDROGENATED VEGETABLE OIL, DEHYDRATED GARLIC BITS (2.5%), NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, FLAVOUR ENHANCERS (INS 627, INS 631), ACIDITY REGULATOR (INS 330) AND DEHYDRATED FENUGREEK LEAVES (0.04%). USED AS FAVOURING AGENTS. CONTAINS WHEAT, SOY, MILK, NUT. the OR Nutritiona (Appro Energy (kcal Carbohydrate Total Suga Added Total fat (g) Trans fat naturally occ Saturated Cholestero Sodium (mg",
+  "per_100g": {
+    "energy_kcal": 357,
+    "fat": 4,
+    "saturated_fat": 2,
+    "carbohydrates": 70,
+    "sugars": 7.7,
+    "fiber": 0,
+    "protein": 12,
+    "salt": 4.06,
+    "sodium": 1.624
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-25T10:23:16Z",
+  "fetched_at": "2026-08-19T01:06:55Z"
+}

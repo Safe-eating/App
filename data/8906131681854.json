@@ -1,0 +1,26 @@
+{
+  "barcode": "8906131681854",
+  "name": "Fusilli Protein Pasta",
+  "brand": "Mille",
+  "quantity": "250 g",
+  "categories": [
+    "en:Protein-pasta"
+  ],
+  "ingredients": "Protein Blend (Bengal Gram Flour, Pea Protein) (65%), Tapioca Starch (18%), Brown Rice Flour (13%), Psyllium Powder, Guar Gum (INS 412), Xanthan Gum (INS 415) Allergen Advice: Made in a facility that processes wheat. May contain trace elements.",
+  "per_100g": {
+    "energy_kcal": 370.6,
+    "fat": 4.3,
+    "saturated_fat": 0.6,
+    "carbohydrates": 61.1,
+    "sugars": 6,
+    "fiber": 9.1,
+    "protein": 21.7,
+    "salt": 0.3005,
+    "sodium": 0.1202
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-18T19:16:11Z",
+  "fetched_at": "2026-08-19T12:56:34Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8906009076744",
+  "name": "Choco ripple cookies",
+  "brand": "Unibic",
+  "quantity": "98.8 g * 5 units",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits",
+    "en:drop-cookies",
+    "en:chocolate-chip-cookies"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm), Golden Syrup, Cocoa Powder (2%), Milk Solids, Chocolate Chips (0.5%) [Sugar, Cocoa Solids, Cocoa Butter, Dextrose and Emulsifiers (INS 322 from Soy, INS 476)], Leavening Agents (INS 503 ii, INS 500 ii), Emulsifiers (INS 322 from Soy, INS 472e, INS 435 and INS 471), lodised Salt, Artificial Flavouring Substance (Vanillin). Allergen Advice: Contains Wheat, Milk and Soy. May contain traces of Nut.",
+  "per_100g": {
+    "energy_kcal": 494,
+    "fat": 20,
+    "saturated_fat": 9.6,
+    "carbohydrates": 68,
+    "sugars": 34,
+    "fiber": null,
+    "protein": 5.5,
+    "salt": 0.7075,
+    "sodium": 0.283
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-29T06:12:13Z",
+  "fetched_at": "2026-08-19T01:57:01Z"
+}

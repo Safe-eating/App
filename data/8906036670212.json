@@ -1,0 +1,29 @@
+{
+  "barcode": "8906036670212",
+  "name": "Curd",
+  "brand": "Nandini",
+  "quantity": "500 g",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:Milk curds"
+  ],
+  "ingredients": "Milk Solids (Toned Milk) \u0026 Active Culture Allergen Advice: contains Milk",
+  "per_100g": {
+    "energy_kcal": 60,
+    "fat": 3.1,
+    "saturated_fat": 2,
+    "carbohydrates": 4.4,
+    "sugars": 4.4,
+    "fiber": null,
+    "protein": 3.7,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-04T14:35:01Z",
+  "fetched_at": "2026-08-19T12:35:17Z"
+}

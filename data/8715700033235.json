@@ -1,0 +1,30 @@
+{
+  "barcode": "8715700033235",
+  "name": "Ketchup P'tits Heinz",
+  "brand": "Heinz,P'tits Heinz",
+  "quantity": "280 ml - 310 g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup",
+    "en:groceries"
+  ],
+  "ingredients": "Tomates (205 g pour 100 g de ketchup), sucre, vinaigre, sel, extraits d'épices et de plantes aromatiques (contient du céleri), épice.",
+  "per_100g": {
+    "energy_kcal": 77.2,
+    "fat": 0.4,
+    "saturated_fat": 0.1,
+    "carbohydrates": 16.7,
+    "sugars": 15.9,
+    "fiber": null,
+    "protein": 1.7,
+    "salt": 2.3,
+    "sodium": 0.92
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T19:35:51Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

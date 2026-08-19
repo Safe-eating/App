@@ -1,0 +1,28 @@
+{
+  "barcode": "8904132950788",
+  "name": "Campa cricket with electrolytes",
+  "brand": "Campa",
+  "quantity": "500ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:carbonated-drinks"
+  ],
+  "ingredients": "CARBONATED WATER, SUGAR, LEMON JUICE CONCENTRATE (0.3%), ACIDITY REGULATORS (E330, E331(iii) ), MINERAL SALTS (SODIUM CHLORIDE, POTASSIUM CHLORIDE),SEQUESTRANTS (E452(i) , E385), PRESERVATIVE (E211), COLOUR (E102)",
+  "per_100g": {
+    "energy_kcal": 50.8,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 12.7,
+    "sugars": 12.7,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.2175,
+    "sodium": 0.087
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-06T08:38:26Z",
+  "fetched_at": "2026-08-19T01:37:16Z"
+}

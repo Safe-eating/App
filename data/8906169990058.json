@@ -1,0 +1,29 @@
+{
+  "barcode": "8906169990058",
+  "name": "Peanut Chikki Bites",
+  "brand": "Sweet Kaaram Coffee",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:candies"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 530,
+    "fat": 29,
+    "saturated_fat": 11,
+    "carbohydrates": 46,
+    "sugars": 35.6,
+    "fiber": 4.8,
+    "protein": 21.3,
+    "salt": 0.395,
+    "sodium": 0.158
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-20T15:35:35Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

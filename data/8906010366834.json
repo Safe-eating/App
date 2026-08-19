@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010366834",
+  "name": "Town Bus Rice Kodubale",
+  "brand": "GRB, Town Bus",
+  "quantity": "135g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Rice flour (56%), Refined Palmolein oil, Maida (11%), Coconut milk, Semolina, Green chilli, Salt, Sesame, Cumin, Ginger \u0026 Asafoetida.",
+  "per_100g": {
+    "energy_kcal": 568,
+    "fat": 34.3,
+    "saturated_fat": 6.6,
+    "carbohydrates": 57,
+    "sugars": 1.2,
+    "fiber": null,
+    "protein": 7.8,
+    "salt": 1.665,
+    "sodium": 0.666
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-15T07:46:59Z",
+  "fetched_at": "2026-08-19T01:59:40Z"
+}

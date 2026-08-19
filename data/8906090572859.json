@@ -1,0 +1,32 @@
+{
+  "barcode": "8906090572859",
+  "name": "Too Yumm! Rings - Tomato Twist",
+  "brand": "Too Yumm",
+  "quantity": "75g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:crackers-appetizers",
+    "en:puffed-salty-snacks",
+    "en:puffed-salty-snacks-made-from-maize"
+  ],
+  "ingredients": "Corn Flour (70%), Edible Vegetable Oil (Palmolein), Seasoning (Sugar, Salt, \u0026quot;Spices and Condiments (Contains Onion and Garlic), Black Salt, Acidity Regulators (E 296, E 330). Flavour Enhancers (E 627, E 631), Tomato Powder (1.4%). Tamarind Powder, Hydrolysed Vegetable Protein (Soya). Anticaking Agent (E 551)). Anticaking Agent (E 170)",
+  "per_100g": {
+    "energy_kcal": 493,
+    "fat": 22.5,
+    "saturated_fat": 10.4,
+    "carbohydrates": 67,
+    "sugars": 6.9,
+    "fiber": 2.2,
+    "protein": 5.4,
+    "salt": 2.075,
+    "sodium": 0.83
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-19T21:10:18Z",
+  "fetched_at": "2026-08-19T12:48:55Z"
+}

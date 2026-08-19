@@ -1,0 +1,34 @@
+{
+  "barcode": "8908024977020",
+  "name": "Superyou Protein Wafer",
+  "brand": "Superyou",
+  "quantity": "10 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:bars",
+    "en:wafers",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements"
+  ],
+  "ingredients": "PROTEIN BLEND (FERMENTED NUTRITIONAL YEAST PROTEIN (22%) + MILK SOLIDS), EDIBLE VEGETABLE FATS (HYDROGENATED COCONUT OILS, INS 322), SWEETENER (INS 965(i)), REFINED WHEAT FLOUR (MAIDA), PEANUT BUTTER (14%), COCOA SOLIDS, STARCH, EMULSIFIERS (INS 322, INS 476), EDIBLE COMMON SALT, IMPROVER ENZYME. CONTAINS ADDED FLAVORS-NATURAL FLAVORING SUBSTANCES (CHOCOLATE), NATURE IDENTICAL FLAVORING SUBSTANCES (CHOCOLATE, COCOA BUTTER, PEANUT), ARTIFICIAL FLAVOURING SUBSTANCES (ETHYL VANILLIN).",
+  "per_100g": {
+    "energy_kcal": 190,
+    "fat": 10.36,
+    "saturated_fat": 7,
+    "carbohydrates": 20,
+    "sugars": 3.54,
+    "fiber": 3.04,
+    "protein": 10,
+    "salt": 0.4425,
+    "sodium": 0.177
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T12:44:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

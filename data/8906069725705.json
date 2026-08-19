@@ -1,0 +1,26 @@
+{
+  "barcode": "8906069725705",
+  "name": "Moong Dal",
+  "brand": "CHAK NOW",
+  "quantity": "15g",
+  "categories": [
+    "en:Namkeens"
+  ],
+  "ingredients": "Green Gram Dal (78%), Refined Palmolein Oil, Salt and Black Salt.",
+  "per_100g": {
+    "energy_kcal": 480,
+    "fat": 21.3333333333333,
+    "saturated_fat": 9.33333333333333,
+    "carbohydrates": 52,
+    "sugars": 0.666666666666667,
+    "fiber": null,
+    "protein": 20,
+    "salt": 1200,
+    "sodium": 480
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-25T11:07:10Z",
+  "fetched_at": "2026-08-19T12:42:33Z"
+}

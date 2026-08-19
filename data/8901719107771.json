@@ -1,0 +1,26 @@
+{
+  "barcode": "8901719107771",
+  "name": "Nutricrunch",
+  "brand": "Parle",
+  "quantity": "200",
+  "categories": [
+    "en:Cracker"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (93%), REFINED PALM OIL, YEAST, IODISED SALT, EMULSIFIER OF VEGETABLE ORIGIN (4726], FLOUR TREATMENT AGENTS [223, 1100 (i)) CONTAINS: WHEAT AND SULPHITE *CONTAINS NATURALLY OCCURRING SUGARS JEDIES. CONTACT US WITH DETAILS OF BATCH",
+  "per_100g": {
+    "energy_kcal": 467,
+    "fat": 15.6,
+    "saturated_fat": 7.2,
+    "carbohydrates": 72.3,
+    "sugars": 0.3,
+    "fiber": null,
+    "protein": 9.3,
+    "salt": 1.18,
+    "sodium": 0.472
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-10T14:25:08Z",
+  "fetched_at": "2026-08-19T00:59:40Z"
+}

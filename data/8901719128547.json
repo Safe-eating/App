@@ -1,0 +1,26 @@
+{
+  "barcode": "8901719128547",
+  "name": "Happy Happy CAKES Tutti Frutty Flavoured",
+  "brand": "PARLE",
+  "quantity": "100 g",
+  "categories": [
+    "en:cakes-category-7-2-1"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EGG, EDIBLE VEGETABLE FAT (HYDROGENATED VEGETABLE OILS) \u0026 REFINED PALM OLEIN, HUMECTANTS (420, 422, 1520), CANDIED FRUIT (PAPAYA-5.7%), CAKE IMPROVER (MALTODEXTRIN, STARCH, EMULSIFIERS (472a, 475), RAISING AGENTS (450i, 500ii)), STABILIZER (415), LIQUID GLUCOSE, EMULSIFIERS OF VEGETABLE ORIGIN (471, 477, 470i), INVERT SUGAR SYRUP, IODIZED SALT, ARTIFICIAL (TUTTI FRUITY) FLAVOURING SUBSTANCE, RAISING AGENT (341i), STABILIZER (415) AND COLOURS (102, 129 \u0026 110).",
+  "per_100g": {
+    "energy_kcal": 422,
+    "fat": 18.4,
+    "saturated_fat": 9.6,
+    "carbohydrates": 58.8,
+    "sugars": 26.2,
+    "fiber": null,
+    "protein": 5.3,
+    "salt": 0.38,
+    "sodium": 0.152
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-28T05:35:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

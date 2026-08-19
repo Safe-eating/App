@@ -1,0 +1,26 @@
+{
+  "barcode": "8901399017735",
+  "name": "Kodubale / Ring Muruku",
+  "brand": "Granamma, Wipro",
+  "quantity": "120g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Rice Flour, Refined Vegetable Oil, Semolina, Wheat  Flour, Roasted Bengal Gram Flour Desiccated Coconut, Iodised Salt, Mixed Spices, Wheat Gluten, Sugar.",
+  "per_100g": {
+    "energy_kcal": 512,
+    "fat": 28.2,
+    "saturated_fat": 6.2,
+    "carbohydrates": 60.1,
+    "sugars": 0.5,
+    "fiber": 4.9,
+    "protein": 7,
+    "salt": 1.76175,
+    "sodium": 0.7047
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-15T07:58:36Z",
+  "fetched_at": "2026-08-19T00:47:47Z"
+}

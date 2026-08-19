@@ -1,0 +1,35 @@
+{
+  "barcode": "8906127550003",
+  "name": "Peanut butter",
+  "brand": "Alpino",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 625,
+    "fat": 49,
+    "saturated_fat": 12,
+    "carbohydrates": 18,
+    "sugars": 3,
+    "fiber": 6,
+    "protein": 30,
+    "salt": 0.0625,
+    "sodium": 0.025
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-08T16:35:43Z",
+  "fetched_at": "2026-08-19T12:55:34Z"
+}

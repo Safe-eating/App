@@ -1,0 +1,33 @@
+{
+  "barcode": "8904063200082",
+  "name": "Peanut Chikki Bar",
+  "brand": "Haldiram's",
+  "quantity": "35 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:nuts-and-their-products",
+    "en:bars",
+    "en:nut-bars",
+    "en:peanut-bars"
+  ],
+  "ingredients": "Peanuts (58%), Jaggery, Hydrogenated Vegetable oils, Glucose and Cardamom Powder.",
+  "per_100g": {
+    "energy_kcal": 521.5,
+    "fat": 27.5,
+    "saturated_fat": 5.2,
+    "carbohydrates": 53,
+    "sugars": 36,
+    "fiber": null,
+    "protein": 15.5,
+    "salt": 0.025,
+    "sodium": 0.01
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-17T17:42:01Z",
+  "fetched_at": "2026-08-19T01:29:24Z"
+}

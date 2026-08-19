@@ -1,0 +1,26 @@
+{
+  "barcode": "8901088129817",
+  "name": "Masala oats 550g",
+  "brand": "Saffola",
+  "quantity": "500 g",
+  "categories": [
+    "en:rolled-oats-with-vegetables"
+  ],
+  "ingredients": "Rolled Oats (70.3%), Maltodextrin, Spices and Condiments (6.4%) (Onion, Pepper, Garlic, Coriander, Cumin, Fenugreek, Ginger, Turmeric, Cinnamon, Clove), lodised Salt, Sugar, Edible Vegetable Oil (Refined Rice Bran Oil), Dried Vegetables [Carrot (0.7%), French Beans (0.5%), Tomato (0.3%)], Natural Flavouring Substances, Hydrolysed Vegetable Protein, Nature - identical Flavouring Substances, Flavour Enhancer (INS 627, INS 631), Wheat Powder.",
+  "per_100g": {
+    "energy_kcal": 347,
+    "fat": 9.2,
+    "saturated_fat": 2.4,
+    "carbohydrates": 69.7,
+    "sugars": 7.3,
+    "fiber": 12.5,
+    "protein": 8.8,
+    "salt": 5.61,
+    "sodium": 2.244
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-06T10:52:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

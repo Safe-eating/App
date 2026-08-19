@@ -1,0 +1,31 @@
+{
+  "barcode": "8901071701372",
+  "name": "Hershey's spreads",
+  "brand": "hershey's",
+  "quantity": "350 g",
+  "categories": [
+    "en:breakfasts",
+    "en:snacks",
+    "en:spreads",
+    "en:sweet-snacks",
+    "en:sweet-spreads",
+    "en:confectioneries"
+  ],
+  "ingredients": "Sugar, Edible vegetable oil (palm oil), Milk solids, Cocoa solids (4.7%), Älmond paste (3.0%), Antioxidant 3220, Hydrogenated vegetable fat (palm oil \u0026 sesame oil) and Edible common salt. Carbohy (of whic Protein Fat",
+  "per_100g": {
+    "energy_kcal": 10,
+    "fat": 2,
+    "saturated_fat": 25,
+    "carbohydrates": 339,
+    "sugars": 250,
+    "fiber": 2,
+    "protein": 50,
+    "salt": 2,
+    "sodium": 0.8
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-24T10:23:40Z",
+  "fetched_at": "2026-08-19T00:35:15Z"
+}

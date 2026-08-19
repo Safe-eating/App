@@ -1,0 +1,33 @@
+{
+  "barcode": "8908010900971",
+  "name": "High Protein Peanut Butter Dark Chocolate",
+  "brand": "Pintola",
+  "quantity": "510 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 583,
+    "fat": 38,
+    "saturated_fat": 7,
+    "carbohydrates": 27,
+    "sugars": 15.5,
+    "fiber": 6.2,
+    "protein": 30,
+    "salt": 0.035,
+    "sodium": 0.014
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-10T14:59:34Z",
+  "fetched_at": "2026-08-19T13:13:12Z"
+}

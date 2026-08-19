@@ -1,0 +1,26 @@
+{
+  "barcode": "8906121111170",
+  "name": "Pitaara Masteez Chatake Masala",
+  "brand": "Pitaara Masteez",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Rice Grits (34%), Edible Vegetable (Palmolein Oil, Cottonseed Oil, Rice Bran Oil), Gris 25%), lodized Salt (lodized Salt, Black pea Flour (Besan), Dehydrated  Powder (Onion, Green Mango, Garlic, Maize Starch, Maltodextrin, Spices and Extracts (Chilli, Coriander, Turmeric, Ginger, Pepper, Cumin), Sugar, Acidity Regulator (INS 330), Anti-Caking Agent (INS 341(iii), Enhancer (INS 627, INS 631).",
+  "per_100g": {
+    "energy_kcal": 578.03,
+    "fat": 37.15,
+    "saturated_fat": 17.26,
+    "carbohydrates": 56.94,
+    "sugars": 2.98,
+    "fiber": null,
+    "protein": 3.98,
+    "salt": 3,
+    "sodium": 1.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-09T04:39:11Z",
+  "fetched_at": "2026-08-19T12:55:04Z"
+}

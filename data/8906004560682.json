@@ -1,0 +1,36 @@
+{
+  "barcode": "8906004560682",
+  "name": "Plain salted potato chips",
+  "brand": "Yellow diamond",
+  "quantity": "35g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Handpicked Potatoes, Edible Vegetable (Palmolein) \u0026 Salt (1.2%) Oil",
+  "per_100g": {
+    "energy_kcal": 548.9,
+    "fat": 33.94,
+    "saturated_fat": 15.56,
+    "carbohydrates": 52.4,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 8.46,
+    "salt": 0.5186426,
+    "sodium": 0.20745704
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-03T22:59:10Z",
+  "fetched_at": "2026-08-19T01:50:43Z"
+}

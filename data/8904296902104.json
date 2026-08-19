@@ -1,0 +1,33 @@
+{
+  "barcode": "8904296902104",
+  "name": "Fabsta Peanut Butter Creamy",
+  "brand": "Tata",
+  "quantity": "420g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Peanut (90%), Sugar, Edible Vegetable Fat (Fully Hydrogenated Soyabean Oil), lodised Salt, Emulsifier (INS 471).\nALLERGEN ADVICE: Contains Nut \u0026 Soy.",
+  "per_100g": {
+    "energy_kcal": 624,
+    "fat": 48,
+    "saturated_fat": 11,
+    "carbohydrates": 23,
+    "sugars": 6,
+    "fiber": null,
+    "protein": 25,
+    "salt": 0.7,
+    "sodium": 0.28
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-24T08:18:07Z",
+  "fetched_at": "2026-08-19T01:41:51Z"
+}

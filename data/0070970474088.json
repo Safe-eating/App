@@ -1,0 +1,29 @@
+{
+  "barcode": "0070970474088",
+  "name": "Chewy spicy candies",
+  "brand": "Hot Tamales, Hot Tamale",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:candies"
+  ],
+  "ingredients": "Sugar, corn syrup, modified food starch, contains less than 0.5% of the following ingredients; fumaric acid, natural and artificial flavors, sodium citrate, dextrin, citric acid, malic acid, artificial color, confectioners glaze, red #40, carnauba wax, medium chain triglycerides, yellow #5 (tartrazine), yellow #6, blue #1.",
+  "per_100g": {
+    "energy_kcal": 350,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 90,
+    "sugars": 62.5,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.1875,
+    "sodium": 0.075
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T19:28:58Z",
+  "fetched_at": "2026-08-18T23:53:55Z"
+}

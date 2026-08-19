@@ -1,0 +1,33 @@
+{
+  "barcode": "8906048239773",
+  "name": "Moong Sada",
+  "brand": "Utsav",
+  "quantity": "200 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:flatbreads",
+    "en:special-breads",
+    "en:papadum"
+  ],
+  "ingredients": "Urad Mogar Flour (45%), Moong Mogar Flour (45%), Salt, Saji, Groundnut Oil, Black Pepper, Cumin, Asafoetida.",
+  "per_100g": {
+    "energy_kcal": 316.73,
+    "fat": 1.01,
+    "saturated_fat": 0.11,
+    "carbohydrates": 55.6,
+    "sugars": 2.6,
+    "fiber": 17.57,
+    "protein": 21.31,
+    "salt": 1.35275,
+    "sodium": 0.5411
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T05:34:13Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

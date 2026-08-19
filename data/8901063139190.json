@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063139190",
+  "name": "Bourbon",
+  "brand": "Britannia",
+  "quantity": "60g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 488,
+    "fat": 20,
+    "saturated_fat": 10,
+    "carbohydrates": 72,
+    "sugars": 37.5,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2021-10-09T18:56:51Z",
+  "fetched_at": "2026-08-19T00:31:39Z"
+}

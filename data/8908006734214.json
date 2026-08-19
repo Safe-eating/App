@@ -1,0 +1,29 @@
+{
+  "barcode": "8908006734214",
+  "name": "Desi Gud Jaggery",
+  "brand": "DK's, Kesar",
+  "quantity": "450g",
+  "categories": [
+    "en:sweeteners",
+    "en:sugars",
+    "en:cane-sugars",
+    "en:jaggery"
+  ],
+  "ingredients": "Concentrated Sugarcane Juice.",
+  "per_100g": {
+    "energy_kcal": 360.2,
+    "fat": 0.03,
+    "saturated_fat": 0,
+    "carbohydrates": 89.7,
+    "sugars": 83.8,
+    "fiber": null,
+    "protein": 0.3,
+    "salt": 0.09,
+    "sodium": 0.036
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 2,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-18T06:34:42Z",
+  "fetched_at": "2026-08-19T13:10:31Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8906006783362",
+  "name": "Dark Soya Shandar Sauce",
+  "brand": "Winn, My Chinese Kitchen",
+  "quantity": "100g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:soy-sauces"
+  ],
+  "ingredients": "Water, Liquid Glucose, lodized Salt, Soybean, Wheat Flour, Caramel (INS150c), Starch, Acidity Regulator (INS260), Preservative (INS211) CONTAINS PERMITTED CLASS II PRESERVATIVE (INS211), PERMITTED NATURAL COLOUR (INS150c)",
+  "per_100g": {
+    "energy_kcal": 83.37,
+    "fat": 17.63,
+    "saturated_fat": 0.03,
+    "carbohydrates": 23.04,
+    "sugars": 0.24,
+    "fiber": null,
+    "protein": 0.33,
+    "salt": 10.649575,
+    "sodium": 4.25983
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T07:40:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

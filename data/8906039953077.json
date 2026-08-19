@@ -1,0 +1,32 @@
+{
+  "barcode": "8906039953077",
+  "name": "dclainlol",
+  "brand": "dclainlol",
+  "quantity": "000",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolates",
+    "en:candies",
+    "en:lollipops"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 124,
+    "fat": 17.2,
+    "saturated_fat": 9.1,
+    "carbohydrates": 78.2,
+    "sugars": 46,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 9.1,
+    "sodium": 3.64
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-27T09:13:09Z",
+  "fetched_at": "2026-08-19T12:36:20Z"
+}

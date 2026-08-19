@@ -1,0 +1,30 @@
+{
+  "barcode": "8901725004668",
+  "name": "Oats \u0026 Almonds Cookies",
+  "brand": "Sunfeast",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "TRANS FAT FREE Wheat flour (Atta) (35.3%), Oat flakes (21.2%), Refined palm oil, Sugar, Liquid glucose, Almonds (3.2%), Raising agents [INS 503 (ii), INS 500(ii), INS 450(i)], Maltodextrin, Invert syrup, Milk solids, lodized salt, Artificial flavouring substances (Milk, Vanilla), Emulsifier [Lecithin (from Soyabean)] and Nature identical flavouring substances CONTAINS WHEAT, OATS, MILK, SOY, NUT. MAY CONTAIN SULPHITE THE ME RESS",
+  "per_100g": {
+    "energy_kcal": 483,
+    "fat": 21.8,
+    "saturated_fat": 9.6,
+    "carbohydrates": 67.1,
+    "sugars": 22.6,
+    "fiber": 6.8,
+    "protein": 7.9,
+    "salt": 0.87975,
+    "sodium": 0.3519
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-06T11:07:17Z",
+  "fetched_at": "2026-08-19T01:03:46Z"
+}

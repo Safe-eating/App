@@ -1,0 +1,30 @@
+{
+  "barcode": "8901018013162",
+  "name": "Nilgiris Whole Wheat Brown Bread",
+  "brand": "Nilgiris",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour (Atta) (27.5%), Refined wheat flour (Maida) (22.73%), Potable Water, Edible Vegetable Oil (Refined Palmolein oil), Sugar, Yeast, Wheat Gluten, Wheat Bran, Edible common salt (lodized Salt), Bread Improver INS-1100, Preservative INS-282, Edible Vegetable Oil (Refined Sunflower oil), Emulsifier INS-471, 481, Acidity regulator INS-260 Allergen Information: Contains Wheat (Gluten)",
+  "per_100g": {
+    "energy_kcal": 215,
+    "fat": 5.13,
+    "saturated_fat": 1.8,
+    "carbohydrates": 34.6,
+    "sugars": 3.23,
+    "fiber": 2.7,
+    "protein": 7.6,
+    "salt": 0.033175,
+    "sodium": 0.01327
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-01T02:40:51Z",
+  "fetched_at": "2026-08-19T00:14:08Z"
+}

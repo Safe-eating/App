@@ -1,0 +1,24 @@
+{
+  "barcode": "8906006170308",
+  "name": "Manchurian Puffs",
+  "brand": "O'yes",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 451.15,
+    "fat": 17,
+    "saturated_fat": 7.65,
+    "carbohydrates": 68.73,
+    "sugars": 7.44,
+    "fiber": 1.06,
+    "protein": 5.83,
+    "salt": 2.08635,
+    "sodium": 0.83454
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-26T08:33:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

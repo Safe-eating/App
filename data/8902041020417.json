@@ -1,0 +1,34 @@
+{
+  "barcode": "8902041020417",
+  "name": "Creamy Water Biscuits",
+  "brand": "Pickwick",
+  "quantity": "75g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:confectioneries",
+    "en:biscuits",
+    "en:wafers",
+    "en:thin-crunchy-wafer-biscuit-with-chocolate",
+    "en:Chocolate Flavoured Wafer Biscuit"
+  ],
+  "ingredients": "Sugar, Refined wheat flour (Maida), Edible vegetable hydrogenated oil, Cocoa Solids (4%), Emulsifier (INS 322), lodized salt, Leavening agent [INS 500 (ii)] CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (INS 102, 110 \u0026 133) AND ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCE - VANILLA)",
+  "per_100g": {
+    "energy_kcal": 495.47,
+    "fat": 20.75,
+    "saturated_fat": 11.63,
+    "carbohydrates": 71.93,
+    "sugars": 37.18,
+    "fiber": 0,
+    "protein": 5.24,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-15T08:30:40Z",
+  "fetched_at": "2026-08-19T01:11:12Z"
+}

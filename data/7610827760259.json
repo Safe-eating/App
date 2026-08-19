@@ -1,0 +1,33 @@
+{
+  "barcode": "7610827760259",
+  "name": "Cantucci Toscani - Fine food",
+  "brand": "Fine Food",
+  "quantity": "250 g e",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits",
+    "en:dry-biscuits",
+    "en:almond-cookies",
+    "en:cantucci",
+    "it:cantucci-toscani"
+  ],
+  "ingredients": "Farine blanche (froment), amandes 26 %, sucre, œufs d'élevage au sol (Italie), beurre, sirop de sucre inverti, sirop de glucose, poudres à lever (E 450, E 503), gousses de vanille moulues, sel marin.",
+  "per_100g": {
+    "energy_kcal": 471,
+    "fat": 18,
+    "saturated_fat": 3.5,
+    "carbohydrates": 64,
+    "sugars": 24,
+    "fiber": 3,
+    "protein": 12,
+    "salt": 0.78,
+    "sodium": 0.31
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-24T13:36:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

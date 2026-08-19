@@ -1,0 +1,40 @@
+{
+  "barcode": "7622202031618",
+  "name": "nutties",
+  "brand": "cadbury",
+  "quantity": "30g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:nuts-and-their-products",
+    "en:chocolate-candies",
+    "en:bonbons",
+    "en:chocolates",
+    "en:chocolate-covered-nuts-and-fruits",
+    "en:milk-chocolates",
+    "en:nut-confectioneries",
+    "en:chocolate-covered-nuts",
+    "en:chocolate-covered-cashews"
+  ],
+  "ingredients": "Center (55%*) (Sugar, Cashew Nuts (11%), Milk Solids, lodised Salt, Flavour (Natural and Nature Identical Flavouring Substances), Emulsifier (442), Almonds), Milk Chocolate (44%) (Sugar, Milk A Solids (22%), Cocoa Butter, Cocoa Solids, Emulsifiers (442,476), Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances)), Stabilizers (1400, 414), Glazing Agent (904).",
+  "per_100g": {
+    "energy_kcal": 511,
+    "fat": 24.8,
+    "saturated_fat": 13.9,
+    "carbohydrates": 67.2,
+    "sugars": 57.4,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0.2925,
+    "sodium": 0.117
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-01T03:37:41Z",
+  "fetched_at": "2026-08-19T00:09:44Z"
+}

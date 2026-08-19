@@ -1,0 +1,26 @@
+{
+  "barcode": "8906009075846",
+  "name": "Swaadesi crunchy nuts",
+  "brand": "Swaadesi, Unibic",
+  "quantity": "150g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "PEANUT (65%), GRAM FLOUR, EDIBLE VEGETABLE OIL (RICE BRAN OIL SUNFLOWER OIL \u0026 COTTON SEED OIL), SPICES \u0026 CONDIMENTS (RED CHILLI POWDER, KASHMIRI CHILLI POWDER, DRY MANGO POWDER, BLACK SALT, CLOVE POWDER, CUMIN POWDER BLACK PEPPER GINGER POWDER, CARDAMOM POWDER, MACE POWDER \u0026 NUTMEG POWDER), IODISED SALT, ARROWROOT POWDER \u0026 ASAFOETIDA.",
+  "per_100g": {
+    "energy_kcal": 623.4,
+    "fat": 48.1,
+    "saturated_fat": 13.9,
+    "carbohydrates": 28.1,
+    "sugars": 1.3,
+    "fiber": 4.3,
+    "protein": 17.4,
+    "salt": 1.1505,
+    "sodium": 0.4602
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-26T06:12:40Z",
+  "fetched_at": "2026-08-19T01:56:58Z"
+}

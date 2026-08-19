@@ -1,0 +1,36 @@
+{
+  "barcode": "8906143890473",
+  "name": "The Whole Truth 71% Dark Chocolate",
+  "brand": "The Whole Truth",
+  "quantity": "80 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:dark-chocolates",
+    "en:No Added Flavour",
+    "en:No Added Sugar",
+    "en:No Erythritol",
+    "en:No Maltitol",
+    "en:No Preservatives",
+    "en:No Stevia"
+  ],
+  "ingredients": "cocoa(cocoa nibs (51%), cocoa butter (20%)), date powder(29%)",
+  "per_100g": {
+    "energy_kcal": 596.6,
+    "fat": 44.8,
+    "saturated_fat": 30.9,
+    "carbohydrates": 40.2,
+    "sugars": 21.6,
+    "fiber": 8.2,
+    "protein": 8.1,
+    "salt": 0.00675,
+    "sodium": 0.0027
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-08T10:58:53Z",
+  "fetched_at": "2026-08-19T12:59:10Z"
+}

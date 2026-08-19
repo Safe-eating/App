@@ -1,0 +1,28 @@
+{
+  "barcode": "8901262200233",
+  "name": "Amul Masti Spiced Buttermilk",
+  "brand": "Amul",
+  "quantity": "1l",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 29,
+    "fat": 1.5,
+    "saturated_fat": 1.04,
+    "carbohydrates": 1.8,
+    "sugars": 1.8,
+    "fiber": null,
+    "protein": 1.5,
+    "salt": 0.62,
+    "sodium": 0.248
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-17T19:14:21Z",
+  "fetched_at": "2026-08-19T00:45:47Z"
+}

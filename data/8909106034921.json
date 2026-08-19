@@ -1,0 +1,30 @@
+{
+  "barcode": "8909106034921",
+  "name": "Almond Magnum",
+  "brand": "Magnum",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 353.225806451613,
+    "fat": 23.7096774193548,
+    "saturated_fat": 13.5483870967742,
+    "carbohydrates": 29.8387096774194,
+    "sugars": 26.7741935483871,
+    "fiber": 1.12903225806452,
+    "protein": 5.32258064516129,
+    "salt": 0.17741935483871,
+    "sodium": 0.0709677419354839
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-18T06:55:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

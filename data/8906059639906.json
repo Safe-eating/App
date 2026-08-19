@@ -1,0 +1,31 @@
+{
+  "barcode": "8906059639906",
+  "name": "Vanilla Milk Shake",
+  "brand": "",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:vanilla-milks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 106.11111111111,
+    "fat": 4,
+    "saturated_fat": 2.7777777777778,
+    "carbohydrates": 14.444444444444,
+    "sugars": 14.444444444444,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.125,
+    "sodium": 0.05
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-25T15:08:06Z",
+  "fetched_at": "2026-08-19T12:38:57Z"
+}

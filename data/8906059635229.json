@@ -1,0 +1,24 @@
+{
+  "barcode": "8906059635229",
+  "name": "Crunchy Cup Natural Greek Yogurt With Granola",
+  "brand": "Epigamia",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 119.130434782609,
+    "fat": 4.34782608695652,
+    "saturated_fat": 2.60869565217391,
+    "carbohydrates": 12.1739130434783,
+    "sugars": 6.95652173913043,
+    "fiber": null,
+    "protein": 7.82608695652174,
+    "salt": 0.132608695652174,
+    "sodium": 0.0530434782608696
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-05T19:01:51Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

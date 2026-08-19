@@ -1,0 +1,30 @@
+{
+  "barcode": "8901095000451",
+  "name": "Society Mango Pickle",
+  "brand": "Society",
+  "quantity": "200 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pickles",
+    "en:plant-based-pickles",
+    "en:Mango Pickle"
+  ],
+  "ingredients": "Mango (62%), Spices and condiments, Corn oil, Water, Vinegar, Edible common salt, Acidity regulators (INS 260 and INS 330) and Preservative (INS 211).",
+  "per_100g": {
+    "energy_kcal": 185,
+    "fat": 11.71,
+    "saturated_fat": 1.92,
+    "carbohydrates": 16.61,
+    "sugars": 5.72,
+    "fiber": null,
+    "protein": 3.31,
+    "salt": 9.25,
+    "sodium": 3.7
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-19T06:58:57Z",
+  "fetched_at": "2026-08-19T00:37:17Z"
+}

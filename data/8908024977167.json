@@ -1,0 +1,31 @@
+{
+  "barcode": "8908024977167",
+  "name": "SUPERYOU PROTEIN WAFER COFFEE",
+  "brand": "SUPERYOU",
+  "quantity": "10 nos",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers"
+  ],
+  "ingredients": "PROTEIN BLEND (FERMENTED NUTRITIONAL YEAST PROTEIN (22%)+ MILK SOLIDS), EDIBLE VEGETABLE FAT (HYDROGENTED COCONUT OIL, INS 322), SWEETENER (INS965), WHEAT FLOUR (ATTA), COFFEE POWDER, COCOA SOLIDS, STARCH, EMULSIFIERS (INS 322, INS 476), EDIBLE COMMON SALT, IMPROVER ENZYME, CONTAINS ADDED FLAVOUR - NATURE IDENTICAL FLAVOURING SUBSTANCE (COFFEE FLAVOUR, CHOCOLATE, COCOA BUTTER), ARTIFICIAL FLAVOURING SUBSTANCE (ETHYL VANILLIN)",
+  "per_100g": {
+    "energy_kcal": 467.75,
+    "fat": 25.35,
+    "saturated_fat": 0.017,
+    "carbohydrates": 50,
+    "sugars": 8.8,
+    "fiber": 7.5,
+    "protein": 25,
+    "salt": 1.11875,
+    "sodium": 0.4475
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-01T19:14:17Z",
+  "fetched_at": "2026-08-19T13:22:31Z"
+}

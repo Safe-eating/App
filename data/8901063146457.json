@@ -1,0 +1,31 @@
+{
+  "barcode": "8901063146457",
+  "name": "Britannia winking cow chocolate 180ml",
+  "brand": "Britannia",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:chocolate-milks"
+  ],
+  "ingredients": "DOUBLE TONED MILK, WATER, SUGAR, COCOA SOLIDS (CHOCOLATE), EMULSIFIERS AND STABILIZERS (471, 412, 407 \u0026 415), NATURE IDENTICAL \u0026 ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCE, ACIDITY REGULATORS (340(ii), 340(iii), 452(i)] AND IODISED SALT. CONTAINS MILK.",
+  "per_100g": {
+    "energy_kcal": 109,
+    "fat": 2.9,
+    "saturated_fat": 2,
+    "carbohydrates": 16.7,
+    "sugars": 16.2,
+    "fiber": null,
+    "protein": 3.9,
+    "salt": 0.163,
+    "sodium": 0.0652
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-24T03:19:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

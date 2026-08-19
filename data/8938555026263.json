@@ -1,0 +1,32 @@
+{
+  "barcode": "8938555026263",
+  "name": "Tender Coconut Water",
+  "brand": "Richyum",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars",
+    "en:fruit-juices"
+  ],
+  "ingredients": "Coconut Water (100%)",
+  "per_100g": {
+    "energy_kcal": 15.1,
+    "fat": 0.15,
+    "saturated_fat": 0.005,
+    "carbohydrates": 3.33,
+    "sugars": 2.48,
+    "fiber": 0.25,
+    "protein": 0.21,
+    "salt": 0.051,
+    "sodium": 0.0204
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T23:24:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

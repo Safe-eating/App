@@ -1,0 +1,24 @@
+{
+  "barcode": "7622202220968",
+  "name": "Dairy Milk Mini Treats",
+  "brand": "Cadbury",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 532,
+    "fat": 29.2,
+    "saturated_fat": 19.6,
+    "carbohydrates": 60.4,
+    "sugars": 57,
+    "fiber": null,
+    "protein": 7.8,
+    "salt": 0.3225,
+    "sodium": 0.129
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-23T07:10:48Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

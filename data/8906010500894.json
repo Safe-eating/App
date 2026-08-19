@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010500894",
+  "name": "Chataka pataka",
+  "brand": "Balaji wafers",
+  "quantity": "25g",
+  "categories": [
+    "en:food"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 546,
+    "fat": 31.6,
+    "saturated_fat": 15,
+    "carbohydrates": 57.4,
+    "sugars": 3,
+    "fiber": 2.8,
+    "protein": 6.6,
+    "salt": 1622.5,
+    "sodium": 649
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T23:47:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

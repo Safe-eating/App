@@ -1,0 +1,26 @@
+{
+  "barcode": "8906133026240",
+  "name": "Impact Why Protein Isolate \u0026 Concentrate",
+  "brand": "Nakpro",
+  "quantity": "",
+  "categories": [
+    "en:food"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 368.888888888889,
+    "fat": 2.84444444444444,
+    "saturated_fat": 1.55555555555556,
+    "carbohydrates": 32.4444444444444,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 53.3777777777778,
+    "salt": 0.138666666666667,
+    "sodium": 0.0554666666666667
+  },
+  "nutriscore_grade": "a",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-20T03:14:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

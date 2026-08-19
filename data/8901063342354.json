@@ -1,0 +1,29 @@
+{
+  "barcode": "8901063342354",
+  "name": "sandwich white bread",
+  "brand": "Britannia",
+  "quantity": "450g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:breads"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), WATER, SUGAR YEAST, IODISED SALT, REFINED PALM OIL, SOYA FLOUR, VITAL GLUTEN, PRESERVATIVE (282), FLOUR TREATMENT AGENT (516 \u0026 510), EMULSIFIER (472e), STABILIZER (1700), 412), ACIDITY REGULATOR (260), IMPROVERS [1101(1), 1102,1104], ANTIOXIDANT (300), VITAMINS.",
+  "per_100g": {
+    "energy_kcal": 250.3,
+    "fat": 1.3,
+    "saturated_fat": 0.2,
+    "carbohydrates": 52.5,
+    "sugars": 2.6,
+    "fiber": null,
+    "protein": 7.2,
+    "salt": 0,
+    "sodium": 0.4465
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-23T06:16:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

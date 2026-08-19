@@ -1,0 +1,35 @@
+{
+  "barcode": "8904335600671",
+  "name": "Peanut butter",
+  "brand": "YogaBar",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:nuts-and-their-products",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:nut-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 632,
+    "fat": 50.4,
+    "saturated_fat": 12,
+    "carbohydrates": 14,
+    "sugars": 0.5,
+    "fiber": 6.2,
+    "protein": 30.6,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-04T06:34:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,35 @@
+{
+  "barcode": "8906000610626",
+  "name": "McCain Chilli Garlic Potato Pops",
+  "brand": "McCain",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:frozen-foods",
+    "en:potatoes-and-their-products",
+    "en:prepared-potatoes",
+    "en:fried-potato-cubes",
+    "en:frozen-fried-potatoes",
+    "en:frozen-fried-potato-cubes",
+    "en:frozen-cooked-pre-fried-potato-cubes"
+  ],
+  "ingredients": "Potato (84%), Palmolein Oil, Garlic Paste (Water, Garlic (1.25%), Iodized Salt,  Starch, Acidity Regulator (INS 260), Maize Starch, Potato Flakes, Iodized Salt, Onion Powder, Red Chilli Flakes (0.37%).",
+  "per_100g": {
+    "energy_kcal": 174.4,
+    "fat": 7.6,
+    "saturated_fat": 3.65,
+    "carbohydrates": 23.5,
+    "sugars": 0.5,
+    "fiber": null,
+    "protein": 3,
+    "salt": 1.08,
+    "sodium": 0.432
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-27T08:49:31Z",
+  "fetched_at": "2026-08-19T01:48:09Z"
+}

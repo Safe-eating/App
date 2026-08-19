@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719136764",
+  "name": "Hide\u0026Seek Vanilla",
+  "brand": "Parle Platina, Parle",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "White Créme (40%) [Sugar, Maze Starch, Refined Oils (Palmolein, Palm Oil), Emulsifier of Vegitable Origin (Soy Lecithin), Nature Identical Flavouring Substances], Refined Wheat Flour (Maida), Sugar, Refined Palm Oil, Cocoa Solids (4.5%), Inverted Sugar Syrup, Liquid Glucose, Iodised Salt, Raising Agents [500 (iii), 503 (ii), 341(i)] , and Emulsifier of Vegetable Origin 472e. CONTAINS ADDED FLAVOURS: (Artificial Flavouring Substances - Chocolate and Vanilla) CONTAINS: WHEAT, SOY",
+  "per_100g": {
+    "energy_kcal": 525,
+    "fat": 27.2,
+    "saturated_fat": 12.3,
+    "carbohydrates": 66.6,
+    "sugars": 32.4,
+    "fiber": null,
+    "protein": 3.4,
+    "salt": 0.2675,
+    "sodium": 0.107
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T07:19:23Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

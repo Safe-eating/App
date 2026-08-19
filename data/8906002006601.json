@@ -1,0 +1,29 @@
+{
+  "barcode": "8906002006601",
+  "name": "8906002006601",
+  "brand": "Dr. Oetker",
+  "quantity": "",
+  "categories": [
+    "en:meats-and-their-products",
+    "en:prepared-meats",
+    "en:sausages",
+    "en:french-sausages"
+  ],
+  "ingredients": "Refined Soyabean Oil, Water, Sugar, Milk Solids, lodised Salt, Lemon Juice, Emulsifiers and Stabilizers (INS415, INS1442), Acidity Regulators (INS260, INS330), Preservatives (INS211, INS202), Antioxidant (INS319). CONTAINS MK 46108067-821",
+  "per_100g": {
+    "energy_kcal": 502.2,
+    "fat": 51.8,
+    "saturated_fat": 9.2,
+    "carbohydrates": 8.6,
+    "sugars": 12.7,
+    "fiber": null,
+    "protein": 0.5,
+    "salt": 1776.25,
+    "sodium": 710.5
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-25T15:01:01Z",
+  "fetched_at": "2026-08-19T01:49:47Z"
+}

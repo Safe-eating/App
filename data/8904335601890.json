@@ -1,0 +1,36 @@
+{
+  "barcode": "8904335601890",
+  "name": "Yoga bar High Protein Muesli+",
+  "brand": "Yoga bar",
+  "quantity": "850g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereal-grains",
+    "en:mueslis",
+    "en:dietary-supplements",
+    "en:oat"
+  ],
+  "ingredients": "Whole Grains 45% {Rolled Oats, Millets 22% [Ragi Flakes (Ragi, Jaggery), Jowar Flakes (Jowar, Jaggery)]}, Texturized Soya Protein Flakes, Dark Chocolate Paste 13% (Sugar, Edible Vegetable Fat, Cocoa Solids, Soy Lecithin \u0026 Natural Flavours), Dehydrated Fruits (Raisins, Cranberry 1%), Nuts \u0026 Seeds (Chia, Almond 1.5%, Pumpkin), Dates Syrup, Peanut Protein, Cocoa Powder, Natural Flavours, Rice Bran Oil, Jaggery Syrup, Probiotics (Bacillus Coagulans SNZ 1969, 15 Billion CFU/g).",
+  "per_100g": {
+    "energy_kcal": 386,
+    "fat": 10.7,
+    "saturated_fat": 3.9,
+    "carbohydrates": 53.1,
+    "sugars": 20.2,
+    "fiber": 7.5,
+    "protein": 23,
+    "salt": 0.224,
+    "sodium": 0.0896
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-14T06:01:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

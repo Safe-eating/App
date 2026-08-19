@@ -1,0 +1,24 @@
+{
+  "barcode": "8901719136801",
+  "name": "Hide\u0026Seek Milano (Creme)",
+  "brand": "Parle",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 521,
+    "fat": 26.9,
+    "saturated_fat": 12.3,
+    "carbohydrates": 64.9,
+    "sugars": 37.3,
+    "fiber": null,
+    "protein": 4.7,
+    "salt": 0.2875,
+    "sodium": 0.115
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-11T15:11:28Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

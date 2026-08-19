@@ -1,0 +1,31 @@
+{
+  "barcode": "8904057301269",
+  "name": "Butterscotch Flavored Ice cream",
+  "brand": "Arun Icecreams",
+  "quantity": "125ml, 68g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-tubs"
+  ],
+  "ingredients": "Sugar, Cashew, Milk Solids, Hydrogenated Vegetable Fat, Iodized Salt \u0026 Emulsifier {471}, Emulsifiers {471, 477}, Stabilizers {410, 412}, Color {102}, Artificial (Butterscotch) Flavoring Substances, _Milk_, _Nut_, _Wheat_",
+  "per_100g": {
+    "energy_kcal": 133.68,
+    "fat": 6.64,
+    "saturated_fat": 4,
+    "carbohydrates": 15.68,
+    "sugars": 15.6,
+    "fiber": 0.08,
+    "protein": 2.8,
+    "salt": 0.1038,
+    "sodium": 0.04152
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-05-14T18:24:34Z",
+  "fetched_at": "2026-08-19T01:28:53Z"
+}

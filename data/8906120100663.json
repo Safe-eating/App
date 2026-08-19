@@ -1,0 +1,29 @@
+{
+  "barcode": "8906120100663",
+  "name": "Himalayan Salt Makhana",
+  "brand": "Farmley",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:fox-nuts"
+  ],
+  "ingredients": "Foxnut (Makhana), Olive Oil, Rock Salt.",
+  "per_100g": {
+    "energy_kcal": 450,
+    "fat": 21.8,
+    "saturated_fat": 5,
+    "carbohydrates": 52.1,
+    "sugars": 6.2,
+    "fiber": 10.3,
+    "protein": 6.1,
+    "salt": 0.3775,
+    "sodium": 0.469
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-15T19:02:42Z",
+  "fetched_at": "2026-08-19T12:54:35Z"
+}

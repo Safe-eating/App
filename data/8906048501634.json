@@ -1,0 +1,27 @@
+{
+  "barcode": "8906048501634",
+  "name": "Protinex Classic Bitter",
+  "brand": "Danone",
+  "quantity": "750g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages"
+  ],
+  "ingredients": "Peanut protein hydrolysate (56%), Sugar, Malt extract, Maltodextrin, Minerals (Tribasic calcium phosphate, Ferrous gluconate), Vitamins (Choline bitartrate, Ascorbic acid, Niacinamide, dl-alpha Tocopheryl acetate, Riboflavin, Pantothenol, Thiamine mononitrate, Retinyl palmitate, Pyridoxine hydrochloride, Folic acid, Ergocalciferol, Phytomenadione, d-Biotin, Cyanocobalamin), Natural colour (INS 150a), Artificial flavouring substances (chocolate)",
+  "per_100g": {
+    "energy_kcal": 354,
+    "fat": 0.5,
+    "saturated_fat": 0.42,
+    "carbohydrates": 53.3,
+    "sugars": 32,
+    "fiber": null,
+    "protein": 34,
+    "salt": 0.6125,
+    "sodium": 0.245
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-04-19T17:34:27Z",
+  "fetched_at": "2026-08-19T12:37:28Z"
+}

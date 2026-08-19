@@ -1,0 +1,32 @@
+{
+  "barcode": "0723172769406",
+  "name": "Bombay Cutting Chai",
+  "brand": "Teabox",
+  "quantity": "250g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:hot-beverages",
+    "en:plant-based-beverages",
+    "en:teas",
+    "en:black-teas"
+  ],
+  "ingredients": "Black Tea, Ginger, Fennel, Green Cardamom",
+  "per_100g": {
+    "energy_kcal": 39.09375,
+    "fat": 0.8621875,
+    "saturated_fat": 0.18921875,
+    "carbohydrates": 4.8684375,
+    "sugars": 0.684375,
+    "fiber": 3.375,
+    "protein": 1.3125,
+    "salt": 0.0170625,
+    "sodium": 0.00680625
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-01T17:22:49Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

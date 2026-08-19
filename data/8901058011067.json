@@ -1,0 +1,29 @@
+{
+  "barcode": "8901058011067",
+  "name": "Maggi veg atta noodles",
+  "brand": "Maggi",
+  "quantity": "290g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "ResuItant Wheat Flour (Resultant Atta) (84.2%), Palm oil, lodized salt, Wheat gluten, Thickeners (508 \u0026 412), Humectants (451 (i) \u0026 452(i)) and Acidity regulators (501 (1) \u0026 500 STEMAKER:Mixed spices (22.5%) (\u0026quot;Roasted spice mix powder (6.6%) (Coriander, Turmeric, Cumin, Aniseed, Black pepper, Fenugreek, Ginger, Green cinnamon, Clove, Nutmeg, Bay leaf, Black cardamom), Onion powder, Garlic powder, Red chilli powder, Red chilli bits, Coriander powder, Turmeric powder, Ginger powder, Aniseed powder, Black pepper powder, Cumin powder, Cumin, Fenugreek powder, Capsicum extract, Compounded asafoetida, Star anise powder, Coriander extract \u0026 Cumin extract), Dehydrated Vegetables (16.7%) (Carrot bits (8.5%), Green peas (8.2%)), Toasted onion flakes (Onion (12.4%), Corn oil), Resultant Wheat Flour (Resultant Atta), Sugar, lodized salt, Toasted onion powder (Onion (5.9%), Corn oil), Thickener (508), Palm oil, Flavour enhancer (635), Yeast extract powder, Starch, Dehydrated kasuri methi leaves, Acidity regulator (330), Wheat gluten and Mineral.",
+  "per_100g": {
+    "energy_kcal": 321,
+    "fat": 11.1,
+    "saturated_fat": 8.5,
+    "carbohydrates": 50.1,
+    "sugars": 2,
+    "fiber": 4.1,
+    "protein": 8.1,
+    "salt": 2.0145,
+    "sodium": 0.8058
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-27T23:43:24Z",
+  "fetched_at": "2026-08-19T00:25:33Z"
+}

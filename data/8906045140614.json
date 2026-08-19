@@ -1,0 +1,28 @@
+{
+  "barcode": "8906045140614",
+  "name": "Concentrate Whey Protein Unflavoured",
+  "brand": "Nutrabay Pure",
+  "quantity": "1 kg",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders"
+  ],
+  "ingredients": "Whey Protein Concentrate (Cross-Flow Microfiltered)",
+  "per_100g": {
+    "energy_kcal": 409,
+    "fat": 7.7,
+    "saturated_fat": 4,
+    "carbohydrates": 7.7,
+    "sugars": 7.7,
+    "fiber": null,
+    "protein": 77.9,
+    "salt": 0.5525,
+    "sodium": 0.221
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-24T10:03:09Z",
+  "fetched_at": "2026-08-19T12:36:54Z"
+}

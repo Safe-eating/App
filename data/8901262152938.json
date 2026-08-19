@@ -1,0 +1,30 @@
+{
+  "barcode": "8901262152938",
+  "name": "Chocolate Spread Hazelnut",
+  "brand": "Amul",
+  "quantity": "300 g",
+  "categories": [
+    "en:breakfasts",
+    "en:spreads",
+    "en:sweet-spreads",
+    "fr:pates-a-tartiner",
+    "en:chocolate-spreads"
+  ],
+  "ingredients": "Sugar, hazelnut paste (13%), butter oil, milk solids, cocoa powder, emulsifier (322).",
+  "per_100g": {
+    "energy_kcal": 535,
+    "fat": 31,
+    "saturated_fat": 15,
+    "carbohydrates": 60,
+    "sugars": 55,
+    "fiber": null,
+    "protein": 5.5,
+    "salt": 0.0075,
+    "sodium": 0.003
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-08T11:06:41Z",
+  "fetched_at": "2026-08-19T00:44:09Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8902901001754",
+  "name": "Sooji rawa",
+  "brand": "Good life",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:wheats"
+  ],
+  "ingredients": "Wheat",
+  "per_100g": {
+    "energy_kcal": 340,
+    "fat": 0.7,
+    "saturated_fat": 0.1,
+    "carbohydrates": 71.8,
+    "sugars": 1.6,
+    "fiber": null,
+    "protein": 11.6,
+    "salt": 0.00575,
+    "sodium": 0.0023
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-31T08:08:12Z",
+  "fetched_at": "2026-08-19T01:17:24Z"
+}

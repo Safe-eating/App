@@ -1,0 +1,39 @@
+{
+  "barcode": "8902579004309",
+  "name": "SMOODH Kesar Badam",
+  "brand": "Parle Agro",
+  "quantity": "80ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:dairies",
+    "en:plant-based-foods",
+    "en:dairy-substitutes",
+    "en:milk-substitutes",
+    "en:nuts-and-their-products",
+    "en:plant-based-beverages",
+    "en:dairy-drinks",
+    "en:plant-based-milk-alternatives",
+    "en:nut-based-drinks",
+    "en:almond-based-drinks",
+    "en:sweetened-beverages"
+  ],
+  "ingredients": "MILK SOLIDS*, SUGAR, EMULSIFIERS AND STABILIZERS [INS 460(i), INS 471, INS 466, INS 407, INS 340, INS 452], FOOD COLOUR (INS 150c), NATURE IDENTICAL FLAVOURING SUBSTANCE (KESAR BADAM) AND IODISED SALT. *(EQUIVALENT TO 90% M/M DOUBLE TONED MILK) ALLERGEN INFORMATION: CONTAINS MILK.",
+  "per_100g": {
+    "energy_kcal": 83.5,
+    "fat": 1.8,
+    "saturated_fat": 1.2,
+    "carbohydrates": 14.9,
+    "sugars": 14.6,
+    "fiber": null,
+    "protein": 1.9,
+    "salt": 0.1575,
+    "sodium": 0.063
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T07:20:46Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

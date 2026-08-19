@@ -1,0 +1,31 @@
+{
+  "barcode": "8904071701175",
+  "name": "Chana Chor",
+  "brand": "",
+  "quantity": "6 oz",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:seeds",
+    "en:legume-seeds"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 566.66666666667,
+    "fat": 30,
+    "saturated_fat": 13.333333333333,
+    "carbohydrates": 53.333333333333,
+    "sugars": 0,
+    "fiber": 10,
+    "protein": 13.333333333333,
+    "salt": 0.58333333333332,
+    "sodium": 0.233333333333328
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T17:41:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

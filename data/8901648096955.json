@@ -1,0 +1,33 @@
+{
+  "barcode": "8901648096955",
+  "name": "Nutrifit probiotic dahi",
+  "brand": "Mother Dairy",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:curd"
+  ],
+  "ingredients": "Double Toned Milk, Water, Milk Solids, Vitamins A and D, and Active Lactic Culture with probiotics (Lactobacillus acidophilus (LA-5)\u0026Bacteri animalis subop. lactis (BB-12)),",
+  "per_100g": {
+    "energy_kcal": 50,
+    "fat": 1.5,
+    "saturated_fat": 1,
+    "carbohydrates": 5.2,
+    "sugars": 5.2,
+    "fiber": null,
+    "protein": 3.9,
+    "salt": 0.1355,
+    "sodium": 0.0542
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-05T08:41:06Z",
+  "fetched_at": "2026-08-19T00:58:10Z"
+}

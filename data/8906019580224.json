@@ -1,0 +1,36 @@
+{
+  "barcode": "8906019580224",
+  "name": "Urja Lassi",
+  "brand": "Urja",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:dairy-drinks",
+    "en:fermented-drinks",
+    "en:fermented-milk-drinks",
+    "en:buttermilks",
+    "en:flavoured-buttermilks",
+    "en:lassi"
+  ],
+  "ingredients": "Milk Solids (Malai Curd), Potable Water, Sugar, Salt, Starter Culture, CONTAINS ADDED FLAVOUR(S) (NATURE IDENTICAL \u0026 ARTIFICIAL FLAVOURING SUBSTANCES-ROSE FLAVOUR) NO PRESERVATIVES.",
+  "per_100g": {
+    "energy_kcal": 134,
+    "fat": 3,
+    "saturated_fat": 1.8,
+    "carbohydrates": 24.8,
+    "sugars": 24.8,
+    "fiber": null,
+    "protein": 1.9,
+    "salt": 0.18,
+    "sodium": 0.072
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-19T03:37:59Z",
+  "fetched_at": "2026-08-19T02:06:29Z"
+}

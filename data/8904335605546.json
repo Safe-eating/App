@@ -1,0 +1,32 @@
+{
+  "barcode": "8904335605546",
+  "name": "High Protein Oats Korean Fire",
+  "brand": "Yoga Bar",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:oat"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 369,
+    "fat": 8.9,
+    "saturated_fat": 1.5,
+    "carbohydrates": 52.5,
+    "sugars": 11.9,
+    "fiber": 12.5,
+    "protein": 26,
+    "salt": 4.0175,
+    "sodium": 1.607
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-29T14:59:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

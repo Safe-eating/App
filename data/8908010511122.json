@@ -1,0 +1,26 @@
+{
+  "barcode": "8908010511122",
+  "name": "Omay Navratan Mix",
+  "brand": "Omay",
+  "quantity": "100 g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Moong, Chickpea, Millets, Red Lentil, Watermelon seeds, Green peas, Wheat, White rice flakes, Spices Mix (Asafoetida, Black Pepper, Cumin, Clove, Amla, Aniseed, Dry Ginger, Salt (rock, black, iodised), Cinnamon, Black Cardamom, Laungi Mirch, Amchur, Kathodi, Nutmeg, Mace) \u0026 a pinch of groundnut oil",
+  "per_100g": {
+    "energy_kcal": 418.45,
+    "fat": 7.45,
+    "saturated_fat": 1.68,
+    "carbohydrates": 69.87,
+    "sugars": 0.66,
+    "fiber": null,
+    "protein": 17.98,
+    "salt": 3.025,
+    "sodium": 1.21
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-26T18:17:13Z",
+  "fetched_at": "2026-08-19T13:12:11Z"
+}

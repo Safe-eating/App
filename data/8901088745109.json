@@ -1,0 +1,35 @@
+{
+  "barcode": "8901088745109",
+  "name": "Saffola Masala Oats Veggie Twist",
+  "brand": "Saffola",
+  "quantity": "1kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats"
+  ],
+  "ingredients": "Rolled Oats (53.4%), Millets (16%) [Jawar Flakes (14%), Bajra Flakes (2%)], Maltodextrin, Iodised Salt, Dried Vegetables (Carrot (1.6%), Green Peas (1.1%), French Beans), Onion Powder (2.3%), Desiccated Coconut Powder, Sugar, Spices \u0026 Condiments~, Milk Solids, Tomato Powder, Refined Rice Bran Oil, Hydrolyzed Vegetable Protein, Yeast Extract, Acidity Regulators (INS 330), Flavouring Enhancers (INS 661, INS 627), Colour (INS 100), Nature Identical Flavouring Substances. ~Contains Chilli, Turmeric, Ginger, Cardamom, Cinnamon, Curry Leaves, Garlic. ALLERGN Advice: Contains Oats, Milk, Soy \u0026 Nuts.",
+  "per_100g": {
+    "energy_kcal": 368.421052631579,
+    "fat": 9.73684210526316,
+    "saturated_fat": 3.68421052631579,
+    "carbohydrates": 65.7894736842105,
+    "sugars": 6.05263157894737,
+    "fiber": 10,
+    "protein": 9.21052631578947,
+    "salt": 4.85,
+    "sodium": 1.94
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T07:51:31Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8908017484009",
+  "name": "Tamarind",
+  "brand": "Mahadev",
+  "quantity": "500g",
+  "categories": [
+    "en:Tamarind"
+  ],
+  "ingredients": "Tamarind",
+  "per_100g": {
+    "energy_kcal": 309.33,
+    "fat": 0.85,
+    "saturated_fat": 0.45,
+    "carbohydrates": 72.96,
+    "sugars": 38.2,
+    "fiber": 6.16,
+    "protein": 2.46,
+    "salt": 0.168875,
+    "sodium": 0.06755
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-31T11:38:15Z",
+  "fetched_at": "2026-08-19T13:17:52Z"
+}

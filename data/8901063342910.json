@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063342910",
+  "name": "Brown bread",
+  "brand": "Britannia",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 246,
+    "fat": 1.5,
+    "saturated_fat": 0.2,
+    "carbohydrates": 52.2,
+    "sugars": 2.1,
+    "fiber": 2.9,
+    "protein": 7.3,
+    "salt": 1.368,
+    "sodium": 0.5472
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-25T07:56:00Z",
+  "fetched_at": "2026-08-19T00:33:43Z"
+}

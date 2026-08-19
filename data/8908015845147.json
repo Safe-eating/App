@@ -1,0 +1,29 @@
+{
+  "barcode": "8908015845147",
+  "name": "Buttermilk",
+  "brand": "Gokul",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:buttermilks"
+  ],
+  "ingredients": "Milk Solids, Processed Water, Iodized Salt",
+  "per_100g": {
+    "energy_kcal": 26.8,
+    "fat": 1.2,
+    "saturated_fat": 0.96,
+    "carbohydrates": 1.8,
+    "sugars": 1.7,
+    "fiber": 0,
+    "protein": 2.2,
+    "salt": 0.575,
+    "sodium": 0.23
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-11T15:05:54Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

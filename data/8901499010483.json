@@ -1,0 +1,36 @@
+{
+  "barcode": "8901499010483",
+  "name": "Kelloggs",
+  "brand": "kellogg's",
+  "quantity": "240g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereals-with-fruits",
+    "en:flakes",
+    "en:mueslis",
+    "en:cereal-flakes",
+    "en:mueslis-with-fruits"
+  ],
+  "ingredients": "Multigrain (66.4%) ,Wheat (24.6%),Corn Grits (15.7%), Rice(10.1%), Rolled Barley (8%), Rolled Oats (8%) ,Candied \u0026 Nuts \u0026 Dry Fruits \u0026 Seed(21%) {Candied Papaya (6%),Candied Cranberry(4%),Raisins(4%),Almonds(4%),Pumpkin Seeds(3%)},Sugar,Cereal Extract,Wheat Bran,Iodized Salt,Vitamins \u0026 Minerals,Anti Oxidants(INS 320,INS 307b)",
+  "per_100g": {
+    "energy_kcal": 397.5,
+    "fat": 6,
+    "saturated_fat": 0.75,
+    "carbohydrates": 80,
+    "sugars": 16,
+    "fiber": 5,
+    "protein": 8,
+    "salt": 0.15,
+    "sodium": 0.06
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-01T01:53:50Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "0944607300005",
+  "name": "Paneer",
+  "brand": "Milky Mist",
+  "quantity": "500g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer",
+    "en:cottage-cheeses"
+  ],
+  "ingredients": "Milk solids \u0026 Vinegar",
+  "per_100g": {
+    "energy_kcal": 283,
+    "fat": 22,
+    "saturated_fat": 12,
+    "carbohydrates": 5.1,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 16.1,
+    "salt": 0.3125,
+    "sodium": 0.125
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-02T06:21:17Z",
+  "fetched_at": "2026-08-18T23:59:45Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8904221697495",
+  "name": "Protein Powder Cookie And Cream",
+  "brand": "Asitis",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 388.888888888889,
+    "fat": 2.77777777777778,
+    "saturated_fat": 1.66666666666667,
+    "carbohydrates": 16.1111111111111,
+    "sugars": 6.25,
+    "fiber": null,
+    "protein": 75,
+    "salt": 0.634027777777778,
+    "sodium": 0.253611111111111
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-04T07:06:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

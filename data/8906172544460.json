@@ -1,0 +1,24 @@
+{
+  "barcode": "8906172544460",
+  "name": "Guava Chilli Medium Fat Ice Cream",
+  "brand": "Huber \u0026 Holly",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 83.4,
+    "fat": 4.2,
+    "saturated_fat": 2.6,
+    "carbohydrates": 10,
+    "sugars": 9,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.05825,
+    "sodium": 0.0233
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-03T15:47:57Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

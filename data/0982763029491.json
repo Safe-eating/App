@@ -1,0 +1,29 @@
+{
+  "barcode": "0982763029491",
+  "name": "DATE \u0026 WALNUT CAKE",
+  "brand": "Cake Mania",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes"
+  ],
+  "ingredients": "Flour, Edible veg fat, Sugar, Egg. Baking Powder, Baking Soda, Milk solids, Emulsifier, Dates, Walnut, contain added butter and other flavours, Permitted preservative (INS 211)",
+  "per_100g": {
+    "energy_kcal": 324,
+    "fat": 11,
+    "saturated_fat": 2,
+    "carbohydrates": 63,
+    "sugars": 30,
+    "fiber": null,
+    "protein": 6,
+    "salt": 1.7375,
+    "sodium": 0.695
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-16T07:30:48Z",
+  "fetched_at": "2026-08-19T00:00:13Z"
+}

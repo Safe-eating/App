@@ -1,0 +1,29 @@
+{
+  "barcode": "8906080600982",
+  "name": "Jus de mangue",
+  "brand": "Paper boat",
+  "quantity": "180ml",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 62,
+    "fat": 0.1,
+    "saturated_fat": 0.1,
+    "carbohydrates": 15.5,
+    "sugars": 12.5,
+    "fiber": null,
+    "protein": 0.1,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-19T07:01:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

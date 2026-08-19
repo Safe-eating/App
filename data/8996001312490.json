@@ -1,0 +1,31 @@
+{
+  "barcode": "8996001312490",
+  "name": "Mayora Malkist Chocolate Flavored Sandwich Cracker Biscuits",
+  "brand": "Mayora",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour, Edible Vegetable Oil (Palmolein Oil)-contains Antioxidant (SHA), Sugar (33 Glucose Syrup, Milk Solids (4.729%) (SMP), Cocoa Powder (3.72%), Tapioca Starch, Leavening Agents, Edible Common Salt, Bakers Yeast, Malt Extract (0.48%), Butter, Emulsifier (Soy Lecithin), Vitamin Premix (Thiamine Mononitrate, Riboflavin, Pyridoxine Hydrochloride, Cyanocobalamin), Artificial Flavouring Substance (Chocolate)",
+  "per_100g": {
+    "energy_kcal": 488,
+    "fat": 21.3,
+    "saturated_fat": 14.2,
+    "carbohydrates": 66.4,
+    "sugars": 21.3,
+    "fiber": 16.8,
+    "protein": 7.6,
+    "salt": 1.3175,
+    "sodium": 0.527
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-07T03:10:44Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

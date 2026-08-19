@@ -1,0 +1,29 @@
+{
+  "barcode": "8906142773913",
+  "name": "Kaju Katli",
+  "brand": "Bolas",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:candies"
+  ],
+  "ingredients": "Cashew, Sugar",
+  "per_100g": {
+    "energy_kcal": 483.93,
+    "fat": 25.33,
+    "saturated_fat": 5.86,
+    "carbohydrates": 53.58,
+    "sugars": 31.16,
+    "fiber": 2.49,
+    "protein": 10.41,
+    "salt": 22.05,
+    "sodium": 8.82
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-08T11:53:17Z",
+  "fetched_at": "2026-08-19T12:58:38Z"
+}

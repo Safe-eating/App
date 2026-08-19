@@ -1,0 +1,26 @@
+{
+  "barcode": "8901030976742",
+  "name": "Knorr",
+  "brand": "Knorr",
+  "quantity": "110",
+  "categories": [
+    "en:Ramen"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 367.272727272727,
+    "fat": 11.4545454545455,
+    "saturated_fat": 5.36363636363636,
+    "carbohydrates": 61,
+    "sugars": 7.72727272727273,
+    "fiber": 4.90909090909091,
+    "protein": 7.45454545454545,
+    "salt": 4.84318181818182,
+    "sodium": 1.93727272727273
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-07T10:57:19Z",
+  "fetched_at": "2026-08-19T00:21:25Z"
+}

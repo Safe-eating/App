@@ -1,0 +1,33 @@
+{
+  "barcode": "8904474000165",
+  "name": "Wholewheat Bran Bread",
+  "brand": "La Americana",
+  "quantity": "350 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:sliced-breads",
+    "en:bran-bread",
+    "en:bran-sliced-breads"
+  ],
+  "ingredients": "Whole Wheat Flour - Atta (50.60% ), Water, Yeast, Jaggery (2.00%), Cold Pressed Sunflower Oil, Bran (2.53%), Pink Salt (1.30%) and Fermented Whole Wheat Flour.",
+  "per_100g": {
+    "energy_kcal": 300.5,
+    "fat": 2.55,
+    "saturated_fat": 0.42,
+    "carbohydrates": 52.15,
+    "sugars": 2.55,
+    "fiber": 9.5,
+    "protein": 12.5,
+    "salt": 1.22,
+    "sodium": 0.488
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-04T09:15:54Z",
+  "fetched_at": "2026-08-19T01:46:35Z"
+}

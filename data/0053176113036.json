@@ -1,0 +1,29 @@
+{
+  "barcode": "0053176113036",
+  "name": "Eggs",
+  "brand": "Fresho",
+  "quantity": "6",
+  "categories": [
+    "en:eggs-and-their-products",
+    "en:farming-products",
+    "en:eggs",
+    "en:chicken-eggs"
+  ],
+  "ingredients": "Eggs",
+  "per_100g": {
+    "energy_kcal": 128,
+    "fat": 8,
+    "saturated_fat": 3.3,
+    "carbohydrates": 0.67,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 13.3,
+    "salt": 0.31,
+    "sodium": 0.124
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-04T14:44:53Z",
+  "fetched_at": "2026-08-18T23:53:49Z"
+}

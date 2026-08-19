@@ -1,0 +1,26 @@
+{
+  "barcode": "8906131682844",
+  "name": "Slurrp Farm Choco Crunch",
+  "brand": "Slurrp Farm",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Multigrain flour blend [jowar, ragi, rice] (34%), raw unrefined sugar (23%), corn (18%), cocoa (6%), rice bran oil, nature-identical flavour, rosemary.",
+  "per_100g": {
+    "energy_kcal": 299.642857142857,
+    "fat": 3.57142857142857,
+    "saturated_fat": 0.714285714285714,
+    "carbohydrates": 64.2857142857143,
+    "sugars": 22.8571428571429,
+    "fiber": 5,
+    "protein": 5.35714285714286,
+    "salt": 0.0178571428571429,
+    "sodium": 0.00714285714285714
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-28T07:18:01Z",
+  "fetched_at": "2026-08-19T12:56:40Z"
+}

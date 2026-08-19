@@ -1,0 +1,31 @@
+{
+  "barcode": "8906153561707",
+  "name": "Mango Lassi",
+  "brand": "GoodLife, Nandini",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:Mango lassi"
+  ],
+  "ingredients": "Milk Solids (Double Toned Milk Curd), Pasteurised Chilled Water, Sugar, Mango Pulp (6%), Stabilizers (INS 466, INS 451, INS 415, INS 440, INS 331), Acidity Regulator (INS 270), Synthetic Food Colour (INS 110, INS 102), Nature Identical \u0026 Artificial Flavours (Mango)",
+  "per_100g": {
+    "energy_kcal": 75,
+    "fat": 0.5,
+    "saturated_fat": 0.3,
+    "carbohydrates": 16,
+    "sugars": 15.8,
+    "fiber": null,
+    "protein": 1.7,
+    "salt": 0.055,
+    "sodium": 0.022
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-02T12:45:35Z",
+  "fetched_at": "2026-08-19T13:00:40Z"
+}

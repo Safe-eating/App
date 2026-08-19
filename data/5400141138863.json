@@ -1,0 +1,30 @@
+{
+  "barcode": "5400141138863",
+  "name": "Mélange de bonbons",
+  "brand": "Boni",
+  "quantity": "600 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:confectioneries",
+    "en:candies",
+    "en:gummi-candies"
+  ],
+  "ingredients": "Confiserie fantaisie Gommes tendres huilées Sirop de glucose, sucre, eau, gélatine de porc, acidifiant (E330), maltodextrine, arômes (citron, orange, fraise, pomme, poire, cola), colorants (E100, É120, E141 E150d, E160e), huiles végétales (palmiste, coco), agents d'enrobage (E901, E903)",
+  "per_100g": {
+    "energy_kcal": 319,
+    "fat": 0.2,
+    "saturated_fat": 0.2,
+    "carbohydrates": 73.4,
+    "sugars": 51.8,
+    "fiber": null,
+    "protein": 5.8,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-31T12:28:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

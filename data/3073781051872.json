@@ -1,0 +1,32 @@
+{
+  "barcode": "3073781051872",
+  "name": "Queso",
+  "brand": "picon",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:spreads",
+    "en:salted-spreads",
+    "en:cheese-spreads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 268,
+    "fat": 23,
+    "saturated_fat": 15.5,
+    "carbohydrates": 6,
+    "sugars": 6,
+    "fiber": null,
+    "protein": 10,
+    "salt": 0.65,
+    "sodium": 0.26
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T17:14:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

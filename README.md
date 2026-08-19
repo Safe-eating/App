@@ -1,12 +1,12 @@
 # SafeBite
 
-A React Native (Expo) app that answers three questions about any everyday food:
+Scan the barcode on a food pack and get a straight answer about what is in it.
 
 1. **Is it safe to eat?** — a 0–100 safety score and a plain-language verdict.
-2. **What is harmful in it?** — every additive broken down: what it is, why it matters, reported effects, and where it is banned.
-3. **How much won't hurt me?** — a derived daily limit plus a portion calculator.
+2. **What is harmful in it?** — every additive: what it is, why it matters, reported effects, and where it is banned.
+3. **How much won't hurt me?** — a derived daily limit, plus a calculator showing exactly what any amount puts into your body.
 
-Foods are organised into 10 browsable categories and are fully searchable.
+**3,523 products** are findable by barcode.
 
 ---
 
@@ -17,45 +17,52 @@ npm install
 npm start
 ```
 
-Then scan the QR code with the **Expo Go** app on your phone, or press `a` for an Android emulator.
-
-No phone? Run it in a browser instead:
-
-```bash
-npm run web
-```
-
-### ⚠️ Do not upgrade the Expo SDK past 54 without checking Expo Go first
-
-This project is deliberately pinned to **Expo SDK 54**.
-
-Modern Expo Go supports exactly **one** SDK version, and as of August 2026 the
-Play Store / App Store build of Expo Go is still on SDK 54 — Expo Go for SDK 57
-[has not been approved for the stores yet](https://expo.dev/changelog/sdk-57).
-A project on SDK 55+ therefore fails on a store-installed Expo Go with:
-
-> Project is incompatible with this version of Expo Go
-
-and no amount of updating Expo Go fixes it. If you do want a newer SDK, you have
-to stop using Expo Go and make a [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-instead — `npx expo run:android` locally, or EAS Build in the cloud.
+Scan the QR code with **Expo Go** on your phone. The camera scanner needs a real
+device — it will not work in a browser.
 
 | Command | What it does |
 | --- | --- |
 | `npm start` | Start the Expo dev server |
 | `npm run android` | Open on a connected Android device or emulator |
 | `npm run import` | **Convert `data/*.json`** (Open Food Facts) into the app's schema |
-| `npm run validate` | **Check the dataset** — integrity, scores, search spot-checks |
+| `npm run validate` | **Check the dataset** — integrity, scores, barcode lookups |
 | `npm run typecheck` | TypeScript check with no emit |
+
+### ⚠️ Do not upgrade the Expo SDK past 54 without checking Expo Go first
+
+Pinned to **Expo SDK 54** on purpose. Expo Go supports exactly one SDK version,
+and Expo Go for SDK 57 [is not on the app stores yet](https://expo.dev/changelog/sdk-57).
+A project on a newer SDK fails on a store-installed Expo Go with *"Project is
+incompatible with this version of Expo Go"*, and no amount of updating Expo Go
+fixes it.
+
+---
+
+## The two screens
+
+**`ScanScreen`** — the home screen. Uses `expo-camera`, reading EAN-13/8,
+UPC-A/E, Code 128/39, ITF-14 and QR, with a torch toggle. A scanned code is
+normalised before lookup: the same product is printed as UPC-A
+(`028400034227`) and stored as EAN-13 (`0028400034227`), so digits are stripped
+of leading zeros on both sides before matching. There is also a manual entry
+box, because a denied camera permission would otherwise leave the app with
+nothing it can do.
+
+The camera runs only while this screen is showing — opening a report unmounts
+it — and nothing is recorded or uploaded.
+
+**`FoodScreen`** — the report: score with a breakdown of every point added and
+removed, each harmful ingredient expandable, the safe daily limit, an intake
+calculator for any amount, full nutrition, benefits, warnings and allergens.
 
 ---
 
 ## How the safety score works
 
-Nothing is hardcoded. Every food **starts at 100** and the engine in
-[`src/lib/scoring.ts`](src/lib/scoring.ts) adds and subtracts from there, returning
-each adjustment as a labelled factor so the app can show the user exactly why a
-food scored what it did.
+Nothing is hardcoded. Every food **starts at 100** and
+[`src/lib/scoring.ts`](src/lib/scoring.ts) adds and subtracts from there,
+returning each adjustment as a labelled factor so the app can show exactly why a
+product scored what it did.
 
 | Factor | Effect |
 | --- | --- |
@@ -72,9 +79,9 @@ food scored what it did.
 | Protein | up to +6 |
 
 Thresholds follow the UK front-of-pack traffic-light cut-offs per 100 g, plus WHO
-guidance on trans fat and sodium. Sugar in whole and minimally processed food
-(fruit, milk) is treated as natural rather than added, so an apple is not
-penalised the way a biscuit is.
+guidance on trans fat and sodium. Sugar in whole and minimally processed food is
+treated as natural rather than added, so plain milk is not penalised like a
+biscuit.
 
 **Verdict bands:** 80–100 Safe · 60–79 Mostly safe · 38–59 Limit · 0–37 Avoid
 
@@ -92,122 +99,82 @@ use up its allotted share of the daily budget*, then takes the strictest answer.
 | Trans fat | 2 g | 25% |
 | Calories | 2000 kcal | 15% |
 
-The result is then tightened by the safety verdict (avoid ×0.5, limit ×0.75), so
-a food that is bad for reasons beyond one nutrient still gets a strict limit.
-A food can override all of this with an explicit `safeLimit` in the dataset.
+The result is tightened by the safety verdict (avoid ×0.5, limit ×0.75), so a
+food that is bad for reasons beyond one nutrient still gets a strict limit.
 
 ---
 
-## Your Open Food Facts dataset
+## Adding more products
 
-Barcode-keyed product dumps go in `data/` (one JSON file per product, exactly the
-shape already there). Then:
+Drop Open Food Facts barcode dumps into `data/` (one JSON per product), then:
 
 ```bash
-npm run import     # data/*.json  →  src/data/imported.json
-npm run validate   # check the result and see the scores
+npm run import && npm run validate
 ```
 
-`scripts/import-openfoodfacts.ts` does the mapping. The parts worth knowing:
+`scripts/import-openfoodfacts.ts` does the mapping. Read its output each time —
+it reports what was skipped and why. The parts worth knowing:
 
 - **Sodium is converted.** Open Food Facts stores `sodium` and `salt` in *grams*
   per 100 g; the app uses milligrams, so it multiplies by 1000 (falling back to
   `salt × 400` when sodium is absent).
-- **Categories come from the taxonomy tags, read most-specific first.** OFF lists
-  tags general → specific, so `en:paneer` decides the category rather than
-  `en:dairies`. Umbrella tags like `en:plant-based-foods-and-beverages` are
-  ignored outright — otherwise a bag of flour gets filed under drinks. Anything
-  unmatched lands in **Other Packaged** and is listed in the import output so you
-  can add a rule to `CATEGORY_RULES`.
-- **Additives are read out of the ingredient text**, both by INS/E number
+- **Physically impossible records are skipped.** The data is crowd-sourced and
+  genuinely contains "1000 g saturated fat per 100 g". Anything over 100 g per
+  100 g, or over 900 kcal per 100 g, cannot be trusted at all.
+- **Inconsistent records are repaired conservatively.** Where sugars exceed
+  carbohydrate, or saturated + trans exceed total fat, the *parent* is raised to
+  its logical minimum. A declared figure is never lowered — that would be
+  inventing data.
+- **Products with no nutrition data are skipped.** Missing values read as zero,
+  and a food of all zeroes collects no penalties — it would score a confident
+  100/100 "Safe to eat".
+- **Categories come from the taxonomy tags, most-specific first.** Umbrella tags
+  like `en:plant-based-foods-and-beverages` are ignored, otherwise a bag of flour
+  gets filed under drinks. Unmatched products land in **Other Packaged** and are
+  listed in the output.
+- **Additives are read out of the ingredient text**, by INS/E number
   (`Citric Acid (INS 330)` → E330) and by name. Generic words are deliberately
-  *not* matched, so "vegetable oil" is never silently reported as palm oil.
-- **Processing level comes from `nova_group`**, and is inferred from the
-  ingredient list when NOVA is null.
-- **Products with no nutrition data are skipped**, and listed in the output.
-  This is deliberate: missing values read as 0, a food of all zeroes collects no
-  penalties, and it would score a confident **100/100 "Safe to eat"**. A record
-  with no numbers cannot answer any question this app asks.
-- **Allergens come from the ingredient list**, not the product name, and only
-  fall back to the name when no ingredient list is published. The two disagree:
-  "Rava Idli Batter" is named after a wheat-semolina dish but is actually made
-  with *idli rava*, which is rice. Every auto-detected allergen carries a
-  "check the pack" caveat in its note.
-- **Trans fat is not in the OFF export**, so it is recorded as 0 and each
-  imported food says so in its note. This makes scores slightly generous for
-  fried and bakery products.
-- Benefits and warnings are generated from the nutrition figures.
+  not matched, so "vegetable oil" is never silently reported as palm oil.
+- **Allergens come from the ingredient list**, not the product name, falling back
+  to the name only when no ingredient list is published. The two disagree more
+  than you would think.
+- **Trans fat is not in the OFF export**, so it is recorded as 0 and each product
+  says so in its note. Scores run slightly generous for fried and bakery items.
 
-To test mapping changes without touching the real dataset, point the importer
-somewhere else:
+To test mapping changes without touching the real dataset:
 
 ```bash
 npx tsx scripts/import-openfoodfacts.ts ./some-test-dir ./out.json
 ```
-
-Imported foods are merged with the curated set at load time, and a barcode in
-`imported.json` overrides a curated entry with the same id. Re-running the import
-is safe — it rebuilds the file from whatever is in `data/`.
-
-## Swapping the whole dataset
-
-All food knowledge lives in these JSON files, and nothing else in the app needs
-touching:
-
-```
-src/data/
-  foods.json       ← curated food items (hand-written)
-  imported.json    ← generated by `npm run import` — do not edit by hand
-  additives.json   ← the harmful-ingredient database
-  categories.json  ← the categories foods are grouped into
-```
-
-The full field-by-field schema is in [`src/data/SCHEMA.md`](src/data/SCHEMA.md).
-
-After replacing them, run:
-
-```bash
-npm run validate
-```
-
-which checks that every id is unique, every `categoryId` and additive reference
-resolves, and every food has nutrition and a serving size — then prints the score
-and daily limit every food ends up with so you can sanity-check the results.
-
-`src/lib/db.ts` normalises the incoming data (missing optional arrays, `null`
-instead of an absent key), so a hand-authored file does not need to be perfect.
 
 ---
 
 ## Project layout
 
 ```
-App.tsx                      Root, navigation stack, Android back handling
+App.tsx                      Root, two-screen stack, Android back handling
 src/
   types.ts                   Every data shape in the app
   theme.ts                   Colours, spacing, verdict and risk palettes
-  data/                      THE DATASET — swap these three files
+  data/
+    imported.json            THE DATASET — generated by npm run import
+    additives.json           The harmful-ingredient database
+    categories.json          Category names and colours
+    foods.json               Unused. A curated set kept for reference only —
+                             those foods have no barcode, so a scan-only app
+                             cannot reach them.
   lib/
     scoring.ts               Safety score + verdict
-    quantity.ts              Daily limit + portion impact
-    db.ts                    Loading, normalising, indexing, search
-  components/                SearchBar, FoodCard, AdditiveRow, ScoreDial, …
+    quantity.ts              Daily limit, intake breakdown, harmful-or-not
+    db.ts                    Loading, normalising, barcode index
+  components/                AdditiveRow, IntakePanel, QuantityCalculator, …
   screens/
-    HomeScreen.tsx           Search + category grid + best/worst lists
-    CategoryScreen.tsx       Foods in one category, sortable
-    FoodScreen.tsx           Full breakdown for one food
+    ScanScreen.tsx           Camera, barcode lookup, manual entry
+    FoodScreen.tsx           Full report for one product
 scripts/
+  import-openfoodfacts.ts    data/*.json → src/data/imported.json
   validate-data.ts           Dataset checker (npm run validate)
 ```
-
----
-
-## A note on the data
-
-The bundled dataset is a hand-built starter set of **59 foods and 34 additives**
-covering fruit, vegetables, chips and namkeen, drinks, dairy, bakery, protein
-foods, sweets, instant and frozen food, and sauces. Nutrition figures are typical
-values for the category rather than any single brand's label.
 
 SafeBite gives general nutrition guidance from public reference intakes. It is
 not medical advice.

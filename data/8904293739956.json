@@ -1,0 +1,24 @@
+{
+  "barcode": "8904293739956",
+  "name": "Whole Wheat Bread",
+  "brand": "Delish",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 275.92,
+    "fat": 2.8,
+    "saturated_fat": 1.56,
+    "carbohydrates": 53.84,
+    "sugars": 3.16,
+    "fiber": 6.06,
+    "protein": 8.86,
+    "salt": 0.9606,
+    "sodium": 0.38424
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-18T10:21:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

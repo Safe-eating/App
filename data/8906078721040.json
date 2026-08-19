@@ -1,0 +1,36 @@
+{
+  "barcode": "8906078721040",
+  "name": "Lemon chilli",
+  "brand": "Gopal wafers",
+  "quantity": "35g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Potato (55%), Edible Vegetable oil (Palmolein oil) (33%), Sugar, Black Salt, Edible common Salt, Spices \u0026 Condiments ((Chilli Powder (0.3%), Cumin Powder)), Silicon Dioxide (E 551), Milk Solids, HVP (Soya), Citric Acid (INS 330), Malic Acid (INS 296), Sodium Acetate (INS 262), Disodium 5'-ribonucleotides (INS 635),Contains Added Flavour (NATURAL and NATURE IDENTICAL FLAVOURING SUBSTANCES(Lemon)).ALLERGEN ADVICE: CONTAINS _MILK_,_SOYA_.Traces:_CEREALS_(GLUTEN), _MILK_,_TREE NUTS_,_PEANUTS_,_SESAME SEEDS_,_MUSTARD SEEDS_,_SOYA_.",
+  "per_100g": {
+    "energy_kcal": 518.2,
+    "fat": 30,
+    "saturated_fat": 14.15,
+    "carbohydrates": 54.03,
+    "sugars": 7.2,
+    "fiber": 0,
+    "protein": 8.03,
+    "salt": 2.025,
+    "sodium": 0.81
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-12-19T09:23:44Z",
+  "fetched_at": "2026-08-19T12:44:05Z"
+}

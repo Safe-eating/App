@@ -1,0 +1,26 @@
+{
+  "barcode": "8939115036982",
+  "name": "Jaspur Nylon Khaman",
+  "brand": "Jaspur",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Besan, Sugar, lodised Salt, Acidity Regulator(ins330), Raising Agent (Ins500(ii)), Turmeric.",
+  "per_100g": {
+    "energy_kcal": 357.4,
+    "fat": 3.8,
+    "saturated_fat": 1.1,
+    "carbohydrates": 66.2,
+    "sugars": 21.7,
+    "fiber": null,
+    "protein": 14.8,
+    "salt": 3.2005,
+    "sodium": 1.2802
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-04T12:20:17Z",
+  "fetched_at": "2026-08-19T13:25:07Z"
+}

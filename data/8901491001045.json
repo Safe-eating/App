@@ -1,0 +1,36 @@
+{
+  "barcode": "8901491001045",
+  "name": "Spanish Tomato Tango Flavour",
+  "brand": "Lay's",
+  "quantity": "73.7g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Palmolein, Rice Bran Oil), *Seasoning (Sugar, lodised Salt, Maltodextrin, Flavour (Natural \u0026 Nature Identical Flavouring Substances), Spices \u0026 Condiments, Tomato Powder (0.6%), Hydrolysed Vegetable Protein, Wheat Fibre, Dextrose, Edible Vegetable Oil (Coconut Oil), Flavour Enhancers (627, 631)).",
+  "per_100g": {
+    "energy_kcal": 525,
+    "fat": 31.9,
+    "saturated_fat": 12,
+    "carbohydrates": 53.1,
+    "sugars": 5.6,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 1.6475,
+    "sodium": 0.659
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-04T15:01:13Z",
+  "fetched_at": "2026-08-19T00:48:23Z"
+}

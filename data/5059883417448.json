@@ -1,0 +1,27 @@
+{
+  "barcode": "5059883417448",
+  "name": "Clear Whey Protein Chupa Chups Strawberry Flavour",
+  "brand": "MYPROTEIN",
+  "quantity": "500 g",
+  "categories": [
+    "en:dairies",
+    "en:whey-powder"
+  ],
+  "ingredients": "Hydrolysed Whey Protein Isolate (97.7%) (Anti-foaming Agent (Silicon Dioxide)), Artificial Flavour (Strawberry), Acidity Regulator (Citric acid), Concentrated Beetroot Juice Powder, Sweetener (Sucralose).",
+  "per_100g": {
+    "energy_kcal": 347,
+    "fat": 0.24,
+    "saturated_fat": 0.12,
+    "carbohydrates": 1.24,
+    "sugars": 0.4,
+    "fiber": null,
+    "protein": 80,
+    "salt": 0.1,
+    "sodium": 0.04
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-09T12:29:05Z",
+  "fetched_at": "2026-08-19T00:05:47Z"
+}

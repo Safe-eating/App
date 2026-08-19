@@ -1,0 +1,31 @@
+{
+  "barcode": "8901719126505",
+  "name": "Hide and seek choco rolls",
+  "brand": "Parle",
+  "quantity": "125 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:filled-biscuits"
+  ],
+  "ingredients": "CHOCO CRÈME (40%),SUGAR, PALMOLEIN, PALM OIL, COCOA SOLIDS, SOY LECITHIN, ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA, REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP, COCOA SOLIDS, IODISED SALT, RAISING AGENTS [500 (ii), 503 (ii)] AND EMULSIFIER OF VEGETABLE ORIGIN [472e].",
+  "per_100g": {
+    "energy_kcal": 522,
+    "fat": 26.7,
+    "saturated_fat": 12.6,
+    "carbohydrates": 65.9,
+    "sugars": 37,
+    "fiber": null,
+    "protein": 4.6,
+    "salt": 0.245,
+    "sodium": 0.098
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-22T10:51:30Z",
+  "fetched_at": "2026-08-19T01:01:15Z"
+}

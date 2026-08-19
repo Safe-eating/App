@@ -1,0 +1,30 @@
+{
+  "barcode": "8904022920648",
+  "name": "100% Atta Bread",
+  "brand": "Bonn",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "WHOLE WHEAT FLOUR-ATTA (53%), WATER, SUGAR, YEAST, EDIBLE COMMON SALT, MALT EXTRACT, REFINED PALM OIL, SOYABEAN OIL, GLUTEN, BROWN BREAD CONCENTRATE, SOY FLOUR, PRESERVATIVES [280, 281], FLOUR IMPROVERS 1100(i) \u0026 1104], ANTIOXIDANT [300], ANTICAKING AGENT [170(i)] AND EMULSIFIERS (481(1), 471, 472e \u0026 479].",
+  "per_100g": {
+    "energy_kcal": 251,
+    "fat": 1.7,
+    "saturated_fat": 0.7,
+    "carbohydrates": 48,
+    "sugars": 2.4,
+    "fiber": 6,
+    "protein": 7.8,
+    "salt": 1.125,
+    "sodium": 0.45
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-29T10:18:23Z",
+  "fetched_at": "2026-08-19T01:26:48Z"
+}

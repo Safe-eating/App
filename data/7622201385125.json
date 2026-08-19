@@ -1,0 +1,31 @@
+{
+  "barcode": "7622201385125",
+  "name": "cadbury",
+  "brand": "Cadbury",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:biscuit-cookie-snack-w-chocolate-filling"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 506,
+    "fat": 25.5,
+    "saturated_fat": 12.2,
+    "carbohydrates": 65.1,
+    "sugars": 38.1,
+    "fiber": null,
+    "protein": 5.1,
+    "salt": 0.495,
+    "sodium": 0.198
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-22T07:14:10Z",
+  "fetched_at": "2026-08-19T00:07:11Z"
+}

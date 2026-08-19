@@ -1,0 +1,28 @@
+{
+  "barcode": "8904256715478",
+  "name": "GoodDiet Protein Bar Coconut",
+  "brand": "Big Basket Good Diet",
+  "quantity": "65g",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-bars"
+  ],
+  "ingredients": "Ingredients. Whey protein isolate (22%), Fructo-Oligosaccharides (Prebiotic fibre) (13%), Dark Chocolate (12%) (Sugar, Cocoa solids, Emusifier (INS 3220, Cashew butter, Milk protein concentrate, Butter, Honey, Hazelnuts (4%) and Jowar millet crisp.",
+  "per_100g": {
+    "energy_kcal": 285,
+    "fat": 14.5,
+    "saturated_fat": 5.9,
+    "carbohydrates": 18.5,
+    "sugars": 7.8,
+    "fiber": 9.5,
+    "protein": 20,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-05T13:03:07Z",
+  "fetched_at": "2026-08-19T01:39:16Z"
+}

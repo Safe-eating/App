@@ -1,0 +1,29 @@
+{
+  "barcode": "5060204123672",
+  "name": "Eggon White Grade A White Eggs",
+  "brand": "Eggon Eggs",
+  "quantity": "6 units, 300 gm",
+  "categories": [
+    "en:eggs-and-their-products",
+    "en:farming-products",
+    "en:eggs",
+    "en:White Eggs"
+  ],
+  "ingredients": "Eggs",
+  "per_100g": {
+    "energy_kcal": 128,
+    "fat": 8,
+    "saturated_fat": 3.3,
+    "carbohydrates": 0.67,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 13.3,
+    "salt": 0.31,
+    "sodium": 0.124
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-24T11:31:17Z",
+  "fetched_at": "2026-08-19T00:05:52Z"
+}

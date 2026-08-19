@@ -1,0 +1,26 @@
+{
+  "barcode": "0923302764206",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:food"
+  ],
+  "ingredients": "defatted soy flour",
+  "per_100g": {
+    "energy_kcal": 343,
+    "fat": 0.8,
+    "saturated_fat": 0.2,
+    "carbohydrates": 31.5,
+    "sugars": 4.73,
+    "fiber": null,
+    "protein": 52.5,
+    "salt": 5,
+    "sodium": 2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-06T18:36:53Z",
+  "fetched_at": "2026-08-18T23:59:11Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8908013153053",
+  "name": "Mahavir khajur",
+  "brand": "Mahavir",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:fruits",
+    "en:dates-and-their-products",
+    "en:dates"
+  ],
+  "ingredients": "Dates",
+  "per_100g": {
+    "energy_kcal": 340,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 83,
+    "sugars": 64,
+    "fiber": null,
+    "protein": 2,
+    "salt": 0.0375,
+    "sodium": 0.015
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-28T15:29:47Z",
+  "fetched_at": "2026-08-19T13:14:40Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8908026875751",
+  "name": "Whey Pro Rich Chocolate",
+  "brand": "Ripped Up Nutrition",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 384.848484848485,
+    "fat": 3.03030303030303,
+    "saturated_fat": 1.51515151515152,
+    "carbohydrates": 13.030303030303,
+    "sugars": 3.03030303030303,
+    "fiber": 0.606060606060606,
+    "protein": 72.7272727272727,
+    "salt": 0.00189393939393939,
+    "sodium": 0.000909090909090909
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-23T10:05:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8908002735321",
+  "name": "High Protein Bread",
+  "brand": "Golden Bite",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 283.86,
+    "fat": 2.18,
+    "saturated_fat": 0.4,
+    "carbohydrates": 53.91,
+    "sugars": 5.31,
+    "fiber": 2,
+    "protein": 12.15,
+    "salt": 1.24575,
+    "sodium": 0.4983
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-02T06:01:58Z",
+  "fetched_at": "2026-08-19T13:07:31Z"
+}

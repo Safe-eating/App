@@ -1,0 +1,26 @@
+{
+  "barcode": "8906010500207",
+  "name": "Balaji Wafers Chana Dal",
+  "brand": "Balaji Wafers",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "CHICKPEA SPLITS (83%), EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN), SPICES \u0026 CONDIMENTS (CHILLI, CORIANDER, CUMIN, TURMERIC, DRY MANGO, CLOVE, CAROM SEED, GINGER, CINNAMON, CARDAMOM, NUTMEG, MACE, BAY LEAVES), EDIBLE COMMON SALT.",
+  "per_100g": {
+    "energy_kcal": 531,
+    "fat": 22.8,
+    "saturated_fat": 9,
+    "carbohydrates": 51.5,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 19.4,
+    "salt": 1.5475,
+    "sodium": 0.619
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-02T05:06:08Z",
+  "fetched_at": "2026-08-19T02:00:13Z"
+}

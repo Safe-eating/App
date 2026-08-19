@@ -1,0 +1,27 @@
+{
+  "barcode": "8904022903863",
+  "name": "Butter Bonn Biscuits",
+  "brand": "Bonn",
+  "quantity": "",
+  "categories": [
+    "en:frozen-foods",
+    "en:frozen-snacks-and-starters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 503,
+    "fat": 19.4,
+    "saturated_fat": 9.46,
+    "carbohydrates": 74.3,
+    "sugars": 26.5,
+    "fiber": 0.9,
+    "protein": 7.2,
+    "salt": 0.87,
+    "sodium": 0.348
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-26T09:04:36Z",
+  "fetched_at": "2026-08-19T01:26:43Z"
+}

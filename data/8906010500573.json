@@ -1,0 +1,35 @@
+{
+  "barcode": "8906010500573",
+  "name": "Farali Chevdo",
+  "brand": "Balaji",
+  "quantity": "450g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:frozen-foods",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:frozen-fried-potatoes",
+    "en:potato-fries",
+    "en:frozen-potato-fries",
+    "en:frozen-deep-fried-french-fries"
+  ],
+  "ingredients": "POTATO (75%), ROASTED PEANUT (12%), EDIBLE VEGETABLE OIL (PALMOLEIN), SUGAR, ROCK SALT, SPICES \u0026 CONDIMENTS (CHILLI, CORIANDER, CUMIN, TURMERIC, DRY MANGO, CLOVE, CAROM SEED, GINGER, CINNAMON, CARDAMOM, NUTMEG, MACE, BAY LEAVES).",
+  "per_100g": {
+    "energy_kcal": 589,
+    "fat": 38.9,
+    "saturated_fat": 14,
+    "carbohydrates": 40.9,
+    "sugars": 8,
+    "fiber": null,
+    "protein": 15.2,
+    "salt": 1.01,
+    "sodium": 0.404
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-29T08:11:33Z",
+  "fetched_at": "2026-08-19T02:01:09Z"
+}

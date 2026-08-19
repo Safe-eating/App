@@ -1,0 +1,27 @@
+{
+  "barcode": "8901512921604",
+  "name": "Sour Cream \u0026 Cheese Flavor Popcorn",
+  "brand": "Act 2",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:popcorn"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 496,
+    "fat": 29,
+    "saturated_fat": 12,
+    "carbohydrates": 56,
+    "sugars": 7.5,
+    "fiber": 11.3,
+    "protein": 8.3,
+    "salt": 2.5,
+    "sodium": 1
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T12:45:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

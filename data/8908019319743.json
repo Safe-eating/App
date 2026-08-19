@@ -1,0 +1,32 @@
+{
+  "barcode": "8908019319743",
+  "name": "Chakote Kolhapuri Bhadang",
+  "brand": "Chakote",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:groats",
+    "en:wheat-groats"
+  ],
+  "ingredients": "Puffed Rice (Murmura), Peanuts, Sugar Powder, Edible Vegetable Oil (Palm), Garlic Paste, Spices \u0026 Condiments (Chilli Powder, Cumin Powder, Turmeric Powder, Garlic Powder), lodized Salt \u0026 Curry Leaves.",
+  "per_100g": {
+    "energy_kcal": 474,
+    "fat": 19.2,
+    "saturated_fat": 5.37,
+    "carbohydrates": 65.1,
+    "sugars": 5.64,
+    "fiber": null,
+    "protein": 10.19,
+    "salt": 2.54,
+    "sodium": 1.016
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-09T06:51:22Z",
+  "fetched_at": "2026-08-19T13:19:29Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "34561966",
+  "name": "",
+  "brand": "Lidl",
+  "quantity": "",
+  "categories": [
+    "en:meats-and-their-products",
+    "en:meat-preparations",
+    "en:chicken-and-its-products",
+    "en:breaded-products",
+    "en:chicken-preparations",
+    "en:breaded-chicken",
+    "en:poultry-nuggets",
+    "en:chicken-nuggets"
+  ],
+  "ingredients": "57% Hähnchenfleisch* (fein zerkleinert), 31% Panade [Weizenmehl, Rapsöl, modifizierte Stärke, Trinkwasser, Speisesalz, Weizenstärke, Hefe, Gewürze], Trinkwasser, Weizenmehl, Stärke, Speisesalz, Gewürze, Dextrose. *QS-Ware. Kann Spuren von Soja, Ei, Milch, Sellerie und Senf enthalten. Curry-Dip - Zutaten: Trinkwasser, Zucker, Apfelmark, Branntweinessig, Apfelsaftkonzentrat, modifizierte Stärke, Rapsöl, Gewürze, 1,9% Curry, Speisesalz, Tomatenpulver, Verdickungs - mittel: Xanthan. Kann Spuren von glutenhaltigem Getreide, Senf, Milch und Sellerie enthalten. Süß-Sauer-Dip - Zutaten: Trinkwasser, Zucker, Aprikosenmark, Branntweinessig, Aprikosensaftkonzentrat, modifizierte Stärke, Speisesalz, Rapsöl, Gewürze, Karamellzucker, Verdickungsmittel: Xanthan; Petersilie. Kann Spuren von glutenhaltigem Getreide, Senf, Milch und Sellerie enthalten.",
+  "per_100g": {
+    "energy_kcal": 222,
+    "fat": 11.2,
+    "saturated_fat": 1.7,
+    "carbohydrates": 16.9,
+    "sugars": 1.1,
+    "fiber": 0.9,
+    "protein": 12.9,
+    "salt": 1.16,
+    "sodium": 0.464
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-10T14:22:42Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

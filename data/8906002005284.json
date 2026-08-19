@@ -1,0 +1,26 @@
+{
+  "barcode": "8906002005284",
+  "name": "Pizza topping sauce",
+  "brand": "Dr. Oetker",
+  "quantity": "100g",
+  "categories": [
+    "en:spreads"
+  ],
+  "ingredients": "Water, Tomato Paste (26%), Serve Size-30g Pack comans 3 Nutritional Information Sugar, Refined Soyabean Oil, Milk Solids, Energy (kcal) Onions, lodised Salt, Vegetables (2.8%), Mixed Spices, Cheese (1%), Acidity Regulators (INS260, INS330), Preservative (INS211), Herbs, Antioxidant (INS319). CONTAINS MILK. How to Use: Spread Pizza Topping on Pizza base. No need to add further toppings as this All-in-One Topping contains veggies \u0026 Cheese. Just sprinkle grated cheese (optional) \u0026 bake to enjoy restaurant like Pizza at home.",
+  "per_100g": {
+    "energy_kcal": 208.6,
+    "fat": 10.5,
+    "saturated_fat": 1.8,
+    "carbohydrates": 24.1,
+    "sugars": 19.3,
+    "fiber": null,
+    "protein": 4.5,
+    "salt": 3.085,
+    "sodium": 1.234
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-01T09:38:05Z",
+  "fetched_at": "2026-08-19T01:49:39Z"
+}

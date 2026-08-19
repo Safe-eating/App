@@ -1,0 +1,31 @@
+{
+  "barcode": "8906143040496",
+  "name": "Yu 100% coconut water",
+  "brand": "Yu",
+  "quantity": "200ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:waters",
+    "en:coconut-waters"
+  ],
+  "ingredients": "Coconut Water",
+  "per_100g": {
+    "energy_kcal": 15.1,
+    "fat": 0.15,
+    "saturated_fat": 0.005,
+    "carbohydrates": 3.33,
+    "sugars": 2.48,
+    "fiber": 0.25,
+    "protein": 0.21,
+    "salt": 0.051,
+    "sodium": 0.0204
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-15T09:24:17Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

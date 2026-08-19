@@ -1,0 +1,33 @@
+{
+  "barcode": "8906008350388",
+  "name": "Ragi Malt",
+  "brand": "Manna",
+  "quantity": "200 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:flours",
+    "en:cereal-flours",
+    "en:malt-flours",
+    "en:Finger Millet flours"
+  ],
+  "ingredients": "Sugar, Ragi (25%), Milk Solids (20%), Maltodextrin, Barley Malt extract, Cardamom CONTAINS PERMITTED NATURAL COLOUR - BETA CAROTENE (INS 160a (iii))",
+  "per_100g": {
+    "energy_kcal": 58,
+    "fat": 0.2,
+    "saturated_fat": 0.1,
+    "carbohydrates": 13,
+    "sugars": 11,
+    "fiber": null,
+    "protein": 1.2,
+    "salt": 0.0425,
+    "sodium": 0.017
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-15T16:21:11Z",
+  "fetched_at": "2026-08-19T01:55:23Z"
+}

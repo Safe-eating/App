@@ -1,0 +1,30 @@
+{
+  "barcode": "8906097402937",
+  "name": "Makhana",
+  "brand": "Zoff",
+  "quantity": "100g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:fox-nuts",
+    "en:Foxnut"
+  ],
+  "ingredients": "Roasted Fox Nuts",
+  "per_100g": {
+    "energy_kcal": 332,
+    "fat": 2,
+    "saturated_fat": 0.3,
+    "carbohydrates": 64,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 15,
+    "salt": 0.0375,
+    "sodium": 0.015
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-22T02:50:41Z",
+  "fetched_at": "2026-08-19T12:49:51Z"
+}

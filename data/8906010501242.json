@@ -1,0 +1,30 @@
+{
+  "barcode": "8906010501242",
+  "name": "wheelos masala flavour",
+  "brand": "BALAJI WAFERS",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 483.99458246037,
+    "fat": 21.5,
+    "saturated_fat": 10.3,
+    "carbohydrates": 62.6,
+    "sugars": 1.9,
+    "fiber": null,
+    "protein": 7.5,
+    "salt": 3.5575,
+    "sodium": 1.423
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-04T06:37:30Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

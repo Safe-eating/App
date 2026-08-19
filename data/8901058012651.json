@@ -1,0 +1,34 @@
+{
+  "barcode": "8901058012651",
+  "name": "Hot and sweet tomato chilli sauce",
+  "brand": "Maggi",
+  "quantity": "75g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces"
+  ],
+  "ingredients": "Water, Sugar, Tomato paste (11.9%), Red chilli puree (6.6%), lodized salt, Acidity regulator (260), Starch, Mixed Spices, Garlic powder, Thickener (415), Onion powder \u0026 Preservative (211)",
+  "per_100g": {
+    "energy_kcal": 135,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 33.8,
+    "sugars": 33.3,
+    "fiber": 0,
+    "protein": 0.4,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-30T16:17:27Z",
+  "fetched_at": "2026-08-19T00:25:35Z"
+}

@@ -1,0 +1,36 @@
+{
+  "barcode": "8906133800147",
+  "name": "Snacks Dressing",
+  "brand": "Funtrip",
+  "quantity": "8g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup",
+    "en:tomato-ketchup"
+  ],
+  "ingredients": "Water, Vegetable Pulp, Sugar, Tomato Paste, Emulsifiers and Stabilizers (INS 1422, INS415), lodized Salt, Acidity Regulator (INS260), Onion Powder, Garlic Powder, Red Chilli Powder, Spices and Condiments CONTAINS PERMITTED CLASS II PRESERVATIVE (INS211) CONTAINS ADDED FLAVOURS (NATURE-IDENTICAL FLAVOURING SUBSTANCES)",
+  "per_100g": {
+    "energy_kcal": 113.8,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 28,
+    "sugars": 22.35,
+    "fiber": null,
+    "protein": 0.45,
+    "salt": 2.725,
+    "sodium": 1.09
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-21T14:26:29Z",
+  "fetched_at": "2026-08-19T12:57:08Z"
+}

@@ -1,0 +1,29 @@
+{
+  "barcode": "8904073601060",
+  "name": "Guruji Kery Pudina Squash",
+  "brand": "Guruji",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pumpkin-and-squash-plant-products",
+    "en:squash"
+  ],
+  "ingredients": "Sugar, Water, Pulp (Green Mango, Mint\u0026 25%, Black Salt, Acidity Regulator (INS 330), Liquid Glucose And Condiments, Iodized Salt*, Antioxidant (INS 331) COLOURS (INS 102 \u0026 INS 133), FLAVOURS-NATURAL FLAVOURING SUBSTANCES (GREEN MANGO\u0026MINT PRESERVATIVES (INS 211 \u0026 INS 224) *CONTAINS ADDITIONAL SODIUM/POTASSIUM SALT",
+  "per_100g": {
+    "energy_kcal": 228,
+    "fat": 0.1,
+    "saturated_fat": 0,
+    "carbohydrates": 56.55,
+    "sugars": 50.43,
+    "fiber": null,
+    "protein": 0.47,
+    "salt": 1.027225,
+    "sodium": 0.41089
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-02T05:56:46Z",
+  "fetched_at": "2026-08-19T01:32:34Z"
+}

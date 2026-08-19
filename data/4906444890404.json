@@ -1,0 +1,24 @@
+{
+  "barcode": "4906444890404",
+  "name": "Lemon Cranberry Protein Bar",
+  "brand": "Whole the Truth",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 486.538461538462,
+    "fat": 25,
+    "saturated_fat": 9.61538461538461,
+    "carbohydrates": 40.9615384615385,
+    "sugars": 24.8076923076923,
+    "fiber": 6.73076923076923,
+    "protein": 24.0384615384615,
+    "salt": 0.0673076923076923,
+    "sodium": 0.0269230769230769
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-18T13:47:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

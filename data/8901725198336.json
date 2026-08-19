@@ -1,0 +1,31 @@
+{
+  "barcode": "8901725198336",
+  "name": "MAD ANGLES",
+  "brand": "ITC",
+  "quantity": "80g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:corn-chips"
+  ],
+  "ingredients": "Rice grits, Seasoning mix [Refined palmolein, Refined sugar, #Spices \u0026 condiments, Iodised salt, Wheat flour, Black salt, Tomato powder (0.3%), Jaggery powder (0.2%), Acidity regulators (INS 296, INS 334, INS 330), Hydrolyzed Vegetable Protein, Anticaking agent (INS 551) \u0026 Flavour enhancers (INS 627, INS 631)], Refined palmolein, Corn grits, Gram grits and Acidity regulator (INS 500(ii)). #Used as Natural Flavouring agent.",
+  "per_100g": {
+    "energy_kcal": 533,
+    "fat": 31.8,
+    "saturated_fat": 14.3,
+    "carbohydrates": 57.4,
+    "sugars": 6,
+    "fiber": null,
+    "protein": 5.8,
+    "salt": 1.9135,
+    "sodium": 0.7654
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-24T17:04:25Z",
+  "fetched_at": "2026-08-19T01:07:01Z"
+}

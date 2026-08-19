@@ -1,0 +1,31 @@
+{
+  "barcode": "7622202329630",
+  "name": "Brownie",
+  "brand": "Cadbury, Mondelēz International",
+  "quantity": "3 x 38g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes",
+    "en:chocolate-cakes",
+    "en:brownies"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 438,
+    "fat": 19,
+    "saturated_fat": 11,
+    "carbohydrates": 61,
+    "sugars": 37,
+    "fiber": null,
+    "protein": 5,
+    "salt": 0.5175,
+    "sodium": 0.207
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-18T12:35:29Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "8901719116520",
+  "name": "Parle Bode\u0026seek 120g(26)",
+  "brand": "Parle",
+  "quantity": "250g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:chocolate-biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), CHOCOLATE (21%) I SUGAR, COCOA SOLIDS, COCOA BUTTER, DEXTROSE, EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA J, SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP, INSTANT COFFEE-CHICORY MIXTURE (1%), RAISING AGENTS (503 (ii), 500 (ii) 1. 1ODISED SALT, EMULSIFIER OF VEGETABLE ORIGIN [472e]. CONTAINS PERMITTED NATURAL COLOUR [ 150d] AND ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES COFFEE). CONTAINS: WHEAT, SOY FOR SALE IN INDIA ONLY NET WEIGHT MRP 30.00 (0.30A INCL. OF ALL TAXES CONSUMER CARE CELL PARLE PRODUCTS PVT. LTD. NORTH LEVEL CROSSING VILE PARLE EAST MUMBAI, MH-400057 PHONE NO.:022-6691 6929; En visit us at www.parleproducts.com MADE WITH",
+  "per_100g": {
+    "energy_kcal": 478,
+    "fat": 17.8,
+    "saturated_fat": 9.2,
+    "carbohydrates": 73.6,
+    "sugars": 32,
+    "fiber": 0,
+    "protein": 5.8,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-01T07:21:59Z",
+  "fetched_at": "2026-08-19T00:59:46Z"
+}

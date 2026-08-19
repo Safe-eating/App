@@ -1,0 +1,38 @@
+{
+  "barcode": "8904057396883",
+  "name": "Hatsun Yoghurt Shake Mango",
+  "brand": "Hatsun",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:dairy-drinks",
+    "en:fermented-dairy-desserts",
+    "en:fermented-drinks",
+    "en:yogurts",
+    "en:fermented-milk-drinks",
+    "en:drinkable-yogurts"
+  ],
+  "ingredients": "Milk Solids, Sugar, Mango Fruit Preparation (10 %) (Alphonso Mango, Sugar \u0026 Liquid Glucose), Starter Culture \u0026 Natural Flavour.",
+  "per_100g": {
+    "energy_kcal": 186,
+    "fat": 3.5,
+    "saturated_fat": 2.6,
+    "carbohydrates": 33.3,
+    "sugars": 33.3,
+    "fiber": 0,
+    "protein": 5.3,
+    "salt": 0.175,
+    "sodium": 0.07
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T13:26:44Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,35 @@
+{
+  "barcode": "8901262151863",
+  "name": "Amul Fresh Cream",
+  "brand": "Amul",
+  "quantity": "250 ml",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:creams",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:milks",
+    "fr:fromages-blancs",
+    "en:fresh-cream-cheese-with-cow-s-milk"
+  ],
+  "ingredients": "milk",
+  "per_100g": {
+    "energy_kcal": 34.8,
+    "fat": 0.19,
+    "saturated_fat": 0.11,
+    "carbohydrates": 4.99,
+    "sugars": 4.93,
+    "fiber": 0,
+    "protein": 3.28,
+    "salt": 0.11,
+    "sodium": 0.0432
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-23T15:54:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8906151234214",
+  "name": "chickpea popped chips",
+  "brand": "Snackible",
+  "quantity": "30g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Chickpeas, rice, potato, starch, maltodextrin, salt, sugar, dehydrated vegetable powder (garlic, onion). spices and spices extract, herbs (oregano), whole milk powder, cheese powder, sodium salt [E262)]. natural and nature identical flavouring substances, acidity regulator (E330), anti-caking agent [E551. E341()], edible vegetable oil (sunflower oil).",
+  "per_100g": {
+    "energy_kcal": 120.87,
+    "fat": 2.6,
+    "saturated_fat": 0.8,
+    "carbohydrates": 21.05,
+    "sugars": 1.14,
+    "fiber": 2.34,
+    "protein": 3.2,
+    "salt": 0.747975,
+    "sodium": 0.29919
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-23T13:33:14Z",
+  "fetched_at": "2026-08-19T13:00:13Z"
+}

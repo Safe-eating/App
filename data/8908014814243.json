@@ -1,0 +1,30 @@
+{
+  "barcode": "8908014814243",
+  "name": "100% Whole Wheat Chapati",
+  "brand": "Mr Bakewell",
+  "quantity": "450g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour (Atta), (65.6%), Water, Refined Palmolien Oil(5.9%), Gluten, lodized Salt, Emulsifier (E471), Sugar",
+  "per_100g": {
+    "energy_kcal": 266.6,
+    "fat": 3.33,
+    "saturated_fat": 2.22,
+    "carbohydrates": 57.17,
+    "sugars": 0.38,
+    "fiber": 6.67,
+    "protein": 6.89,
+    "salt": 1.333325,
+    "sodium": 0.53333
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-08T05:36:35Z",
+  "fetched_at": "2026-08-19T13:16:20Z"
+}

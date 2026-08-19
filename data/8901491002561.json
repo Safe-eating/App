@@ -1,0 +1,24 @@
+{
+  "barcode": "8901491002561",
+  "name": "Doritos dynamita",
+  "brand": "Doritos",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "Corn, edible vegetable oil (palmolein, rice bran oil), iodised salt, natural flavouring substances, maltodextrin, spices ,  condiments, sugar, nature identical flavouring substances, flavour enhancers (627, 631), hydrolysed vegetable protein, milk solids, colour (162), wheat fibre, edible vegetable oil (palm, sunflower), colour (124)",
+  "per_100g": {
+    "energy_kcal": 513,
+    "fat": 26.1,
+    "saturated_fat": 9,
+    "carbohydrates": 62.6,
+    "sugars": 2.2,
+    "fiber": null,
+    "protein": 6.8,
+    "salt": 1.9125,
+    "sodium": 0.765
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-11T09:01:05Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

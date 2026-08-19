@@ -1,0 +1,24 @@
+{
+  "barcode": "8908009059598",
+  "name": "RuskPops (Cinnamon Rush)",
+  "brand": "The Heath Factory",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 400.79,
+    "fat": 2.83,
+    "saturated_fat": 0.85,
+    "carbohydrates": 82.21,
+    "sugars": 13.65,
+    "fiber": 9.7,
+    "protein": 11.6,
+    "salt": 0.9225,
+    "sodium": 0.369
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-11T18:43:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

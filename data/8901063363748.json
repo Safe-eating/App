@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063363748",
+  "name": "CAKE 100% VEG Gobbles fruity fun",
+  "brand": "Britannia",
+  "quantity": "64g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes",
+    "en:soft-fruit-cakes"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, HYDROGENATED VEGETABLE OIL \u0026 REFINED SUNFLOWER OIL, FRUIT PRODUCTS (5.3%) (GLAZED FRUITS (PAPAYA CUTS, COLOUR (124), PINEAPPLE CUTS) \u0026 ORANGE PULP), HUMECTANT (422), MILK SOLIDS, HIGH MALTOSE SYRUP, EMULSIFIERS (475\u0026 471), RAISING ACTS00 450(i) \u0026 341()], 10 JISED SALT INVERT SUGAR SYBUP, NATURE IDENTICAL FLAVOURING SUBSTANCES, PRESERVATIVES (202 \u0026 282), WHEAT FIBRE, ACIDITY REGULATOR (330), STABILIZER (415) AND COLOUR (102).",
+  "per_100g": {
+    "energy_kcal": 420,
+    "fat": 18.4,
+    "saturated_fat": 7.9,
+    "carbohydrates": 57,
+    "sugars": 26,
+    "fiber": null,
+    "protein": 6.5,
+    "salt": 0.66802,
+    "sodium": 0.267208
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-06-05T12:37:31Z",
+  "fetched_at": "2026-08-19T00:33:50Z"
+}

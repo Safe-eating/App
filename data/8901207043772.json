@@ -1,0 +1,30 @@
+{
+  "barcode": "8901207043772",
+  "name": "Coconut water",
+  "brand": "Dabur,Real",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-beverages",
+    "en:coconut-waters"
+  ],
+  "ingredients": "Water, Coconut Water Concentrate (9%)\u0026quot; and Preservatives (INS 202, INS 224)",
+  "per_100g": {
+    "energy_kcal": 20,
+    "fat": 0,
+    "saturated_fat": 0.00045,
+    "carbohydrates": 5,
+    "sugars": 4.6,
+    "fiber": 0.0225,
+    "protein": 0,
+    "salt": 0.0625,
+    "sodium": 0.025
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-02T02:32:15Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

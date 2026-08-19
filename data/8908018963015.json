@@ -1,0 +1,31 @@
+{
+  "barcode": "8908018963015",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:chiwda",
+    "en:riceflake-and-peanut-snack"
+  ],
+  "ingredients": "Riceflakes (Poha), Peanuts, Refined Groundnut Oil, Sugar, Raisins, Cashewnuts, Coconut, Sesame, Iodised salt, Vanaspati, Red Chilli Powder, Tumeric Powder, Asafoetida, Jestmadh(Mulethi)",
+  "per_100g": {
+    "energy_kcal": 629,
+    "fat": 49.2,
+    "saturated_fat": 10.64,
+    "carbohydrates": 39.2,
+    "sugars": 9.44,
+    "fiber": 2.75,
+    "protein": 7.3,
+    "salt": 1.3675,
+    "sodium": 0.547
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-04T19:43:14Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

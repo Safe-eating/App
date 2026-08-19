@@ -1,0 +1,30 @@
+{
+  "barcode": "8904083301455",
+  "name": "Toned Milk",
+  "brand": "Milky Mist",
+  "quantity": "1l",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:pasteurised-products",
+    "en:pasteurised-milks"
+  ],
+  "ingredients": "Milk \u0026 Milk Solids",
+  "per_100g": {
+    "energy_kcal": 59,
+    "fat": 3,
+    "saturated_fat": 1.9,
+    "carbohydrates": 5,
+    "sugars": 5,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.1175,
+    "sodium": 0.047
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-20T07:25:13Z",
+  "fetched_at": "2026-08-19T01:33:06Z"
+}

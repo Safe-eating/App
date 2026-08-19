@@ -1,0 +1,30 @@
+{
+  "barcode": "8906006854178",
+  "name": "Bavarian Chocolate Mega Saver Pack",
+  "brand": "Baskin Robbins",
+  "quantity": "700 ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "Water, Milk Solids, Sugar, White chocolate (7%) [Sugar, Milk Solids, Cocoa Butter, Emulsifier(322,476), CONTAINS ADDED NATURE IDENTICAL FLAVORING SUBSTANCES(VANILLA)], Cashew Chikki(7%) (Sugar, Cashew, Butter), Cocoa Solids (6%). Stabilizers(461, 412, 407), Emulsifier(471).Milk, Soya and Tree Nuts(Cashew) This product has been processed on equipment that sometimes processes peanuts, Tree nuts, Wheat and Soy.",
+  "per_100g": {
+    "energy_kcal": 264.4,
+    "fat": 14.2,
+    "saturated_fat": 7.7,
+    "carbohydrates": 29.4,
+    "sugars": 20.5,
+    "fiber": null,
+    "protein": 4.8,
+    "salt": 0.12675,
+    "sodium": 0.0507
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-10-30T18:39:12Z",
+  "fetched_at": "2026-08-19T01:53:55Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "0801541070435",
+  "name": "ORGANIC INDIA CLASSIC HEALTHY CONSCIOUS LIVING-",
+  "brand": "Organic India",
+  "quantity": "43.75 g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:hot-beverages",
+    "en:plant-based-beverages",
+    "en:teas",
+    "en:green-teas"
+  ],
+  "ingredients": "Each 1.74g infusion bag contains: -  \u0026quot;Green Tea (Camellia sinensis)* 0.60g (35.00%) \n\u0026quot;Krishna Tulsi (Ocimum sanctum)* 0.38g (21.67%) \n\u0026quot;Rama Tulsi (Ocimum sanctum) * 0.38g (21.67%) \nVana Tulsi (Ocimum gratissimum)* 0.38g (21.67%) \n *Certified Organic Ingredients",
+  "per_100g": {
+    "energy_kcal": 128,
+    "fat": 6,
+    "saturated_fat": 0,
+    "carbohydrates": 15,
+    "sugars": 1,
+    "fiber": 0,
+    "protein": 3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-13T07:31:20Z",
+  "fetched_at": "2026-08-18T23:55:59Z"
+}

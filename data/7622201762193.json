@@ -1,0 +1,31 @@
+{
+  "barcode": "7622201762193",
+  "name": "Dairy Milk Silk Oreo",
+  "brand": "Mondelez International",
+  "quantity": "60g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolates",
+    "en:milk-chocolates"
+  ],
+  "ingredients": "Milk Chocolate (50%)- Sugar, Milk Solids (13%), Cocoa Butter, Cocoa Solids, Emulsifiers (442, 476), Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances) Centre (50%)- Fractionated Fat, Sugar, Biscuit 13% (Refined Wheat Flour (Maida), Sugar, Palmolein, Invert Sugar, Cocos Solids, Leavening Agents (500), 5030)) lodised Salt, Emulsifier (322), Flavours (Artificial (Vanilla) Flavouring Substances), Milk Solids, Lactose-Rich Deproteinized Whey Permeate Powder, Emulsifier (442), Flavours (Artificial (Vanilla) Flavouring Substances).",
+  "per_100g": {
+    "energy_kcal": 563,
+    "fat": 34.8,
+    "saturated_fat": 22.3,
+    "carbohydrates": 56.9,
+    "sugars": 48.9,
+    "fiber": 2.335,
+    "protein": 6,
+    "salt": 0.5175,
+    "sodium": 0.207
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-18T09:57:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8902901001785",
+  "name": "Bansi Rawa",
+  "brand": "Good Life",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:wheats"
+  ],
+  "ingredients": "Bansi Rawa",
+  "per_100g": {
+    "energy_kcal": 334,
+    "fat": 0.7,
+    "saturated_fat": 0.1,
+    "carbohydrates": 70.4,
+    "sugars": 1.6,
+    "fiber": null,
+    "protein": 11.4,
+    "salt": 0.00575,
+    "sodium": 0.0023
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-14T12:29:32Z",
+  "fetched_at": "2026-08-19T01:17:26Z"
+}

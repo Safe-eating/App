@@ -1,0 +1,26 @@
+{
+  "barcode": "00377108",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Urad dal, Tapioca starch, Palak puree, Sunflower Oil, Salt \u0026 Chaat Masala.",
+  "per_100g": {
+    "energy_kcal": 524.4,
+    "fat": 29.2,
+    "saturated_fat": 13.7,
+    "carbohydrates": 57,
+    "sugars": 2,
+    "fiber": 4.3,
+    "protein": 8.4,
+    "salt": 1.35125,
+    "sodium": 0.5405
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-25T17:31:49Z",
+  "fetched_at": "2026-08-18T23:53:48Z"
+}

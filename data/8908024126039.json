@@ -1,0 +1,24 @@
+{
+  "barcode": "8908024126039",
+  "name": "Pizza Pasta",
+  "brand": "Repeat Gud",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 173.333333333333,
+    "fat": 6.53333333333333,
+    "saturated_fat": 0.933333333333333,
+    "carbohydrates": 26.3333333333333,
+    "sugars": 17.4,
+    "fiber": 2.4,
+    "protein": 2.33333333333333,
+    "salt": 2.23,
+    "sodium": 0.892
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-19T11:47:20Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "barcode": "8901058009729",
+  "name": "Masala Veg Atta Noodles",
+  "brand": "Maggi",
+  "quantity": "72.5g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "Noodles: Wheat Flour (Atta) (84.2%), (not more than) Palm oil, Iodized salt, Wheat gluten, Thickeners (508\u0026412), Humectants (451(i)\u0026452(i)) and Acidity regulators (501(i) \u0026 500 (i)). Masala TASTEMAKER: Dehydrated \u0026quot;Guideline Daily Amounts of an Vegetables (22%) (Carrot bits (12%), Green peas",
+  "per_100g": {
+    "energy_kcal": 314,
+    "fat": 10.3,
+    "saturated_fat": 8.5,
+    "carbohydrates": 50.4,
+    "sugars": 2.5,
+    "fiber": 4.5,
+    "protein": 7.7,
+    "salt": 1.99725,
+    "sodium": 0.7989
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-24T11:22:03Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

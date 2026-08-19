@@ -1,0 +1,30 @@
+{
+  "barcode": "7622201757359",
+  "name": "Bourn Vita biscuits",
+  "brand": "Cadbury",
+  "quantity": "120g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida) (51%*), Sugar, Palmolein Oil, Cereal Based Beverage Mix 5%( Cereal Extract 57%* (Barley, Wheat), Sugar, Cocoa Solids, Colour (150c), Liquid Glucose, Wheat Gluten, Maltodextrin, Emulsifiers (322,471), Edible Rennet Casein, Milk Solids, Vitamins, Minerals, Raising Agent (500(ii)), lodised Salt, Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances)), Invert Sugar, Cocoa Solids (1.5%*), Milk Solids (1%), Leavening Agents (500 (ii), 503 (ii)). Minerals, lodised Salt, Flavours (Natural \u0026 Nature Identical Flavouring Substances), Emulsifier(322), Colour (150c), Vitamins. Allergen Information: Contains Milk, Wheat, Barley, Soy. May Contain Tree nuts",
+  "per_100g": {
+    "energy_kcal": 455,
+    "fat": 15.1,
+    "saturated_fat": 6.7,
+    "carbohydrates": 73.5,
+    "sugars": 34.2,
+    "fiber": null,
+    "protein": 6.7,
+    "salt": 0.75,
+    "sodium": 0.3
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-08-11T12:56:50Z",
+  "fetched_at": "2026-08-19T00:08:30Z"
+}

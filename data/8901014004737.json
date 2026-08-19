@@ -1,0 +1,29 @@
+{
+  "barcode": "8901014004737",
+  "name": "Mazeder  masala 70 g",
+  "brand": "Nissin",
+  "quantity": "70",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 476.59,
+    "fat": 16.8,
+    "saturated_fat": 7.98,
+    "carbohydrates": 69.02,
+    "sugars": 3.42,
+    "fiber": null,
+    "protein": 9.57,
+    "salt": 3.5703,
+    "sodium": 1.42812
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-01T05:50:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

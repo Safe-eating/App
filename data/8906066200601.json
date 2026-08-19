@@ -1,0 +1,24 @@
+{
+  "barcode": "8906066200601",
+  "name": "Keya Oregano Seasoning",
+  "brand": "Keya",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 175,
+    "fat": 2,
+    "saturated_fat": 0.5,
+    "carbohydrates": 30,
+    "sugars": 9,
+    "fiber": 17.9,
+    "protein": 9,
+    "salt": 29.4145,
+    "sodium": 11.7658
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-13T15:01:13Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8909106040977",
+  "name": "Bru Cold Coffee Classic",
+  "brand": "Bru",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 76.5,
+    "fat": 1.4,
+    "saturated_fat": 0.95,
+    "carbohydrates": 12.3,
+    "sugars": 12.15,
+    "fiber": 0.1,
+    "protein": 4,
+    "salt": 0.3225,
+    "sodium": 0.129
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-22T13:36:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

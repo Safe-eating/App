@@ -1,0 +1,30 @@
+{
+  "barcode": "8901071732468",
+  "name": "Milkshake vanilla Ice cream flavor",
+  "brand": "Hershey's",
+  "quantity": "180 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks"
+  ],
+  "ingredients": "Water, Milk Solids (#11%), Sugar, Mineral (Calcium carbonate), Emulsifiers (460(i),466, 471), Flavours (Artificial (Vanilla Ice cream \u0026 Vanilla) and Nature Identical Flavouring Substances), Stabilizers (415, 407), Sequestrant (339(ii)), Mineral (Zinc Sulphate), Vitamin E (Acetate), Vitamin A (Acetate), Vitamin D2 (Ergocalciferol), Vitamin B1 (Thiamine Chloride Hydrochloride), Vitamin B2 (Riboflavin) and lodized Salt ALLERGEN INFORMATION: CONTAINS MILK",
+  "per_100g": {
+    "energy_kcal": 90,
+    "fat": 1.77777777777778,
+    "saturated_fat": 1.38888888888889,
+    "carbohydrates": 16.6666666666667,
+    "sugars": 16.1111111111111,
+    "fiber": null,
+    "protein": 1.66666666666667,
+    "salt": 0.143055555555556,
+    "sodium": 0.0572222222222222
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-18T05:12:47Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

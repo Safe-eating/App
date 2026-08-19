@@ -1,0 +1,36 @@
+{
+  "barcode": "8901030699085",
+  "name": "Tomato Ketchup Kissan",
+  "brand": "Kissan",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup",
+    "en:tomato-ketchup"
+  ],
+  "ingredients": "WATER, TOMATO PASTE (28%), SUGAR, IODISED SALT, ACIDITY REGULATOR-E260, STABILIZERS-E1422, E415, PRESERVATIVE-E211, ONION POWDER, GARLIC POWDER, SPICES AND CONDIMENTS. MKTD. BY: HINDUSTAN UNILEVER LTD. (HUL), UNILEVER HOUSE, MAHARASHTRA. FOR MFR. \u0026 MFG. UNIT ADDRESS, READ THE FIRST B.D. SAWANT MARG, CHAKALA, ANDHERI (E), MUMBAI 400 099, CHARACTER OF THE BATCH NO. AND SEE BELOW: MFG. BY: (R) HINDUSTAN MRP PKD., U SEELA",
+  "per_100g": {
+    "energy_kcal": 20,
+    "fat": 0.100000001490116,
+    "saturated_fat": 1,
+    "carbohydrates": 4.59999990463257,
+    "sugars": 4.40000009536743,
+    "fiber": 0.100000001490116,
+    "protein": 0.200000002980232,
+    "salt": 9.6,
+    "sodium": 3.84
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-24T09:45:04Z",
+  "fetched_at": "2026-08-19T00:14:47Z"
+}

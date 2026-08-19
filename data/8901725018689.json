@@ -1,0 +1,37 @@
+{
+  "barcode": "8901725018689",
+  "name": "Bingo Hot and spicy",
+  "brand": "Bingo",
+  "quantity": "90g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:light-potato-crisps"
+  ],
+  "ingredients": "POTATO (59.4%), REFINED PALMOLEIN, SEASONING (SUGAR, IODIZED SALT, 'SPICES AND CONDIMENTS, NATURE IDENTICAL FLAVOURING SUBSTANCES, ACIDITY REGULATORS (INS 330, 260, 334, 296), GARLIC, DEHYDRATED ONION, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, FLAVOUR ENHANCER (INS 635), REFINED SUNFLOWER OIL), IODIZED SALT. USED AS FLAVOURING SUBSTANCES. CONTAINS BARLEY. MAY CONTAIN MILK, WHEAT, SOY.",
+  "per_100g": {
+    "energy_kcal": 520,
+    "fat": 31.3,
+    "saturated_fat": 14,
+    "carbohydrates": 54.5,
+    "sugars": 4,
+    "fiber": 0,
+    "protein": 7.3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-19T11:46:11Z",
+  "fetched_at": "2026-08-19T01:05:25Z"
+}

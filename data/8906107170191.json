@@ -1,0 +1,26 @@
+{
+  "barcode": "8906107170191",
+  "name": "Momos Vegetable and Paneer",
+  "brand": "Prasuma",
+  "quantity": "10 N",
+  "categories": [
+    "en:frozen momos"
+  ],
+  "ingredients": "Cabbage, Refined Wheat Flour (Maida), Onion, Paneer, Butter, Carrot, Refined Soyabean Oil, Ginger, Chilli, Spices \u0026 Condiments, Flavour Enhancer (INS 631)",
+  "per_100g": {
+    "energy_kcal": 201.03,
+    "fat": 8.46,
+    "saturated_fat": 4.66,
+    "carbohydrates": 26,
+    "sugars": 5.1,
+    "fiber": null,
+    "protein": 5.29,
+    "salt": 0.93295,
+    "sodium": 0.37318
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-28T15:43:42Z",
+  "fetched_at": "2026-08-19T12:50:26Z"
+}

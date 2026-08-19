@@ -1,0 +1,29 @@
+{
+  "barcode": "8908005077084",
+  "name": "Honey Bell vanilla cake",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 448,
+    "fat": 23.5,
+    "saturated_fat": 23.5,
+    "carbohydrates": 51.9,
+    "sugars": 51,
+    "fiber": 0,
+    "protein": 7.1,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-04T15:53:28Z",
+  "fetched_at": "2026-08-19T13:09:05Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8906006330269",
+  "name": "Gemini",
+  "brand": "Cargill",
+  "quantity": "870",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:fats",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:legume-oils",
+    "en:soybean-oils"
+  ],
+  "ingredients": "Refined Soyabean Oil, Antioxidant (INS 319), Vitamins (A, D), Antifoaming Agent (INS 900a) Saturated Fatty Acids may vary by Season, Region, Seed, Crop etc. DE",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 21,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-06-29T18:32:18Z",
+  "fetched_at": "2026-08-19T01:52:24Z"
+}

@@ -1,0 +1,24 @@
+{
+  "barcode": "8000500394847",
+  "name": "Kinder Joy",
+  "brand": "Ferrero",
+  "quantity": "60 g",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 550,
+    "fat": 32,
+    "saturated_fat": 15.4,
+    "carbohydrates": 56.5,
+    "sugars": 51,
+    "fiber": null,
+    "protein": 8.2,
+    "salt": 0.9825,
+    "sodium": 0.393
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-24T13:20:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

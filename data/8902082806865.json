@@ -1,0 +1,33 @@
+{
+  "barcode": "8902082806865",
+  "name": "Grandma's Peanut Butter",
+  "brand": "Grandma's",
+  "quantity": "200 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 661,
+    "fat": 49,
+    "saturated_fat": 10,
+    "carbohydrates": 30,
+    "sugars": 5,
+    "fiber": 3,
+    "protein": 25,
+    "salt": 0.465,
+    "sodium": 0.186
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-03T18:03:34Z",
+  "fetched_at": "2026-08-19T01:14:14Z"
+}

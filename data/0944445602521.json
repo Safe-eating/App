@@ -1,0 +1,34 @@
+{
+  "barcode": "0944445602521",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:chocolate-cereals",
+    "en:mueslis",
+    "en:mueslis-with-chocolate"
+  ],
+  "ingredients": "Whole Grains 58% (Rolled Oats, Brown Rice Flakes, Quinoa Flakes), Seeds \u0026 Nuts 14% (Pumpkin. Almonds, Chia, Flax). Dried Fruits 11% (Cranberry, Raisins) Dark Chocolate (Cocoa, Cocoa butter, Sugar, Soy lecithin). Dates Syrup, Jaggery, Rice Bran Oil, Cocoa Powder. Apple fiber. Himalayan Pink salt, CONTAINS ADDED NATURAL FLAVOUR: CHOCOLATE, ROSEMARY EXTRACT. Allergen advice: CONTAINS OATS \u0026 NUTS. Oats are processed in a plant where gluten containing products are manufactured. Serving suggestions: Shake and add between 50-100 ml of milk as per taste. Like it sweeter? We recommend 2-3 drops of honey or palm sugar to complement and sweeten your breakfast. Storage Instructions: Transfer the product into a clean, dry and air-tight container.",
+  "per_100g": {
+    "energy_kcal": 437,
+    "fat": 13.3,
+    "saturated_fat": 4.9,
+    "carbohydrates": 67,
+    "sugars": 6.7,
+    "fiber": 9.4,
+    "protein": 12.3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-12T03:55:42Z",
+  "fetched_at": "2026-08-18T23:59:39Z"
+}

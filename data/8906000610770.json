@@ -1,0 +1,35 @@
+{
+  "barcode": "8906000610770",
+  "name": "French Fries",
+  "brand": "McCain",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:frozen-foods",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:fries",
+    "en:frozen-fried-potatoes",
+    "en:frozen-fries",
+    "en:f"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 141.9,
+    "fat": 3.54,
+    "saturated_fat": 1.72,
+    "carbohydrates": 24.45,
+    "sugars": 0.5,
+    "fiber": null,
+    "protein": 3.06,
+    "salt": 0.0737,
+    "sodium": 0.02948
+  },
+  "nutriscore_grade": "b",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-04T11:53:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

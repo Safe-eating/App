@@ -1,0 +1,30 @@
+{
+  "barcode": "0840205712915",
+  "name": "Potata",
+  "brand": "Pran",
+  "quantity": "25 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 456,
+    "fat": 14.8,
+    "saturated_fat": 5.6,
+    "carbohydrates": 72.8,
+    "sugars": 22,
+    "fiber": null,
+    "protein": 8,
+    "salt": 2.45,
+    "sodium": 0.98
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-19T20:34:10Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

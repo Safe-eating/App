@@ -1,0 +1,32 @@
+{
+  "barcode": "8901058024425",
+  "name": "Maggie Double Masala Instant Noodles",
+  "brand": "Maggie, Nestle India",
+  "quantity": "98g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "Noodles: Refined Wheat Flour (Maida), Palm Oil, Iodised Salt, Wheat Gluten, Thickners [508 \u0026 412], Acidity Regulators [501(i) \u0026 500(i)], and Humectant [451(i)] Masala* Tastemaker®: Mixed Spices [26.2g] [Onion Powder, Coriander Powder, Red Chilli Powder, Turmeric Powder, Garlic Powder, Cumin Powder, Aniseed Powder, Ginger Powder, Fenugreek Powder, Black Pepper Powder, Toasted Onion Powder, Clove Powder, Green Cardamom Powder, Nutmeg Powder], Hydrolyzed Groundnut Protein, Refined Wheat Flour (Maida), Sugar, Starch, Palm Oil, Iodised Salt, Thickener [508], Acidity Regulator [330], Flavour Enhancer [635], Colour [150d], Mineral and Wheat Gluten. Allergen Note: Contains Wheat and Nut. May Contain Milk, Oats and Soy.",
+  "per_100g": {
+    "energy_kcal": 369,
+    "fat": 13.2,
+    "saturated_fat": 9.3,
+    "carbohydrates": 55.3,
+    "sugars": 1.7,
+    "fiber": null,
+    "protein": 7.2,
+    "salt": 3.105,
+    "sodium": 1.242
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T16:15:49Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

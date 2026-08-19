@@ -1,0 +1,24 @@
+{
+  "barcode": "8908023404442",
+  "name": "Tropical Nuts \u0026 Fruit Mix",
+  "brand": "Tong Garden",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 433.333333333333,
+    "fat": 16.6666666666667,
+    "saturated_fat": 3.33333333333333,
+    "carbohydrates": 66.6666666666667,
+    "sugars": 50,
+    "fiber": 20,
+    "protein": 6.66666666666667,
+    "salt": 0.291666666666667,
+    "sodium": 0.116666666666667
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-24T17:45:00Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

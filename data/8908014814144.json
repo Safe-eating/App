@@ -1,0 +1,30 @@
+{
+  "barcode": "8908014814144",
+  "name": "Pav",
+  "brand": "Mr Bakewell",
+  "quantity": "180g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar. Yeast, Refined Palm Oil, lodized Salt, Milk Powder, Flour Improver, Emulsifiers DATEM (INS472e), Calcium Propionate (INS282)",
+  "per_100g": {
+    "energy_kcal": 300,
+    "fat": 3.33,
+    "saturated_fat": 1.57,
+    "carbohydrates": 60,
+    "sugars": 0.67,
+    "fiber": 1.67,
+    "protein": 5.57,
+    "salt": 1,
+    "sodium": 0.4
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-28T07:35:38Z",
+  "fetched_at": "2026-08-19T13:16:17Z"
+}

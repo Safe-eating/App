@@ -1,0 +1,35 @@
+{
+  "barcode": "8908002984491",
+  "name": "8908002984491",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:breakfast-cereals-fortified-with-vitamins-and-chemical-elements",
+    "en:extruded-cereals",
+    "en:filled-cereals",
+    "en:breakfast-cereals-filled-with-something-other-than-chocolate-fortified-with-vitamins-and-chemical-elements"
+  ],
+  "ingredients": "RAGI (34.1%), CHOCOLATE CREAM FILLING (32%) (SUGAR, INTERESTERIFIED VEGETABLE FAT, COCOA POWDER (2.8%), MILK SOLIDS, EMULSIFIER (INS 322(i))), RICE, REFINED SUGAR, BENGAL GRAM DAL (1.8%), COCOA POWDER, IODISED SALT, NATURE-IDENTICAL FLAVOURING SUBSTANCE, STABILIZER (INS 170(i)), NATURAL COLOUR (INS 150d), EDIBLE VEGETABLE OIL (PALMOLEIN), ANTIOXIDANT (INS 320), EMULSIFIER (INS 322(i))",
+  "per_100g": {
+    "energy_kcal": 454,
+    "fat": 15.1,
+    "saturated_fat": 11.2,
+    "carbohydrates": 74.5,
+    "sugars": 29.3,
+    "fiber": 6.7,
+    "protein": 5.1,
+    "salt": 0.315,
+    "sodium": 0.126
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-09T06:11:49Z",
+  "fetched_at": "2026-08-19T13:07:35Z"
+}

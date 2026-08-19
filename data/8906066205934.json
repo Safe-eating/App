@@ -1,0 +1,28 @@
+{
+  "barcode": "8906066205934",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 317.5,
+    "fat": 5.2,
+    "saturated_fat": 0.5,
+    "carbohydrates": 62.8,
+    "sugars": 7,
+    "fiber": null,
+    "protein": 5,
+    "salt": 36.385,
+    "sodium": 14.554
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-22T15:38:12Z",
+  "fetched_at": "2026-08-19T12:40:28Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8901648923138",
+  "name": "Mother Dairy Super-T Milk",
+  "brand": "Mother Dairy",
+  "quantity": "1L",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 59,
+    "fat": 3.1,
+    "saturated_fat": 2.2,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": null,
+    "protein": 3.1,
+    "salt": 0.1375,
+    "sodium": 0.055
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-23T06:37:43Z",
+  "fetched_at": "2026-08-19T00:58:40Z"
+}

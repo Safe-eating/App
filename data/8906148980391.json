@@ -1,0 +1,32 @@
+{
+  "barcode": "8906148980391",
+  "name": "Turmeric powder",
+  "brand": "Charda Suraj",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:herbs-and-spices",
+    "en:spices",
+    "en:turmeric",
+    "en:turmeric-powder"
+  ],
+  "ingredients": "Turmeric Powder",
+  "per_100g": {
+    "energy_kcal": 291,
+    "fat": 3.25,
+    "saturated_fat": 1.84,
+    "carbohydrates": 44.4,
+    "sugars": 3.21,
+    "fiber": 22.7,
+    "protein": 9.68,
+    "salt": 0.068,
+    "sodium": 0.027
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-15T12:10:33Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8906113491372",
+  "name": "Masala Oats With Millets(Dal Shakti)",
+  "brand": "Tata Soulful",
+  "quantity": "",
+  "categories": [
+    "en:Food"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 374,
+    "fat": 7.2,
+    "saturated_fat": 5,
+    "carbohydrates": 66.4,
+    "sugars": 4.2,
+    "fiber": 10.8,
+    "protein": 10.9,
+    "salt": 5.3825,
+    "sodium": 2.153
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-08T14:36:22Z",
+  "fetched_at": "2026-08-19T12:52:24Z"
+}

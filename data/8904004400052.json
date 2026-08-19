@@ -1,0 +1,27 @@
+{
+  "barcode": "8904004400052",
+  "name": "Bhujia Sev 600g",
+  "brand": "Haldiram's",
+  "quantity": "600g",
+  "categories": [
+    "en:Farsan",
+    "en:Health"
+  ],
+  "ingredients": "Tepary Beans (Moth Dal) Flour, Refined Cotton Seed Oil, Bengal Gram Flour (Besan), lodised Salt, Red Chilli Powder, Clove Powder, Black Pepper, Dried Ginger Powder, Cardamom, Bay Leaf, Nutmeg, Ajwain, Coriander Seeds \u0026 Cinnamon Allergen: May Contains Peanut, Tree Nuts, Sesame Seed, Milk, Soy, Mustard Seed \u0026 Wheat",
+  "per_100g": {
+    "energy_kcal": 602,
+    "fat": 44.56,
+    "saturated_fat": 12.97,
+    "carbohydrates": 37.36,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 12.95,
+    "salt": 1970,
+    "sodium": 788
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-06T10:15:57Z",
+  "fetched_at": "2026-08-19T01:23:43Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8904335602521",
+  "name": "Chocolate Muesli",
+  "brand": "Yogabar",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:mueslis",
+    "en:food"
+  ],
+  "ingredients": "Whole Grains 66% (Rolled Oats, Rice Flakes, Quinoa Flakes). Dark Chocolate Paste 12% (Sugar, Edible Vegetable Fat, Cocoa Solids, Soy Lecithin \u0026 Natural Flavours). Seeds \u0026 Nuts 10.8% (Chia. Flax. Almond, Pumpkin). Dehydrated Fruits 6.5% (Raisins. Cranberry 2.5%). Dates Syrup, Cocoa Powder, Rice Bran Oil, Natural Flavours, Jaggery Syrup, Cocoa Mass. Himalayan Pink Salt, Apple Fibre. l",
+  "per_100g": {
+    "energy_kcal": 437,
+    "fat": 13.3,
+    "saturated_fat": 4.3,
+    "carbohydrates": 67,
+    "sugars": 6.7,
+    "fiber": 9.4,
+    "protein": 12.3,
+    "salt": 0.2265,
+    "sodium": 0.0906
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-04T11:44:53Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

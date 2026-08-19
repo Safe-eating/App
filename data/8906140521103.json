@@ -1,0 +1,30 @@
+{
+  "barcode": "8906140521103",
+  "name": "Jackfruit",
+  "brand": "Mercely's Ice Cream",
+  "quantity": "125 ml",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams"
+  ],
+  "ingredients": "1) Icecream-80% [Milk, Sugar, Milk Fat, Skim milk powder, Fructooligosaccharide, Emulsifiers and Stabilizers (E471-VEGETABLE SOURCE, E466, E415, E412, E407, E405), Probiotic culture (Bacillus coagulans SNZ 1969), Paprika extract, Turmeric extract] ii) Jackfruit pulp preparation-20% [Jackfruit pulp, sugar]",
+  "per_100g": {
+    "energy_kcal": 195,
+    "fat": 10,
+    "saturated_fat": 6.5,
+    "carbohydrates": 24,
+    "sugars": 21,
+    "fiber": 3,
+    "protein": 3.5,
+    "salt": 0.05,
+    "sodium": 0.02
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-09T16:17:17Z",
+  "fetched_at": "2026-08-19T12:58:08Z"
+}

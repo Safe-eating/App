@@ -1,0 +1,32 @@
+{
+  "barcode": "8908009419774",
+  "name": "Savoriz",
+  "brand": "Bauli",
+  "quantity": "52 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:sweet-pastries-and-pies",
+    "en:viennoiseries",
+    "en:filled-croissants",
+    "en:Puff roll"
+  ],
+  "ingredients": "Puff Roll (~71%) - Refined Wheat Flour (Maida), Water, Partially Hydrogenated Oil, Refined Palm Oil, Sugar, Bakery Mix [Emulsifier (INS 471), Wheat Gluten, Enzymes {Flour Improver - INS 1101(i), 1100(i)}, Antioxidant (INS 300)], Wheat Gluten, Humectant [INS 420 (ii)], Yeast, Milk Solids, Emulsifier [INS471, 477, 472b, 470(I)], Edible Common Salt, Preservative (INS 282), Sourdough Powder, Flavour (Nature identical and Artificial Flavouring substances - Cheese, Butter)\r\nCheesy Jalapeno Pepper Filling (~29% ) [Centre Filling - Refined Soyabean Oil, Water, Sweetener [INS420(i)], Maltodextrin, Humectant (INS 422), Milk Solids, Edible Common Salt, Cheese Powder (2.9%), Jalapeno Pepper(2.5%), Mixed Spices, Acidity Regulator (INS270), Preservatives (INS 211 \u0026 INS 202)], Paprika Oleoresin, Flavour (Nature identical and Artificial flavouring substances - Jalapeno)",
+  "per_100g": {
+    "energy_kcal": 405,
+    "fat": 20.2,
+    "saturated_fat": 9.8,
+    "carbohydrates": 48.1,
+    "sugars": 7.8,
+    "fiber": null,
+    "protein": 6.4,
+    "salt": 1.28575,
+    "sodium": 0.5143
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-04-30T08:06:18Z",
+  "fetched_at": "2026-08-19T13:11:37Z"
+}

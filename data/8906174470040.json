@@ -1,0 +1,31 @@
+{
+  "barcode": "8906174470040",
+  "name": "Kimia Dates",
+  "brand": "Nutriwala",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruits-based-foods",
+    "en:fruits",
+    "en:dates"
+  ],
+  "ingredients": "Dates",
+  "per_100g": {
+    "energy_kcal": 287,
+    "fat": 0.25,
+    "saturated_fat": 0.075,
+    "carbohydrates": 64.7,
+    "sugars": 64.7,
+    "fiber": 7.3,
+    "protein": 1.81,
+    "salt": 0.098,
+    "sodium": 0.039
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-05T12:00:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

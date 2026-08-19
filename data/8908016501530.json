@@ -1,0 +1,30 @@
+{
+  "barcode": "8908016501530",
+  "name": "Peri Peri Crumbles",
+  "brand": "Hello Tempayy",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:meat-alternatives",
+    "en:tempeh"
+  ],
+  "ingredients": "Non GMO Soybeans. Water. Red Chilli Paste, Vinegar, Sunflower Oil, Chilli Powder, Sugar, lodized Salt, Lime Juice, Spices and Condiments. Hydrolysed Vegetable Protein, Rice Flour, Rhizopus (Culture) Iron, Vitamin B12.",
+  "per_100g": {
+    "energy_kcal": 181,
+    "fat": 7.6,
+    "saturated_fat": 1.4,
+    "carbohydrates": 10.7,
+    "sugars": 1.4,
+    "fiber": 8,
+    "protein": 19.8,
+    "salt": 1.0125,
+    "sodium": 0.405
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-25T01:05:56Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "7622201762063",
+  "name": "Dairy milk chocolate",
+  "brand": "Cadbury",
+  "quantity": "123g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:chocolates",
+    "en:milk-chocolates",
+    "en:milk-chocolate-bar"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 531,
+    "fat": 29,
+    "saturated_fat": 19.6,
+    "carbohydrates": 60.4,
+    "sugars": 57,
+    "fiber": null,
+    "protein": 7.9,
+    "salt": 0.3225,
+    "sodium": 0.129
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-10-15T12:21:43Z",
+  "fetched_at": "2026-08-19T00:09:04Z"
+}

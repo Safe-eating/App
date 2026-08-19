@@ -1,0 +1,24 @@
+{
+  "barcode": "8906140970215",
+  "name": "Mango Lassi",
+  "brand": "Punjab Sind",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 133,
+    "fat": 4.6,
+    "saturated_fat": 3.5,
+    "carbohydrates": 19.8,
+    "sugars": 18.6,
+    "fiber": null,
+    "protein": 3.1,
+    "salt": 0.09725,
+    "sodium": 0.0389
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-14T11:37:08Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

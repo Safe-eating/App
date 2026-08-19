@@ -1,0 +1,27 @@
+{
+  "barcode": "0890497000412",
+  "name": "Naan rounds original",
+  "brand": "Stone Fire",
+  "quantity": "360 g",
+  "categories": [
+    "en:biscuits-and-crackers",
+    "en:crackers-breakfast"
+  ],
+  "ingredients": "Enriched wheat flour, buttermilk (milk ingredients, bacterial culture), soybean oil, sugars (sugar, dextrose), modified wheat starch, cultured wheat flour, salt, ghee (clarified butter), acacia gum, baking powder, yeast, mono - and diglycerides, amylase, xylanase. Contains: wheat, milk. May contain: eggs, sesame seeds.",
+  "per_100g": {
+    "energy_kcal": 336.625223214286,
+    "fat": 12.9436,
+    "saturated_fat": 2.17049553571429,
+    "carbohydrates": 46.6717313058036,
+    "sugars": 7.17961704799107,
+    "fiber": 4.12487095424107,
+    "protein": 6.1360546875,
+    "salt": 0.766128613281252,
+    "sodium": 0.306584889787948
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T17:55:34Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

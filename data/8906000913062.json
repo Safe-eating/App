@@ -1,0 +1,28 @@
+{
+  "barcode": "8906000913062",
+  "name": "Jain Schezwan sauce",
+  "brand": "aatash",
+  "quantity": "1kg",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:Chinese-sauce"
+  ],
+  "ingredients": "Tomatoes(15%), Sugar(10%), chillies(8%), oil, water, soy sauce, herbs \u0026 spices. flavour enhancers(INS-627, INS-631), Emulsifying agent(INS - 415), Acidfying agent (INS-260), preservatives(INS-211)",
+  "per_100g": {
+    "energy_kcal": 12.8,
+    "fat": 0.52,
+    "saturated_fat": 0.412,
+    "carbohydrates": 2.05,
+    "sugars": 1.024,
+    "fiber": 0,
+    "protein": 0.212,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-31T20:54:12Z",
+  "fetched_at": "2026-08-19T01:48:11Z"
+}

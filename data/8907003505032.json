@@ -1,0 +1,31 @@
+{
+  "barcode": "8907003505032",
+  "name": "Pepper Thattai",
+  "brand": "Adyar Ananda Bhavan",
+  "quantity": "250g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:crackers-appetizers",
+    "en:Fried-cereal-snack"
+  ],
+  "ingredients": "Rice Flour (45%), Black lentil, Green gram, Spices, White sesame seeds, Refined groundnut oil, Pepper (5%)",
+  "per_100g": {
+    "energy_kcal": 507,
+    "fat": 27,
+    "saturated_fat": 12,
+    "carbohydrates": 56,
+    "sugars": 0,
+    "fiber": 1,
+    "protein": 10,
+    "salt": 1.5825,
+    "sodium": 0.633
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-16T12:17:56Z",
+  "fetched_at": "2026-08-19T13:03:46Z"
+}

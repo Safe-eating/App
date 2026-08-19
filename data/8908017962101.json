@@ -1,0 +1,24 @@
+{
+  "barcode": "8908017962101",
+  "name": "Penne pasta",
+  "brand": "Wicked gud",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 361.53,
+    "fat": 0.53,
+    "saturated_fat": 0.29,
+    "carbohydrates": 74.51,
+    "sugars": 0,
+    "fiber": 7.24,
+    "protein": 14.68,
+    "salt": 0.018575,
+    "sodium": 0.00743
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-03T14:31:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8901512500205",
+  "name": "Butter Popcorn",
+  "brand": "Act 2",
+  "quantity": "",
+  "categories": [
+    "en:Food"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 498,
+    "fat": 26,
+    "saturated_fat": 12,
+    "carbohydrates": 60,
+    "sugars": 0,
+    "fiber": 8,
+    "protein": 10,
+    "salt": 1.25,
+    "sodium": 0.5
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-13T10:03:36Z",
+  "fetched_at": "2026-08-19T00:54:29Z"
+}

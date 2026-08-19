@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063028210",
+  "name": "Britannia Nice",
+  "brand": "Britannia Industries Ltd",
+  "quantity": "59.4g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR (286), REFINED PALM OIL, COCONUT PRODUCTS (4.5%) (DESICCATED COCONUT COCONUT MILK POWDER), MILK SOLIDS, INVERT SUGAR SYRUP, EDIBLE MAZE STARCH, RAISING AGENTS [503(ii), 500(ii) \u0026 450(i)], EMULSIFIERS (322(i), 471 \u0026472e), IODISED SALT AND ARTIFICIAL (COCONUT \u0026 VANILLA) FLAVOURING SUBSTANCES",
+  "per_100g": {
+    "energy_kcal": 3561.53846153846,
+    "fat": 115.384615384615,
+    "saturated_fat": 61.5384615384615,
+    "carbohydrates": 584.615384615385,
+    "sugars": 234.615384615385,
+    "fiber": null,
+    "protein": 46.1538461538462,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-06T15:48:18Z",
+  "fetched_at": "2026-08-19T00:29:40Z"
+}

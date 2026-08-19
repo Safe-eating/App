@@ -1,0 +1,26 @@
+{
+  "barcode": "8905950003892",
+  "name": "Soya Sticks",
+  "brand": "Bikaji",
+  "quantity": "200g",
+  "categories": [
+    "en:namkeen"
+  ],
+  "ingredients": "Edible Vegetable Oil (Palmolein Oil, Cottonseed Oil), Tapioca Starch, Black Gram Flour, Soya Powder (7%), Rice Flour, Black Lentil Flour, Ground Spices \u0026 Condiments (lodised Salt, Sugar, Maltodextrin, Fennel, Cumin, Red Chilli, Ginger, Turmeric (Colouring \u0026 Spices), Dry Mango Powder, Corn Starch, Garlic, Mustard Seeds, Acidity Regulator (INS 330, INS 296), Anticaking Agent (INS 551), Asafoetida, Flavouring Enhancer (INS 627, INS 631, INS 635), Hydrolyzed Vegetable Protein (Soya)). Hydrogenated Vegetable Oil (Palm, Sesame) CONTAINS: SOY, SESAME, MUSTARD CONTAINS ADDED FLAVOURS (NATURE IDENTICAL \u0026 NATURAL FLAVOURING SUBSTANCES) CONTAINS ADDED PERMITTED NATURAL COLOUR (INS 160c)",
+  "per_100g": {
+    "energy_kcal": 550,
+    "fat": 35,
+    "saturated_fat": 16,
+    "carbohydrates": 50,
+    "sugars": 5,
+    "fiber": 3,
+    "protein": 9,
+    "salt": 2,
+    "sodium": 1.162
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-13T09:49:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

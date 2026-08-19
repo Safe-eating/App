@@ -1,0 +1,32 @@
+{
+  "barcode": "8901764362606",
+  "name": "Minute maid",
+  "brand": "Coca-Cola, Coca-Cola Company",
+  "quantity": "1",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:plant-based-beverages",
+    "en:fruit-based-beverages",
+    "en:beverages-with-orange"
+  ],
+  "ingredients": "WATER, SUGAR, ORANGE JUICE (10.5%) (RECONSTITUTED FROM ORANGE JUICE CONCENTRATE \u0026 ORANGE PULP CELLS), ACIDITY REGULATORS (330, 331(iii)), ANTIOXIDANT (300), COLOURS (110, 102), ORANGE FLAVOURS (NATURAL, NATURE-IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES).",
+  "per_100g": {
+    "energy_kcal": 52,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 13.1,
+    "sugars": 11.5,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0.024,
+    "sodium": 0.0096
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-12T18:55:01Z",
+  "fetched_at": "2026-08-19T01:09:30Z"
+}

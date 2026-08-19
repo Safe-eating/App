@@ -1,0 +1,27 @@
+{
+  "barcode": "8908022617218",
+  "name": "crispy diet chidwa",
+  "brand": "annapurna swadisht",
+  "quantity": "",
+  "categories": [
+    "en:chidwa",
+    "en:namkeen"
+  ],
+  "ingredients": "FLAKED RICE, BENGAL GRAM, EDIBLE VEGETABLE OIL (PALM), PEANUT, SKIM MILK POWDER, IODISED SALT, SUGAR, BLACK SALT.",
+  "per_100g": {
+    "energy_kcal": 357,
+    "fat": 33,
+    "saturated_fat": 16.2,
+    "carbohydrates": 52,
+    "sugars": 4.8,
+    "fiber": null,
+    "protein": 8,
+    "salt": 1.4,
+    "sodium": 0.56
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-12-09T16:09:25Z",
+  "fetched_at": "2026-08-19T13:21:30Z"
+}

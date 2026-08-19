@@ -1,0 +1,36 @@
+{
+  "barcode": "8901491983259",
+  "name": "Wafer Style Sundried Chilli Flavour",
+  "brand": "Lay's",
+  "quantity": "26.5 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps"
+  ],
+  "ingredients": "Potato, Edible Vegetable Oil (Palmolein, Rice Bran Oil), *Seasoning (\u0026quot;Spices \u0026 Condiments, lodised Salt, Maltodextrin, Sugar, Acidity Regulator (330), Salt Substitute (Potassium Chloride), Flavour (Natural and Nature Identical Flavouring Substances), Anticaking Agent (551), Edible Vegetable Oil (Corn Oil)). *As flavouring agent. ~Contains Onion and Garlic",
+  "per_100g": {
+    "energy_kcal": 539,
+    "fat": 33.6,
+    "saturated_fat": 12.7,
+    "carbohydrates": 52.5,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 6.7,
+    "salt": 1.6275,
+    "sodium": 0.651
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-11T11:55:41Z",
+  "fetched_at": "2026-08-19T00:51:53Z"
+}

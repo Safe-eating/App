@@ -1,0 +1,28 @@
+{
+  "barcode": "4897091281304",
+  "name": "Alaska Deep Sea Fish Oil Omega 3",
+  "brand": "Sunline",
+  "quantity": "",
+  "categories": [
+    "en:fats",
+    "en:animal-fats",
+    "en:fish-oils"
+  ],
+  "ingredients": "Fish Oil Soybean Oil, Gelatin, Glycerol, Purified Water",
+  "per_100g": {
+    "energy_kcal": 749.0439769374,
+    "fat": 74,
+    "saturated_fat": 20.9,
+    "carbohydrates": 5.2,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 18.1,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-20T01:02:00Z",
+  "fetched_at": "2026-08-19T00:04:22Z"
+}

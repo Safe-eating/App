@@ -1,0 +1,31 @@
+{
+  "barcode": "8901262180146",
+  "name": "Amul Malai Paneer",
+  "brand": "Amul",
+  "quantity": "1kg",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer",
+    "en:cottage-cheeses"
+  ],
+  "ingredients": "Milk Solids, Citric Acid",
+  "per_100g": {
+    "energy_kcal": 312,
+    "fat": 24,
+    "saturated_fat": 14.4,
+    "carbohydrates": 4,
+    "sugars": 4,
+    "fiber": null,
+    "protein": 20,
+    "salt": 0.06,
+    "sodium": 0.024
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-02T06:20:15Z",
+  "fetched_at": "2026-08-19T00:45:46Z"
+}

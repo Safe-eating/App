@@ -1,0 +1,32 @@
+{
+  "barcode": "8906120106849",
+  "name": "Flax Seeds",
+  "brand": "Farmley",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:flax-seeds"
+  ],
+  "ingredients": "Raw Flax Seeds",
+  "per_100g": {
+    "energy_kcal": 539.1,
+    "fat": 35.5,
+    "saturated_fat": 11,
+    "carbohydrates": 33,
+    "sugars": 4.1,
+    "fiber": 21.6,
+    "protein": 21.6,
+    "salt": 0.045,
+    "sodium": 0.018
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-28T08:18:40Z",
+  "fetched_at": "2026-08-19T12:55:00Z"
+}

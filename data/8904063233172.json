@@ -1,0 +1,24 @@
+{
+  "barcode": "8904063233172",
+  "name": "Takatak",
+  "brand": "Haldiram",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 542.9,
+    "fat": 33.3,
+    "saturated_fat": 14.9,
+    "carbohydrates": 53.2,
+    "sugars": 2.6,
+    "fiber": null,
+    "protein": 7.6,
+    "salt": 2.93125,
+    "sodium": 1.1725
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-13T03:08:18Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

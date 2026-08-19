@@ -1,0 +1,31 @@
+{
+  "barcode": "8906069402644",
+  "name": "Veeba eggless mayonnaise 250 g",
+  "brand": "Veeba",
+  "quantity": "3",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:vegetarian-sauces",
+    "en:mayonnaises",
+    "en:vegan-sauces",
+    "en:egg-free-mayonnaises"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 365,
+    "fat": 35,
+    "saturated_fat": 5.6,
+    "carbohydrates": 12.5,
+    "sugars": 8.25,
+    "fiber": null,
+    "protein": 0,
+    "salt": 2.1,
+    "sodium": 0.84
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-21T11:20:01Z",
+  "fetched_at": "2026-08-19T12:41:39Z"
+}

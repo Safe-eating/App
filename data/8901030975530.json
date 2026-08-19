@@ -1,0 +1,33 @@
+{
+  "barcode": "8901030975530",
+  "name": "Boost milk shake",
+  "brand": "Boost energy",
+  "quantity": "180 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:dairy-drinks",
+    "en:milks",
+    "en:flavoured-milks",
+    "en:chocolate-milks"
+  ],
+  "ingredients": "Toned Milk (60%), Water, Sugar, Cereal product (3%), Milk Solids, Minerals, Acidity Regulator (INS 339 (ii)), Stabilizers (INS 418, INS 407), Vitamins. Allergen Information: Contains Milk, Wheat, Barley and Soy. fssai",
+  "per_100g": {
+    "energy_kcal": 70,
+    "fat": 107,
+    "saturated_fat": 1.6,
+    "carbohydrates": 11,
+    "sugars": 10,
+    "fiber": 0.1,
+    "protein": 2.7,
+    "salt": 175,
+    "sodium": 70
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-30T15:07:41Z",
+  "fetched_at": "2026-08-19T00:21:24Z"
+}

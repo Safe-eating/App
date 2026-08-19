@@ -1,0 +1,35 @@
+{
+  "barcode": "8904288604023",
+  "name": "Tops junior tomato ketchup",
+  "brand": "Tops",
+  "quantity": "85g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 131,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 31.11,
+    "sugars": 24,
+    "fiber": null,
+    "protein": 1.6,
+    "salt": 3,
+    "sodium": 1.2
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-14T09:41:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

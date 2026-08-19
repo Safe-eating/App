@@ -1,0 +1,26 @@
+{
+  "barcode": "8906070320319",
+  "name": "Jhal Chanachur",
+  "brand": "Haldiram",
+  "quantity": "400g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Gram Pulses, Lentils, Peas, Peanuts, Edible Vegetable Oil, lodised Salt, Curry Leaves, Red Chillies, Turmeric, Raisins, Citric Acid (INS 330) and Spices.",
+  "per_100g": {
+    "energy_kcal": 573.36,
+    "fat": 40.52,
+    "saturated_fat": 3.44,
+    "carbohydrates": 39.32,
+    "sugars": 2.08,
+    "fiber": null,
+    "protein": 13.4,
+    "salt": 2.2529,
+    "sodium": 0.90116
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-19T20:51:01Z",
+  "fetched_at": "2026-08-19T12:42:39Z"
+}

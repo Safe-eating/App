@@ -1,0 +1,30 @@
+{
+  "barcode": "8906188370053",
+  "name": "Salt \u0026 Pepper Makhana",
+  "brand": "Kepps",
+  "quantity": "70 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:fox-nuts",
+    "en:foxnuts"
+  ],
+  "ingredients": "Fox Nuts, Edible Vegetable Oil (Rice Bran Oil), Pepper Rock Salt, Dry Mango Powder. CONTAINS PERMITTED NATURAL COLOUR AND ADDED FLAVOUR.",
+  "per_100g": {
+    "energy_kcal": 394,
+    "fat": 5.6,
+    "saturated_fat": 2.45,
+    "carbohydrates": 76.1,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 9.86,
+    "salt": 0.95,
+    "sodium": 0.38
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-01T07:38:24Z",
+  "fetched_at": "2026-08-19T13:03:16Z"
+}

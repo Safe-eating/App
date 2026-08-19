@@ -1,0 +1,35 @@
+{
+  "barcode": "8900404114308",
+  "name": "Roasted \u0026 Salted Cashews",
+  "brand": "Wonderland",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:salty-snacks",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:cashew-nuts",
+    "en:salted-nuts",
+    "en:salted-cashews",
+    "en:dry-fruit"
+  ],
+  "ingredients": "Cashews, Common Salt and Permitted Preservatives",
+  "per_100g": {
+    "energy_kcal": 574,
+    "fat": 46,
+    "saturated_fat": 9,
+    "carbohydrates": 33,
+    "sugars": 5,
+    "fiber": 3,
+    "protein": 15,
+    "salt": 1.6,
+    "sodium": 0.64
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-22T16:28:01Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

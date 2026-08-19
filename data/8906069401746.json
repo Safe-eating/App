@@ -1,0 +1,29 @@
+{
+  "barcode": "8906069401746",
+  "name": "Eggless Mayonnaise Chef's Special",
+  "brand": "Veeba Favourites",
+  "quantity": "100g",
+  "categories": [
+    "en:condiments",
+    "en:sauces",
+    "en:mayonnaises",
+    "en:Eggless Mayonnaise"
+  ],
+  "ingredients": "WATER, REFINED SOYABEAN OIL (24.0%), SYNTHETIC INEGAR (WATER, ACETIC ACID (INS260)], SUGAR, EMULSIFIERS AND STABILIZERS (INS1442, INS1450, INS415), IODISED SALT, SPICES AND CONDIMENTS, ACIDITY REGULATOR (INS330), PRESERVATIVES (INS211, INS202), NATURE-IDENTICAL FLAVOURING SUBSTANCES ANTIOXIDANT (INS319) AND SEQUESTRANT (INS385).",
+  "per_100g": {
+    "energy_kcal": 277.6,
+    "fat": 24.8,
+    "saturated_fat": 3.98,
+    "carbohydrates": 13.6,
+    "sugars": 8.4,
+    "fiber": null,
+    "protein": 0,
+    "salt": 2.1,
+    "sodium": 0.84
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-23T09:37:32Z",
+  "fetched_at": "2026-08-19T12:41:36Z"
+}

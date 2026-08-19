@@ -1,0 +1,33 @@
+{
+  "barcode": "8904025400079",
+  "name": "Alphonso mango pulp",
+  "brand": "Chitale",
+  "quantity": "500 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:fruits",
+    "en:tropical-fruits",
+    "en:mango-pulp"
+  ],
+  "ingredients": "Alphonso Mango Pulp, Sugar, Citric Acid (E330)",
+  "per_100g": {
+    "energy_kcal": 118.96,
+    "fat": 0.1,
+    "saturated_fat": 0.027,
+    "carbohydrates": 28.25,
+    "sugars": 26.73,
+    "fiber": 5.82,
+    "protein": 1.31,
+    "salt": 0.0418,
+    "sodium": 0.01672
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-25T03:07:40Z",
+  "fetched_at": "2026-08-19T01:26:51Z"
+}

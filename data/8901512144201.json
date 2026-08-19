@@ -1,0 +1,34 @@
+{
+  "barcode": "8901512144201",
+  "name": "Peanut Butter 100% Natural Creamy",
+  "brand": "Sundrop",
+  "quantity": "924 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:pure-peanut-butters"
+  ],
+  "ingredients": "Roasted Peanuts",
+  "per_100g": {
+    "energy_kcal": 639,
+    "fat": 53,
+    "saturated_fat": 9.4,
+    "carbohydrates": 15.4,
+    "sugars": 4.7,
+    "fiber": 6.8,
+    "protein": 28.6,
+    "salt": 0.01225,
+    "sodium": 0.0049
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-22T04:17:20Z",
+  "fetched_at": "2026-08-19T00:54:04Z"
+}

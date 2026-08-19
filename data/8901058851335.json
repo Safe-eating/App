@@ -1,0 +1,33 @@
+{
+  "barcode": "8901058851335",
+  "name": "maggi",
+  "brand": "Maggi",
+  "quantity": "560g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles",
+    "en:aliments-d-origine-vegetale",
+    "en:aliments-et-boissons-a-base-de-vegetaux",
+    "en:cereales-et-derives",
+    "en:cereales-et-pommes-de-terre"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 427,
+    "fat": 15.7,
+    "saturated_fat": 6.8,
+    "carbohydrates": 63.5,
+    "sugars": 2.2,
+    "fiber": null,
+    "protein": 8,
+    "salt": 1.232,
+    "sodium": 0.4928
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T18:28:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

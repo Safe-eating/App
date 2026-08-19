@@ -1,0 +1,34 @@
+{
+  "barcode": "8902579003302",
+  "name": "Smoodh Lassi",
+  "brand": "Smoodh",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:dairy-drinks",
+    "en:fermented-dairy-desserts"
+  ],
+  "ingredients": "TONED MILK DAHI (50%) (MILK SOLIDS, STARTER CULTURE), WATER, SUGAR, STABILIZER (INS 466), ACIDITY REGULATOR (INS 330), IODISED SALT AND NATURE IDENTICAL FLAVOURING SUBSTANCE (ROSE).",
+  "per_100g": {
+    "energy_kcal": 83.2,
+    "fat": 1.6,
+    "saturated_fat": 1,
+    "carbohydrates": 15.6,
+    "sugars": 13.4,
+    "fiber": null,
+    "protein": 1.6,
+    "salt": 0.18375,
+    "sodium": 0.0735
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-27T10:29:13Z",
+  "fetched_at": "2026-08-19T01:16:19Z"
+}

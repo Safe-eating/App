@@ -1,0 +1,38 @@
+{
+  "barcode": "8902979051071",
+  "name": "Rose Lassi",
+  "brand": "Cavin's",
+  "quantity": "180 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:dairy-drinks",
+    "en:fermented-dairy-desserts",
+    "en:fermented-drinks",
+    "en:fermented-milk-drinks",
+    "en:yogurts",
+    "en:yogurt-drinks"
+  ],
+  "ingredients": "Standardized Milk Curd, Water, Sugar, Emulsifier (INS 460(i) \u0026 INS 466), Flavour (Nature Identical Flavouring Substance), Mineral \u0026 vitamin Premix(Zinc, Vitamin A \u0026 D)",
+  "per_100g": {
+    "energy_kcal": 99.1666666666667,
+    "fat": 2.05555555555556,
+    "saturated_fat": 1.38888888888889,
+    "carbohydrates": 18.1111111111111,
+    "sugars": 17.2777777777778,
+    "fiber": null,
+    "protein": 2.05555555555556,
+    "salt": 0.0708333333333333,
+    "sodium": 0.0283333333333333
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T12:40:03Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

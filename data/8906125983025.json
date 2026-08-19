@@ -1,0 +1,24 @@
+{
+  "barcode": "8906125983025",
+  "name": "Cheese Popcorn",
+  "brand": "4700BC",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 472.727272727273,
+    "fat": 24.5454545454545,
+    "saturated_fat": 6.36363636363636,
+    "carbohydrates": 54.5454545454545,
+    "sugars": 1.36363636363636,
+    "fiber": 4.09090909090909,
+    "protein": 9.54545454545454,
+    "salt": 1.40909090909091,
+    "sodium": 0.563636363636364
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-20T02:53:17Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

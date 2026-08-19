@@ -1,0 +1,41 @@
+{
+  "barcode": "8901012350010",
+  "name": "Apple drink",
+  "brand": "johnson and Johnson",
+  "quantity": "200 ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:fruit-based-foods-and-beverages",
+    "en:non-alcoholic-beverages",
+    "en:plant-based-beverages",
+    "en:carbonated-drinks",
+    "en:fruit-based-beverages",
+    "en:juices-and-nectars",
+    "en:soft-drinks",
+    "en:sodas",
+    "en:fruit-juices",
+    "en:fruit-sodas",
+    "en:unsweetened-beverages",
+    "en:apple-juices",
+    "en:apple-soft-drinks"
+  ],
+  "ingredients": "Purified water, Sugar, Dextrose, Apple Juice (reconstituted) 10%, Acidity Regulator (330), Sodium citrate, Potassium chloride, Sodium chloride, Vitamin C (Ascorbic acid)\r\n\r\nCONTAINS PERMITTED NATURAL COLOUR (150a) AND ADDED FLAVOURS (NATURAL FLAVORING SUBSTANCE \u0026 ARTIFICIAL FLAVORING SUBSTANCES) [APPLE]",
+  "per_100g": {
+    "energy_kcal": 50,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 12,
+    "sugars": 12,
+    "fiber": null,
+    "protein": 0,
+    "salt": 0.2925,
+    "sodium": 0.117
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-10-30T17:46:22Z",
+  "fetched_at": "2026-08-19T00:13:51Z"
+}

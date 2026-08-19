@@ -1,0 +1,33 @@
+{
+  "barcode": "8901808000068",
+  "name": "WeiKFiELD",
+  "brand": "Weikfield",
+  "quantity": "100",
+  "categories": [
+    "en:dairies",
+    "en:condiments",
+    "en:cooking-helpers",
+    "en:sauces",
+    "en:dessert-mixes",
+    "en:dessert-sauces",
+    "en:custards-and-pastry-creams",
+    "en:desse"
+  ],
+  "ingredients": "Maize Starch, Iodized Salt, Artificial Flavouring Substance(Vanilla), Synthetic Food Colours (INS 102,110,122)",
+  "per_100g": {
+    "energy_kcal": 358,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 88.4,
+    "sugars": 0,
+    "fiber": 0.7832,
+    "protein": 1,
+    "salt": 0.7,
+    "sodium": 0.28
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-01T17:20:28Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

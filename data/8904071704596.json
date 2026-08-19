@@ -1,0 +1,26 @@
+{
+  "barcode": "8904071704596",
+  "name": "Madras Mix",
+  "brand": "Udupi Munch",
+  "quantity": "40 g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Gram Flour (50%), Edible Vegetable Oil (Palmolein), Rice Flour (6%), Gram Dal (6%), Peanuts (6%) Rice Flour (5%), Mixed Spice (Red Chilli Powder, Salt, Turmeric Powder, Curry Leaves, Asafoetida).",
+  "per_100g": {
+    "energy_kcal": 571,
+    "fat": 39,
+    "saturated_fat": 18,
+    "carbohydrates": 46,
+    "sugars": 2,
+    "fiber": 7,
+    "protein": 9,
+    "salt": 1.4825,
+    "sodium": 0.593
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-04T16:31:49Z",
+  "fetched_at": "2026-08-19T01:32:31Z"
+}

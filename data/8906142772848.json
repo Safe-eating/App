@@ -1,0 +1,36 @@
+{
+  "barcode": "8906142772848",
+  "name": "Black Dates Arabian",
+  "brand": "Molsi's",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruit-based-foods-and-beverages",
+    "en:fruits-and-vegetables-based-foods",
+    "en:fruit-based-foods",
+    "en:dried-products",
+    "en:fruits",
+    "en:dried-plant-based-foods",
+    "en:dates-and-their-products",
+    "en:dried-fruits",
+    "en:dates"
+  ],
+  "ingredients": "Dates (Wet Dates)",
+  "per_100g": {
+    "energy_kcal": 329.42,
+    "fat": 0.43,
+    "saturated_fat": 0.43,
+    "carbohydrates": 79.64,
+    "sugars": 0,
+    "fiber": 72.4,
+    "protein": 2.72,
+    "salt": 0.085975,
+    "sodium": 0.03439
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-24T17:05:04Z",
+  "fetched_at": "2026-08-19T12:58:35Z"
+}

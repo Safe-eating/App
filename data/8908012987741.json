@@ -1,0 +1,24 @@
+{
+  "barcode": "8908012987741",
+  "name": "Whey Coffee Mocha",
+  "brand": "Trunativ",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 362.72,
+    "fat": 4.17,
+    "saturated_fat": 3.25,
+    "carbohydrates": 8.89,
+    "sugars": 3.47,
+    "fiber": null,
+    "protein": 72.42,
+    "salt": 0.63055,
+    "sodium": 0.25222
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-22T15:09:28Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

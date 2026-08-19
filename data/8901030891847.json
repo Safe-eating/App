@@ -1,0 +1,28 @@
+{
+  "barcode": "8901030891847",
+  "name": "Kwality Wall's Cornetto - Butterscotch",
+  "brand": "Kwality Wall's",
+  "quantity": "",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 312.903225806452,
+    "fat": 15.9677419354839,
+    "saturated_fat": 10.1612903225806,
+    "carbohydrates": 38.3870967741936,
+    "sugars": 28.2258064516129,
+    "fiber": 1.7741935483871,
+    "protein": 4.83870967741935,
+    "salt": 0.262096774193548,
+    "sodium": 0.104838709677419
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-19T07:46:01Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

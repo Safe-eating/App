@@ -1,0 +1,32 @@
+{
+  "barcode": "8901063325609",
+  "name": "Toastea premium rusk",
+  "brand": "Britannia",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads",
+    "en:Premium Bake Rusk",
+    "en:Toasted bread"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA) (71), SUGAR REFINED PALM AND PALMOLEIN OIL, SEMOLINA (SUJI) (1.8%), YEAST, INVERT SUGAR SYRUP, VITAL GLUTEN, 1ODISED SALT, IMPROVERS (11000), 1102, 11041, SPICES-0.19% (GREEN CARDAMOM SEEDS\u0026 ITS OIL), WHEAT FIBRE, EMULSIFIER BLEND (481(), 471, 472e] AND ANTIOXIDANT (300).",
+  "per_100g": {
+    "energy_kcal": 433,
+    "fat": 8.3,
+    "saturated_fat": 3.9,
+    "carbohydrates": 80.7,
+    "sugars": 23,
+    "fiber": 0,
+    "protein": 9,
+    "salt": 0.555,
+    "sodium": 0.222
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-08-28T07:24:42Z",
+  "fetched_at": "2026-08-19T00:33:13Z"
+}

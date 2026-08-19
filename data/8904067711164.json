@@ -1,0 +1,32 @@
+{
+  "barcode": "8904067711164",
+  "name": "Roasted peanuts Hing Jeera",
+  "brand": "Jabsons",
+  "quantity": "15g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:roasted-nuts",
+    "en:peanuts",
+    "en:roasted-peanuts"
+  ],
+  "ingredients": "Peanuts (83%), Refined Cottonseed Oil, Cumin (Jeera 4%), lodized Salt, Chilli (0.6%), Asafoetida (Hing 0.5%)",
+  "per_100g": {
+    "energy_kcal": 630,
+    "fat": 52,
+    "saturated_fat": 9,
+    "carbohydrates": 21,
+    "sugars": 4,
+    "fiber": 4,
+    "protein": 20,
+    "salt": 1.575,
+    "sodium": 0.63
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-06T06:00:20Z",
+  "fetched_at": "2026-08-19T01:31:56Z"
+}

@@ -1,0 +1,31 @@
+{
+  "barcode": "3017620425035",
+  "name": "Nutella",
+  "brand": "nutella",
+  "quantity": "1 kg",
+  "categories": [
+    "en:pates-a-tartiner-au-chocolat",
+    "en:pates-a-tartiner-aux-noisettes",
+    "en:pates-a-tartiner-aux-noisettes-et-au-cacao",
+    "en:petit-dejeuners",
+    "en:produits-a-tartiner",
+    "en:produits-a-tartiner-sucres"
+  ],
+  "ingredients": "Sucre, huile de palme, NOISETTES 13%, LAIT écrémé en poudre 8,7%, cacao maigre 7,4%, émulsifiants: lécithines [SOJA]; vanilline. Sans gluten",
+  "per_100g": {
+    "energy_kcal": 539,
+    "fat": 30.9,
+    "saturated_fat": 10.6,
+    "carbohydrates": 57.5,
+    "sugars": 56.3,
+    "fiber": null,
+    "protein": 6.3,
+    "salt": 0.107,
+    "sodium": 0.0428
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-05T04:46:50Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

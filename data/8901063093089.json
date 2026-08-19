@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063093089",
+  "name": "Good day Cashew",
+  "brand": "Britannia",
+  "quantity": "120 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 509,
+    "fat": 23.7,
+    "saturated_fat": 11.6,
+    "carbohydrates": 63.7,
+    "sugars": 20.3,
+    "fiber": 0,
+    "protein": 6.7,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-15T10:20:40Z",
+  "fetched_at": "2026-08-19T00:31:09Z"
+}

@@ -1,0 +1,33 @@
+{
+  "barcode": "8904327600917",
+  "name": "Unsweetened Peanut Butter Crunchy",
+  "brand": "Myfitness",
+  "quantity": "1.25kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Roasted Peanuts (100%)",
+  "per_100g": {
+    "energy_kcal": 204,
+    "fat": 15.4,
+    "saturated_fat": 2.6,
+    "carbohydrates": 6.2,
+    "sugars": 1,
+    "fiber": 2.6,
+    "protein": 10.1,
+    "salt": 0.00925,
+    "sodium": 0.0037
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-04T11:54:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

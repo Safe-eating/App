@@ -1,0 +1,32 @@
+{
+  "barcode": "8903363007032",
+  "name": "Foxtail millet",
+  "brand": "DMart",
+  "quantity": "500g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:seeds",
+    "en:cereals-and-their-products",
+    "en:cereal-grains",
+    "en:millet"
+  ],
+  "ingredients": "Foxtail millet",
+  "per_100g": {
+    "energy_kcal": 370.99,
+    "fat": 5.19,
+    "saturated_fat": 0.63,
+    "carbohydrates": 68.11,
+    "sugars": 0.71,
+    "fiber": 8.5,
+    "protein": 12.96,
+    "salt": 0.009725,
+    "sodium": 0.00389
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-30T03:50:49Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8904043553085",
+  "name": "Wow Pav",
+  "brand": "Modern",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Fat (Interesterified), Yeast, lodized Salt, Gluten, Soya Flour, Preservative (282), Emulsifier (471), Acidity Regulator (260), Flour Treatment Agents (510, 1100(i)) and Antioxidant (300)",
+  "per_100g": {
+    "energy_kcal": 261,
+    "fat": 2.98,
+    "saturated_fat": 2.17,
+    "carbohydrates": 48.9,
+    "sugars": 2.8,
+    "fiber": 0,
+    "protein": 9.5,
+    "salt": 1.105,
+    "sodium": 0.442
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-07-23T13:54:03Z",
+  "fetched_at": "2026-08-19T01:27:51Z"
+}

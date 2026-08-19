@@ -1,0 +1,26 @@
+{
+  "barcode": "8906067021182",
+  "name": "Whey Protein",
+  "brand": "Muscleblaze",
+  "quantity": "2kg",
+  "categories": [
+    "en:Whey protein"
+  ],
+  "ingredients": "Whey Protein Blend (Whey Protein Concentrate, Whey Powder \u0026 Whey Protein Isolate), Cocoa Powder, Nature Identical Flavouring Substances, Lecithin (Emulsifier), Salt, Xanthan Gum (Stabilizer), Proprietary Enzyme Blend, Sucralose (Sweetener) \u0026 Silicon Dioxide (Anti-Caking Agent)\r\n\r\nProprietary Enzyme Blend-A Multi Enzyme blend containing Amylase, Protease, Lactase, paket \u0026 Cellulase. CONTAIN NON-CALORIC SWEETENER This contains Sucralose CONTAINS NATURALLY OCCURRING SUGARS'",
+  "per_100g": {
+    "energy_kcal": 394.39,
+    "fat": 6.31,
+    "saturated_fat": 4.1,
+    "carbohydrates": 12.4,
+    "sugars": 6,
+    "fiber": null,
+    "protein": 72,
+    "salt": 1.034425,
+    "sodium": 0.41377
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-16T07:37:09Z",
+  "fetched_at": "2026-08-19T12:40:33Z"
+}

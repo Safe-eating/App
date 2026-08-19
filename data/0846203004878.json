@@ -1,0 +1,27 @@
+{
+  "barcode": "0846203004878",
+  "name": "Bakarwadi",
+  "brand": "Chitale",
+  "quantity": "",
+  "categories": [
+    "en:food",
+    "en:food-bakarwadi"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida), Bengal Gram Flour, Refined Groundnut Oil, Sugar Syrup (Refined Sugar, Water), Refined Sugar, Green Chilli, lodised Salt, Coriander Leaves, Grated Desiccated Coconut, Spices (Red Chilli Powder, Cumin Seed Powder, Coriander Seed Powder, Asafoetida), Tamarind Concentrate, Coriander Leaf Extract, Sesame Seeds. A S E",
+  "per_100g": {
+    "energy_kcal": 544,
+    "fat": 36,
+    "saturated_fat": 8,
+    "carbohydrates": 49,
+    "sugars": 9,
+    "fiber": null,
+    "protein": 9,
+    "salt": 2.0325,
+    "sodium": 0.813
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T19:35:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

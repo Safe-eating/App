@@ -1,0 +1,35 @@
+{
+  "barcode": "8906143890152",
+  "name": "Dark Chocolate Peanut Spread - Crunchy",
+  "brand": "The Whole Truth",
+  "quantity": "325g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:nuts-and-their-products",
+    "en:plant-based-spreads",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:nut-butters",
+    "en:peanut-butters"
+  ],
+  "ingredients": "Peanuts, date powder, cocoa",
+  "per_100g": {
+    "energy_kcal": 590.285714285714,
+    "fat": 39.1428571428571,
+    "saturated_fat": 5.71428571428571,
+    "carbohydrates": 42,
+    "sugars": 14,
+    "fiber": 10,
+    "protein": 17.7142857142857,
+    "salt": 0.26,
+    "sodium": 0.104
+  },
+  "nutriscore_grade": "b",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-03T18:47:11Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

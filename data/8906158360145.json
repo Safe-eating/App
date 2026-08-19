@@ -1,0 +1,30 @@
+{
+  "barcode": "8906158360145",
+  "name": "Craze Coffee Marie",
+  "brand": "Craze",
+  "quantity": "125g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP, NATURAL COFFEE POWDER, MILK PRODUCTS (MILK SOLIDS \u0026 SWEETENED CONDENSED PARTLY SKIMMED MILK), RAISING AGENTS (5030 \u0026 500(i)), IODIZED SALT, NATURE IDENTICAL \u0026 ARTIFICIAL (MILK \u0026 VANILLA) FLAVOURING SUBSTANCES, EMULSIFIER (472) CALCIUM SALT AND DOUGH CONDITIONER (223), CARAMEL DS 150.",
+  "per_100g": {
+    "energy_kcal": 445,
+    "fat": 10.7,
+    "saturated_fat": 5.2,
+    "carbohydrates": 78.9,
+    "sugars": 21.9,
+    "fiber": null,
+    "protein": 8.4,
+    "salt": 0.7975,
+    "sodium": 0.319
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-04-12T17:40:33Z",
+  "fetched_at": "2026-08-19T13:00:47Z"
+}

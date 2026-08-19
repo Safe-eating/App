@@ -1,0 +1,29 @@
+{
+  "barcode": "8908016793089",
+  "name": "Master chow",
+  "brand": "Master Chow",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "whole wheat flour and salt",
+  "per_100g": {
+    "energy_kcal": 368,
+    "fat": 1.2,
+    "saturated_fat": 0.4,
+    "carbohydrates": 75.8,
+    "sugars": 0,
+    "fiber": 8.1,
+    "protein": 13.4,
+    "salt": 0.0011625,
+    "sodium": 0.000465
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-27T20:35:29Z",
+  "fetched_at": "2026-08-19T13:17:47Z"
+}

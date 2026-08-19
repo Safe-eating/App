@@ -1,0 +1,29 @@
+{
+  "barcode": "8901014000012",
+  "name": "Top Ramen Masala Noodles",
+  "brand": "Nissin",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:pastas",
+    "en:noodles"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 460.32,
+    "fat": 16,
+    "saturated_fat": 8.12,
+    "carbohydrates": 67.9,
+    "sugars": 2.21,
+    "fiber": null,
+    "protein": 8.88,
+    "salt": 5.01,
+    "sodium": 2.004
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-13T19:05:14Z",
+  "fetched_at": "2026-08-19T00:14:02Z"
+}

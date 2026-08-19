@@ -1,0 +1,33 @@
+{
+  "barcode": "89008430",
+  "name": "Nescafe Iced Latte",
+  "brand": "Nescafe",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:coffee-drinks",
+    "en:iced-coffees",
+    "en:Ready-to-Drink Coffee"
+  ],
+  "ingredients": "Toned milk (87%), Sugar, Coffee (0.7%), Acidity regulator (340), Nature-Identical flavoring substances and Stabilizer (407). Contains Milk.",
+  "per_100g": {
+    "energy_kcal": 88,
+    "fat": 3.1,
+    "saturated_fat": 2.4,
+    "carbohydrates": 12.1,
+    "sugars": 8.5,
+    "fiber": 0,
+    "protein": 3,
+    "salt": 0.08225,
+    "sodium": 0.0329
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-16T17:34:32Z",
+  "fetched_at": "2026-08-19T00:13:40Z"
+}

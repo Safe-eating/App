@@ -1,0 +1,24 @@
+{
+  "barcode": "8908020463749",
+  "name": "Potato Chips",
+  "brand": "Crax Zero",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 550,
+    "fat": 36,
+    "saturated_fat": 7.2,
+    "carbohydrates": 50,
+    "sugars": 2,
+    "fiber": null,
+    "protein": 6.5,
+    "salt": 1.0025,
+    "sodium": 0.401
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-23T09:07:01Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

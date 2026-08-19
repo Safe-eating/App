@@ -1,0 +1,24 @@
+{
+  "barcode": "8906065160883",
+  "name": "ITC Large Prawns",
+  "brand": "ITc",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 96,
+    "fat": 2.4,
+    "saturated_fat": 0.5,
+    "carbohydrates": 1.5,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 17.1,
+    "salt": 2.31475,
+    "sodium": 0.9259
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-17T14:36:27Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

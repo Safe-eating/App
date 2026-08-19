@@ -1,0 +1,24 @@
+{
+  "barcode": "8908026791501",
+  "name": "Potato Chips",
+  "brand": "Troovy",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 424,
+    "fat": 10,
+    "saturated_fat": 3,
+    "carbohydrates": 72,
+    "sugars": 2.2,
+    "fiber": null,
+    "protein": 12.4,
+    "salt": 1.475,
+    "sodium": 0.59
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-07T11:22:21Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

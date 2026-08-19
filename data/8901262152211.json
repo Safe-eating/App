@@ -1,0 +1,34 @@
+{
+  "barcode": "8901262152211",
+  "name": "Amul Kool Kesar Flavour 180ml",
+  "brand": "Amul",
+  "quantity": "180ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:dairies",
+    "en:fruit-based-foods-and-beverages",
+    "en:plant-based-beverages",
+    "en:dairy-drinks",
+    "en:fruit-based-beverages",
+    "en:fruit-and-milk-beverages"
+  ],
+  "ingredients": "Milk solids, sugar, artificial flavouring substances (cream flavour, saffron flavour, almond flavour), E102, E110",
+  "per_100g": {
+    "energy_kcal": 139,
+    "fat": 2.7,
+    "saturated_fat": 1.6,
+    "carbohydrates": 23,
+    "sugars": 23,
+    "fiber": 0,
+    "protein": 5.7,
+    "salt": 0.1875,
+    "sodium": 0.075
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-11-08T06:41:55Z",
+  "fetched_at": "2026-08-19T00:44:03Z"
+}

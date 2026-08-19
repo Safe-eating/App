@@ -1,0 +1,30 @@
+{
+  "barcode": "8901719124853",
+  "name": "PARLE HIDE AND SEEK",
+  "brand": "PARLE",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 522,
+    "fat": 26.7,
+    "saturated_fat": 15.9,
+    "carbohydrates": 65.1,
+    "sugars": 31.6,
+    "fiber": null,
+    "protein": 5.2,
+    "salt": 0.4825,
+    "sodium": 0.193
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-17T07:35:19Z",
+  "fetched_at": "2026-08-19T01:00:49Z"
+}

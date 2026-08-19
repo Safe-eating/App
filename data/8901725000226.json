@@ -1,0 +1,30 @@
+{
+  "barcode": "8901725000226",
+  "name": "",
+  "brand": "",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:crisps"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 553,
+    "fat": 36.8,
+    "saturated_fat": 16.6,
+    "carbohydrates": 45.4,
+    "sugars": 4.7,
+    "fiber": 0,
+    "protein": 9,
+    "salt": 1.246,
+    "sodium": 0.4984
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-05-31T01:57:06Z",
+  "fetched_at": "2026-08-19T01:02:53Z"
+}

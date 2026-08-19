@@ -1,0 +1,32 @@
+{
+  "barcode": "8901058008999",
+  "name": "2-Minutes Noodles",
+  "brand": "Nescafé",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:dried-products",
+    "en:pastas",
+    "en:dried-products-to-be-rehydrated",
+    "en:noodles",
+    "en:instant-noodles"
+  ],
+  "ingredients": "INGREDIENTS Noodies: Refined wheat flour (Maida, Palm oll, lodized sal, Wheat gluten, Thickeners (508 \u0026412), Acidity regulators (501(i) \u0026 500(i)) and Humectant (451(i))",
+  "per_100g": {
+    "energy_kcal": 384,
+    "fat": 12.5,
+    "saturated_fat": 8.2,
+    "carbohydrates": 59.6,
+    "sugars": 1.8,
+    "fiber": 2.85714285714286,
+    "protein": 8.2,
+    "salt": 2.57075,
+    "sodium": 1.0283
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-27T02:33:39Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

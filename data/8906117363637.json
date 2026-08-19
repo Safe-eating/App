@@ -1,0 +1,29 @@
+{
+  "barcode": "8906117363637",
+  "name": "Makhana Chatpati Imli",
+  "brand": "Country Delight",
+  "quantity": "20 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:fox-nuts"
+  ],
+  "ingredients": "Makhana (Fox Nut) 62%, Edible vegetable oil (Olive Oil) 22%, Spices and Condiments 9% (Red Chili Powder, Clove, Cumin, Black Peper Ginger), Black Salt, Rock Salt, Tamarind Powder, Sugar, Dry Mango Powder, Lemon Juice Powder, Asafoetida Powder, Natural and Nature identical flavours.",
+  "per_100g": {
+    "energy_kcal": 506.5,
+    "fat": 20,
+    "saturated_fat": 3,
+    "carbohydrates": 67.5,
+    "sugars": 3.5,
+    "fiber": 13.5,
+    "protein": 7.5,
+    "salt": 2.19625,
+    "sodium": 0.8785
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-07-18T12:44:48Z",
+  "fetched_at": "2026-08-19T12:54:05Z"
+}

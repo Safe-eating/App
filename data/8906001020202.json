@@ -1,0 +1,30 @@
+{
+  "barcode": "8906001020202",
+  "name": "Go Cheese Slices",
+  "brand": "Gowardhan",
+  "quantity": "100 g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:Cheese Slices"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 285,
+    "fat": 24,
+    "saturated_fat": 15,
+    "carbohydrates": 2,
+    "sugars": 0,
+    "fiber": null,
+    "protein": 14,
+    "salt": 2.5,
+    "sodium": 1
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-27T15:10:19Z",
+  "fetched_at": "2026-08-19T01:48:14Z"
+}

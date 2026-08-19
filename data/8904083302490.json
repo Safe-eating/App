@@ -1,0 +1,24 @@
+{
+  "barcode": "8904083302490",
+  "name": "Skyr",
+  "brand": "Milky Mist",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 96.3,
+    "fat": 1.5,
+    "saturated_fat": 0.5,
+    "carbohydrates": 9.5,
+    "sugars": 9.5,
+    "fiber": null,
+    "protein": 11.2,
+    "salt": 0.36,
+    "sodium": 0.144
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-21T23:44:00Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

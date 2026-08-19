@@ -1,0 +1,26 @@
+{
+  "barcode": "8901058905113",
+  "name": "Kit kat",
+  "brand": "NESTLE",
+  "quantity": "57 g (2 UNITS x 28.5 g)",
+  "categories": [
+    "en:chocolate-snacks"
+  ],
+  "ingredients": "Sugar, Milk solids (16.2%), Fractionated vegetable fat, Hydrogenated vegetable fats, Refined Wheat flour (Maida), Cocoa solids (4.5%), Emulsifier (Soya lecithin), Yeast, Raising agent (500ii), Artificial (Vanilla) flavouring substance, Iodised salt, Flour treatment agent (516) and Nature-identical flavouring substance.",
+  "per_100g": {
+    "energy_kcal": 448,
+    "fat": 24.8,
+    "saturated_fat": 24.5,
+    "carbohydrates": 47.4,
+    "sugars": 35.1,
+    "fiber": 0,
+    "protein": 6.4,
+    "salt": 0.23375,
+    "sodium": 97.4
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-23T08:09:55Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

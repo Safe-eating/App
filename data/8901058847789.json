@@ -1,0 +1,28 @@
+{
+  "barcode": "8901058847789",
+  "name": "Nestle Resource High Protein",
+  "brand": "Nestlé",
+  "quantity": "1Kg",
+  "categories": [
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-powders"
+  ],
+  "ingredients": "Whey Protein Concentrate(45%), Skimmed Milk Powder,(40%), Maltodextrin, Inulin",
+  "per_100g": {
+    "energy_kcal": 372,
+    "fat": 2.8,
+    "saturated_fat": 0,
+    "carbohydrates": 41.7,
+    "sugars": 0.1,
+    "fiber": 5,
+    "protein": 45,
+    "salt": 0.525,
+    "sodium": 0.21
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-02-11T13:09:12Z",
+  "fetched_at": "2026-08-19T00:26:38Z"
+}

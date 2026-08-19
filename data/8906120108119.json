@@ -1,0 +1,32 @@
+{
+  "barcode": "8906120108119",
+  "name": "Makhana Cream and Onion",
+  "brand": "farmley",
+  "quantity": "20g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:seeds",
+    "en:fox-nuts",
+    "en:lotus-seeds",
+    "en:roasted makhana"
+  ],
+  "ingredients": "Fox Nut (Makhana), Palmolein Oil, Spices and Condiments (Yellow Chilli, Onion (2%), Parsley), Salt, Sugar, Acidity Regulator (INS 296), Flavour Enhancer (INS 635). CONTAINS ADDED FLAVOURS - NATURAL AND NATURE IDENTICAL (CREAM \u0026 ONION), FLAVOURING SUBSTANCES.",
+  "per_100g": {
+    "energy_kcal": 543.98,
+    "fat": 22.3,
+    "saturated_fat": 11.8,
+    "carbohydrates": 51.98,
+    "sugars": 6.42,
+    "fiber": 11.89,
+    "protein": 7.92,
+    "salt": 0.6,
+    "sodium": 0.24
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-06-27T19:09:47Z",
+  "fetched_at": "2026-08-19T12:55:03Z"
+}

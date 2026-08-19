@@ -1,0 +1,30 @@
+{
+  "barcode": "8908018729086",
+  "name": "Milk Bread",
+  "brand": "Suchali's",
+  "quantity": "470g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Refined White Flour (Maida), Double Toned Milk (27%), Unsalted Butter, Sugar, Water, Wheat Gluten, Fresh Yeast, Salt, Fermented Wheat Flour",
+  "per_100g": {
+    "energy_kcal": 292.1,
+    "fat": 9.1,
+    "saturated_fat": 5.4,
+    "carbohydrates": 44.4,
+    "sugars": 6.7,
+    "fiber": 5.33,
+    "protein": 7.6,
+    "salt": 0.91725,
+    "sodium": 0.3669
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-08-05T05:12:33Z",
+  "fetched_at": "2026-08-19T13:18:56Z"
+}

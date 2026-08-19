@@ -1,0 +1,28 @@
+{
+  "barcode": "3599741005421",
+  "name": "Frites croustillant bistro express",
+  "brand": "Findus",
+  "quantity": "130g",
+  "categories": [
+    "en:frozen-foods",
+    "en:frozen-fried-potatoes",
+    "en:frozen-microwave-fries"
+  ],
+  "ingredients": "Pommes de terre 92%, huile de colza, dextrose",
+  "per_100g": {
+    "energy_kcal": 204,
+    "fat": 7.8,
+    "saturated_fat": 0.8,
+    "carbohydrates": 29,
+    "sugars": 0.5,
+    "fiber": 2.4,
+    "protein": 3.2,
+    "salt": 0.047948,
+    "sodium": 0.019029
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-14T02:51:16Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

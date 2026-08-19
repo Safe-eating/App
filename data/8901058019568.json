@@ -1,0 +1,27 @@
+{
+  "barcode": "8901058019568",
+  "name": "Maggi Pazzta",
+  "brand": "Maggi",
+  "quantity": "68.5g",
+  "categories": [
+    "en:meals",
+    "en:pasta-dishes"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 327,
+    "fat": 1.9,
+    "saturated_fat": 1.5,
+    "carbohydrates": 69.8,
+    "sugars": 6.8,
+    "fiber": null,
+    "protein": 7.7,
+    "salt": 1.78225,
+    "sodium": 0.7129
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-02-18T04:58:01Z",
+  "fetched_at": "2026-08-19T00:26:02Z"
+}

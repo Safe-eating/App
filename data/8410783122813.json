@@ -1,0 +1,30 @@
+{
+  "barcode": "8410783122813",
+  "name": "Chorizo Barbecue",
+  "brand": "Noel",
+  "quantity": "300 g",
+  "categories": [
+    "en:meats-and-their-products",
+    "en:meats",
+    "en:prepared-meats",
+    "en:cured-sausages",
+    "en:chorizo"
+  ],
+  "ingredients": "Viande et graisse de porc, eau, paprika, sel, maltodextrine, dextrose, ail, antioxydant (E316), noix de muscade, conservateurs (E250, E252), origan.",
+  "per_100g": {
+    "energy_kcal": 478,
+    "fat": 43,
+    "saturated_fat": 16,
+    "carbohydrates": 2.7,
+    "sugars": 1.4,
+    "fiber": 0,
+    "protein": 20,
+    "salt": 2.8,
+    "sodium": 1.12
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-20T08:12:24Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

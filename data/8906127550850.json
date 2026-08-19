@@ -1,0 +1,36 @@
+{
+  "barcode": "8906127550850",
+  "name": "High protein super oats chocolate",
+  "brand": "Alpino",
+  "quantity": "1 kg",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:flakes",
+    "en:mueslis",
+    "en:cereal-flakes",
+    "en:rolled-flakes",
+    "en:rolled-oats"
+  ],
+  "ingredients": "Rolled Oats (61%), Unsweetened Peanut Butter (26%), Alpino Supernatural (TM) Peanut Protein, Cocoa Powder, Nuts \u0026 Seed Mix (Chia Seeds, Almonds, Raisins, Sunflower Seeds), Monk Fruit Extract",
+  "per_100g": {
+    "energy_kcal": 457.77,
+    "fat": 18.6,
+    "saturated_fat": 3.1,
+    "carbohydrates": 51.34,
+    "sugars": 5,
+    "fiber": 11.6,
+    "protein": 22,
+    "salt": 0.0331,
+    "sodium": 0.01324
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-23T15:58:45Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

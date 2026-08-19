@@ -1,0 +1,30 @@
+{
+  "barcode": "7622201442071",
+  "name": "Chocobakes Choc layered Cakes",
+  "brand": "Cadbury",
+  "quantity": "21 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:cakes",
+    "en:chocolate-cakes"
+  ],
+  "ingredients": "Cake (45%*) - (Refined Wheat Flour (Maida), Sugar, Humectants (420 (ii), 422, 1520), Palmolein, Liquid Glucose, Milk Solids, Cocoa Solids, Starch, Emulsifiers (322, 475, 471, 491), Raising Agent (500(i),450(1), 341()), lodised Salt, Flavours (Natural Flavour, Nature Identical Flavouring Substances), Preservative (202), Stabilizer (415)); Chocolayer (29%*)-(Sugar, Hydrogenated Vegetable Oils, Lactose-Rich Deproteinized Whey Permeate Powder, Cocoa Solids, Emulsifiers (442, 476)), Flavours (Nature Identical, Artificial (Vanilla and Caramel) Flavouring Substances); Filling (26%*) - (Sugar, Fractionated Fat, Liquid Glucose, Humectant (422, 1520), Water, Emulsifiers (322, 475, 471, 491), Cocoa Solids, Flavours (Natural flavour, Nature Identical Flavouring Substances), lodised Salt, Preservative (202)).",
+  "per_100g": {
+    "energy_kcal": 465,
+    "fat": 21.9,
+    "saturated_fat": 14.1,
+    "carbohydrates": 63.7,
+    "sugars": 41.1,
+    "fiber": null,
+    "protein": 3.9,
+    "salt": 0.56,
+    "sodium": 0.224
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2022-07-01T14:06:23Z",
+  "fetched_at": "2026-08-19T00:07:39Z"
+}

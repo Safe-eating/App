@@ -1,0 +1,32 @@
+{
+  "barcode": "7622202218262",
+  "name": "5star pack of 6",
+  "brand": "Cadbury",
+  "quantity": "108 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:candy-chocolate-bars"
+  ],
+  "ingredients": "Sugar, Liquid Glucose, Milk Solids, Invert Sugar, Hydrogenated Oil, Cocoa Butter, Cocoa Solids, Fractionated Fat, Emulsifiers (442,471,476), Hydrolyzed Vegetable Protein, lodised Salt, Flavours (Natural, Nature Identical and Artificial (Caramel and Vanilla) Flavouring Substances). Allergen Information: Contains Milk, Soy, Sulphites. May Contain Peanut, Wheat, Barley and Tree Nut.",
+  "per_100g": {
+    "energy_kcal": 444,
+    "fat": 15.9,
+    "saturated_fat": 10.1,
+    "carbohydrates": 72.9,
+    "sugars": 55.5,
+    "fiber": null,
+    "protein": 3.3,
+    "salt": 0.425,
+    "sodium": 0.17
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-27T14:10:38Z",
+  "fetched_at": "2026-08-19T00:10:00Z"
+}

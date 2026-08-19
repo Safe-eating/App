@@ -1,0 +1,36 @@
+{
+  "barcode": "8906008811902",
+  "name": "Pro Immunity Multi-source Edible Oil",
+  "brand": "Fortune",
+  "quantity": "1l",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:fats",
+    "en:cereals-and-their-products",
+    "en:vegetable-fats",
+    "en:vegetable-oils",
+    "en:sunflower-seeds-and-their-products",
+    "en:cereal-oils",
+    "en:sunflower-oils",
+    "en:rice-bran-oils"
+  ],
+  "ingredients": "Physically Refined Rice Bran Oil (80%), Refined Sunflower Oil (20%), Permitted Antioxidants TBHQ (E-319) \u0026 Citric Acid (E-330), Permitted antifoaming agent DMPS (E-900a), Vitamins A \u0026 D",
+  "per_100g": {
+    "energy_kcal": 900,
+    "fat": 100,
+    "saturated_fat": 28,
+    "carbohydrates": 0,
+    "sugars": 0,
+    "fiber": 0,
+    "protein": 0,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2024-06-14T12:29:59Z",
+  "fetched_at": "2026-08-19T01:55:58Z"
+}

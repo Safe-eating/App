@@ -1,0 +1,36 @@
+{
+  "barcode": "8901063014299",
+  "name": "vita meri",
+  "brand": "Britannia",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:cereals-and-their-products",
+    "en:biscuits",
+    "en:breakfast-cereals"
+  ],
+  "ingredients": "REFINED PALM OIL MILK",
+  "per_100g": {
+    "energy_kcal": 449,
+    "fat": 11.4,
+    "saturated_fat": 5.5,
+    "carbohydrates": 79.3,
+    "sugars": 23.6,
+    "fiber": null,
+    "protein": 7.3,
+    "salt": 0.6375,
+    "sodium": 0.255
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-26T12:32:13Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

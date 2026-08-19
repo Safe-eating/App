@@ -1,0 +1,34 @@
+{
+  "barcode": "8901491361026",
+  "name": "Masala Munch",
+  "brand": "Kurkure,PepsiCo",
+  "quantity": "44g",
+  "categories": [
+    "en:snacks",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:biscuits-and-crackers",
+    "en:chips-and-fries",
+    "en:crisps",
+    "en:crackers-appetizers",
+    "en:puffed-salty-snacks",
+    "en:masala-munch-with-gingelly-oil"
+  ],
+  "ingredients": "Cereal Products(61%)(Rice Meal(42%),Corn Meal(19%),Edible vegetable oil(palmolein,sesame oil),*Seasoning(~spices and condiments,iodised salt,maltodextrin,sugar,black salt,acidity regulators(330,296,334),tomato powder,hydrolysed soy protein,flavour(natiral and nature identitical flavouring substances),Dxtrose,emulsfier(414),milk solids,edibile starch,flavour enhancers(627\u0026631)),Gram meal(3%) *as flavouring agent . ~contains onion and garlic",
+  "per_100g": {
+    "energy_kcal": 558,
+    "fat": 34.7,
+    "saturated_fat": 15.6,
+    "carbohydrates": 55.2,
+    "sugars": 1,
+    "fiber": 0,
+    "protein": 6.4,
+    "salt": 2.23,
+    "sodium": 0.892
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-22T05:43:07Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8906005500335",
+  "name": "Aloo Bhujia Tana-Tan",
+  "brand": "Bikaji",
+  "quantity": "40g",
+  "categories": [
+    "en:Spicy potato noodle snack"
+  ],
+  "ingredients": "Edible Vegetable Oil (Palmolein Oil, Cottonseed Oil), Dehydrated Potato Flakes (20%), Gram Flour, Dew Bean Flour (Moth Flour), Potato Starch (4%), Tapioca Starch, Ground Spices \u0026 Condiments (Iodised Salt, Dry Mango, Red Chilli, Ginger, Black Pepper, Cardamom, Cumin, Clove, Turmeric (Colouring \u0026 Spices), Dehydrated Vegetable Powder (Tomato, Onion, Garlic), Black Salt, Mace, Nutmeg, Cinnamon, Extracts \u0026 Oils (Peppermint, Spearmint, Lemon, Red Chilli, Onion, Cumin), Acidity Regulator (INS 296)), Anticaking Agent (INS 551) CONTAINS: ADDED FLAVOURS (NATURAL AND NATURAL IDENTICAL FLAVOURING SUBSTANCES)",
+  "per_100g": {
+    "energy_kcal": 579,
+    "fat": 40,
+    "saturated_fat": 18,
+    "carbohydrates": 43,
+    "sugars": 3,
+    "fiber": 5,
+    "protein": 10,
+    "salt": 2.6825,
+    "sodium": 1.073
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-10-11T11:49:05Z",
+  "fetched_at": "2026-08-19T01:51:13Z"
+}

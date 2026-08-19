@@ -1,0 +1,28 @@
+{
+  "barcode": "8904004420227",
+  "name": "Haldiram's Mathura Peda",
+  "brand": "Haldiram's",
+  "quantity": "250g",
+  "categories": [
+    "en:dairies",
+    "en:desserts",
+    "en:dairy-desserts"
+  ],
+  "ingredients": "Milk Solids (Khoa), Refined Sugar \u0026 Preservative (INS 202)",
+  "per_100g": {
+    "energy_kcal": 397,
+    "fat": 15.55,
+    "saturated_fat": 7.66,
+    "carbohydrates": 51.31,
+    "sugars": 46.45,
+    "fiber": 0.83,
+    "protein": 12.43,
+    "salt": 0.000125275,
+    "sodium": 0.00005011
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-09T18:11:29Z",
+  "fetched_at": "2026-08-19T01:25:51Z"
+}

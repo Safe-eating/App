@@ -1,0 +1,29 @@
+{
+  "barcode": "8901725010805",
+  "name": "Super Millets Ragi And Jowar Cookies",
+  "brand": "Sunfeast",
+  "quantity": "75 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits"
+  ],
+  "ingredients": "JOWAR FLOUR (38.2%), SUGAR, HYDROGENATED VEGETABLE OIL, REFINED PALM OIL, RAGI FLOUR (5.0%), CASHEW BITS, MILK SOLIDS, OLIGOFRUCTOSE, INVERT SYRUP, RAISING AGENTS [INS 500(ii), INS 503(ii)], IODIZED SALT, EMULSIFIERS [LECITHIN (FROM SOYABEAN), MONO AND DI-GLYCERIDES OF FATTY ACIDS (FROM PALM OIL), DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL (FROM REFINED PALM OIL AND SUNFLOWER OIL)], NATURE IDENTICAL FLAVOURING SUBSTANCES, BUTTER, STABILIZER (INS 415), MALTODEXTRIN AND MINERAL. CONTAINS SOY, MILK, NUT. MAY CONTAIN WHEAT, SULPHITE.",
+  "per_100g": {
+    "energy_kcal": 496,
+    "fat": 27.9,
+    "saturated_fat": 15.1,
+    "carbohydrates": 56.7,
+    "sugars": 21,
+    "fiber": 3.2,
+    "protein": 6.2,
+    "salt": 1.17525,
+    "sodium": 0.4701
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-26T14:56:26Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

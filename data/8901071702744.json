@@ -1,0 +1,30 @@
+{
+  "barcode": "8901071702744",
+  "name": "Hershey's Hot Chocolate",
+  "brand": "Hershey's",
+  "quantity": "240g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:cocoa-and-its-products",
+    "en:beverage-preparations",
+    "en:cocoa-and-chocolate-powders",
+    "en:instant-beverages"
+  ],
+  "ingredients": "Sugar, Cocoa Solids (29.6%), Vitamins \u0026 Minerals [Vitamin C (Ascorbic acid), Iron (Ferric Pyrophosphate), Zinc (Zinc sulphate), Vitamin E (Acetate), Vitamin B6 (Pyridoxine), Vitamin B1 (Thiamine Chloride hydrochloride), Vitamin B2 (Riboflavin), Vitamin A (Acetate), Vitamin B9 (Folic Acid), Vitamin D2 (Ergocalcif - erol), Vitamin B12 (Cyanocobalamin)] \u0026 Flavour (Artificial Flavouring Substance - Vanilla) Mid Du Mokoon Phormocouticals (1) But Itd (Food division)",
+  "per_100g": {
+    "energy_kcal": 399,
+    "fat": 3,
+    "saturated_fat": 1.7,
+    "carbohydrates": 87,
+    "sugars": 70,
+    "fiber": 10,
+    "protein": 5.9,
+    "salt": 0.01,
+    "sodium": 0.004
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-05T10:53:22Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

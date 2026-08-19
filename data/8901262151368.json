@@ -1,0 +1,29 @@
+{
+  "barcode": "8901262151368",
+  "name": "Moti",
+  "brand": "Amul",
+  "quantity": "",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks",
+    "en:cow-milks"
+  ],
+  "ingredients": "Milk",
+  "per_100g": {
+    "energy_kcal": 58,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 4.8,
+    "sugars": 4.8,
+    "fiber": null,
+    "protein": 3,
+    "salt": 0.0925,
+    "sodium": 0.037
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-20T18:15:47Z",
+  "fetched_at": "2026-08-19T00:43:36Z"
+}

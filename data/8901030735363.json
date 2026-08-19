@@ -1,0 +1,31 @@
+{
+  "barcode": "8901030735363",
+  "name": "Oreo and cream",
+  "brand": "Kwality Wall's",
+  "quantity": "380 g",
+  "categories": [
+    "en:desserts",
+    "en:frozen-foods",
+    "en:frozen-desserts",
+    "en:ice-creams-and-sorbets",
+    "en:ice-creams",
+    "en:ice-cream-tubs"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 237.735849056604,
+    "fat": 11.8867924528302,
+    "saturated_fat": 6.60377358490566,
+    "carbohydrates": 28.8679245283019,
+    "sugars": 23.7735849056604,
+    "fiber": 0.566037735849057,
+    "protein": 3.77358490566038,
+    "salt": 0.221698113207547,
+    "sodium": 0.0886792452830189
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-03-20T16:37:55Z",
+  "fetched_at": "2026-08-19T00:14:58Z"
+}

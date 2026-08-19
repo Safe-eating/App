@@ -1,0 +1,32 @@
+{
+  "barcode": "8906009809694",
+  "name": "Waffy",
+  "brand": "Duke's",
+  "quantity": "100 g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers",
+    "en:stuffed-wafers"
+  ],
+  "ingredients": "SUGAR, REFINED WHEAT FLOUR (MAIDA), MALTODEXTRIN, REFINED PALM OIL, HYDROGENATED VEGETABLE OIL, EMULSIFIER [INS 322 (i)], REFINED PALM KERNEL OIL, ARTIFICIAL FLAVOURING SUBSTANCES (PINEAPPLE), COLOUR (INS 102, INS 133), IODIZED SALT, RAISING AGENT [INS 500(ii)], PINEAPPLE FRUIT POWDER (0.01%), FLOUR TREATMENT AGENTS (INS 223, INS 1100, INS 1101) AND ACIDITY REGULATOR (INS 296). ALLERGEN: Contains Wheat, Soy \u0026 Sulphites. May Contain Milk \u0026 Nuts.",
+  "per_100g": {
+    "energy_kcal": 513.3,
+    "fat": 24.4,
+    "saturated_fat": 12.5,
+    "carbohydrates": 70,
+    "sugars": 37.1,
+    "fiber": null,
+    "protein": 3.4,
+    "salt": 0.1965,
+    "sodium": 0.0786
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-01-03T14:22:41Z",
+  "fetched_at": "2026-08-19T01:59:04Z"
+}

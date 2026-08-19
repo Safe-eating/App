@@ -1,0 +1,26 @@
+{
+  "barcode": "8906013811591",
+  "name": "5 Grain Mix 100% Roasted Pudina Punch",
+  "brand": "Roasty Tasty",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 410,
+    "fat": 16.6666666666667,
+    "saturated_fat": 3.33333333333333,
+    "carbohydrates": 63.3333333333333,
+    "sugars": 3.33333333333333,
+    "fiber": 16.6666666666667,
+    "protein": 13.3333333333333,
+    "salt": 3.04166666666667,
+    "sodium": 1.21666666666667
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-28T11:26:01Z",
+  "fetched_at": "2026-08-19T02:03:21Z"
+}

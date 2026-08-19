@@ -1,0 +1,32 @@
+{
+  "barcode": "8906009532363",
+  "name": "max protein bar",
+  "brand": "Ritebite",
+  "quantity": "",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:protein-bars",
+    "en:choco-berry-bar"
+  ],
+  "ingredients": "Protein Blend (30%) (Soy Nuggets, Whey Protein Concentrate, Calcium Caseinate, Soy Concentrate), Dietary Fiber (17%) (Fructooligosacharide), Dark Compound No Added Sugar (19%) (Maltitol, Edible Vegetable Fat (Hydrogenated). Cocoa Solids, Milk Solids, Emulsifier (Soy Lecithin)), Maltitol, Cranberries (7%), Brown Rice Crispy, Rice Bran Oil. Strawberry Preserve (6%) (No Added Sugar), Whole Grain Rolled Oats (5.5%), Yogurt Powder Humectant (Glycerine), Flaxseeds, Emulsifier (Soy Lecithin), Soy Protein Isolate, Binding Agent (Guar Gum), Salt and Citric Acid. Antioxidants (Vitamin C), Added Vitamins and Minerals.",
+  "per_100g": {
+    "energy_kcal": 346,
+    "fat": 11.6,
+    "saturated_fat": 2.4,
+    "carbohydrates": 55.6,
+    "sugars": 18.2,
+    "fiber": 10,
+    "protein": 20,
+    "salt": 0.69,
+    "sodium": 0.276
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-02T16:52:52Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

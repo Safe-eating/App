@@ -1,0 +1,32 @@
+{
+  "barcode": "8904075602256",
+  "name": "Bharat Masala Soyabadi",
+  "brand": "Bharat Masala",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:legumes",
+    "en:seeds",
+    "en:legume-seeds",
+    "en:soy-beans"
+  ],
+  "ingredients": "Soya Flour",
+  "per_100g": {
+    "energy_kcal": 324.76,
+    "fat": 0.48,
+    "saturated_fat": 0.21,
+    "carbohydrates": 37.59,
+    "sugars": 1.56,
+    "fiber": 12.9,
+    "protein": 48.97,
+    "salt": 0.00273,
+    "sodium": 0.001092
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-18T14:27:59Z",
+  "fetched_at": "2026-08-19T01:32:35Z"
+}

@@ -1,0 +1,30 @@
+{
+  "barcode": "8904494110066",
+  "name": "Whole Wheat  Bread",
+  "brand": "Naturbaked",
+  "quantity": "300g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "WHEAT FLOUR (ATTA 86%), YEAST, SUGAR, WHEAT GLUTEN, an 1ODIZED SALT, EDIBLE VEGETABLE OIL (RICE BRAN), FERMENTED WHEAT FLOUR, MALT POWDER, MAIZE STARCH, PROCESSING AIDS.",
+  "per_100g": {
+    "energy_kcal": 266.35,
+    "fat": 0.11,
+    "saturated_fat": 0.08,
+    "carbohydrates": 56.75,
+    "sugars": 8.7,
+    "fiber": 3.8,
+    "protein": 7.69,
+    "salt": 1.0816,
+    "sodium": 0.43264
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-11T15:49:43Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

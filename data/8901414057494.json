@@ -1,0 +1,24 @@
+{
+  "barcode": "8901414057494",
+  "name": "Crunchy Munchy Sweet Chilli",
+  "brand": "Bikano",
+  "quantity": "",
+  "categories": null,
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 553,
+    "fat": 35.4,
+    "saturated_fat": 17.1,
+    "carbohydrates": 52.6,
+    "sugars": 5.3,
+    "fiber": 0,
+    "protein": 6,
+    "salt": 1.925,
+    "sodium": 0.77
+  },
+  "nutriscore_grade": "unknown",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-13T13:20:06Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

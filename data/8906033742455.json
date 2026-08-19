@@ -1,0 +1,30 @@
+{
+  "barcode": "8906033742455",
+  "name": "Digestive",
+  "brand": "McVitie's",
+  "quantity": "75g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "Refined Wheat Flour (Maida) (40.6%), Wheat Flour (Atta) (18.3%), Edible Vegetable Oil(Palm), Polyols [INS 965(ii). INS 965(i)], Oligofructose(6.5%), Raising Agents [INS 500(ii), INS 503(ii), INS 450(i)], Calcium Carbonate, lodised Salt. Oat Meal. Emulsifier(INS 471), Acidity Regulator (INS 296), Nature Identical Flavouring Substances, Sweetener (INS 955). Contains Cereals containing gluten (Wheat. Oats). May contain Milk, Nuts, Soy and Sulphite.",
+  "per_100g": {
+    "energy_kcal": 453,
+    "fat": 20.7,
+    "saturated_fat": 10.6,
+    "carbohydrates": 65.9,
+    "sugars": 1,
+    "fiber": 10,
+    "protein": 8.2,
+    "salt": 1.875,
+    "sodium": 0.75
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-11T09:45:00Z",
+  "fetched_at": "2026-08-19T12:34:19Z"
+}

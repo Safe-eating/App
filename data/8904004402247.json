@@ -1,0 +1,37 @@
+{
+  "barcode": "8904004402247",
+  "name": "Farali Chiwda",
+  "brand": "Haldiram's",
+  "quantity": "200g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:cereals-and-potatoes",
+    "en:salty-snacks",
+    "en:appetizers",
+    "en:chips-and-fries",
+    "en:potatoes-and-their-products",
+    "en:crisps",
+    "en:salty-snacks-made-from-potato",
+    "en:potato-crisps",
+    "en:potato-crisps-in-sunflower-oil"
+  ],
+  "ingredients": "Potato, Refined Palmolein Oil, Refined Sugar, Rock Salt, Red Chilli, Black Pepper, Poppy Seed, Dried Ginger Powder, Clove Powder, Cumin, Nutmeg, Cardamom \u0026 Cinnamon. Allergen: Contains Peanuts Almond, Cashew, Milk \u0026 Sesame Seed",
+  "per_100g": {
+    "energy_kcal": 587,
+    "fat": 42,
+    "saturated_fat": 8.61,
+    "carbohydrates": 37.8,
+    "sugars": 10,
+    "fiber": 4.46,
+    "protein": 14.12,
+    "salt": 0.55,
+    "sodium": 0.22
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-05T17:01:56Z",
+  "fetched_at": "2026-08-19T01:24:45Z"
+}

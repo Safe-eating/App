@@ -5,21 +5,12 @@ import { Food } from '../types';
 import { colors, processingLabel, radius, space, verdictStyle } from '../theme';
 import { additivesOf, categoryById, safetyOf } from '../lib/db';
 import { TopBar } from '../components/TopBar';
-import { CartButton } from '../components/CartButton';
 import { ScoreBar, ScoreDial, VerdictPill } from '../components/SafetyBadge';
 import { AdditiveRow } from '../components/AdditiveRow';
 import { QuantityCalculator } from '../components/QuantityCalculator';
 import { Bullet, Card, Chip, Section } from '../components/ui';
 
-export function FoodScreen({
-  food,
-  onOpenCart,
-  onBack,
-}: {
-  food: Food;
-  onOpenCart: () => void;
-  onBack: () => void;
-}) {
+export function FoodScreen({ food, onBack }: { food: Food; onBack: () => void }) {
   const insets = useSafeAreaInsets();
   const safety = safetyOf(food);
   const v = verdictStyle[safety.verdict];
@@ -31,11 +22,7 @@ export function FoodScreen({
 
   return (
     <View style={styles.root}>
-      <TopBar
-        title={category?.name ?? 'Food'}
-        onBack={onBack}
-        right={<CartButton onPress={onOpenCart} />}
-      />
+      <TopBar title={category?.name ?? 'Food'} onBack={onBack} />
       <ScrollView
         contentContainerStyle={[styles.scroll, { paddingBottom: insets.bottom + space(12) }]}
         showsVerticalScrollIndicator={false}
@@ -126,7 +113,7 @@ export function FoodScreen({
           title="How much is safe"
           subtitle="Type any amount to see exactly what you would take in — sugar, fat, carbs, sodium and the rest — and whether that much is harmful."
         >
-          <QuantityCalculator food={food} verdict={safety.verdict} onViewCart={onOpenCart} />
+          <QuantityCalculator food={food} verdict={safety.verdict} />
         </Section>
 
         {/* ---- nutrition ---- */}

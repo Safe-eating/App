@@ -1,0 +1,31 @@
+{
+  "barcode": "8902042302123",
+  "name": "Tea Premix",
+  "brand": "AVT",
+  "quantity": "216g",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:hot-beverages",
+    "en:plant-based-beverages",
+    "en:teas"
+  ],
+  "ingredients": "Dairy whitener [Milk Solids, Sugar, Stabilisers INS 339 (1) 339 (ii)]. Sugar \u0026 Instant Tea.",
+  "per_100g": {
+    "energy_kcal": 405,
+    "fat": 2.96,
+    "saturated_fat": 2.89,
+    "carbohydrates": 87,
+    "sugars": 61.2,
+    "fiber": null,
+    "protein": 7.03,
+    "salt": 0.3675,
+    "sodium": 0.147
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-02-07T05:20:57Z",
+  "fetched_at": "2026-08-19T01:11:34Z"
+}

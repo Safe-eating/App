@@ -1,0 +1,30 @@
+{
+  "barcode": "8906001381143",
+  "name": "Whole Wheat Bread",
+  "brand": "English Oven",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "Whole Wheat Flour (Atta-87%)*, Sugar, Wheat Gluten, Yeast, Iodised Salt, Edible Vegetable Oil (Rice Bran), Wheat Bran, Class II Preservative (282), Malt Powder, Emulsifiers [471, 472e 481 (1)], Improvers (170(i), 510, 923, 1100] and Antioxidant (300).",
+  "per_100g": {
+    "energy_kcal": 281,
+    "fat": 2.03,
+    "saturated_fat": 0.47,
+    "carbohydrates": 50.15,
+    "sugars": 5.61,
+    "fiber": 9.97,
+    "protein": 10.59,
+    "salt": 1.185,
+    "sodium": 0.474
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-14T05:18:21Z",
+  "fetched_at": "2026-08-19T01:48:43Z"
+}

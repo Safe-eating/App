@@ -1,0 +1,30 @@
+{
+  "barcode": "8901725007652",
+  "name": "Mom's Magic",
+  "brand": "Sunfeast",
+  "quantity": "73",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits"
+  ],
+  "ingredients": "REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, SUGAR, INVERT SYRUP, BUTTER (1%), MILK SOLIDS, RAISING AGENTS [INS 503(ii), INS 500(ii), INS 450(i)), IODIZED SALT, EMULSIFIERS [LECITHIN (FROM SOYABEAN), MONO - AND DI-GLYCERIDES OF FATTY ACIDS (FROM PALM OIL), DIACETYL TARTARIC ACID ESTER OF MONO - AND DIGLYCERIDES (FROM SUNFLOWER \u0026 PALM OIL)], NATURE IDENTICAL FLAVOURING SUBSTANCES (BUTTER), COLOUR (INS 150a) AND ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA). CONTAINS WHEAT, MILK, SOY. MAY CONTAIN NUT, SULPHITE.",
+  "per_100g": {
+    "energy_kcal": 504,
+    "fat": 23.3,
+    "saturated_fat": 11.3,
+    "carbohydrates": 67,
+    "sugars": 22.2,
+    "fiber": 0,
+    "protein": 6.5,
+    "salt": 0.43,
+    "sodium": 0.172
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2023-04-06T09:39:52Z",
+  "fetched_at": "2026-08-19T01:04:19Z"
+}

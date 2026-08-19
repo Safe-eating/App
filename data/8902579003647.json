@@ -1,0 +1,29 @@
+{
+  "barcode": "8902579003647",
+  "name": "TOFFEE CARAMEL MILK",
+  "brand": "SMOODH",
+  "quantity": "85ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks"
+  ],
+  "ingredients": "MILK SOLIDS*, SUGAR, DEXTROSE, FOOD COLOUR (INS 150c) (0.92%), MALT EXTRACT, EMULSIFIERS AND STABILIZERS (INS 460(i), INS 471, INS 466, INS 407, INS 340, INS 452], NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES (CARAMEL, COCOA, TOFFEE, ARTIFICIAL FLAVOURING SUBSTANCE (VANILLA) AND IODISED SALT. *(EQUIVALENT TO 90% M/M DOUBLE TONED MILK)",
+  "per_100g": {
+    "energy_kcal": 88.2,
+    "fat": 1.8,
+    "saturated_fat": 1.2,
+    "carbohydrates": 15.9,
+    "sugars": 15,
+    "fiber": null,
+    "protein": 2.1,
+    "salt": 0.0782,
+    "sodium": 0.03128
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-04T03:37:08Z",
+  "fetched_at": "2026-08-19T01:16:23Z"
+}

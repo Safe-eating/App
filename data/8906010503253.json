@@ -1,0 +1,36 @@
+{
+  "barcode": "8906010503253",
+  "name": "Balaji Wafers Dum Bar",
+  "brand": "Balaji Wafers",
+  "quantity": "19g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:cocoa-and-its-products",
+    "en:confectioneries",
+    "en:nuts-and-their-products",
+    "en:chocolate-candies",
+    "en:bars",
+    "en:nut-bars",
+    "en:peanut-bars"
+  ],
+  "ingredients": "energy 541 kal\nprotein 14.5g\ncarbohydrates 55g",
+  "per_100g": {
+    "energy_kcal": 541,
+    "fat": 29,
+    "saturated_fat": 5,
+    "carbohydrates": 55,
+    "sugars": 47,
+    "fiber": 1.2,
+    "protein": 14.5,
+    "salt": 0.2,
+    "sodium": 0.08
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-24T13:44:34Z",
+  "fetched_at": "2026-08-19T02:01:48Z"
+}

@@ -1,0 +1,28 @@
+{
+  "barcode": "8904256723015",
+  "name": "Happychef Tandoori Paneer Tikka Pizza",
+  "brand": "HappyChef",
+  "quantity": "240 g",
+  "categories": [
+    "en:meals",
+    "en:pizzas-pies-and-quiches",
+    "en:pizzas"
+  ],
+  "ingredients": "Pizza base (Refined wheat flour (Maida), Gluten, iodized salt, Bread improver, Edible vegetable oil (Sunflower oil), Baker's yeast, Sugar), Pizza sauce (Tomato paste, Peeled tomato, Basil, iodized salt, Oregano, Sugar, Garlic, Black pepper whole), Paneer tikka (18.3%) (Paneer, Spice mix iodized salt, Mustard oil), Onion (6.8%), Bell pepper (6.8%) and Cheese.",
+  "per_100g": {
+    "energy_kcal": 240,
+    "fat": 9,
+    "saturated_fat": 4.5,
+    "carbohydrates": 30,
+    "sugars": 2,
+    "fiber": 1,
+    "protein": 11,
+    "salt": 1.825,
+    "sodium": 0.73
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-04-06T10:40:21Z",
+  "fetched_at": "2026-08-19T01:39:19Z"
+}

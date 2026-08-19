@@ -1,0 +1,33 @@
+{
+  "barcode": "8908003249414",
+  "name": "Greek yogurt",
+  "brand": "Akshayakalpa Organic",
+  "quantity": "100g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:yogurts",
+    "en:greek-style-yogurts"
+  ],
+  "ingredients": "Organic Cow Milk (Pasteurized), Organic Mango Pulp (3%), Organic Mango Concentrate (4%), Organic Honey(2%) ,Natural Mango Flavour (0.015%), Starter Culture, Probiotic Culture",
+  "per_100g": {
+    "energy_kcal": 92.6,
+    "fat": 3.45,
+    "saturated_fat": 2.22,
+    "carbohydrates": 10.2,
+    "sugars": 7.06,
+    "fiber": 0,
+    "protein": 6.1,
+    "salt": 0.1125,
+    "sodium": 0.045
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-05-21T19:09:59Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

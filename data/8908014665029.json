@@ -1,0 +1,34 @@
+{
+  "barcode": "8908014665029",
+  "name": "French Yogurt Blueberry",
+  "brand": "Mamie Yova",
+  "quantity": "90g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:desserts",
+    "en:dairy-desserts",
+    "en:fermented-dairy-desserts",
+    "en:fermented-dairy-desserts-with-fruits",
+    "en:yogurts",
+    "en:fruit-yogurts"
+  ],
+  "ingredients": "Pasteurized Milk, Blueberry Fruit Preparation (10%). (Sugar, Blueberry Fruit, Water, Thickener (INS 440, INS 410), Acidity Regulator (INS 330). Sugar, Milk Solids, Water, Stabilizers (INS 1442), Nature identical flavouring substances. Active Lactic Cultures including L.delbruelkil subsp. Bulgaricus and S thermophilus), Bifidobacterium,Lacto - bacillus acidophilus). Partly Skimmed Yogurt",
+  "per_100g": {
+    "energy_kcal": 86.7,
+    "fat": 1.06,
+    "saturated_fat": 0.65,
+    "carbohydrates": 16.91,
+    "sugars": 16.77,
+    "fiber": null,
+    "protein": 2.9,
+    "salt": 0.217,
+    "sodium": 0.0868
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-12T13:53:41Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

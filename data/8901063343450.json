@@ -1,0 +1,30 @@
+{
+  "barcode": "8901063343450",
+  "name": "Brown Bread",
+  "brand": "Britania",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breads"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 248,
+    "fat": 1.5,
+    "saturated_fat": 0.4,
+    "carbohydrates": 51.6,
+    "sugars": 1.9,
+    "fiber": 3,
+    "protein": 7.9,
+    "salt": 1.405,
+    "sodium": 0.562
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-04-09T12:25:12Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

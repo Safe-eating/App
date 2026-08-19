@@ -1,0 +1,35 @@
+{
+  "barcode": "8906006783515",
+  "name": "Classic tomato ketchup",
+  "brand": "Surabhi",
+  "quantity": "90g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:fruits-and-vegetables-based-foods",
+    "en:vegetable-based-foods-and-beverages",
+    "en:condiments",
+    "en:vegetables-based-foods",
+    "en:tomatoes-and-their-products",
+    "en:sauces",
+    "en:tomato-sauces",
+    "en:ketchup"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 136.37,
+    "fat": 0.49,
+    "saturated_fat": 0.09,
+    "carbohydrates": 33.66,
+    "sugars": 32.24,
+    "fiber": null,
+    "protein": 1.57,
+    "salt": 2.025,
+    "sodium": 0.81
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-04T08:00:54Z",
+  "fetched_at": "2026-08-19T01:53:50Z"
+}

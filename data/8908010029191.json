@@ -1,0 +1,26 @@
+{
+  "barcode": "8908010029191",
+  "name": "Smile Green Peas",
+  "brand": "Smile",
+  "quantity": "",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 468,
+    "fat": 20.94,
+    "saturated_fat": 7.73,
+    "carbohydrates": 60.35,
+    "sugars": 0,
+    "fiber": 1.46,
+    "protein": 19.51,
+    "salt": 0.16,
+    "sodium": 0.064
+  },
+  "nutriscore_grade": "d",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-07-04T02:42:51Z",
+  "fetched_at": "2026-08-19T13:12:05Z"
+}

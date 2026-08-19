@@ -1,0 +1,37 @@
+{
+  "barcode": "8901071732802",
+  "name": "Sofit Soya Chocolate Flavor Drink",
+  "brand": "Hershey's, Sofit",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:plant-based-foods-and-beverages",
+    "en:beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:dairy-substitutes",
+    "en:milk-substitutes",
+    "en:plant-based-beverages",
+    "en:plant-based-milk-alternatives",
+    "en:legume-based-drinks",
+    "en:soy-based-drinks",
+    "en:chocolate-soy-based-drinks"
+  ],
+  "ingredients": "WATER, SOYABEANS ($13.6%), SUGAR, COCOA SOLIDS (0.8%), MINERAL (TRICALCIUM PHOSPHATE), OLIGOFRUCTOSE DIETARY FIBRE) (0.37%), EMULSIFIER (460), 466), ACIDITY REGULATOR (500 (i)), FLAVOURS (NATURE IDENTICAL \u0026 ARTIFICIAL VANILLA) FLAVORING SUBSTANCES), EDIBLE COMMON SALT, MINERAL (ZINC SULPHATE), VITAMIN E (ACETATE), VITAMIN A (ACETATE), VITAMIN B1 (THIAMINE MONONITRATE), VITAMIN B2 RIBOFLAVIN) AND VITAMIN B12 (CYANOCOBALAMIN)",
+  "per_100g": {
+    "energy_kcal": 77.2222222222222,
+    "fat": 1.66666666666667,
+    "saturated_fat": 0.166666666666667,
+    "carbohydrates": 12.2222222222222,
+    "sugars": 10.5555555555556,
+    "fiber": 1.22222222222222,
+    "protein": 3.22222222222222,
+    "salt": 0.291666666666667,
+    "sodium": 0.116666666666667
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-28T08:28:24Z",
+  "fetched_at": "2026-08-19T00:35:23Z"
+}

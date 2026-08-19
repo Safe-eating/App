@@ -1,0 +1,34 @@
+{
+  "barcode": "8908005144359",
+  "name": "Breakfast protein bar",
+  "brand": "Yoga Bar",
+  "quantity": "45g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:bars",
+    "en:cereal-bars",
+    "en:dietary-supplements",
+    "en:bodybuilding-supplements",
+    "en:energy-bars",
+    "en:protein-bars",
+    "en:protein-energy-bars"
+  ],
+  "ingredients": "Whole Grains 20% (Rolled Oats 10%, Brown Rice, Foxtail millet 6%, Quinoa 4%), Seeds 17% (Sunflower, Sesame, Flax, Watermelon, Pumpkin, Chia), Honey, Prebiotic fibre (Fructo-oligosaccharide), Nuts (Almonds 7%, Peanuts), Rice crisps, Soy crisps, Dried Cranberry, Dried Blueberry 2%, Banana \u0026 Strawberry puree. Apple fibre, Gum Acacia, Himalayan pink salt. CONTAINS ADDED NATURAL FLAVOUR (Rosemary extract, Blueberry extract)",
+  "per_100g": {
+    "energy_kcal": 368.888888888889,
+    "fat": 8,
+    "saturated_fat": 1.55555555555556,
+    "carbohydrates": 67.1111111111111,
+    "sugars": 16.2222222222222,
+    "fiber": 9.77777777777778,
+    "protein": 12.2222222222222,
+    "salt": 0.681111111111111,
+    "sodium": 0.272444444444444
+  },
+  "nutriscore_grade": "not-applicable",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-03-28T05:53:36Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

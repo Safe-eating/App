@@ -1,0 +1,32 @@
+{
+  "barcode": "8902579002329",
+  "name": "Smoodh toffee caramel",
+  "brand": "parley Agro",
+  "quantity": "80ml",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:dairy-drinks",
+    "en:milks",
+    "en:flavoured-milks"
+  ],
+  "ingredients": "MILK SOLIDS, MATER, SUGAR, DEXTROSE, MALT EXTRACT, NATURAL COLOUR (INS 150c) (0.57%), EMULSIFIERS AND STABILIZERS [INS 450(1), INS 471, INS 466, INS 407, INS 340, INS 452), COCOA SOLIDS, MATURE-IDENTICAL AND ARTIFICIAL FLAYOURING SUBSTANCES (CARAMEL, TOFFEE AND YANILLA) AND IODISED SALT. (EQUIVALENT TO 90% N/N DOUBLE TONED MILK) ONS-INTERNATIONAL NUMBERING SYSTEM) ALLERGEN INFORMATION: CONTAINS MILK, BARLEY, WHEAT AND MILLET",
+  "per_100g": {
+    "energy_kcal": 95.7,
+    "fat": 2.3,
+    "saturated_fat": 1.5,
+    "carbohydrates": 15.33,
+    "sugars": 16.35,
+    "fiber": 0,
+    "protein": 3.42,
+    "salt": 0.2,
+    "sodium": 0.08
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-03-04T15:29:53Z",
+  "fetched_at": "2026-08-19T01:15:51Z"
+}

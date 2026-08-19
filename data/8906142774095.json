@@ -1,0 +1,33 @@
+{
+  "barcode": "8906142774095",
+  "name": "Pistachio",
+  "brand": "Bolas",
+  "quantity": "200 g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:seeds",
+    "en:nuts-and-their-products",
+    "en:nuts",
+    "en:shelled-nuts",
+    "en:pistachios",
+    "en:pistachio-kernels"
+  ],
+  "ingredients": "Inshell Pistachios, Edible Common Salt (Iodised salt).",
+  "per_100g": {
+    "energy_kcal": 609.21,
+    "fat": 48.21,
+    "saturated_fat": 6.34,
+    "carbohydrates": 22.62,
+    "sugars": 7.32,
+    "fiber": 10.21,
+    "protein": 21.21,
+    "salt": 990.925,
+    "sodium": 396.37
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-28T12:42:03Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8901491208291",
+  "name": "Bikaneri Bhujia",
+  "brand": "Kurkure",
+  "quantity": "18g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Edible Vegetable Oil (Rice Brand Oil), Moth Dal Flour (44%), Besan, Salt, *Spices \u0026 Condiments(Chilli Powder, Garam Masala, Clove Powder, Black Pepper Seeds and Powder, Coriander Seeds and Powder, Ajwai Seeds and Powder, Fennel Seeds and Powder",
+  "per_100g": {
+    "energy_kcal": 627,
+    "fat": 49.5,
+    "saturated_fat": 11.7,
+    "carbohydrates": 33.5,
+    "sugars": 1,
+    "fiber": null,
+    "protein": 11.8,
+    "salt": 2.59588,
+    "sodium": 1.038352
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2022-02-11T11:19:58Z",
+  "fetched_at": "2026-08-19T00:50:24Z"
+}

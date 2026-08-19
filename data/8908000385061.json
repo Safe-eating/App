@@ -1,0 +1,26 @@
+{
+  "barcode": "8908000385061",
+  "name": "Kadalamavu Mixture",
+  "brand": "Dev",
+  "quantity": "200g",
+  "categories": [
+    "en:snacks"
+  ],
+  "ingredients": "Gram Flour, Peanut, Fried Gram Split, Palmolein Oil, Chilli Powder Asafoetida, Salt \u0026 Curry Leaves. ALLERGY ADVICE: CONTAINS PEANUT.",
+  "per_100g": {
+    "energy_kcal": 560,
+    "fat": 37.6,
+    "saturated_fat": 29.4,
+    "carbohydrates": 35,
+    "sugars": 7.4,
+    "fiber": 8.6,
+    "protein": 19.6,
+    "salt": 2.1,
+    "sodium": 0.84
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2024-01-01T13:11:47Z",
+  "fetched_at": "2026-08-19T13:04:25Z"
+}

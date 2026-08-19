@@ -1,0 +1,36 @@
+{
+  "barcode": "8908013252077",
+  "name": "Crunchy Granola Happy Berries",
+  "brand": "Fit \u0026 Flex",
+  "quantity": "15.87 oz (450 g)",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:breakfasts",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:breakfast-cereals",
+    "en:cereals-with-fruits",
+    "en:mueslis",
+    "en:crunchy-mueslis",
+    "en:mueslis-with-fruits",
+    "en:crunchy-mueslis-with-fruits"
+  ],
+  "ingredients": "Rolled _Oats_ 33%, Rice Puffs 13%, Multigrain Crispies 11% (_Wheat_, Maize, Rice), Oligofructose (Prebiotic Dietary Fibre) 9.5%, Rice Bran Oil 6.1%, Sugar 4.2%, _Almond_ Flakes 3%, Tender Coconut Powder, Coconut Milk Powder, Candied Fruits (Cranberry 3.7%, Blueberry 3.7%, Strawberry 3%), Common Salt, Acidity Regulators [Sodium Citrate (INS 331)], Humectant [Glycerine from Vegetable Source (INS 422)], Antioxidant [Tocopherol (INS 307)], Nature Identical Flavouring Substances.",
+  "per_100g": {
+    "energy_kcal": 453,
+    "fat": 14.5,
+    "saturated_fat": 8.4,
+    "carbohydrates": 75.6,
+    "sugars": 25,
+    "fiber": 7.6,
+    "protein": 5.3,
+    "salt": 0.25,
+    "sodium": 0.1
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-08T03:36:55Z",
+  "fetched_at": "2026-08-19T13:14:44Z"
+}

@@ -1,0 +1,35 @@
+{
+  "barcode": "8901512881205",
+  "name": "Sundrop Peanut Butter Regular",
+  "brand": "Sundrop",
+  "quantity": "",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:legumes-and-their-products",
+    "en:spreads",
+    "en:plant-based-spreads",
+    "en:nuts-and-their-products",
+    "en:oilseed-purees",
+    "en:legume-butters",
+    "en:peanut-butters",
+    "en:nut-butters"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 610,
+    "fat": 49,
+    "saturated_fat": 11,
+    "carbohydrates": 19.8,
+    "sugars": 9.8,
+    "fiber": 11,
+    "protein": 27.9,
+    "salt": 0.455,
+    "sodium": 0.182
+  },
+  "nutriscore_grade": "c",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-22T04:16:14Z",
+  "fetched_at": "2026-08-19T00:55:02Z"
+}

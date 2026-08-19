@@ -1,0 +1,33 @@
+{
+  "barcode": "8906010503574",
+  "name": "Cream Wafers",
+  "brand": "Balaji Wafers",
+  "quantity": "16g",
+  "categories": [
+    "en:snacks",
+    "en:sweet-snacks",
+    "en:biscuits-and-cakes",
+    "en:biscuits-and-crackers",
+    "en:biscuits",
+    "en:wafers",
+    "en:stuffed-wafers",
+    "en:biscuit-cookie-vitamins-and-chemical-elements-content-guaranteed"
+  ],
+  "ingredients": "GREDIENTS: SUGAR POWDER, REFINED WHEAT FLOUR (MAIDA). EDIBLE VEGETABLE FAT/OIL ALMOLEIN), WHEY POWDER, MILK POWDED EMULSIFIED (INC 322), EDIBLE COMMON SALT, ACIDITY REGULATOR ANS 330), RAISING AGENT (INS 500 (11)), NATURAL \u0026 NATURE IDENTICAL FLAVOUR (ORANGE (0.1%)), NATURE IDENTICAL \u0026 ARTIFICIAL FLAVOUR (VANILLA), SYNTHETIC FOOD COLOUR (INS 110). ALLERGEN ADVICE: CONTAINS WHEAT FLOUR, SOY, WHEY \u0026 MILK POWDER. DO NOT BUY THE PACK IF FOUNDAMAGED/OPEN. KEEP AWAY FROM DIRECT SUNLIGHT \u0026 HEAT BALAJI WA SURVEY NO. TA.LODHIKA MARKETED BY ANC NO. 19912",
+  "per_100g": {
+    "energy_kcal": 550,
+    "fat": 24.5,
+    "saturated_fat": 17.4,
+    "carbohydrates": 66.4,
+    "sugars": 38.5,
+    "fiber": 0,
+    "protein": 6.3,
+    "salt": 0,
+    "sodium": 0
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-07-29T17:39:44Z",
+  "fetched_at": "2026-08-19T02:02:11Z"
+}

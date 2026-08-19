@@ -1,0 +1,31 @@
+{
+  "barcode": "8901071732598",
+  "name": "HERSHEY'S",
+  "brand": "Hershey's",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:dairy-drinks",
+    "en:flavoured-milks",
+    "en:milkshakes"
+  ],
+  "ingredients": "Water, Milk Solids (#11%), Sugar, Mineral (Calcium carbonate), Emulsifiers (460), 466,471), Flavours (Artificial Flavouring Substances - Kaju Kathli and Butterscotch Ice cream), Stabilizers (415, 407), Sequestrant (339(i)), Mineral (Zinc Sulphate), Vitamin E (Acetate, Vitamin A (Acetate), Vitamin D2 (Ergocalciferol), Vitamin B1 (Thiamine Chloride Hydrochloride), Vitamin B2 (Riboflavin), Edible Common Salt, Synthetic Food Colour (110) and Cashew Paste (#0.002%) ALLERGEN INFORMATION: CONTAINS MILK AND NUT",
+  "per_100g": {
+    "energy_kcal": 88.3333333333333,
+    "fat": 1.77777777777778,
+    "saturated_fat": 1.38888888888889,
+    "carbohydrates": 16.1111111111111,
+    "sugars": 16.1111111111111,
+    "fiber": null,
+    "protein": 1.66666666666667,
+    "salt": 0.143055555555556,
+    "sodium": 0.0572222222222222
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-02-25T15:59:04Z",
+  "fetched_at": "2026-08-18T23:46:54Z"
+}

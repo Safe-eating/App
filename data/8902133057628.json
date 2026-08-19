@@ -1,0 +1,33 @@
+{
+  "barcode": "8902133057628",
+  "name": "Sangam Sabja Lassi",
+  "brand": "Sangam",
+  "quantity": "",
+  "categories": [
+    "en:beverages-and-beverages-preparations",
+    "en:beverages",
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:dairy-drinks",
+    "en:fermented-drinks",
+    "en:fermented-milk-drinks"
+  ],
+  "ingredients": "Milk solids (Curd), Pasteurized water, Sugar, Basil Seeds, and CONTAINS ADDED ARTIFICIAL FLAVOUR",
+  "per_100g": {
+    "energy_kcal": 40.9,
+    "fat": 1,
+    "saturated_fat": 0.655,
+    "carbohydrates": 7.125,
+    "sugars": 7.125,
+    "fiber": 0.09,
+    "protein": 0.805,
+    "salt": 0.023125,
+    "sodium": 0.00925
+  },
+  "nutriscore_grade": "d",
+  "nova_group": 4,
+  "source": "openfoodfacts",
+  "last_modified": "2026-08-03T16:30:36Z",
+  "fetched_at": "2026-08-19T01:14:16Z"
+}

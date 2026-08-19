@@ -1,0 +1,26 @@
+{
+  "barcode": "8905950002819",
+  "name": "Bikaneri Bhujia",
+  "brand": "Bikaji",
+  "quantity": "36 g",
+  "categories": [
+    "en:Bhujia"
+  ],
+  "ingredients": "",
+  "per_100g": {
+    "energy_kcal": 609,
+    "fat": 45,
+    "saturated_fat": 14,
+    "carbohydrates": 37,
+    "sugars": 0,
+    "fiber": 6,
+    "protein": 14,
+    "salt": 1.995,
+    "sodium": 0.798
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2025-12-15T16:29:53Z",
+  "fetched_at": "2026-08-19T01:47:43Z"
+}

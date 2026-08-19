@@ -1,0 +1,30 @@
+{
+  "barcode": "8901560000436",
+  "name": "Green chilli pickle",
+  "brand": "Nilon's",
+  "quantity": "400g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:condiments",
+    "en:pickles",
+    "en:plant-based-pickles"
+  ],
+  "ingredients": "Green Chilli (60%), lodized Salt, Edible Vegetable Oil (See coding area for oil name), Spices \u0026 Condiments (Chilli, Mustard split, Turmeric, Fenugreek), Acidity Regulator (INS 260) and Preservative (INS 211).",
+  "per_100g": {
+    "energy_kcal": 150,
+    "fat": 12.3,
+    "saturated_fat": 3.1,
+    "carbohydrates": 8.5,
+    "sugars": 3.5,
+    "fiber": 1.8,
+    "protein": 1.4,
+    "salt": 11.59,
+    "sodium": 4.636
+  },
+  "nutriscore_grade": "e",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-09-04T06:36:03Z",
+  "fetched_at": "2026-08-19T00:56:05Z"
+}

@@ -1,0 +1,26 @@
+{
+  "barcode": "8903363002792",
+  "name": "Kismis Black - 200g",
+  "brand": "DMart Premia",
+  "quantity": "200 g",
+  "categories": [
+    "en:Black Raisins"
+  ],
+  "ingredients": "Raisins Black Domingo por Pack 81 Serving Size: 25 c",
+  "per_100g": {
+    "energy_kcal": 377.74,
+    "fat": 0.1,
+    "saturated_fat": 0.06,
+    "carbohydrates": 91.01,
+    "sugars": 61.51,
+    "fiber": null,
+    "protein": 3.2,
+    "salt": 0.027475,
+    "sodium": 0.01099
+  },
+  "nutriscore_grade": "e",
+  "nova_group": null,
+  "source": "openfoodfacts",
+  "last_modified": "2024-09-08T11:53:26Z",
+  "fetched_at": "2026-08-19T01:22:01Z"
+}
