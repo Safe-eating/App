@@ -1,0 +1,30 @@
+{
+  "barcode": "8906117360346",
+  "name": "Country Delight Paneer",
+  "brand": "Country Delight",
+  "quantity": "180g",
+  "categories": [
+    "en:dairies",
+    "en:fermented-foods",
+    "en:fermented-milk-products",
+    "en:cheeses",
+    "en:paneer"
+  ],
+  "ingredients": "Buffalo Milk, Citric Acid (INS 330)",
+  "per_100g": {
+    "energy_kcal": 261,
+    "fat": 21.1,
+    "saturated_fat": 14.8,
+    "carbohydrates": 2.3,
+    "sugars": 2.3,
+    "fiber": 0,
+    "protein": 15.7,
+    "salt": 0.065,
+    "sodium": 0.026
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-26T04:05:54Z",
+  "fetched_at": "2026-08-19T12:53:28Z"
+}

@@ -1,0 +1,295 @@
+[
+  {
+    "id": "8906117360353",
+    "name": "Country Delight Buffalo Milk",
+    "brand": "Country Delight",
+    "categoryId": "dairy",
+    "emoji": "🥛",
+    "processing": "minimally-processed",
+    "keywords": [
+      "country",
+      "delight",
+      "buffalo",
+      "milk",
+      "8906117360353"
+    ],
+    "serving": {
+      "amount": 200,
+      "unit": "ml",
+      "label": "200 ml"
+    },
+    "nutrition": {
+      "energyKcal": 90,
+      "fatG": 6.5,
+      "satFatG": 3.8,
+      "transFatG": 0,
+      "carbsG": 4.9,
+      "sugarG": 4.9,
+      "fibreG": 0,
+      "proteinG": 3.2,
+      "sodiumMg": 45
+    },
+    "additives": [],
+    "allergens": [
+      "milk"
+    ],
+    "benefits": [
+      "Very low in sodium — 45 mg per 100 ml"
+    ],
+    "warnings": [
+      "Nutri-Score D — the second-worst or worst band on the pack rating"
+    ],
+    "note": "Imported from Open Food Facts, barcode 8906117360353. Nutrition is as declared on the pack. Trans fat is not declared in this record and is counted as zero. Allergens here are detected automatically — always check the actual pack before relying on them."
+  },
+  {
+    "id": "8906117360360",
+    "name": "Country Delight Cow Milk (61 kcal/100 ml)",
+    "brand": "Country Delight",
+    "categoryId": "dairy",
+    "emoji": "🥛",
+    "processing": "minimally-processed",
+    "keywords": [
+      "country",
+      "delight",
+      "cow",
+      "milk",
+      "8906117360360"
+    ],
+    "serving": {
+      "amount": 200,
+      "unit": "ml",
+      "label": "200 ml"
+    },
+    "nutrition": {
+      "energyKcal": 61,
+      "fatG": 3.5,
+      "satFatG": 2.2,
+      "transFatG": 0,
+      "carbsG": 4.5,
+      "sugarG": 4.5,
+      "fibreG": 0,
+      "proteinG": 2.9,
+      "sodiumMg": 45
+    },
+    "additives": [],
+    "allergens": [
+      "milk"
+    ],
+    "benefits": [
+      "Very low in sodium — 45 mg per 100 ml"
+    ],
+    "warnings": [],
+    "note": "Imported from Open Food Facts, barcode 8906117360360. Nutrition is as declared on the pack. Trans fat is not declared in this record and is counted as zero. Allergens here are detected automatically — always check the actual pack before relying on them."
+  },
+  {
+    "id": "8906117361008",
+    "name": "Country Delight Cow Milk (84 kcal/100 ml)",
+    "brand": "Country Delight",
+    "categoryId": "dairy",
+    "emoji": "🥛",
+    "processing": "minimally-processed",
+    "keywords": [
+      "country",
+      "delight",
+      "cow",
+      "milk",
+      "8906117361008"
+    ],
+    "serving": {
+      "amount": 200,
+      "unit": "ml",
+      "label": "200 ml"
+    },
+    "nutrition": {
+      "energyKcal": 84,
+      "fatG": 6,
+      "satFatG": 4.6,
+      "transFatG": 0,
+      "carbsG": 4.5,
+      "sugarG": 4.5,
+      "fibreG": 0,
+      "proteinG": 3,
+      "sodiumMg": 45
+    },
+    "additives": [],
+    "allergens": [
+      "milk"
+    ],
+    "benefits": [
+      "Very low in sodium — 45 mg per 100 ml"
+    ],
+    "warnings": [
+      "Nutri-Score D — the second-worst or worst band on the pack rating"
+    ],
+    "note": "Imported from Open Food Facts, barcode 8906117361008. Nutrition is as declared on the pack. Trans fat is not declared in this record and is counted as zero. Allergens here are detected automatically — always check the actual pack before relying on them."
+  },
+  {
+    "id": "8906117360995",
+    "name": "Country Delight Low Malai Milk",
+    "brand": "Country Delight",
+    "categoryId": "dairy",
+    "emoji": "🥛",
+    "processing": "minimally-processed",
+    "keywords": [
+      "country",
+      "delight",
+      "low",
+      "malai",
+      "milk",
+      "8906117360995"
+    ],
+    "serving": {
+      "amount": 200,
+      "unit": "ml",
+      "label": "200 ml"
+    },
+    "nutrition": {
+      "energyKcal": 57,
+      "fatG": 3,
+      "satFatG": 2,
+      "transFatG": 0,
+      "carbsG": 4.5,
+      "sugarG": 4.5,
+      "fibreG": 0,
+      "proteinG": 3.2,
+      "sodiumMg": 45
+    },
+    "additives": [],
+    "allergens": [
+      "milk"
+    ],
+    "benefits": [
+      "Very low in sodium — 45 mg per 100 ml"
+    ],
+    "warnings": [],
+    "note": "Imported from Open Food Facts, barcode 8906117360995. Nutrition is as declared on the pack. Trans fat is not declared in this record and is counted as zero. Allergens here are detected automatically — always check the actual pack before relying on them."
+  },
+  {
+    "id": "8906117360346",
+    "name": "Country Delight Paneer",
+    "brand": "Country Delight",
+    "categoryId": "dairy",
+    "emoji": "🧀",
+    "processing": "processed",
+    "keywords": [
+      "country",
+      "delight",
+      "paneer",
+      "8906117360346"
+    ],
+    "serving": {
+      "amount": 200,
+      "unit": "g",
+      "label": "200 g"
+    },
+    "nutrition": {
+      "energyKcal": 261,
+      "fatG": 21.1,
+      "satFatG": 14.8,
+      "transFatG": 0,
+      "carbsG": 2.3,
+      "sugarG": 2.3,
+      "fibreG": 0,
+      "proteinG": 15.7,
+      "sodiumMg": 26
+    },
+    "additives": [
+      "e330"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "benefits": [
+      "High in protein — 15.7 g per 100 g",
+      "Very low in sodium — 26 mg per 100 g"
+    ],
+    "warnings": [
+      "High in saturated fat — 14.8 g per 100 g, against a 20 g daily cap"
+    ],
+    "note": "Imported from Open Food Facts, barcode 8906117360346. Nutrition is as declared on the pack. Trans fat is not declared in this record and is counted as zero. Allergens here are detected automatically — always check the actual pack before relying on them."
+  },
+  {
+    "id": "8906117360988",
+    "name": "Country Delight Rava Idli Batter",
+    "brand": "Country Delight",
+    "categoryId": "instant",
+    "emoji": "🥞",
+    "processing": "processed",
+    "keywords": [
+      "country",
+      "delight",
+      "rava",
+      "idli",
+      "batter",
+      "8906117360988"
+    ],
+    "serving": {
+      "amount": 100,
+      "unit": "g",
+      "label": "100 g"
+    },
+    "nutrition": {
+      "energyKcal": 135,
+      "fatG": 1.02,
+      "satFatG": 0.68,
+      "transFatG": 0,
+      "carbsG": 26.3,
+      "sugarG": 0.71,
+      "fibreG": 0,
+      "proteinG": 5.6,
+      "sodiumMg": 127.5
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "Very low in sugar — 0.71 g per 100 g"
+    ],
+    "warnings": [],
+    "note": "Imported from Open Food Facts, barcode 8906117360988. Nutrition is as declared on the pack. Trans fat is not declared in this record and is counted as zero. Allergens here are detected automatically — always check the actual pack before relying on them."
+  },
+  {
+    "id": "8906117360216",
+    "name": "Whole Wheat Atta",
+    "brand": "Country Delight",
+    "categoryId": "bakery",
+    "emoji": "🌾",
+    "processing": "minimally-processed",
+    "keywords": [
+      "whole",
+      "wheat",
+      "atta",
+      "country",
+      "delight",
+      "8906117360216"
+    ],
+    "serving": {
+      "amount": 50,
+      "unit": "g",
+      "label": "50 g"
+    },
+    "nutrition": {
+      "energyKcal": 370,
+      "fatG": 3,
+      "satFatG": 0.3,
+      "transFatG": 0,
+      "carbsG": 75,
+      "sugarG": 0.2,
+      "fibreG": 11.7,
+      "proteinG": 11,
+      "sodiumMg": 2
+    },
+    "additives": [],
+    "allergens": [
+      "wheat",
+      "gluten"
+    ],
+    "benefits": [
+      "High in fibre — 11.7 g per 100 g",
+      "A good source of protein — 11 g per 100 g",
+      "Very low in sugar — 0.2 g per 100 g",
+      "Very low in sodium — 2 mg per 100 g"
+    ],
+    "warnings": [],
+    "note": "Imported from Open Food Facts, barcode 8906117360216. Nutrition is as declared on the pack. No ingredient list was published for this product, so no additive check could run and any allergens shown were guessed from the product name only. Trans fat is not declared in this record and is counted as zero. Allergens here are detected automatically — always check the actual pack before relying on them."
+  }
+]

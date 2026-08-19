@@ -1,0 +1,30 @@
+{
+  "barcode": "8906117360988",
+  "name": "Country Delight Rava Idli Batter",
+  "brand": "Country Delight",
+  "quantity": "450g",
+  "categories": [
+    "en:plant-based-foods-and-beverages",
+    "en:plant-based-foods",
+    "en:cereals-and-potatoes",
+    "en:cereals-and-their-products",
+    "en:idly-batter-mixes"
+  ],
+  "ingredients": "RO Water, Idli Rava (35%), Urad Dal, Fenugreek Seeds, Rock salt.",
+  "per_100g": {
+    "energy_kcal": 135,
+    "fat": 1.02,
+    "saturated_fat": 0.68,
+    "carbohydrates": 26.3,
+    "sugars": 0.71,
+    "fiber": null,
+    "protein": 5.6,
+    "salt": 0.31875,
+    "sodium": 0.1275
+  },
+  "nutriscore_grade": "a",
+  "nova_group": 3,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-26T03:04:20Z",
+  "fetched_at": "2026-08-19T12:53:32Z"
+}

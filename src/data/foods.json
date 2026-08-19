@@ -1,0 +1,3063 @@
+[
+  {
+    "id": "apple",
+    "name": "Apple",
+    "brand": "Fresh produce",
+    "categoryId": "fruits",
+    "emoji": "🍎",
+    "processing": "whole",
+    "keywords": [
+      "apple",
+      "seb",
+      "fruit"
+    ],
+    "serving": {
+      "amount": 180,
+      "unit": "g",
+      "label": "1 medium apple (180 g)"
+    },
+    "nutrition": {
+      "energyKcal": 52,
+      "fatG": 0.2,
+      "satFatG": 0.03,
+      "transFatG": 0,
+      "carbsG": 13.8,
+      "sugarG": 10.4,
+      "fibreG": 2.4,
+      "proteinG": 0.3,
+      "sodiumMg": 1
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "Soluble fibre (pectin) that feeds gut bacteria",
+      "Quercetin, an anti-inflammatory antioxidant",
+      "Very low energy density, so it fills you up cheaply"
+    ],
+    "warnings": [
+      "Wash well — apples are among the most pesticide-sprayed crops",
+      "Do not chew the seeds in quantity; they contain amygdalin"
+    ],
+    "note": "Eat it with the skin on. Most of the fibre and antioxidants sit in the peel.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 180,
+      "name": "apple",
+      "plural": "apples"
+    }
+  },
+  {
+    "id": "banana",
+    "name": "Banana",
+    "brand": "Fresh produce",
+    "categoryId": "fruits",
+    "emoji": "🍌",
+    "processing": "whole",
+    "keywords": [
+      "banana",
+      "kela",
+      "fruit"
+    ],
+    "serving": {
+      "amount": 118,
+      "unit": "g",
+      "label": "1 medium banana (118 g)"
+    },
+    "nutrition": {
+      "energyKcal": 89,
+      "fatG": 0.33,
+      "satFatG": 0.11,
+      "transFatG": 0,
+      "carbsG": 22.8,
+      "sugarG": 12.2,
+      "fibreG": 2.6,
+      "proteinG": 1.1,
+      "sodiumMg": 1
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "High potassium, which helps control blood pressure",
+      "Vitamin B6 for nerve and brain function",
+      "Resistant starch when slightly green"
+    ],
+    "warnings": [
+      "Higher sugar than most fruit — diabetics should stick to half a banana",
+      "People with kidney disease should watch the potassium load"
+    ],
+    "note": "The riper it gets, the faster the sugar hits your blood. A slightly green banana is gentler.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 118,
+      "name": "banana",
+      "plural": "bananas"
+    }
+  },
+  {
+    "id": "mango",
+    "name": "Mango",
+    "brand": "Fresh produce",
+    "categoryId": "fruits",
+    "emoji": "🥭",
+    "processing": "whole",
+    "keywords": [
+      "mango",
+      "aam",
+      "fruit"
+    ],
+    "serving": {
+      "amount": 165,
+      "unit": "g",
+      "label": "1 cup sliced (165 g)"
+    },
+    "nutrition": {
+      "energyKcal": 60,
+      "fatG": 0.38,
+      "satFatG": 0.09,
+      "transFatG": 0,
+      "carbsG": 15,
+      "sugarG": 13.7,
+      "fibreG": 1.6,
+      "proteinG": 0.8,
+      "sodiumMg": 1
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "Enormous vitamin C and vitamin A content",
+      "Digestive enzymes (amylases) that help break down starch",
+      "Beta-carotene for eye health"
+    ],
+    "warnings": [
+      "One of the sweetest fruits — go easy if you are diabetic",
+      "Artificially ripened mangoes may carry calcium carbide residue"
+    ],
+    "note": "Buy naturally ripened fruit. Uniformly yellow skin with no fragrance is a warning sign of chemical ripening.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 200,
+      "name": "mango",
+      "plural": "mangoes"
+    }
+  },
+  {
+    "id": "orange",
+    "name": "Orange",
+    "brand": "Fresh produce",
+    "categoryId": "fruits",
+    "emoji": "🍊",
+    "processing": "whole",
+    "keywords": [
+      "orange",
+      "santra",
+      "citrus",
+      "fruit"
+    ],
+    "serving": {
+      "amount": 140,
+      "unit": "g",
+      "label": "1 medium orange (140 g)"
+    },
+    "nutrition": {
+      "energyKcal": 47,
+      "fatG": 0.12,
+      "satFatG": 0.02,
+      "transFatG": 0,
+      "carbsG": 11.8,
+      "sugarG": 9.4,
+      "fibreG": 2.4,
+      "proteinG": 0.9,
+      "sodiumMg": 0
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "A single orange covers a full day of vitamin C",
+      "Folate, which matters in pregnancy",
+      "Hesperidin, linked to healthier blood vessels"
+    ],
+    "warnings": [
+      "The acid can wear tooth enamel — rinse with water afterwards"
+    ],
+    "note": "Eat the fruit rather than drinking the juice. Juicing throws away the fibre and triples the sugar hit.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 140,
+      "name": "orange",
+      "plural": "oranges"
+    }
+  },
+  {
+    "id": "grapes",
+    "name": "Grapes",
+    "brand": "Fresh produce",
+    "categoryId": "fruits",
+    "emoji": "🍇",
+    "processing": "whole",
+    "keywords": [
+      "grapes",
+      "angoor",
+      "fruit"
+    ],
+    "serving": {
+      "amount": 150,
+      "unit": "g",
+      "label": "1 cup (150 g)"
+    },
+    "nutrition": {
+      "energyKcal": 69,
+      "fatG": 0.16,
+      "satFatG": 0.05,
+      "transFatG": 0,
+      "carbsG": 18.1,
+      "sugarG": 15.5,
+      "fibreG": 0.9,
+      "proteinG": 0.7,
+      "sodiumMg": 2
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "Resveratrol in the skin, studied for heart health",
+      "Good hydration content",
+      "Vitamin K for blood clotting"
+    ],
+    "warnings": [
+      "Very high sugar with very little fibre to slow it down",
+      "Heavy pesticide residue — soak in salt water before eating",
+      "A choking hazard for small children unless halved"
+    ],
+    "note": "Easy to eat an entire bowl without noticing. Portion them out first.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 5,
+      "name": "grape",
+      "plural": "grapes"
+    }
+  },
+  {
+    "id": "watermelon",
+    "name": "Watermelon",
+    "brand": "Fresh produce",
+    "categoryId": "fruits",
+    "emoji": "🍉",
+    "processing": "whole",
+    "keywords": [
+      "watermelon",
+      "tarbooj",
+      "melon",
+      "fruit"
+    ],
+    "serving": {
+      "amount": 280,
+      "unit": "g",
+      "label": "1 wedge (280 g)"
+    },
+    "nutrition": {
+      "energyKcal": 30,
+      "fatG": 0.15,
+      "satFatG": 0.02,
+      "transFatG": 0,
+      "carbsG": 7.6,
+      "sugarG": 6.2,
+      "fibreG": 0.4,
+      "proteinG": 0.6,
+      "sodiumMg": 1
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "92% water, excellent for rehydration",
+      "Lycopene, an antioxidant linked to heart health",
+      "Very low calorie for the volume you get"
+    ],
+    "warnings": [
+      "High glycaemic index despite the low sugar total",
+      "Injected or dyed melons are sold in some markets — an unnaturally red, mushy interior is a red flag"
+    ],
+    "note": "One of the safest things you can eat in hot weather. Just buy it whole rather than pre-cut.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 280,
+      "name": "wedge",
+      "plural": "wedges"
+    }
+  },
+  {
+    "id": "dried-dates",
+    "name": "Dried Dates",
+    "brand": "Packaged dried fruit",
+    "categoryId": "fruits",
+    "emoji": "🌴",
+    "processing": "processed",
+    "keywords": [
+      "dates",
+      "khajur",
+      "dried fruit",
+      "medjool"
+    ],
+    "serving": {
+      "amount": 24,
+      "unit": "g",
+      "label": "1 date (24 g)"
+    },
+    "nutrition": {
+      "energyKcal": 282,
+      "fatG": 0.39,
+      "satFatG": 0.03,
+      "transFatG": 0,
+      "carbsG": 75,
+      "sugarG": 63,
+      "fibreG": 8,
+      "proteinG": 2.5,
+      "sodiumMg": 2
+    },
+    "additives": [
+      "e223"
+    ],
+    "allergens": [
+      "sulphites"
+    ],
+    "benefits": [
+      "Genuinely high fibre for a sweet food",
+      "Iron, potassium and magnesium",
+      "A far better sugar source than refined sweets"
+    ],
+    "warnings": [
+      "63 g of sugar per 100 g — this is concentrated fruit sugar",
+      "Often treated with sulphites, which trigger asthma",
+      "Sticky texture clings to teeth and feeds decay"
+    ],
+    "note": "Nutritious, but treat it like a sweet rather than like fruit. Two or three is a portion.",
+    "safeLimit": {
+      "amount": 50,
+      "unit": "g",
+      "period": "day",
+      "note": "About two Medjool dates. Enough for the iron and fibre without spending your whole sugar budget."
+    },
+    "piece": {
+      "amount": 24,
+      "name": "date",
+      "plural": "dates"
+    }
+  },
+  {
+    "id": "spinach",
+    "name": "Spinach",
+    "brand": "Fresh produce",
+    "categoryId": "vegetables",
+    "emoji": "🥬",
+    "processing": "whole",
+    "keywords": [
+      "spinach",
+      "palak",
+      "greens",
+      "leafy"
+    ],
+    "serving": {
+      "amount": 100,
+      "unit": "g",
+      "label": "1 large bowl raw (100 g)"
+    },
+    "nutrition": {
+      "energyKcal": 23,
+      "fatG": 0.39,
+      "satFatG": 0.06,
+      "transFatG": 0,
+      "carbsG": 3.6,
+      "sugarG": 0.4,
+      "fibreG": 2.2,
+      "proteinG": 2.9,
+      "sodiumMg": 79
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "Dense in iron, folate and vitamin K",
+      "Lutein and zeaxanthin protect the retina",
+      "Nitrates that modestly lower blood pressure"
+    ],
+    "warnings": [
+      "High in oxalates — a real concern if you form kidney stones",
+      "Oxalates also block calcium and iron absorption",
+      "Wash thoroughly; leafy greens are a common source of food poisoning"
+    ],
+    "note": "Cooking it briefly cuts the oxalate load and makes the iron easier to absorb. Add lemon to help further.",
+    "safeLimit": null,
+    "piece": null
+  },
+  {
+    "id": "carrot",
+    "name": "Carrot",
+    "brand": "Fresh produce",
+    "categoryId": "vegetables",
+    "emoji": "🥕",
+    "processing": "whole",
+    "keywords": [
+      "carrot",
+      "gajar",
+      "root vegetable"
+    ],
+    "serving": {
+      "amount": 61,
+      "unit": "g",
+      "label": "1 medium carrot (61 g)"
+    },
+    "nutrition": {
+      "energyKcal": 41,
+      "fatG": 0.24,
+      "satFatG": 0.04,
+      "transFatG": 0,
+      "carbsG": 9.6,
+      "sugarG": 4.7,
+      "fibreG": 2.8,
+      "proteinG": 0.9,
+      "sodiumMg": 69
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "Beta-carotene converts to vitamin A for eyesight",
+      "Fibre that supports regular digestion",
+      "Crunch that satisfies a snack craving for almost no calories"
+    ],
+    "warnings": [
+      "Eating extreme amounts daily can turn skin orange (carotenemia) — harmless but odd"
+    ],
+    "note": "A little oil alongside dramatically improves how much beta-carotene you actually absorb.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 61,
+      "name": "carrot",
+      "plural": "carrots"
+    }
+  },
+  {
+    "id": "broccoli",
+    "name": "Broccoli",
+    "brand": "Fresh produce",
+    "categoryId": "vegetables",
+    "emoji": "🥦",
+    "processing": "whole",
+    "keywords": [
+      "broccoli",
+      "cruciferous",
+      "green vegetable"
+    ],
+    "serving": {
+      "amount": 91,
+      "unit": "g",
+      "label": "1 cup chopped (91 g)"
+    },
+    "nutrition": {
+      "energyKcal": 34,
+      "fatG": 0.37,
+      "satFatG": 0.04,
+      "transFatG": 0,
+      "carbsG": 6.6,
+      "sugarG": 1.7,
+      "fibreG": 2.6,
+      "proteinG": 2.8,
+      "sodiumMg": 33
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "Sulforaphane, one of the most studied anti-cancer plant compounds",
+      "More vitamin C by weight than an orange",
+      "Good protein for a vegetable"
+    ],
+    "warnings": [
+      "Can cause gas and bloating in sensitive stomachs",
+      "Large amounts may interfere with thyroid function if you are iodine deficient"
+    ],
+    "note": "Steam it, do not boil it. Boiling leaches out most of the sulforaphane and vitamin C.",
+    "safeLimit": null,
+    "piece": null
+  },
+  {
+    "id": "potato-boiled",
+    "name": "Potato (Boiled)",
+    "brand": "Fresh produce",
+    "categoryId": "vegetables",
+    "emoji": "🥔",
+    "processing": "minimally-processed",
+    "keywords": [
+      "potato",
+      "aloo",
+      "boiled potato"
+    ],
+    "serving": {
+      "amount": 150,
+      "unit": "g",
+      "label": "1 medium potato (150 g)"
+    },
+    "nutrition": {
+      "energyKcal": 87,
+      "fatG": 0.1,
+      "satFatG": 0.03,
+      "transFatG": 0,
+      "carbsG": 20.1,
+      "sugarG": 0.85,
+      "fibreG": 1.8,
+      "proteinG": 1.9,
+      "sodiumMg": 4
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "More potassium than a banana",
+      "Vitamin C survives boiling reasonably well",
+      "Cooled boiled potato forms resistant starch, which feeds gut bacteria"
+    ],
+    "warnings": [
+      "High glycaemic index — it spikes blood sugar quickly",
+      "Green patches and sprouts contain solanine, which is toxic. Cut them away"
+    ],
+    "note": "The potato is not the problem. What we usually do to it — deep frying, salting, crisping — is.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 150,
+      "name": "potato",
+      "plural": "potatoes"
+    }
+  },
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "brand": "Fresh produce",
+    "categoryId": "vegetables",
+    "emoji": "🍅",
+    "processing": "whole",
+    "keywords": [
+      "tomato",
+      "tamatar",
+      "salad"
+    ],
+    "serving": {
+      "amount": 123,
+      "unit": "g",
+      "label": "1 medium tomato (123 g)"
+    },
+    "nutrition": {
+      "energyKcal": 18,
+      "fatG": 0.2,
+      "satFatG": 0.03,
+      "transFatG": 0,
+      "carbsG": 3.9,
+      "sugarG": 2.6,
+      "fibreG": 1.2,
+      "proteinG": 0.9,
+      "sodiumMg": 5
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "Lycopene, strongly linked to lower prostate cancer risk",
+      "Vitamin C and potassium",
+      "Almost no calories"
+    ],
+    "warnings": [
+      "Acidic — can worsen acid reflux",
+      "Nightshade family; a small number of people with arthritis report flare-ups"
+    ],
+    "note": "Cooking tomatoes actually increases the lycopene you can absorb, unlike most nutrients.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 123,
+      "name": "tomato",
+      "plural": "tomatoes"
+    }
+  },
+  {
+    "id": "onion",
+    "name": "Onion",
+    "brand": "Fresh produce",
+    "categoryId": "vegetables",
+    "emoji": "🧅",
+    "processing": "whole",
+    "keywords": [
+      "onion",
+      "pyaz",
+      "allium"
+    ],
+    "serving": {
+      "amount": 110,
+      "unit": "g",
+      "label": "1 medium onion (110 g)"
+    },
+    "nutrition": {
+      "energyKcal": 40,
+      "fatG": 0.1,
+      "satFatG": 0.04,
+      "transFatG": 0,
+      "carbsG": 9.3,
+      "sugarG": 4.2,
+      "fibreG": 1.7,
+      "proteinG": 1.1,
+      "sodiumMg": 4
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "Quercetin, an anti-inflammatory antioxidant",
+      "Prebiotic fibre that feeds beneficial gut bacteria",
+      "Sulphur compounds linked to lower cholesterol"
+    ],
+    "warnings": [
+      "A common IBS trigger because of its FODMAP content",
+      "Raw onion worsens acid reflux in some people"
+    ],
+    "note": "Raw onion keeps more of its sulphur compounds than cooked. Slice it and let it sit ten minutes before eating.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 110,
+      "name": "onion",
+      "plural": "onions"
+    }
+  },
+  {
+    "id": "potato-chips",
+    "name": "Potato Chips (Salted)",
+    "brand": "Packaged crisps",
+    "categoryId": "snacks",
+    "emoji": "🍟",
+    "processing": "ultra-processed",
+    "keywords": [
+      "chips",
+      "crisps",
+      "wafers",
+      "potato chips",
+      "lays",
+      "salted chips"
+    ],
+    "serving": {
+      "amount": 30,
+      "unit": "g",
+      "label": "1 small pack (30 g)"
+    },
+    "nutrition": {
+      "energyKcal": 536,
+      "fatG": 34.6,
+      "satFatG": 3.1,
+      "transFatG": 0.2,
+      "carbsG": 53,
+      "sugarG": 0.3,
+      "fibreG": 4.4,
+      "proteinG": 7,
+      "sodiumMg": 525
+    },
+    "additives": [
+      "e621",
+      "e319",
+      "palmoil",
+      "acrylamide"
+    ],
+    "allergens": [],
+    "benefits": [
+      "Some potassium and fibre survive from the potato"
+    ],
+    "warnings": [
+      "Deep frying at high heat generates acrylamide, a probable carcinogen",
+      "Very high sodium — one pack is a quarter of your daily limit",
+      "Engineered salt-fat-crunch combination that makes stopping genuinely hard"
+    ],
+    "note": "The single worst thing here is not the fat, it is that a 30 g pack is almost impossible to stop at.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 30,
+      "name": "pack",
+      "plural": "packs"
+    }
+  },
+  {
+    "id": "nacho-chips",
+    "name": "Nacho Cheese Tortilla Chips",
+    "brand": "Packaged corn chips",
+    "categoryId": "snacks",
+    "emoji": "🌮",
+    "processing": "ultra-processed",
+    "keywords": [
+      "nachos",
+      "tortilla chips",
+      "doritos",
+      "corn chips",
+      "cheese chips"
+    ],
+    "serving": {
+      "amount": 28,
+      "unit": "g",
+      "label": "1 serving (28 g)"
+    },
+    "nutrition": {
+      "energyKcal": 498,
+      "fatG": 26,
+      "satFatG": 3.5,
+      "transFatG": 0.1,
+      "carbsG": 60,
+      "sugarG": 3.5,
+      "fibreG": 4.5,
+      "proteinG": 7,
+      "sodiumMg": 700
+    },
+    "additives": [
+      "e621",
+      "e631",
+      "e110",
+      "maltodextrin",
+      "palmoil"
+    ],
+    "allergens": [
+      "milk",
+      "soy"
+    ],
+    "benefits": [
+      "Whole corn provides a little fibre"
+    ],
+    "warnings": [
+      "Contains Sunset Yellow, tied to hyperactivity in children",
+      "MSG plus disodium inosinate is a double flavour-enhancer load",
+      "700 mg sodium per 100 g"
+    ],
+    "note": "The cheese flavour is almost entirely maltodextrin, MSG and colour. There is very little actual cheese.",
+    "safeLimit": null,
+    "piece": null
+  },
+  {
+    "id": "corn-puffs",
+    "name": "Cheese Corn Puffs",
+    "brand": "Extruded snack",
+    "categoryId": "snacks",
+    "emoji": "🧀",
+    "processing": "ultra-processed",
+    "keywords": [
+      "cheese balls",
+      "kurkure",
+      "cheetos",
+      "corn puffs",
+      "puffs"
+    ],
+    "serving": {
+      "amount": 25,
+      "unit": "g",
+      "label": "1 small pack (25 g)"
+    },
+    "nutrition": {
+      "energyKcal": 540,
+      "fatG": 33,
+      "satFatG": 5,
+      "transFatG": 0.2,
+      "carbsG": 54,
+      "sugarG": 3,
+      "fibreG": 1,
+      "proteinG": 6,
+      "sodiumMg": 900
+    },
+    "additives": [
+      "e621",
+      "e102",
+      "e110",
+      "maltodextrin",
+      "e319"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "benefits": [],
+    "warnings": [
+      "Two synthetic azo dyes that carry hyperactivity warnings in the EU",
+      "900 mg sodium per 100 g, among the saltiest snacks sold",
+      "Almost no fibre — it is refined starch, oil, salt and colour"
+    ],
+    "note": "Marketed hardest at children, which is exactly the group the colours in it are flagged for.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 25,
+      "name": "pack",
+      "plural": "packs"
+    }
+  },
+  {
+    "id": "salted-peanuts",
+    "name": "Roasted Salted Peanuts",
+    "brand": "Packaged nuts",
+    "categoryId": "snacks",
+    "emoji": "🥜",
+    "processing": "processed",
+    "keywords": [
+      "peanuts",
+      "moongphali",
+      "nuts",
+      "salted peanuts"
+    ],
+    "serving": {
+      "amount": 30,
+      "unit": "g",
+      "label": "1 small handful (30 g)"
+    },
+    "nutrition": {
+      "energyKcal": 587,
+      "fatG": 49,
+      "satFatG": 7,
+      "transFatG": 0,
+      "carbsG": 21,
+      "sugarG": 4.7,
+      "fibreG": 8,
+      "proteinG": 26,
+      "sodiumMg": 400
+    },
+    "additives": [],
+    "allergens": [
+      "peanuts"
+    ],
+    "benefits": [
+      "26 g of protein per 100 g",
+      "Mostly monounsaturated fat, the heart-friendly kind",
+      "High fibre and good magnesium content"
+    ],
+    "warnings": [
+      "One of the most severe allergens in existence",
+      "Added salt pushes sodium up unnecessarily — buy unsalted",
+      "Poorly stored peanuts can carry aflatoxin, a liver carcinogen"
+    ],
+    "note": "Genuinely good food wrapped in unnecessary salt. Unsalted roasted peanuts score much better.",
+    "safeLimit": null,
+    "piece": null
+  },
+  {
+    "id": "bhujia",
+    "name": "Bhujia / Fried Sev",
+    "brand": "Namkeen",
+    "categoryId": "snacks",
+    "emoji": "🍜",
+    "processing": "ultra-processed",
+    "keywords": [
+      "bhujia",
+      "sev",
+      "namkeen",
+      "mixture",
+      "farsan",
+      "indian snack"
+    ],
+    "serving": {
+      "amount": 30,
+      "unit": "g",
+      "label": "1 small bowl (30 g)"
+    },
+    "nutrition": {
+      "energyKcal": 570,
+      "fatG": 38,
+      "satFatG": 16,
+      "transFatG": 0.5,
+      "carbsG": 42,
+      "sugarG": 2,
+      "fibreG": 6,
+      "proteinG": 15,
+      "sodiumMg": 850
+    },
+    "additives": [
+      "palmoil",
+      "e319",
+      "e102",
+      "acrylamide"
+    ],
+    "allergens": [
+      "peanuts"
+    ],
+    "benefits": [
+      "Gram flour base gives it real protein and fibre"
+    ],
+    "warnings": [
+      "16 g saturated fat per 100 g from palm oil",
+      "Repeatedly reused frying oil raises trans fat further",
+      "Tartrazine colour is added purely for appearance"
+    ],
+    "note": "The gram flour is fine. The palm oil it is fried in, and how often it gets reused, is the problem.",
+    "safeLimit": null,
+    "piece": null
+  },
+  {
+    "id": "popcorn-plain",
+    "name": "Popcorn (Air-popped, Plain)",
+    "brand": "Home-made",
+    "categoryId": "snacks",
+    "emoji": "🍿",
+    "processing": "minimally-processed",
+    "keywords": [
+      "popcorn",
+      "air popped",
+      "corn",
+      "movie snack"
+    ],
+    "serving": {
+      "amount": 25,
+      "unit": "g",
+      "label": "3 cups popped (25 g)"
+    },
+    "nutrition": {
+      "energyKcal": 387,
+      "fatG": 4.5,
+      "satFatG": 0.6,
+      "transFatG": 0,
+      "carbsG": 78,
+      "sugarG": 0.9,
+      "fibreG": 15,
+      "proteinG": 12,
+      "sodiumMg": 8
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "A whole grain, with 15 g of fibre per 100 g",
+      "Very high volume for very few calories",
+      "Polyphenol content comparable to some fruits"
+    ],
+    "warnings": [
+      "Microwave popcorn is a different food entirely — bag coatings and butter flavouring change the picture",
+      "Hulls can lodge in the gums"
+    ],
+    "note": "The best snack on this list, provided you pop it yourself and skip the butter and salt.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 8,
+      "name": "cup",
+      "plural": "cups"
+    }
+  },
+  {
+    "id": "cola",
+    "name": "Cola (Regular)",
+    "brand": "Carbonated soft drink",
+    "categoryId": "beverages",
+    "emoji": "🥤",
+    "processing": "ultra-processed",
+    "keywords": [
+      "cola",
+      "coke",
+      "pepsi",
+      "soft drink",
+      "soda",
+      "fizzy drink",
+      "cold drink"
+    ],
+    "serving": {
+      "amount": 330,
+      "unit": "ml",
+      "label": "1 can (330 ml)"
+    },
+    "nutrition": {
+      "energyKcal": 42,
+      "fatG": 0,
+      "satFatG": 0,
+      "transFatG": 0,
+      "carbsG": 10.6,
+      "sugarG": 10.6,
+      "fibreG": 0,
+      "proteinG": 0,
+      "sodiumMg": 4
+    },
+    "additives": [
+      "hfcs",
+      "e150d",
+      "e338",
+      "caffeine"
+    ],
+    "allergens": [],
+    "benefits": [],
+    "warnings": [
+      "One can holds about 35 g of sugar — more than a full day's limit",
+      "Phosphoric acid is linked to lower bone density and enamel erosion",
+      "Liquid sugar does not trigger fullness, so it is added on top of everything else you eat"
+    ],
+    "note": "A single can blows past the WHO daily sugar cap. There is no nutritional upside to weigh against it.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 330,
+      "name": "can",
+      "plural": "cans"
+    }
+  },
+  {
+    "id": "diet-cola",
+    "name": "Diet Cola (Zero Sugar)",
+    "brand": "Carbonated soft drink",
+    "categoryId": "beverages",
+    "emoji": "🫙",
+    "processing": "ultra-processed",
+    "keywords": [
+      "diet coke",
+      "coke zero",
+      "pepsi max",
+      "sugar free cola",
+      "zero sugar"
+    ],
+    "serving": {
+      "amount": 330,
+      "unit": "ml",
+      "label": "1 can (330 ml)"
+    },
+    "nutrition": {
+      "energyKcal": 0.3,
+      "fatG": 0,
+      "satFatG": 0,
+      "transFatG": 0,
+      "carbsG": 0.09,
+      "sugarG": 0,
+      "fibreG": 0,
+      "proteinG": 0.1,
+      "sodiumMg": 12
+    },
+    "additives": [
+      "e951",
+      "e950",
+      "e150d",
+      "e338",
+      "caffeine"
+    ],
+    "allergens": [],
+    "benefits": [
+      "No sugar and effectively no calories",
+      "A genuine step down from regular cola if you are switching"
+    ],
+    "warnings": [
+      "Aspartame was classed as possibly carcinogenic by IARC in 2023",
+      "Unsafe for anyone with phenylketonuria",
+      "Still acidic enough to erode enamel, and still keeps the sweet-craving cycle going"
+    ],
+    "note": "Better than full-sugar cola, but that is a low bar. It is not a health drink.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 330,
+      "name": "can",
+      "plural": "cans"
+    }
+  },
+  {
+    "id": "orange-soda",
+    "name": "Orange Soft Drink",
+    "brand": "Carbonated soft drink",
+    "categoryId": "beverages",
+    "emoji": "🍊",
+    "processing": "ultra-processed",
+    "keywords": [
+      "fanta",
+      "mirinda",
+      "orange soda",
+      "orange drink",
+      "fizzy"
+    ],
+    "serving": {
+      "amount": 330,
+      "unit": "ml",
+      "label": "1 can (330 ml)"
+    },
+    "nutrition": {
+      "energyKcal": 45,
+      "fatG": 0,
+      "satFatG": 0,
+      "transFatG": 0,
+      "carbsG": 11.2,
+      "sugarG": 11,
+      "fibreG": 0,
+      "proteinG": 0,
+      "sodiumMg": 10
+    },
+    "additives": [
+      "e110",
+      "e211",
+      "hfcs",
+      "e330"
+    ],
+    "allergens": [],
+    "benefits": [],
+    "warnings": [
+      "Sunset Yellow colour carries an EU hyperactivity warning",
+      "Sodium benzoate alongside added vitamin C can form traces of benzene",
+      "36 g of sugar per can, with no fruit content worth mentioning"
+    ],
+    "note": "Despite the fruit on the label, most orange sodas contain little or no actual juice.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 330,
+      "name": "can",
+      "plural": "cans"
+    }
+  },
+  {
+    "id": "packaged-juice",
+    "name": "Packaged Mango Juice",
+    "brand": "Tetra pack juice",
+    "categoryId": "beverages",
+    "emoji": "🧃",
+    "processing": "processed",
+    "keywords": [
+      "juice",
+      "mango juice",
+      "frooti",
+      "maaza",
+      "tetra pack",
+      "fruit drink"
+    ],
+    "serving": {
+      "amount": 200,
+      "unit": "ml",
+      "label": "1 tetra pack (200 ml)"
+    },
+    "nutrition": {
+      "energyKcal": 54,
+      "fatG": 0.1,
+      "satFatG": 0,
+      "transFatG": 0,
+      "carbsG": 13,
+      "sugarG": 12.5,
+      "fibreG": 0.2,
+      "proteinG": 0.1,
+      "sodiumMg": 5
+    },
+    "additives": [
+      "e330",
+      "e223",
+      "e300"
+    ],
+    "allergens": [
+      "sulphites"
+    ],
+    "benefits": [
+      "Some vitamin C, usually added back after processing"
+    ],
+    "warnings": [
+      "Most so-called juices are under 20% fruit; the rest is sugar and water",
+      "Sulphite preservative is an asthma trigger",
+      "All the fibre is stripped out, so the sugar hits fast"
+    ],
+    "note": "Check the label for the actual fruit percentage. If it says fruit drink rather than juice, it is mostly sugar water.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 200,
+      "name": "pack",
+      "plural": "packs"
+    }
+  },
+  {
+    "id": "energy-drink",
+    "name": "Energy Drink",
+    "brand": "Canned energy drink",
+    "categoryId": "beverages",
+    "emoji": "⚡",
+    "processing": "ultra-processed",
+    "keywords": [
+      "energy drink",
+      "red bull",
+      "monster",
+      "sting",
+      "caffeine drink"
+    ],
+    "serving": {
+      "amount": 250,
+      "unit": "ml",
+      "label": "1 can (250 ml)"
+    },
+    "nutrition": {
+      "energyKcal": 45,
+      "fatG": 0,
+      "satFatG": 0,
+      "transFatG": 0,
+      "carbsG": 11,
+      "sugarG": 11,
+      "fibreG": 0,
+      "proteinG": 0.4,
+      "sodiumMg": 40
+    },
+    "additives": [
+      "caffeine",
+      "e211",
+      "e951",
+      "e129",
+      "e330"
+    ],
+    "allergens": [],
+    "benefits": [
+      "Short-term alertness from the caffeine"
+    ],
+    "warnings": [
+      "80 mg or more of caffeine per can, on top of sugar",
+      "Linked to heart rhythm disturbances in young people",
+      "Genuinely dangerous mixed with alcohol — it masks how drunk you are",
+      "Not suitable for children or pregnant women"
+    ],
+    "note": "The combination of a big caffeine dose with a big sugar dose is what makes these harder on the heart than coffee.",
+    "safeLimit": {
+      "amount": 250,
+      "unit": "ml",
+      "period": "day",
+      "note": "One can maximum for a healthy adult, and none at all for under-18s, pregnant women, or anyone with a heart condition."
+    },
+    "piece": {
+      "amount": 250,
+      "name": "can",
+      "plural": "cans"
+    }
+  },
+  {
+    "id": "coconut-water",
+    "name": "Tender Coconut Water",
+    "brand": "Fresh",
+    "categoryId": "beverages",
+    "emoji": "🥥",
+    "processing": "whole",
+    "keywords": [
+      "coconut water",
+      "nariyal pani",
+      "tender coconut",
+      "electrolyte drink"
+    ],
+    "serving": {
+      "amount": 240,
+      "unit": "ml",
+      "label": "1 glass (240 ml)"
+    },
+    "nutrition": {
+      "energyKcal": 19,
+      "fatG": 0.2,
+      "satFatG": 0.18,
+      "transFatG": 0,
+      "carbsG": 3.7,
+      "sugarG": 2.6,
+      "fibreG": 1.1,
+      "proteinG": 0.7,
+      "sodiumMg": 105
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "Natural electrolytes — potassium, sodium and magnesium",
+      "Genuinely effective rehydration after heat or exercise",
+      "Very low sugar compared with any sports drink"
+    ],
+    "warnings": [
+      "High potassium makes it unsuitable in kidney disease",
+      "Bottled versions often have added sugar and preservatives"
+    ],
+    "note": "Drink it straight from the coconut. Bottled coconut water is a different and much weaker product.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 240,
+      "name": "glass",
+      "plural": "glasses"
+    }
+  },
+  {
+    "id": "green-tea",
+    "name": "Green Tea (Unsweetened)",
+    "brand": "Brewed",
+    "categoryId": "beverages",
+    "emoji": "🍵",
+    "processing": "minimally-processed",
+    "keywords": [
+      "green tea",
+      "tea",
+      "chai",
+      "matcha",
+      "brewed tea"
+    ],
+    "serving": {
+      "amount": 240,
+      "unit": "ml",
+      "label": "1 cup (240 ml)"
+    },
+    "nutrition": {
+      "energyKcal": 1,
+      "fatG": 0,
+      "satFatG": 0,
+      "transFatG": 0,
+      "carbsG": 0.2,
+      "sugarG": 0,
+      "fibreG": 0,
+      "proteinG": 0.2,
+      "sodiumMg": 1
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "Catechins (EGCG), among the best-studied antioxidants there are",
+      "Mild caffeine lift without the crash",
+      "Associated with lower cardiovascular risk in long-term studies"
+    ],
+    "warnings": [
+      "Tannins block iron absorption — do not drink it with meals if you are anaemic",
+      "Still contains caffeine, so avoid it late in the evening"
+    ],
+    "note": "Brew at about 80 C. Boiling water scorches the leaves and makes it bitter.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 240,
+      "name": "cup",
+      "plural": "cups"
+    }
+  },
+  {
+    "id": "whole-milk",
+    "name": "Whole Milk",
+    "brand": "Dairy",
+    "categoryId": "dairy",
+    "emoji": "🥛",
+    "processing": "minimally-processed",
+    "keywords": [
+      "milk",
+      "doodh",
+      "whole milk",
+      "full cream milk"
+    ],
+    "serving": {
+      "amount": 240,
+      "unit": "ml",
+      "label": "1 glass (240 ml)"
+    },
+    "nutrition": {
+      "energyKcal": 61,
+      "fatG": 3.3,
+      "satFatG": 1.9,
+      "transFatG": 0,
+      "carbsG": 5.1,
+      "sugarG": 5.1,
+      "fibreG": 0,
+      "proteinG": 3.2,
+      "sodiumMg": 43
+    },
+    "additives": [],
+    "allergens": [
+      "milk"
+    ],
+    "benefits": [
+      "Complete protein with all essential amino acids",
+      "Calcium and vitamin D for bone density",
+      "Vitamin B12, hard to get outside animal foods"
+    ],
+    "warnings": [
+      "Around 65% of adults worldwide are lactose intolerant to some degree",
+      "One of the most common childhood allergies",
+      "Saturated fat adds up if you drink several glasses a day"
+    ],
+    "note": "The sugar shown is lactose, which occurs naturally. It does not count toward your added-sugar limit.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 240,
+      "name": "glass",
+      "plural": "glasses"
+    }
+  },
+  {
+    "id": "curd",
+    "name": "Plain Curd / Yoghurt",
+    "brand": "Dairy",
+    "categoryId": "dairy",
+    "emoji": "🍦",
+    "processing": "minimally-processed",
+    "keywords": [
+      "curd",
+      "dahi",
+      "yoghurt",
+      "yogurt",
+      "plain yoghurt"
+    ],
+    "serving": {
+      "amount": 150,
+      "unit": "g",
+      "label": "1 small bowl (150 g)"
+    },
+    "nutrition": {
+      "energyKcal": 61,
+      "fatG": 3.3,
+      "satFatG": 2.1,
+      "transFatG": 0,
+      "carbsG": 4.7,
+      "sugarG": 4.7,
+      "fibreG": 0,
+      "proteinG": 3.5,
+      "sodiumMg": 46
+    },
+    "additives": [],
+    "allergens": [
+      "milk"
+    ],
+    "benefits": [
+      "Live probiotic cultures that support gut health",
+      "Easier to digest than milk — fermentation breaks down much of the lactose",
+      "Calcium and protein without any additives"
+    ],
+    "warnings": [
+      "Still a dairy allergen",
+      "Set at home or check the label; some commercial curd contains thickeners"
+    ],
+    "note": "One of the few dairy products that is better for you than the milk it came from.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 150,
+      "name": "bowl",
+      "plural": "bowls"
+    }
+  },
+  {
+    "id": "flavoured-yoghurt",
+    "name": "Fruit Flavoured Yoghurt",
+    "brand": "Packaged dairy",
+    "categoryId": "dairy",
+    "emoji": "🍓",
+    "processing": "ultra-processed",
+    "keywords": [
+      "flavoured yoghurt",
+      "fruit yogurt",
+      "strawberry yoghurt",
+      "yogurt cup"
+    ],
+    "serving": {
+      "amount": 125,
+      "unit": "g",
+      "label": "1 cup (125 g)"
+    },
+    "nutrition": {
+      "energyKcal": 95,
+      "fatG": 2.5,
+      "satFatG": 1.6,
+      "transFatG": 0,
+      "carbsG": 15,
+      "sugarG": 14,
+      "fibreG": 0.2,
+      "proteinG": 3.5,
+      "sodiumMg": 50
+    },
+    "additives": [
+      "hfcs",
+      "e120",
+      "e415",
+      "e330"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "benefits": [
+      "Retains the protein and calcium of plain yoghurt",
+      "Some products still carry live cultures"
+    ],
+    "warnings": [
+      "14 g of sugar per 100 g — roughly three times plain curd",
+      "Carmine colouring is insect-derived and not vegetarian",
+      "Real fruit content is usually under 5%"
+    ],
+    "note": "Buy plain curd and add your own fruit. You cut the sugar by two thirds and lose nothing.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 125,
+      "name": "cup",
+      "plural": "cups"
+    }
+  },
+  {
+    "id": "paneer",
+    "name": "Paneer / Cottage Cheese",
+    "brand": "Dairy",
+    "categoryId": "dairy",
+    "emoji": "🧀",
+    "processing": "processed",
+    "keywords": [
+      "paneer",
+      "cottage cheese",
+      "chenna",
+      "fresh cheese"
+    ],
+    "serving": {
+      "amount": 100,
+      "unit": "g",
+      "label": "1 serving (100 g)"
+    },
+    "nutrition": {
+      "energyKcal": 265,
+      "fatG": 20,
+      "satFatG": 13,
+      "transFatG": 0,
+      "carbsG": 6,
+      "sugarG": 2.6,
+      "fibreG": 0,
+      "proteinG": 18,
+      "sodiumMg": 22
+    },
+    "additives": [],
+    "allergens": [
+      "milk"
+    ],
+    "benefits": [
+      "18 g of protein per 100 g, excellent for vegetarians",
+      "Very high calcium",
+      "No additives when made fresh"
+    ],
+    "warnings": [
+      "13 g saturated fat per 100 g — this is a rich food",
+      "Adulteration with starch or detergent is common in loose market paneer",
+      "Spoils fast; refrigerate and use within two days"
+    ],
+    "note": "Excellent protein, but calorie-dense. A 100 g portion is a serving, not a snack.",
+    "safeLimit": null,
+    "piece": null
+  },
+  {
+    "id": "processed-cheese",
+    "name": "Processed Cheese Slice",
+    "brand": "Packaged cheese",
+    "categoryId": "dairy",
+    "emoji": "🟨",
+    "processing": "ultra-processed",
+    "keywords": [
+      "cheese slice",
+      "processed cheese",
+      "burger cheese",
+      "cheese singles"
+    ],
+    "serving": {
+      "amount": 20,
+      "unit": "g",
+      "label": "1 slice (20 g)"
+    },
+    "nutrition": {
+      "energyKcal": 330,
+      "fatG": 25,
+      "satFatG": 16,
+      "transFatG": 0,
+      "carbsG": 8,
+      "sugarG": 5,
+      "fibreG": 0,
+      "proteinG": 18,
+      "sodiumMg": 1300
+    },
+    "additives": [
+      "e330",
+      "e471",
+      "e160a"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "benefits": [
+      "Decent protein and calcium",
+      "Long shelf life"
+    ],
+    "warnings": [
+      "1300 mg sodium per 100 g — among the saltiest foods in a normal diet",
+      "16 g saturated fat per 100 g",
+      "Legally often cannot be called cheese; it is a cheese product with emulsifying salts"
+    ],
+    "note": "Two slices in a sandwich is over a quarter of your daily sodium before you add anything else.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 20,
+      "name": "slice",
+      "plural": "slices"
+    }
+  },
+  {
+    "id": "butter",
+    "name": "Butter",
+    "brand": "Dairy",
+    "categoryId": "dairy",
+    "emoji": "🧈",
+    "processing": "processed",
+    "keywords": [
+      "butter",
+      "makhan",
+      "amul butter",
+      "salted butter"
+    ],
+    "serving": {
+      "amount": 10,
+      "unit": "g",
+      "label": "1 teaspoon (10 g)"
+    },
+    "nutrition": {
+      "energyKcal": 717,
+      "fatG": 81,
+      "satFatG": 51,
+      "transFatG": 0,
+      "carbsG": 0.1,
+      "sugarG": 0.1,
+      "fibreG": 0,
+      "proteinG": 0.85,
+      "sodiumMg": 576
+    },
+    "additives": [],
+    "allergens": [
+      "milk"
+    ],
+    "benefits": [
+      "Fat-soluble vitamins A, D, E and K2",
+      "Butyrate, which supports the gut lining",
+      "No additives in plain butter"
+    ],
+    "warnings": [
+      "51 g saturated fat per 100 g, the highest on this list",
+      "Salted butter adds a surprising amount of sodium",
+      "Very easy to over-apply without noticing"
+    ],
+    "note": "The small amount of trans fat in butter is ruminant trans fat, which does not behave like the industrial kind, so it is not counted against it here.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 10,
+      "name": "teaspoon",
+      "plural": "teaspoons"
+    }
+  },
+  {
+    "id": "white-bread",
+    "name": "White Bread",
+    "brand": "Packaged bakery",
+    "categoryId": "bakery",
+    "emoji": "🍞",
+    "processing": "processed",
+    "keywords": [
+      "white bread",
+      "bread",
+      "sandwich bread",
+      "pav",
+      "loaf"
+    ],
+    "serving": {
+      "amount": 30,
+      "unit": "g",
+      "label": "1 slice (30 g)"
+    },
+    "nutrition": {
+      "energyKcal": 265,
+      "fatG": 3.2,
+      "satFatG": 0.7,
+      "transFatG": 0.1,
+      "carbsG": 49,
+      "sugarG": 5,
+      "fibreG": 2.7,
+      "proteinG": 9,
+      "sodiumMg": 490
+    },
+    "additives": [
+      "e471",
+      "e300",
+      "palmoil"
+    ],
+    "allergens": [
+      "wheat",
+      "gluten",
+      "soy"
+    ],
+    "benefits": [
+      "Usually fortified with B vitamins and iron",
+      "Cheap, filling energy"
+    ],
+    "warnings": [
+      "Refined flour with the bran and germ removed, so most fibre is gone",
+      "High glycaemic index — it spikes blood sugar like sugar does",
+      "490 mg sodium per 100 g is easy to overlook in a staple"
+    ],
+    "note": "Bread is where hidden salt sneaks into most diets, simply because people eat so much of it.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 30,
+      "name": "slice",
+      "plural": "slices"
+    }
+  },
+  {
+    "id": "whole-wheat-roti",
+    "name": "Whole Wheat Roti / Chapati",
+    "brand": "Home-made",
+    "categoryId": "bakery",
+    "emoji": "🫓",
+    "processing": "minimally-processed",
+    "keywords": [
+      "roti",
+      "chapati",
+      "phulka",
+      "whole wheat",
+      "flatbread",
+      "atta"
+    ],
+    "serving": {
+      "amount": 40,
+      "unit": "g",
+      "label": "1 roti (40 g)"
+    },
+    "nutrition": {
+      "energyKcal": 264,
+      "fatG": 5.5,
+      "satFatG": 1,
+      "transFatG": 0,
+      "carbsG": 47,
+      "sugarG": 1.2,
+      "fibreG": 7.5,
+      "proteinG": 9,
+      "sodiumMg": 120
+    },
+    "additives": [],
+    "allergens": [
+      "wheat",
+      "gluten"
+    ],
+    "benefits": [
+      "Whole grain, so the fibre and germ are intact",
+      "Slow-release energy with a moderate glycaemic index",
+      "No additives or preservatives when made at home"
+    ],
+    "warnings": [
+      "Not suitable for coeliac disease or gluten sensitivity",
+      "Adding ghee or butter on top changes the picture considerably"
+    ],
+    "note": "One of the best staples on this list — as long as it is genuine whole wheat atta rather than refined maida.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 40,
+      "name": "roti",
+      "plural": "rotis"
+    }
+  },
+  {
+    "id": "cream-biscuits",
+    "name": "Cream Filled Biscuits",
+    "brand": "Packaged biscuits",
+    "categoryId": "bakery",
+    "emoji": "🍪",
+    "processing": "ultra-processed",
+    "keywords": [
+      "cream biscuits",
+      "oreo",
+      "bourbon",
+      "sandwich biscuit",
+      "cookies"
+    ],
+    "serving": {
+      "amount": 30,
+      "unit": "g",
+      "label": "3 biscuits (30 g)"
+    },
+    "nutrition": {
+      "energyKcal": 480,
+      "fatG": 21,
+      "satFatG": 11,
+      "transFatG": 0.5,
+      "carbsG": 68,
+      "sugarG": 32,
+      "fibreG": 1.5,
+      "proteinG": 5,
+      "sodiumMg": 300
+    },
+    "additives": [
+      "palmoil",
+      "e322",
+      "e471",
+      "e102",
+      "maltodextrin"
+    ],
+    "allergens": [
+      "wheat",
+      "gluten",
+      "milk",
+      "soy"
+    ],
+    "benefits": [],
+    "warnings": [
+      "32 g sugar per 100 g — a third of the biscuit is sugar",
+      "Palm oil pushes saturated fat to 11 g per 100 g",
+      "Refined flour, refined sugar and refined fat with almost no fibre"
+    ],
+    "note": "The cream filling is sugar and palm oil whipped together. There is no dairy cream in it.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 10,
+      "name": "biscuit",
+      "plural": "biscuits"
+    }
+  },
+  {
+    "id": "marie-biscuit",
+    "name": "Marie / Digestive Biscuit",
+    "brand": "Packaged biscuits",
+    "categoryId": "bakery",
+    "emoji": "🥠",
+    "processing": "processed",
+    "keywords": [
+      "marie biscuit",
+      "digestive",
+      "tea biscuit",
+      "parle g",
+      "plain biscuit"
+    ],
+    "serving": {
+      "amount": 25,
+      "unit": "g",
+      "label": "4 biscuits (25 g)"
+    },
+    "nutrition": {
+      "energyKcal": 450,
+      "fatG": 15,
+      "satFatG": 7,
+      "transFatG": 0.2,
+      "carbsG": 71,
+      "sugarG": 20,
+      "fibreG": 3,
+      "proteinG": 7,
+      "sodiumMg": 400
+    },
+    "additives": [
+      "palmoil",
+      "e471",
+      "e300"
+    ],
+    "allergens": [
+      "wheat",
+      "gluten",
+      "milk"
+    ],
+    "benefits": [
+      "Lower sugar than cream biscuits",
+      "Some fibre in the wholemeal versions"
+    ],
+    "warnings": [
+      "Still 20 g sugar per 100 g despite the plain, healthy-looking image",
+      "Palm oil is the main fat",
+      "The word digestive is marketing, not a health claim"
+    ],
+    "note": "Better than a cream biscuit, but it is still a sweet refined-flour snack, not a health food.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 6,
+      "name": "biscuit",
+      "plural": "biscuits"
+    }
+  },
+  {
+    "id": "frosted-cereal",
+    "name": "Frosted Breakfast Cereal",
+    "brand": "Packaged cereal",
+    "categoryId": "bakery",
+    "emoji": "🥣",
+    "processing": "ultra-processed",
+    "keywords": [
+      "cereal",
+      "corn flakes",
+      "frosted flakes",
+      "chocos",
+      "breakfast cereal"
+    ],
+    "serving": {
+      "amount": 30,
+      "unit": "g",
+      "label": "1 bowl (30 g)"
+    },
+    "nutrition": {
+      "energyKcal": 375,
+      "fatG": 0.9,
+      "satFatG": 0.3,
+      "transFatG": 0,
+      "carbsG": 88,
+      "sugarG": 36,
+      "fibreG": 2.5,
+      "proteinG": 6,
+      "sodiumMg": 500
+    },
+    "additives": [
+      "hfcs",
+      "e320",
+      "maltodextrin",
+      "e160a"
+    ],
+    "allergens": [
+      "wheat",
+      "gluten",
+      "milk"
+    ],
+    "benefits": [
+      "Fortified with iron and B vitamins",
+      "Low in fat"
+    ],
+    "warnings": [
+      "36 g sugar per 100 g — over a third of the box is sugar",
+      "BHA preservative is listed as a possible human carcinogen",
+      "500 mg sodium per 100 g in a food that tastes purely sweet"
+    ],
+    "note": "Marketed as a healthy breakfast, but by sugar content it sits closer to a biscuit than to a bowl of oats.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 30,
+      "name": "bowl",
+      "plural": "bowls"
+    }
+  },
+  {
+    "id": "rolled-oats",
+    "name": "Rolled Oats (Plain)",
+    "brand": "Packaged grain",
+    "categoryId": "bakery",
+    "emoji": "🌾",
+    "processing": "minimally-processed",
+    "keywords": [
+      "oats",
+      "rolled oats",
+      "oatmeal",
+      "porridge",
+      "quaker oats"
+    ],
+    "serving": {
+      "amount": 40,
+      "unit": "g",
+      "label": "1 bowl dry (40 g)"
+    },
+    "nutrition": {
+      "energyKcal": 389,
+      "fatG": 6.9,
+      "satFatG": 1.2,
+      "transFatG": 0,
+      "carbsG": 66,
+      "sugarG": 1,
+      "fibreG": 10.6,
+      "proteinG": 16.9,
+      "sodiumMg": 2
+    },
+    "additives": [],
+    "allergens": [
+      "gluten"
+    ],
+    "benefits": [
+      "Beta-glucan fibre, proven to lower LDL cholesterol",
+      "16.9 g protein per 100 g, very high for a grain",
+      "Slow-release carbohydrate that keeps you full for hours"
+    ],
+    "warnings": [
+      "Often cross-contaminated with wheat, so check the label if you are coeliac",
+      "Flavoured instant oat sachets are a completely different product, loaded with sugar"
+    ],
+    "note": "Buy plain oats and sweeten them yourself. The flavoured sachets undo most of the benefit.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 40,
+      "name": "bowl",
+      "plural": "bowls"
+    }
+  },
+  {
+    "id": "boiled-egg",
+    "name": "Egg (Boiled)",
+    "brand": "Fresh",
+    "categoryId": "protein",
+    "emoji": "🥚",
+    "processing": "whole",
+    "keywords": [
+      "egg",
+      "anda",
+      "boiled egg",
+      "eggs"
+    ],
+    "serving": {
+      "amount": 50,
+      "unit": "g",
+      "label": "1 large egg (50 g)"
+    },
+    "nutrition": {
+      "energyKcal": 155,
+      "fatG": 11,
+      "satFatG": 3.3,
+      "transFatG": 0,
+      "carbsG": 1.1,
+      "sugarG": 1.1,
+      "fibreG": 0,
+      "proteinG": 13,
+      "sodiumMg": 124
+    },
+    "additives": [],
+    "allergens": [
+      "egg"
+    ],
+    "benefits": [
+      "The reference protein against which all others are measured",
+      "Choline for brain and liver function",
+      "Lutein and zeaxanthin for eye health"
+    ],
+    "warnings": [
+      "A common childhood allergen",
+      "Undercooked eggs carry a salmonella risk",
+      "Dietary cholesterol matters less than once thought, but people with familial hypercholesterolaemia should still moderate"
+    ],
+    "note": "The old advice to limit eggs to two a week has largely been abandoned. One or two a day is fine for most adults.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 50,
+      "name": "egg",
+      "plural": "eggs"
+    }
+  },
+  {
+    "id": "chicken-breast",
+    "name": "Chicken Breast (Cooked)",
+    "brand": "Fresh",
+    "categoryId": "protein",
+    "emoji": "🍗",
+    "processing": "whole",
+    "keywords": [
+      "chicken",
+      "chicken breast",
+      "murgh",
+      "grilled chicken",
+      "poultry"
+    ],
+    "serving": {
+      "amount": 100,
+      "unit": "g",
+      "label": "1 serving (100 g)"
+    },
+    "nutrition": {
+      "energyKcal": 165,
+      "fatG": 3.6,
+      "satFatG": 1,
+      "transFatG": 0,
+      "carbsG": 0,
+      "sugarG": 0,
+      "fibreG": 0,
+      "proteinG": 31,
+      "sodiumMg": 74
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "31 g of complete protein per 100 g",
+      "Very low saturated fat when skinless",
+      "Rich in B vitamins, selenium and phosphorus"
+    ],
+    "warnings": [
+      "Raw chicken is a major salmonella and campylobacter risk — cook to 75 C",
+      "Charring it on a grill creates heterocyclic amines, which are carcinogenic",
+      "Antibiotic residue is a concern with some intensively farmed poultry"
+    ],
+    "note": "One of the cleanest protein sources available. How you cook it decides whether it stays that way.",
+    "safeLimit": null,
+    "piece": null
+  },
+  {
+    "id": "lentils",
+    "name": "Lentils / Dal (Cooked)",
+    "brand": "Home-cooked",
+    "categoryId": "protein",
+    "emoji": "🫘",
+    "processing": "whole",
+    "keywords": [
+      "dal",
+      "lentils",
+      "daal",
+      "pulses",
+      "toor dal",
+      "masoor"
+    ],
+    "serving": {
+      "amount": 200,
+      "unit": "g",
+      "label": "1 bowl (200 g)"
+    },
+    "nutrition": {
+      "energyKcal": 116,
+      "fatG": 0.4,
+      "satFatG": 0.05,
+      "transFatG": 0,
+      "carbsG": 20,
+      "sugarG": 1.8,
+      "fibreG": 7.9,
+      "proteinG": 9,
+      "sodiumMg": 2
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "Protein and fibre in the same package, which is rare",
+      "Folate, iron and potassium",
+      "Low glycaemic index, so blood sugar stays steady"
+    ],
+    "warnings": [
+      "Can cause gas and bloating — soaking before cooking helps",
+      "Contains lectins and phytates, both largely destroyed by proper cooking",
+      "Not a complete protein on its own; pair it with rice or roti"
+    ],
+    "note": "Dal with rice or roti gives you a complete amino acid profile, which is why the combination is a staple across so many cultures.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 200,
+      "name": "bowl",
+      "plural": "bowls"
+    }
+  },
+  {
+    "id": "salami",
+    "name": "Salami / Processed Sausage",
+    "brand": "Packaged cured meat",
+    "categoryId": "protein",
+    "emoji": "🥓",
+    "processing": "ultra-processed",
+    "keywords": [
+      "salami",
+      "sausage",
+      "bacon",
+      "ham",
+      "cured meat",
+      "processed meat",
+      "hot dog"
+    ],
+    "serving": {
+      "amount": 30,
+      "unit": "g",
+      "label": "3 slices (30 g)"
+    },
+    "nutrition": {
+      "energyKcal": 336,
+      "fatG": 26,
+      "satFatG": 9.6,
+      "transFatG": 0.5,
+      "carbsG": 3,
+      "sugarG": 1.5,
+      "fibreG": 0,
+      "proteinG": 22,
+      "sodiumMg": 1740
+    },
+    "additives": [
+      "e250",
+      "e621",
+      "e300"
+    ],
+    "allergens": [],
+    "benefits": [
+      "High protein content"
+    ],
+    "warnings": [
+      "Processed meat is an IARC Group 1 carcinogen — the same confidence category as tobacco smoke",
+      "1740 mg sodium per 100 g, close to a full day's limit",
+      "Sodium nitrite forms nitrosamines when fried at high heat"
+    ],
+    "note": "Group 1 means the evidence that it causes cancer is strong, not that the risk per serving is as large as smoking. Roughly 50 g a day raises colorectal cancer risk by about 18%.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 10,
+      "name": "slice",
+      "plural": "slices"
+    }
+  },
+  {
+    "id": "chickpeas",
+    "name": "Chickpeas (Cooked)",
+    "brand": "Home-cooked",
+    "categoryId": "protein",
+    "emoji": "🧆",
+    "processing": "whole",
+    "keywords": [
+      "chickpeas",
+      "chana",
+      "garbanzo",
+      "chole",
+      "hummus base"
+    ],
+    "serving": {
+      "amount": 165,
+      "unit": "g",
+      "label": "1 cup (165 g)"
+    },
+    "nutrition": {
+      "energyKcal": 164,
+      "fatG": 2.6,
+      "satFatG": 0.27,
+      "transFatG": 0,
+      "carbsG": 27,
+      "sugarG": 4.8,
+      "fibreG": 7.6,
+      "proteinG": 8.9,
+      "sodiumMg": 7
+    },
+    "additives": [],
+    "allergens": [],
+    "benefits": [
+      "High fibre and plant protein together",
+      "Very filling, which helps with weight control",
+      "Good iron, folate and manganese"
+    ],
+    "warnings": [
+      "FODMAP content can trigger IBS symptoms",
+      "Canned versions can carry a lot of added sodium — rinse them"
+    ],
+    "note": "Among the most satiating foods measured. A cup keeps you full far longer than the calories suggest.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 165,
+      "name": "cup",
+      "plural": "cups"
+    }
+  },
+  {
+    "id": "tofu",
+    "name": "Tofu",
+    "brand": "Packaged soy",
+    "categoryId": "protein",
+    "emoji": "⬜",
+    "processing": "minimally-processed",
+    "keywords": [
+      "tofu",
+      "soy paneer",
+      "bean curd",
+      "soya"
+    ],
+    "serving": {
+      "amount": 100,
+      "unit": "g",
+      "label": "1 serving (100 g)"
+    },
+    "nutrition": {
+      "energyKcal": 76,
+      "fatG": 4.8,
+      "satFatG": 0.7,
+      "transFatG": 0,
+      "carbsG": 1.9,
+      "sugarG": 0.6,
+      "fibreG": 0.3,
+      "proteinG": 8,
+      "sodiumMg": 7
+    },
+    "additives": [],
+    "allergens": [
+      "soy"
+    ],
+    "benefits": [
+      "Complete plant protein with all essential amino acids",
+      "Isoflavones associated with lower cardiovascular risk",
+      "Calcium-set tofu is a strong non-dairy calcium source"
+    ],
+    "warnings": [
+      "Soy is a major allergen",
+      "People on thyroid medication should leave a gap between the two",
+      "Flavoured and fried tofu products carry much more sodium and fat"
+    ],
+    "note": "The concern about soy and hormones comes largely from rodent studies at doses no human diet reaches.",
+    "safeLimit": null,
+    "piece": null
+  },
+  {
+    "id": "milk-chocolate",
+    "name": "Milk Chocolate",
+    "brand": "Packaged confectionery",
+    "categoryId": "sweets",
+    "emoji": "🍫",
+    "processing": "ultra-processed",
+    "keywords": [
+      "chocolate",
+      "milk chocolate",
+      "dairy milk",
+      "candy bar",
+      "cadbury"
+    ],
+    "serving": {
+      "amount": 25,
+      "unit": "g",
+      "label": "1 small bar (25 g)"
+    },
+    "nutrition": {
+      "energyKcal": 535,
+      "fatG": 30,
+      "satFatG": 19,
+      "transFatG": 0,
+      "carbsG": 59,
+      "sugarG": 52,
+      "fibreG": 3.4,
+      "proteinG": 7.6,
+      "sodiumMg": 79
+    },
+    "additives": [
+      "e322",
+      "e471",
+      "palmoil"
+    ],
+    "allergens": [
+      "milk",
+      "soy",
+      "nuts"
+    ],
+    "benefits": [
+      "Some magnesium and iron from the cocoa",
+      "Genuine mood benefit, which is worth something"
+    ],
+    "warnings": [
+      "52 g sugar per 100 g — over half the bar is sugar",
+      "19 g saturated fat per 100 g",
+      "Typically only 20 to 30% actual cocoa"
+    ],
+    "note": "The cocoa is the good part, and milk chocolate has the least of it. Every step up in cocoa percentage improves the picture.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 25,
+      "name": "bar",
+      "plural": "bars"
+    }
+  },
+  {
+    "id": "dark-chocolate",
+    "name": "Dark Chocolate (70% Cocoa)",
+    "brand": "Packaged confectionery",
+    "categoryId": "sweets",
+    "emoji": "🟫",
+    "processing": "processed",
+    "keywords": [
+      "dark chocolate",
+      "70% cocoa",
+      "bitter chocolate",
+      "cocoa"
+    ],
+    "serving": {
+      "amount": 20,
+      "unit": "g",
+      "label": "2 squares (20 g)"
+    },
+    "nutrition": {
+      "energyKcal": 598,
+      "fatG": 43,
+      "satFatG": 24,
+      "transFatG": 0,
+      "carbsG": 46,
+      "sugarG": 24,
+      "fibreG": 11,
+      "proteinG": 7.8,
+      "sodiumMg": 20
+    },
+    "additives": [
+      "e322"
+    ],
+    "allergens": [
+      "soy",
+      "milk",
+      "nuts"
+    ],
+    "benefits": [
+      "Flavanols linked to lower blood pressure and better blood vessel function",
+      "11 g fibre per 100 g",
+      "High magnesium, iron and copper"
+    ],
+    "warnings": [
+      "Still 24 g saturated fat and 24 g sugar per 100 g",
+      "Very calorie dense — 598 kcal per 100 g",
+      "Some dark chocolate carries measurable cadmium and lead from the cocoa"
+    ],
+    "note": "The genuine health story is real but small, and it applies to two squares a day, not half a bar.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 10,
+      "name": "square",
+      "plural": "squares"
+    }
+  },
+  {
+    "id": "ice-cream",
+    "name": "Vanilla Ice Cream",
+    "brand": "Packaged frozen dessert",
+    "categoryId": "sweets",
+    "emoji": "🍨",
+    "processing": "ultra-processed",
+    "keywords": [
+      "ice cream",
+      "icecream",
+      "vanilla",
+      "frozen dessert",
+      "kulfi"
+    ],
+    "serving": {
+      "amount": 65,
+      "unit": "g",
+      "label": "1 scoop (65 g)"
+    },
+    "nutrition": {
+      "energyKcal": 207,
+      "fatG": 11,
+      "satFatG": 6.8,
+      "transFatG": 0.2,
+      "carbsG": 24,
+      "sugarG": 21,
+      "fibreG": 0.7,
+      "proteinG": 3.5,
+      "sodiumMg": 80
+    },
+    "additives": [
+      "e471",
+      "e412",
+      "e415",
+      "e160a",
+      "maltodextrin"
+    ],
+    "allergens": [
+      "milk",
+      "egg",
+      "soy"
+    ],
+    "benefits": [
+      "Some calcium and protein from the dairy base"
+    ],
+    "warnings": [
+      "21 g sugar per 100 g",
+      "Products labelled frozen dessert rather than ice cream use palm oil instead of milk fat",
+      "Emulsifier and stabiliser stack is long even in premium brands"
+    ],
+    "note": "Check whether the tub says ice cream or frozen dessert. The second means the milk fat has been swapped for vegetable oil.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 65,
+      "name": "scoop",
+      "plural": "scoops"
+    }
+  },
+  {
+    "id": "gummy-candy",
+    "name": "Gummy Candy",
+    "brand": "Packaged confectionery",
+    "categoryId": "sweets",
+    "emoji": "🐻",
+    "processing": "ultra-processed",
+    "keywords": [
+      "gummy",
+      "gummies",
+      "jelly",
+      "candy",
+      "sweets",
+      "gems",
+      "toffee"
+    ],
+    "serving": {
+      "amount": 30,
+      "unit": "g",
+      "label": "1 small pack (30 g)"
+    },
+    "nutrition": {
+      "energyKcal": 350,
+      "fatG": 0.2,
+      "satFatG": 0,
+      "transFatG": 0,
+      "carbsG": 83,
+      "sugarG": 60,
+      "fibreG": 0,
+      "proteinG": 5,
+      "sodiumMg": 40
+    },
+    "additives": [
+      "hfcs",
+      "e129",
+      "e102",
+      "e171",
+      "e330"
+    ],
+    "allergens": [],
+    "benefits": [],
+    "warnings": [
+      "60 g sugar per 100 g with zero fibre, vitamins or minerals",
+      "Contains titanium dioxide, banned across the EU since 2022",
+      "Two azo dyes that carry EU hyperactivity warnings",
+      "Sticky texture keeps sugar against the teeth for a long time"
+    ],
+    "note": "Effectively sugar, gelatin and colour. There is nothing else in it.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 30,
+      "name": "pack",
+      "plural": "packs"
+    }
+  },
+  {
+    "id": "indian-sweet",
+    "name": "Gulab Jamun / Jalebi",
+    "brand": "Traditional sweet",
+    "categoryId": "sweets",
+    "emoji": "🍮",
+    "processing": "processed",
+    "keywords": [
+      "gulab jamun",
+      "jalebi",
+      "mithai",
+      "indian sweet",
+      "laddu",
+      "barfi"
+    ],
+    "serving": {
+      "amount": 45,
+      "unit": "g",
+      "label": "1 piece (45 g)"
+    },
+    "nutrition": {
+      "energyKcal": 380,
+      "fatG": 15,
+      "satFatG": 8,
+      "transFatG": 0.3,
+      "carbsG": 55,
+      "sugarG": 45,
+      "fibreG": 0.5,
+      "proteinG": 4,
+      "sodiumMg": 60
+    },
+    "additives": [
+      "e102",
+      "e160a"
+    ],
+    "allergens": [
+      "milk",
+      "wheat",
+      "gluten",
+      "nuts"
+    ],
+    "benefits": [
+      "Some protein and calcium when made from real khoya"
+    ],
+    "warnings": [
+      "Deep fried and then soaked in sugar syrup — 45 g sugar per 100 g",
+      "Commercial versions are often fried in reused oil, raising trans fat",
+      "Synthetic yellow colour is common in shop-bought jalebi"
+    ],
+    "note": "A festival food. The problem is not eating it, it is eating it every week.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 45,
+      "name": "piece",
+      "plural": "pieces"
+    }
+  },
+  {
+    "id": "instant-noodles",
+    "name": "Instant Noodles (Fried)",
+    "brand": "Packaged instant",
+    "categoryId": "instant",
+    "emoji": "🍜",
+    "processing": "ultra-processed",
+    "keywords": [
+      "instant noodles",
+      "maggi",
+      "ramen",
+      "top ramen",
+      "cup noodles",
+      "2 minute noodles"
+    ],
+    "serving": {
+      "amount": 70,
+      "unit": "g",
+      "label": "1 pack (70 g)"
+    },
+    "nutrition": {
+      "energyKcal": 450,
+      "fatG": 18,
+      "satFatG": 8,
+      "transFatG": 0.4,
+      "carbsG": 60,
+      "sugarG": 3,
+      "fibreG": 3,
+      "proteinG": 9,
+      "sodiumMg": 1200
+    },
+    "additives": [
+      "e621",
+      "e631",
+      "e319",
+      "palmoil",
+      "maltodextrin",
+      "e150d"
+    ],
+    "allergens": [
+      "wheat",
+      "gluten",
+      "soy"
+    ],
+    "benefits": [
+      "Cheap and fast",
+      "Usually fortified with a little iron"
+    ],
+    "warnings": [
+      "One pack carries roughly 40% of a day's sodium",
+      "The noodle block is flash-fried in palm oil before drying",
+      "MSG and disodium inosinate together make a very heavy flavour-enhancer load",
+      "TBHQ preservative keeps the fried oil stable on the shelf"
+    ],
+    "note": "Using half the seasoning sachet and adding an egg and vegetables genuinely improves this a lot.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 70,
+      "name": "pack",
+      "plural": "packs"
+    }
+  },
+  {
+    "id": "instant-soup",
+    "name": "Instant Cup Soup",
+    "brand": "Packaged instant",
+    "categoryId": "instant",
+    "emoji": "🥣",
+    "processing": "ultra-processed",
+    "keywords": [
+      "instant soup",
+      "cup soup",
+      "soup packet",
+      "knorr soup"
+    ],
+    "serving": {
+      "amount": 15,
+      "unit": "g",
+      "label": "1 sachet dry (15 g)"
+    },
+    "nutrition": {
+      "energyKcal": 330,
+      "fatG": 8,
+      "satFatG": 4,
+      "transFatG": 0.2,
+      "carbsG": 55,
+      "sugarG": 8,
+      "fibreG": 2,
+      "proteinG": 7,
+      "sodiumMg": 3000
+    },
+    "additives": [
+      "e621",
+      "e631",
+      "maltodextrin",
+      "e150d"
+    ],
+    "allergens": [
+      "wheat",
+      "gluten",
+      "milk",
+      "soy"
+    ],
+    "benefits": [
+      "Warm and filling for very few calories once made up"
+    ],
+    "warnings": [
+      "3000 mg sodium per 100 g of powder, one of the highest figures in any food category",
+      "Maltodextrin and starch make up most of the bulk",
+      "Real vegetable content is minimal"
+    ],
+    "note": "Sodium looks alarming per 100 g because it is a dry powder, but one sachet still delivers roughly 450 mg.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 15,
+      "name": "sachet",
+      "plural": "sachets"
+    }
+  },
+  {
+    "id": "french-fries",
+    "name": "Frozen French Fries (Fried)",
+    "brand": "Packaged frozen",
+    "categoryId": "instant",
+    "emoji": "🍟",
+    "processing": "ultra-processed",
+    "keywords": [
+      "french fries",
+      "fries",
+      "finger chips",
+      "frozen fries",
+      "potato fries"
+    ],
+    "serving": {
+      "amount": 100,
+      "unit": "g",
+      "label": "1 medium portion (100 g)"
+    },
+    "nutrition": {
+      "energyKcal": 312,
+      "fatG": 15,
+      "satFatG": 2.3,
+      "transFatG": 0.1,
+      "carbsG": 41,
+      "sugarG": 0.3,
+      "fibreG": 3.8,
+      "proteinG": 3.4,
+      "sodiumMg": 210
+    },
+    "additives": [
+      "acrylamide",
+      "e223",
+      "palmoil"
+    ],
+    "allergens": [],
+    "benefits": [
+      "Some potassium and fibre survive from the potato"
+    ],
+    "warnings": [
+      "Among the highest acrylamide levels of any common food",
+      "Fried twice — once at the factory, once at home",
+      "Sulphite treatment to stop browning is an asthma trigger"
+    ],
+    "note": "Air frying instead of deep frying cuts both the fat and the acrylamide substantially. Aim for golden, not brown.",
+    "safeLimit": null,
+    "piece": null
+  },
+  {
+    "id": "frozen-nuggets",
+    "name": "Frozen Chicken Nuggets",
+    "brand": "Packaged frozen",
+    "categoryId": "instant",
+    "emoji": "🍗",
+    "processing": "ultra-processed",
+    "keywords": [
+      "nuggets",
+      "chicken nuggets",
+      "frozen chicken",
+      "popcorn chicken"
+    ],
+    "serving": {
+      "amount": 100,
+      "unit": "g",
+      "label": "5 nuggets (100 g)"
+    },
+    "nutrition": {
+      "energyKcal": 296,
+      "fatG": 19,
+      "satFatG": 4,
+      "transFatG": 0.3,
+      "carbsG": 18,
+      "sugarG": 0.6,
+      "fibreG": 1.4,
+      "proteinG": 14,
+      "sodiumMg": 560
+    },
+    "additives": [
+      "e621",
+      "palmoil",
+      "e300",
+      "maltodextrin"
+    ],
+    "allergens": [
+      "wheat",
+      "gluten",
+      "egg",
+      "milk"
+    ],
+    "benefits": [
+      "Reasonable protein content"
+    ],
+    "warnings": [
+      "Often made from mechanically separated meat rather than whole cuts",
+      "Batter and frying oil account for most of the calories",
+      "560 mg sodium per 100 g"
+    ],
+    "note": "The protein figure looks respectable, but roughly half the product by weight is batter, oil and water.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 20,
+      "name": "nugget",
+      "plural": "nuggets"
+    }
+  },
+  {
+    "id": "ketchup",
+    "name": "Tomato Ketchup",
+    "brand": "Packaged sauce",
+    "categoryId": "condiments",
+    "emoji": "🍅",
+    "processing": "processed",
+    "keywords": [
+      "ketchup",
+      "tomato sauce",
+      "tomato ketchup",
+      "sauce"
+    ],
+    "serving": {
+      "amount": 17,
+      "unit": "g",
+      "label": "1 tablespoon (17 g)"
+    },
+    "nutrition": {
+      "energyKcal": 102,
+      "fatG": 0.1,
+      "satFatG": 0,
+      "transFatG": 0,
+      "carbsG": 25,
+      "sugarG": 21,
+      "fibreG": 0.3,
+      "proteinG": 1.2,
+      "sodiumMg": 900
+    },
+    "additives": [
+      "hfcs",
+      "e211",
+      "e330"
+    ],
+    "allergens": [],
+    "benefits": [
+      "Cooked tomato means the lycopene is well absorbed"
+    ],
+    "warnings": [
+      "21 g sugar per 100 g — roughly a quarter of the bottle is sugar",
+      "900 mg sodium per 100 g",
+      "Sodium benzoate preservative in most brands"
+    ],
+    "note": "A tablespoon carries about 4 g of sugar. Nobody stops at a tablespoon, which is where the problem starts.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 17,
+      "name": "tablespoon",
+      "plural": "tablespoons"
+    }
+  },
+  {
+    "id": "mayonnaise",
+    "name": "Mayonnaise",
+    "brand": "Packaged sauce",
+    "categoryId": "condiments",
+    "emoji": "🥄",
+    "processing": "ultra-processed",
+    "keywords": [
+      "mayonnaise",
+      "mayo",
+      "eggless mayo",
+      "sandwich spread"
+    ],
+    "serving": {
+      "amount": 15,
+      "unit": "g",
+      "label": "1 tablespoon (15 g)"
+    },
+    "nutrition": {
+      "energyKcal": 680,
+      "fatG": 75,
+      "satFatG": 11,
+      "transFatG": 0.2,
+      "carbsG": 1.3,
+      "sugarG": 1,
+      "fibreG": 0,
+      "proteinG": 1,
+      "sodiumMg": 490
+    },
+    "additives": [
+      "e330",
+      "e202",
+      "e415"
+    ],
+    "allergens": [
+      "egg",
+      "soy",
+      "mustard"
+    ],
+    "benefits": [
+      "Vitamin E from the vegetable oil base"
+    ],
+    "warnings": [
+      "75 g fat per 100 g — the most calorie dense item on this list",
+      "Raw egg versions carry a salmonella risk if unrefrigerated",
+      "Very easy to add 200 calories to a sandwich without noticing"
+    ],
+    "note": "Almost pure oil held in suspension. Treat a tablespoon as a serving, because that alone is 100 calories.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 15,
+      "name": "tablespoon",
+      "plural": "tablespoons"
+    }
+  },
+  {
+    "id": "soy-sauce",
+    "name": "Soy Sauce",
+    "brand": "Packaged sauce",
+    "categoryId": "condiments",
+    "emoji": "🍶",
+    "processing": "processed",
+    "keywords": [
+      "soy sauce",
+      "soya sauce",
+      "shoyu",
+      "dark soy"
+    ],
+    "serving": {
+      "amount": 6,
+      "unit": "ml",
+      "label": "1 teaspoon (6 ml)"
+    },
+    "nutrition": {
+      "energyKcal": 53,
+      "fatG": 0.1,
+      "satFatG": 0,
+      "transFatG": 0,
+      "carbsG": 4.9,
+      "sugarG": 1.7,
+      "fibreG": 0.8,
+      "proteinG": 8,
+      "sodiumMg": 5490
+    },
+    "additives": [
+      "e211",
+      "e150d"
+    ],
+    "allergens": [
+      "soy",
+      "wheat",
+      "gluten"
+    ],
+    "benefits": [
+      "Naturally brewed versions contain some beneficial fermentation compounds"
+    ],
+    "warnings": [
+      "5490 mg sodium per 100 ml — by far the saltiest thing in this database",
+      "Chemically hydrolysed versions can contain 3-MCPD, a possible carcinogen",
+      "Contains wheat, so it is not gluten free despite the name"
+    ],
+    "note": "Used a teaspoon at a time it is fine. The sodium figure only becomes dangerous when you pour it.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 6,
+      "name": "teaspoon",
+      "plural": "teaspoons"
+    }
+  },
+  {
+    "id": "peanut-butter",
+    "name": "Peanut Butter (Natural)",
+    "brand": "Packaged spread",
+    "categoryId": "condiments",
+    "emoji": "🥜",
+    "processing": "processed",
+    "keywords": [
+      "peanut butter",
+      "pb",
+      "nut butter",
+      "spread"
+    ],
+    "serving": {
+      "amount": 32,
+      "unit": "g",
+      "label": "2 tablespoons (32 g)"
+    },
+    "nutrition": {
+      "energyKcal": 588,
+      "fatG": 50,
+      "satFatG": 10,
+      "transFatG": 0,
+      "carbsG": 20,
+      "sugarG": 9,
+      "fibreG": 6,
+      "proteinG": 25,
+      "sodiumMg": 17
+    },
+    "additives": [],
+    "allergens": [
+      "peanuts"
+    ],
+    "benefits": [
+      "25 g protein per 100 g",
+      "Mostly monounsaturated fat",
+      "Good fibre, magnesium and vitamin E"
+    ],
+    "warnings": [
+      "Severe allergen",
+      "Very calorie dense — easy to eat 400 calories from a jar",
+      "Cheaper brands add palm oil and sugar, which changes it completely"
+    ],
+    "note": "Buy the kind whose ingredient list reads peanuts, and maybe salt. The oil separating on top is a good sign, not a bad one.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 16,
+      "name": "tablespoon",
+      "plural": "tablespoons"
+    }
+  },
+  {
+    "id": "chocolate-spread",
+    "name": "Chocolate Hazelnut Spread",
+    "brand": "Packaged spread",
+    "categoryId": "condiments",
+    "emoji": "🍫",
+    "processing": "ultra-processed",
+    "keywords": [
+      "nutella",
+      "chocolate spread",
+      "hazelnut spread",
+      "choco spread"
+    ],
+    "serving": {
+      "amount": 20,
+      "unit": "g",
+      "label": "1 tablespoon (20 g)"
+    },
+    "nutrition": {
+      "energyKcal": 539,
+      "fatG": 31,
+      "satFatG": 11,
+      "transFatG": 0,
+      "carbsG": 57,
+      "sugarG": 56,
+      "fibreG": 3.4,
+      "proteinG": 6,
+      "sodiumMg": 41
+    },
+    "additives": [
+      "palmoil",
+      "e322"
+    ],
+    "allergens": [
+      "nuts",
+      "milk",
+      "soy"
+    ],
+    "benefits": [
+      "Some hazelnut content contributes vitamin E"
+    ],
+    "warnings": [
+      "56 g sugar per 100 g — sugar is the first ingredient, ahead of hazelnuts",
+      "Palm oil is the second ingredient",
+      "Marketed for breakfast despite being closer to icing than to a spread"
+    ],
+    "note": "By weight it is over half sugar and roughly a fifth palm oil. Hazelnuts are about 13%.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 20,
+      "name": "tablespoon",
+      "plural": "tablespoons"
+    }
+  },
+  {
+    "id": "mango-pickle",
+    "name": "Mango Pickle (Oil Based)",
+    "brand": "Packaged pickle",
+    "categoryId": "condiments",
+    "emoji": "🥭",
+    "processing": "processed",
+    "keywords": [
+      "pickle",
+      "achar",
+      "mango pickle",
+      "aam ka achar"
+    ],
+    "serving": {
+      "amount": 10,
+      "unit": "g",
+      "label": "1 teaspoon (10 g)"
+    },
+    "nutrition": {
+      "energyKcal": 180,
+      "fatG": 15,
+      "satFatG": 2,
+      "transFatG": 0,
+      "carbsG": 10,
+      "sugarG": 3,
+      "fibreG": 2,
+      "proteinG": 1,
+      "sodiumMg": 3500
+    },
+    "additives": [
+      "e223",
+      "e211"
+    ],
+    "allergens": [
+      "mustard",
+      "sulphites"
+    ],
+    "benefits": [
+      "Traditionally fermented pickles carry some probiotic bacteria",
+      "Spices contribute antioxidants"
+    ],
+    "warnings": [
+      "3500 mg sodium per 100 g — salt is the preservation method",
+      "High oil content on top of the salt",
+      "Sulphite preservative in commercial jars is an asthma trigger"
+    ],
+    "note": "A teaspoon alongside a meal is the traditional portion, and at that amount it is fine. It was never meant to be eaten by the spoonful.",
+    "safeLimit": null,
+    "piece": {
+      "amount": 10,
+      "name": "teaspoon",
+      "plural": "teaspoons"
+    }
+  }
+]

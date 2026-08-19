@@ -1,0 +1,79 @@
+[
+  {
+    "id": "fruits",
+    "name": "Fruits",
+    "emoji": "🍎",
+    "blurb": "Fresh and dried fruit",
+    "color": "#F0655D"
+  },
+  {
+    "id": "vegetables",
+    "name": "Vegetables",
+    "emoji": "🥦",
+    "blurb": "Greens, roots and salad",
+    "color": "#3FA34D"
+  },
+  {
+    "id": "snacks",
+    "name": "Chips & Snacks",
+    "emoji": "🍟",
+    "blurb": "Crisps, namkeen and nuts",
+    "color": "#E08A1E"
+  },
+  {
+    "id": "beverages",
+    "name": "Drinks",
+    "emoji": "🥤",
+    "blurb": "Soft drinks, juice and tea",
+    "color": "#2E86C1"
+  },
+  {
+    "id": "dairy",
+    "name": "Dairy",
+    "emoji": "🥛",
+    "blurb": "Milk, curd, cheese and butter",
+    "color": "#7C6AE0"
+  },
+  {
+    "id": "bakery",
+    "name": "Grains & Bakery",
+    "emoji": "🍞",
+    "blurb": "Bread, biscuits and cereal",
+    "color": "#B5762A"
+  },
+  {
+    "id": "protein",
+    "name": "Protein Foods",
+    "emoji": "🍗",
+    "blurb": "Eggs, meat, dal and tofu",
+    "color": "#C1476B"
+  },
+  {
+    "id": "sweets",
+    "name": "Sweets & Desserts",
+    "emoji": "🍫",
+    "blurb": "Chocolate, candy and ice cream",
+    "color": "#8E5B3C"
+  },
+  {
+    "id": "instant",
+    "name": "Instant & Frozen",
+    "emoji": "🍜",
+    "blurb": "Noodles, soups and ready meals",
+    "color": "#D4562F"
+  },
+  {
+    "id": "condiments",
+    "name": "Sauces & Spreads",
+    "emoji": "🧂",
+    "blurb": "Ketchup, mayo, pickle and jam",
+    "color": "#5E8C6A"
+  },
+  {
+    "id": "packaged",
+    "name": "Other Packaged",
+    "emoji": "📦",
+    "blurb": "Anything that fits nowhere else",
+    "color": "#6B7A8F"
+  }
+]

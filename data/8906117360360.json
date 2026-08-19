@@ -1,0 +1,28 @@
+{
+  "barcode": "8906117360360",
+  "name": "Country Delight Cow Milk",
+  "brand": "Country Delight",
+  "quantity": "450ml",
+  "categories": [
+    "en:dairies",
+    "en:milks-liquid-and-powder",
+    "en:milks"
+  ],
+  "ingredients": "Pasteurized Cow Milk",
+  "per_100g": {
+    "energy_kcal": 61,
+    "fat": 3.5,
+    "saturated_fat": 2.2,
+    "carbohydrates": 4.5,
+    "sugars": 4.5,
+    "fiber": null,
+    "protein": 2.9,
+    "salt": 0.1125,
+    "sodium": 0.045
+  },
+  "nutriscore_grade": "c",
+  "nova_group": 1,
+  "source": "openfoodfacts",
+  "last_modified": "2025-06-24T05:08:50Z",
+  "fetched_at": "2026-08-19T12:53:31Z"
+}
